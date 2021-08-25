@@ -1,0 +1,38 @@
+{
+  "name": "mad9034",
+  "description": "UX Design Fall 2021",
+  "version": "2.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Steve Griffith",
+      "email": "griffis@algonquincollege.com"
+    },
+    {
+      "name": "Su Cheng Lee",
+      "email": "lees1@algonquincollege.com"
+    },
+    {
+      "name": "Lauren Wong",
+      "email": "griffis@algonquincollege.com"
+    }
+  ],
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.8.2",
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
+    "@vuepress/plugin-register-components": "^1.8.2",
+    "@vuepress/plugin-search": "^1.8.2",
+    "date-fns": "^2.16.1",
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "/bin/bash deploy.sh"
+  },
+  "dependencies": {
+    "workbox-cli": "^5.1.3"
+  }
+}
