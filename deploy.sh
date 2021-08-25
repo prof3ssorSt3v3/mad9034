@@ -20,6 +20,7 @@ cd docs/.vuepress/dist
 
 git init
 #git branch -m main
+git checkout f2021
 git add -A
 git commit -m 'deploy'
 # REPLACE NEXT LINE with public link for coursebook repo
