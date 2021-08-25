@@ -19,12 +19,11 @@ git push -f git@github.com:prof3ssorSt3v3/mad9034.git f2021
 cd docs/.vuepress/dist
 
 git init
-#git branch -m main
-git checkout f2021
 git add -A
 git commit -m 'deploy'
+git branch -M main
 # REPLACE NEXT LINE with public link for coursebook repo
-git push -f git@github.com:MAD9034/F2021.git f2021
+git push -f git@github.com:MAD9034/F2021.git main
 
 # if you are deploying to https://<ORG>.github.io/<REPO>
 # git push -f git@github.com:<ORG>/<REPO>.git main
