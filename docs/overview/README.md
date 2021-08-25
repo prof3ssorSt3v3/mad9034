@@ -23,13 +23,8 @@ Zoom Classroom
 
 **Section 010:** two days :clock7:
 
-- Tuesday 7pm - 9pm
-- Thursday 1pm - 3pm
-
-**Section 020:** two days :clock3:
-
-- Tuesday 3pm - 5pm
-- Thursday 3pm - 5pm
+- Tuesday 5pm - 7pm
+- Thursday 5pm - 7pm
 
 ## User Experience Design Process
 
@@ -67,15 +62,15 @@ This course complies with the college directives. Please complete this [**Plagia
 ## Contacts
 
 <ContactCard 
-  name="SuCheng Lee"
-  title="Professor"
-  img-url="/F2020/slee_h.png"
-  bio="Professor of the Mobile Application Design & Development Program at Algonquin College."
+  name="Lauren Wong"
+  title="Instructor"
+  img-url="/F2021/lauren.jpeg"
+  bio="Instructor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
-      { label: 'email', value: 'lees1@algonquincollege.com' }, 
-      { label: 'github', value: 'lees1' },  
+      { label: 'email', value: 'wongl@algonquincollege.com' }, 
+      { label: 'github', value: 'wongelle' },  
       { label: 'office', value: 'Zoom - by appointment' },
-      { label: 'twitter', value: '@UXResearchLab' },
+      { label: 'twitter', value: '@x' },
     ]"
 />
 
