@@ -23,7 +23,7 @@ git init
 git add -A
 git commit -m 'deploy'
 # REPLACE NEXT LINE with public link for coursebook repo
-git push -f git@github.com:MAD9034/F2021.git main
+git push -f git@github.com:MAD9034/F2021.git f2021
 
 # if you are deploying to https://<ORG>.github.io/<REPO>
 # git push -f git@github.com:<ORG>/<REPO>.git main
