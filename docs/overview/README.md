@@ -8,8 +8,8 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 ## Course Description
 
-- [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=109)
-- [Course Section Information (CSI) on Brightspace LMS](https://brightspace.algonquincollege.com/)
+- [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=109) LINK NEEDED
+- [Course Section Information (CSI) on Brightspace LMS](https://brightspace.algonquincollege.com/) LINK NEEDED
 
 ## Student Workload Expectations
 

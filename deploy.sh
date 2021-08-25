@@ -4,7 +4,7 @@
 set -e
 
 # build
-#npm run docs:build
+npm run docs:build
 
 # Upload the whole site to the private personal repo
 git pull origin f2021
