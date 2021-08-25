@@ -4,11 +4,11 @@
 set -e
 
 # build
-npm run docs:build
+#npm run docs:build
 
 # Upload the whole site to the private personal repo
-#git pull origin f2021
-git branch -m f2021
+git pull origin f2021
+#git branch -m f2021
 git add -A
 git commit -m 'course update'
 # REPLACE NEXT LINE with your own private repo link
