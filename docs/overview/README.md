@@ -1,4 +1,4 @@
-# MAD9034 - User Experience Design 
+# MAD9034 - User Experience Design
 
 ::: tip Welcome to UXD
 
@@ -8,9 +8,8 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 ## Course Description
 
-- [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=107)
-- [Course Section Information (CSI) on Brightspace LMS](https://brightspace.algonquincollege.com/d2l/le/content/282599/Home)
-
+- [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=109)
+- [Course Section Information (CSI) on Brightspace LMS](https://brightspace.algonquincollege.com/)
 
 ## Student Workload Expectations
 
@@ -32,11 +31,9 @@ Zoom Classroom
 - Tuesday 3pm - 5pm
 - Thursday 3pm - 5pm
 
-
 ## User Experience Design Process
 
 <img src="../assets/UXD.png" alt="UX Design Process">
-
 
 ## Core Topics
 
@@ -49,24 +46,23 @@ Zoom Classroom
 - User testing
 
 ## Course Policy
-Students focus on how interfaces need to react to user expectations. Students apply best practices for navigation, interaction, use of colour and typography, designing for gesture-based interfaces, as well as a thorough study of effective user feedback. Designing effective interfaces that allow improved work flow is applied. 
 
+Students focus on how interfaces need to react to user expectations. Students apply best practices for navigation, interaction, use of colour and typography, designing for gesture-based interfaces, as well as a thorough study of effective user feedback. Designing effective interfaces that allow improved work flow is applied.
 
-### Late Assignment Policy 
+### Late Assignment Policy
+
 10% deduction per day for the first 3 days (including weekend).
 After 10 days (including weekend) of no submission, the student will receive a 0.
 
 Students may still submit their assignments after the ten days but it will only be for the purpose of receiving feedback on their work. No grade will be given.
- 
 
 ### Performance Requirement
-In-class work progress review is part of the performance assessment. A student must pass the combined term work (marked exercises and assignments) and score higher than 50% in all graded assignments, presentations, and projects to pass this course.
 
+In-class work progress review is part of the performance assessment. A student must pass the combined term work (marked exercises and assignments) and score higher than 50% in all graded assignments, presentations, and projects to pass this course.
 
 ### Copyright
 
 This course complies with the college directives. Please complete this [**Plagiarism Declaration**](https://brightspace.algonquincollege.com/d2l/le/content/282599/viewContent/4288653/View)
-
 
 ## Contacts
 
