@@ -8,8 +8,7 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 ## Course Description
 
-- [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=109) LINK NEEDED
-- [Course Section Information (CSI) on Brightspace LMS](https://brightspace.algonquincollege.com/) LINK NEEDED
+- [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=113)
 
 ## Student Workload Expectations
 
@@ -53,7 +52,11 @@ Students may still submit their assignments after the ten days but it will only 
 
 ### Performance Requirement
 
+::: danger
+
 In-class work progress review is part of the performance assessment. A student must pass the combined term work (marked exercises and assignments) and score higher than 50% in all graded assignments, presentations, and projects to pass this course.
+
+:::
 
 ### Copyright
 
@@ -75,23 +78,12 @@ This course complies with the college directives. Please complete this [**Plagia
 />
 
 <ContactCard 
-  name="Deborah Buck"
+  name="Admed Elbadri"
   title="Student Success Specialist"
   bio=""
   :details="[
-      { label: 'email', value: 'buckd@algonquincollege.com' }, 
-      { label: 'phone', value: '(613) 727-4723 x5503‬' }, 
-      { label: 'office', value: 'N219' }
-    ]"
-/>
-
-<ContactCard 
-  name="Jody White"
-  title="Student Success Specialist"
-  bio=""
-  :details="[
-      { label: 'email', value: 'whitej@algonquincollege.com' }, 
+      { label: 'email', value: 'elbadra@algonquincollege.com' }, 
       { label: 'phone', value: '(613) 727-4723 x‬2188' }, 
-      { label: 'office', value: 'T111a' }
+      { label: 'office', value: 'C037' }
     ]"
 />
