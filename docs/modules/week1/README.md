@@ -17,7 +17,7 @@ By the end of this week, students will:
 
 ## Welcome
 
-> In this course, you will learn and apply user experience design process to design mobile application that has what the users like/want and, _LOVE!_
+In this course, you will learn and apply user experience design process to design mobile application that has what the users like/want and, _LOVE!_
 
 Our class will meet twice a week and two hours each time. Check the [**Overview**](../../overview/) page for time and classroom information. Each week, there will be links to articles and videos from the Learning Modules. You will read selected chapters of books available on Safari Books Online, and watch videos on LinkedIn Learning or YouTube. Course slides will become available during or after class. 
 
