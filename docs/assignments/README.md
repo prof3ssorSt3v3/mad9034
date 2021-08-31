@@ -13,14 +13,14 @@ Worth <Badge type="error" text="20%"/> of Final Grade
 
 ### 1. Warm up project: Synthesized research results (Week 2-2) 
 
-<Badge text="Due Thur. Sep 20 by 11:59pm"/>
+<Badge text="Due Sun. Sep 19 by 11:59pm"/>
 
 [Warm-up 1 details (5%)](./warmup1.md)
 
 
 ### 2. Warm up project: Share your observations (Week 4-2)
 
-<Badge text="Due Thur. Oct 01 by 11:59pm"/>
+<Badge text="Due Thur. Sep 30 by 11:59pm"/>
 
 [Warm-up 2 details (5%)](./warmup2.md)
 
