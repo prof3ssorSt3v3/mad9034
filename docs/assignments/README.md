@@ -27,14 +27,14 @@ Worth <Badge type="error" text="20%"/> of Final Grade
 
 ### 3. Persona Research
 
-<Badge text="Due Sun. Oct 11 by 11:59pm"/>
+<Badge text="Due Sun. Oct 10 by 11:59pm"/>
 
 [Assignment 3 details (5%)](./assg3.md)
 
 
 ### 4. UX Project plan
 
-<Badge text="Due Tue. Oct 13 by 11:59pm"/>
+<Badge text="Due Tue. Oct 12 by 11:59pm"/>
 
 [Assignment 4 details (5%)](./assg4.md)
 
@@ -46,14 +46,14 @@ Worth <Badge type="error" text="30%"/> of Final Grade
 
 ### 5. Personas Creation
 
-<Badge text="Due Tue. Oct 20 by 11:59pm"/>
+<Badge text="Due Tue. Oct 19 by 11:59pm"/>
 
 [Assignment 5 details (5%)](./assg5.md)
 
 
 ### 6. Scenarios and Information Architecture
 
-<Badge text="Due Sun. Nov 01 by 11:59pm"/>
+<Badge text="Due Sun. Oct 31 by 11:59pm"/>
 
 [Assignment 6 details (5%)](./assg6.md)
 
