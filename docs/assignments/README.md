@@ -60,21 +60,21 @@ Worth <Badge type="error" text="30%"/> of Final Grade
 
 ### 7. Test-ready lo-fi prototype
 
-<Badge text="Due Tue. Nov 12 by 11:59pm"/>
+<Badge text="Due Thur. Nov 11 by 11:59pm"/>
 
 [Assignment 7 details (5%)](./assg7.md)
 
 
 ### 8. Visual design
 
-<Badge text="Due Thur. Nov 26 by 11:59pm"/>
+<Badge text="Due Thur. Nov 25 by 11:59pm"/>
 
 [Assignment 8 details (10%)](./assg8.md)
 
 
 ### 9. Testing documentation
 
-<Badge text="Due Thur. Dec 03 by 11:59pm"/>
+<Badge text="Due Thur. Dec 02 by 11:59pm"/>
 
 [Assignment 9 details (5%)](./assg9.md)
 
@@ -86,20 +86,20 @@ Worth <Badge type="error" text="50%"/> of Final Grade
 
 ### Midterm: 3 key wireframes (digital) 
 
-<Badge text="Due Thur. Nov 19 by 11:59pm"/>
+<Badge text="Due Thur. Nov 18 by 11:59pm"/>
 
 [Midterm details (10%)](./midterm.md)
 
 
 ### Final Presentation 
 
-<Badge text="Due Tue. Dec 15/17 by the end of class"/>
+<Badge text="Due Tue. Dec 14/16 by the end of class"/>
 
 [Presentation details (10%)](./presentation.md)
 
 
 ### Final Project 
 
-<Badge text="Due Tue. Dec 15 by 11:59pm"/>
+<Badge text="Due Tue. Dec 14 by 11:59pm"/>
 
 [Final project details (30%)](./proj.md)
