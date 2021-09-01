@@ -13,7 +13,7 @@ Based on the project chosen, you are to build a UX project plan to help you thin
 ## Submission
 
 ::: warning
-**Due Tuesday October 13 by 11:59pm**
+**Due Tuesday October 12 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.

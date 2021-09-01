@@ -24,7 +24,7 @@ Prepare to share your observations in class. One or more team members will do a 
 ## Submission
 
 ::: warning
-**Due Thursday October 01 in-class**
+**Due Thursday September 30 in-class**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.

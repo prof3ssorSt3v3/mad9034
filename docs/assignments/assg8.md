@@ -21,7 +21,7 @@ Adobe XD UI kits on the website [(Resources > UI Kits)](https://www.adobe.com/ca
 ## Submission:
 
 ::: warning 
-**Due Thursday November 26 by 11:59pm**
+**Due Thursday November 25 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.

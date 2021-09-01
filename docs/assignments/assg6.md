@@ -36,7 +36,7 @@ At this stage of the UX (user-centered) design process, you have gathered user r
 ## Submission
 
 ::: warning
-**Due Sunday November 01 by 11:59pm**
+**Due Sunday October 31 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.

@@ -20,7 +20,7 @@
 ## Submission
 
 ::: warning
-**Due Sunday October 11 by 11:59pm**
+**Due Sunday October 10 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
