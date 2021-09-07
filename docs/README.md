@@ -18,7 +18,7 @@ footer: Authored by SuCheng Lee and Lauren Wong ~ Copyright © 2021, Algonquin C
   img-url="/F2021/lauren.jpeg"
   bio="Instructor from the Mobile Application Design & Development program at Algonquin College"
   :details="[
-      { label: 'email', value: 'wongl@algonquincollge.com' }, 
+      { label: 'email', value: 'wongl2@algonquincollge.com' }, 
       { label: 'twitter', value: '@x' }, 
       { label: 'github', value: 'wongelle' }, 
       { label: 'office', value: 'Zoom - by appointment' }
