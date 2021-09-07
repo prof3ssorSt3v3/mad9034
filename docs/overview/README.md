@@ -70,7 +70,7 @@ This course complies with the college directives. Please complete this [**Plagia
   img-url="/F2021/lauren.jpeg"
   bio="Instructor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
-      { label: 'email', value: 'wongl@algonquincollege.com' }, 
+      { label: 'email', value: 'wongl2@algonquincollege.com' }, 
       { label: 'github', value: 'wongelle' },  
       { label: 'office', value: 'Zoom - by appointment' },
       { label: 'twitter', value: '@x' },
