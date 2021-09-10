@@ -50,6 +50,9 @@ By the end of this week, students will:
 - [Week 2-2 Lecture: Analysis](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
 - [Week 2-2b In-class: Synthesizing research results](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
 
+### Resources
+
+- [User Research Basics Guide](https://drive.google.com/file/d/1yHLHBRK689wF49iE5Q4PNu33gMfHrbJC/view?usp=sharing)
 
 ## TODO
 
