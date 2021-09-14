@@ -53,7 +53,7 @@ By the end of this week, students will:
 ### Resources
 
 - [User Research Basics Guide](https://drive.google.com/file/d/1yHLHBRK689wF49iE5Q4PNu33gMfHrbJC/view?usp=sharing)
-- [How to create a user interview script] (https://drive.google.com/file/d/1h-idGXxdnd4OKADDpccpdNdLBLalME0o/view?usp=sharing)
+- [How to create a user interview script](https://drive.google.com/file/d/1h-idGXxdnd4OKADDpccpdNdLBLalME0o/view?usp=sharing)
 
 ## TODO
 
