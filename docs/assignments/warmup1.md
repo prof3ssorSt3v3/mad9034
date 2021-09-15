@@ -34,7 +34,7 @@ We want to help with _____ (describe specifically what your product will solve) 
 ## Submission
 
 ::: warning
-**Due Sunday September 19 by 11:59pm**
+**Due Sunday September 21 by 5:00pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
