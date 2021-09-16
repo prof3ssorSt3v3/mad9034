@@ -49,13 +49,13 @@ By the end of this week, students will:
 
 - [Week 2-2 Lecture: Analysis](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
 - [Week 2-2b In-class: Synthesizing research results](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Mural sign up](https://start.mural.co/free-forever?utm_medium=paid-search&utm_source=adwords&utm_campaign=201101-Core_Brand&utm_adgroup=MURAL_-_Branded&utm_campaign_id=11265145092&utm_content=mural%20sign%20up&utm_adgroupid=109231331743&gclid=Cj0KCQjws4aKBhDPARIsAIWH0JXVxyfldvsY8uTiF-_X3-PW_OgzBCPlGbFqifn0O9HyHpdK-4zPpU4aAvWhEALw_wcB)
 - [Week 2-2b In-Class: Synthesizing research results (including examples)](https://drive.google.com/file/d/1uB9wB0e-kuSieYBcGacC7Y7QqSJ4IQ9n/view?usp=sharing)
 
 ### Resources
 
 - [User Research Basics Guide](https://drive.google.com/file/d/1yHLHBRK689wF49iE5Q4PNu33gMfHrbJC/view?usp=sharing)
 - [How to create a user interview script](https://drive.google.com/file/d/1h-idGXxdnd4OKADDpccpdNdLBLalME0o/view?usp=sharing)
+- [Mural sign up](https://start.mural.co/free-forever?utm_medium=paid-search&utm_source=adwords&utm_campaign=201101-Core_Brand&utm_adgroup=MURAL_-_Branded&utm_campaign_id=11265145092&utm_content=mural%20sign%20up&utm_adgroupid=109231331743&gclid=Cj0KCQjws4aKBhDPARIsAIWH0JXVxyfldvsY8uTiF-_X3-PW_OgzBCPlGbFqifn0O9HyHpdK-4zPpU4aAvWhEALw_wcB)
 
 ## TODO
 
