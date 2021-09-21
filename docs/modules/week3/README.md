@@ -46,7 +46,7 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 
 - [Week 3-1 Lecture: Ideation overview](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
 - [Week 3-1b In-class: Brainstorming](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Apple Watch - Human Interface Guidelines & User Expeerience](https://drive.google.com/file/d/1h8T4Vd7_1JalElUmhtcd2S77A_v8ycws/view?usp=sharing)
+- [Apple Watch - Human Interface Guidelines & User Experience](https://drive.google.com/file/d/1h8T4Vd7_1JalElUmhtcd2S77A_v8ycws/view?usp=sharing)
 
 
 ## Week 3 - Required preparation for class 2
