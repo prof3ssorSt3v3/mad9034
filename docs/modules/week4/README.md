@@ -54,7 +54,7 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 4-2 In-class: Presentations and Major Project Intro](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 4-2 In-class: Presentations and Major Project Intro](https://drive.google.com/file/d/11pi3ZBo_V0xzeOdyq3J7LHSM2Ib0USqm/view?usp=sharing)
 
 
 ## TODO
