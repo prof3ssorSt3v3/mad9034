@@ -3,7 +3,7 @@
 ## Details
 
 - Based on the project chosen, you are to conduct 3 user interviews [(Major Project Brief)](./project-brief.md)
-- Work in groups of 3s to document your persona research data from 9 users in provided [spreadsheet template document format](http://tiny.cc/2lsddz) 
+- Work in groups of 3s to document your persona research data from 9 users in shared file accessible to all group members
 - Submit your group work for marking by the end of Week 05
 - Include the project topic and group memember names in the submission comment
 - File name: _personaResearch-memberNames.xlsx_ (or PDF)
