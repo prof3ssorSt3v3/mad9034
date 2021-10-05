@@ -39,7 +39,7 @@ USER FEEDBACK
 ### Lesson Slides
 
 - [Week 5-1a Lecture & In-class: Product Research](https://drive.google.com/file/d/1sS44YY2JWZn-Hqc_mShKi00eS7BR_6Mz/view?usp=sharing)
-- [Week 5-1b Lecture: User research deep dive, personas intro](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 5-1b Lecture: User research deep dive, personas intro](https://drive.google.com/file/d/1wIaXrEQy_Wy4b-xbc3chbspVz71lgAyo/view?usp=sharing)
 
 
 ## Week 5 - Required preparation for class 2
