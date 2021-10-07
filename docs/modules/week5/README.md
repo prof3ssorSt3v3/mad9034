@@ -51,7 +51,7 @@ USER FEEDBACK
 
 ### Lesson Slides
 
-- [Week 5-2 Lecture & In-class: UX Project Plan](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 5-2 Lecture & In-class: UX Project Plan](https://drive.google.com/file/d/1l-bjsKtt-vJ5U2anOD0l3a5_UqguQ0qs/view?usp=sharing)
 
 
 ## TODO
