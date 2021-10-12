@@ -4,7 +4,7 @@
 
 Based on the project chosen, you are to build a UX project plan to help you think about how UX work will integrate with the broader project timeline. Your UX project plan will be the blueprint for how you will conduct UX activities for the remaining term. 
 
-- [UX project plan template](http://tiny.cc/l9sddz)
+- [UX project plan template](https://goo.gl/BCRGg8)
 - Draft review in Week 05 Class 2
 - Include name of the document, date, and author on the cover page.
 - Submit as a PDF file: _firstnameLastname-UXprojectplan.pdf_
