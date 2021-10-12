@@ -33,7 +33,7 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 6-1 Lecture: Creating Personas](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 6-1 Lecture: Creating Personas](https://drive.google.com/file/d/1rwaMv7ZYmibkKbkYfU0ft6laPOJ6hEJq/view?usp=sharing)
 
 
 ## Week 6 - Required preparation for class 2
