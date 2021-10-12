@@ -13,7 +13,7 @@ Use your own back story and persona research document to determine the character
 
 You work for an up and coming start-up that is focused on creating the best ______ app on the market with a focus for ______ users. Your class has conducted user interviews (and/or field studies/surveys) at ______. The user (persona) research document contains data from users discussing their current ________ solution. 
 
-- **Persona research document:** Use your own ([an example, available in Week06: persona_research.xlsx](https://docs.google.com/spreadsheets/d/1ZeqAnr0XSg8ygNwaQwhjaBqQzwqbZBPP3Yc8V9Q7Lwk/edit?usp=sharing))
+- **Persona research document:** Use your own ([an example: persona_research.xlsx](https://mad9034.github.io/F2021/files/music-app-persona_research_example.pdf))
 - Persona examples can be seen in module 5-1 Personas, in [MAD9034 5-1b Lecture](https://drive.google.com/file/d/1wIaXrEQy_Wy4b-xbc3chbspVz71lgAyo/view?usp=sharing)  
 - Submit 2 personas as *ONE PDF* file
 - Filename: _FirstNameLastName-Personas.pdf_
