@@ -50,7 +50,7 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 6-2b In-class: Persona working session](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 6-2b In-class: Persona working session](https://drive.google.com/file/d/17LcDDSg4IPqBvC0bpkiOs2cp6-H9Z8-B/view?usp=sharing)
 
 
 ## TODO
