@@ -33,8 +33,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 7-1 Lecture: Usage scenarios](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 7-1b In-class: Usage scenarios](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 7-1 Lecture: Usage scenarios](https://drive.google.com/file/d/1xlWadnf8lFqgODybXoH6iUzK-DWB9Wdd/view?usp=sharing)
+- [Week 7-1b In-class: Usage scenarios](https://drive.google.com/file/d/1CSWmN_erXjromXOreWqAiUN2Ngq8rwGv/view?usp=sharing)
 
 
 ## Week 7 - Required preparation for class 2
