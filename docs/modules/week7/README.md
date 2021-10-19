@@ -63,7 +63,7 @@ By the end of this week, students will:
 
 ## References: Examples & IA Tools
 
-- [Christmas shopping app personas and scenarios](https://drive.google.com/file/d/0B7eD7HfoYAG7UUFuaW96VUx4OWc/view?usp=sharing)
+- [Christmas shopping app personas and scenarios](https://drive.google.com/file/d/1k5qqkMd2G6f65lTeSQmS53RPxAF-4Fmr/view?usp=sharing)
 - [https://app.moqups.com](https://app.moqups.com)
 - [https://mind42.com/](https://mind42.com/)
 - [https://www.mindmup.com/](https://www.mindmup.com/)
