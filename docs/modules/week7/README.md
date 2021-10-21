@@ -67,7 +67,7 @@ By the end of this week, students will:
 - [https://app.moqups.com](https://app.moqups.com)
 - [https://mind42.com/](https://mind42.com/)
 - [https://www.mindmup.com/](https://www.mindmup.com/)
-- Balsamiq Wireframes - Academic Access: [Free Software Sign Up](https://brightspace.algonquincollege.com/d2l/le/content/282599/Home)
+- Balsamiq Wireframes - Academic Access: [Free Software Sign Up](https://brightspace.algonquincollege.com/d2l/le/content/366500/Home)
 
 
 ## TODO
