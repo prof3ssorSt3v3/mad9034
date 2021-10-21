@@ -58,7 +58,7 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 7-2 Lecture & In-class: Information Architecture](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 7-2 Lecture & In-class: Information Architecture](https://drive.google.com/file/d/1X0U5cPu5576VvGvq7kqnWxA-kw1Crftz/view?usp=sharing)
 
 
 ## References: Examples & IA Tools
