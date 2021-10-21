@@ -53,7 +53,7 @@ By the end of this week, students will:
 
 ### Watch 
 
-- [What is information architecture](https://youtu.be/7cfHLsnRDvc)
+- [A Beginner's Guide to Information Architecture](https://www.youtube.com/watch?v=Ij4WquJaRTc)
 
 
 ### Lesson Slides
