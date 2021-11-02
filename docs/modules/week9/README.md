@@ -40,7 +40,7 @@ By the end of this week, students will:
 ### Lesson Slides
 
 - [Week 9-1 Lecture: User Flows](https://drive.google.com/file/d/11c547oLJPnoj-ifaMxN97asPuLd4yBwP/view?usp=sharing)
-- [Week 9-1b Inclass: User flows & Validating IA](hhttps://drive.google.com/file/d/1nO0NE1p_WCimR8cEKatwJ-yMhw4Pz6dI/view?usp=sharing)
+- [Week 9-1b Inclass: User flows & Validating IA](https://drive.google.com/file/d/1eVKVQdUojH0kaxV9HG2Zkvanr7B_-hjW/view?usp=sharing)
 
 
 ## Week 9 - Required preparation for class 2
