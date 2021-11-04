@@ -64,8 +64,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 9-2 Lecture: Wireframing & Ideating](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 9-2b In-class: Wireframing & Ideating](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 9-2 Lecture: Wireframing & Ideating](https://drive.google.com/file/d/1fG26L72PhUoZQ4cwYWj9GR3pOMnvc_iY/view?usp=sharing)
+- [Week 9-2b In-class: Wireframing & Ideating](https://drive.google.com/file/d/1FWIGg34lpojUXhrzCTeDTMoouuiT_kf-/view?usp=sharing)
 
 
 
