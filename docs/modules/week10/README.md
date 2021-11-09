@@ -34,8 +34,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 10-1 Lecture: Prototyping](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 10-1b In-class: Paper prototyping](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 10-1 Lecture: Prototyping](https://drive.google.com/file/d/1bGu_vtADNQZ_dq0DvkaMbWdWWOK4zRgJ/view?usp=sharing)
+- [Week 10-1b In-class: Paper prototyping](https://drive.google.com/file/d/17gKWPAM-nSiWLTY_2ZsfqKK3uWxf5NgP/view?usp=sharing)
 
 
 ## Week 10 - Required preparation for class 2
