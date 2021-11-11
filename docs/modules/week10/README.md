@@ -58,8 +58,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 10-2 Lecture: Concept Testing](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 10-2b In-class: Testing!](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 10-2 Lecture: Concept Testing](https://drive.google.com/file/d/1u-va6prLlv3RN1xilGpUc-QDnpMGfN-8/view?usp=sharing)
+- [Week 10-2b In-class: Testing!](hhttps://drive.google.com/file/d/1-h19eTGm9AIfw9dZK87C0yV5rBf86UA-/view?usp=sharing)
 
 
 ## TODO
