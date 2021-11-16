@@ -33,8 +33,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 11-1 Lecture: Digital Wireframing](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 11-1b In-class: Digital Wireframing](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 11-1 Lecture: Digital Wireframing](https://drive.google.com/file/d/1g41zBgoxcWsBYdNsvBb0XX0SV0KGgNCL/view?usp=sharing)
+- [Week 11-1b In-class: Digital Wireframing](hhttps://drive.google.com/file/d/11uffAzWtNYdtuPJ8r9mxoR0zs6ji-qBv/view?usp=sharing)
 
 
 ## Week 11 - Required preparation for class 2
