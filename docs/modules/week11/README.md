@@ -56,7 +56,7 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 11-2 Lecture: Identifying and working with risks and unknowns](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 11-2 Lecture: Identifying and working with risks and unknowns](https://drive.google.com/file/d/1pbO51pQy6ZD0gyzsSr5w-2jL3Ezj2LiM/view?usp=sharing)
 
 
 ## TODO
