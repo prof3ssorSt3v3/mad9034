@@ -38,7 +38,7 @@ By the end of this week, students will:
 ### Lesson Slides
 
 - [Week 12-1 Lecture: Visual Design](https://drive.google.com/file/d/1wQc-486vbVOJNb4El0a0Jy5yh3zS1rfE/view?usp=sharing)
-- [Week 12-1b In-class: Visual design](https://drive.google.com/file/d/1q0Ci8tBPUjzzLcEzbIrlK3I3PBn3lVot/view?usp=sharing)
+- [Week 12-1b In-class: Visual design](https://drive.google.com/file/d/1oIZBn6g8uHmTF2N9mQGNUiuM9w9Hcx4F/view?usp=sharing)
 
 
 ## Week 12 - Required preparation for class 2
