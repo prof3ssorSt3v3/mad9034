@@ -58,7 +58,7 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 12-2 Lecture: Animation, transitions and interactivity](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 12-2 Lecture: Animation, transitions and interactivity](https://drive.google.com/file/d/1zssMMhoFa1kDUaZlup9WXGzsv5HFAjDk/view?usp=sharing)
 
 
 ## Reference
