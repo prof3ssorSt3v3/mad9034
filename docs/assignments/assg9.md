@@ -22,7 +22,7 @@ You are to prepare the following documents for usability testing this week:
 ### Resources:
 
 - [Testing Documentation templates](https://drive.google.com/drive/folders/1ptUqGDPzOlM0b6RmY-wLnAHXryZgBmS6?usp=sharing)
-- Test plan (and more) from [week 13-1 lecture & 13-1b In-class slides](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- Test plan (and more) from [week 13-1 lecture](https://drive.google.com/file/d/1xHv0M_It_ZquPKxBJE6dlbEyaKhV_-80/view?usp=sharing) & [13-1b In-class slides](https://drive.google.com/file/d/10gR1vUIr5dxdc2B3PRAks_DIlO4Wky2H/view?usp=sharing)
 - Test script: [Steve Krug's Usability Testing Script](https://sensible.com/download-files/)
 - [NDA Google Form](https://docs.google.com/forms/d/1n3HuVnplNqcCEMLsrF-naGEJvVmObvvVk1axpEjkuew/edit?usp=sharing)
 - [Notetaker's guide](https://drive.google.com/file/d/1hY5bYEwERtWA3r8SVR9uiusl6yTXbAbK/view?usp=sharing)
