@@ -39,8 +39,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 13-1 Lecture: Testing. (Again!)](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 13-1b In-class: Test documentation](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 13-1 Lecture: Testing. (Again!)](https://drive.google.com/file/d/1xHv0M_It_ZquPKxBJE6dlbEyaKhV_-80/view?usp=sharing)
+- [Week 13-1b In-class: Test documentation](https://drive.google.com/file/d/10gR1vUIr5dxdc2B3PRAks_DIlO4Wky2H/view?usp=sharing)
 
 
 ## Week 13 - Required preparation for class 2
