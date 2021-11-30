@@ -64,7 +64,7 @@ By the end of this week, students will:
   - [Web App with mobile UI: Test Plan](https://drive.google.com/open?id=1NdBAWQovELzI6wvH1XM34m9GwFBksGKL) 
   - [Web App with mobile UI: Test Script & Notes](https://drive.google.com/open?id=1MEt24wiM2mu3qWL-O_3hUcDZV-q3p9uL)
 - Lab Testing Usability Testing Documentation
-  - [GCconnex Usability Testing Handoff Packages](https://goo.gl/3VfGTE)
+  - [GCconnex Usability Testing Handoff Packages](https://drive.google.com/drive/folders/0B7eD7HfoYAG7WGRjTk4wSkFUdDQ?resourcekey=0-J9dfzfcbVdzFF0e4i69ihA&usp=sharing)
   - [Web Application Usability Testing Handoff Package](https://drive.google.com/drive/folders/0B7eD7HfoYAG7YXNQaV9fNWRWUTA?usp=sharing)
 
 
