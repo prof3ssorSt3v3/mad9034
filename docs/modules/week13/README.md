@@ -70,8 +70,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 13-2 Lecture: How to run a test](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 13-2b In-class: Logistics for testing](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 13-2 Lecture: How to run a test](https://drive.google.com/file/d/1Ky5Y3uOEApQs4sNqYa0ALLp6DlX66kRC/view?usp=sharing)
+- [Week 13-2b In-class: Logistics for testing](https://drive.google.com/file/d/1Aoq3suG2jn2der7-JbzyJuDnVRi3ASGi/view?usp=sharing)
 
 
 ## TODO
