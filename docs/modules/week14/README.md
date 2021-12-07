@@ -38,8 +38,8 @@ Review [Usability Testing Steps for your final project](https://mad9034.github.i
 
 ### Lesson Slides
 
-- [Week 14-1 Lecture: Usability test reporting](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 14-1b In-class: Usability test analysis](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 14-1 Lecture: Usability test reporting](https://drive.google.com/file/d/1IS5ZY0GwGauWjeHR4zLhEbA6y2w6J9MS/view?usp=sharing)
+- [Week 14-1b In-class: Usability test analysis](https://drive.google.com/file/d/1njgD-dX1ZaxbFJBzri9cHxP-eNVbf-WN/view?usp=sharing)
  
 
 ## Week 14 - Required preparation for class 2
