@@ -46,7 +46,7 @@ Review [Usability Testing Steps for your final project](https://mad9034.github.i
 
 ### Read Lesson Slides
 
-- [Week 14-2 Lecture: Presenting your work](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 14-2 Lecture: Presenting your work](https://drive.google.com/file/d/1deCNvTD4HCrQ4vBdya40fnsETpSbJbLR/view?usp=sharing)
 
 
 
