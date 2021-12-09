@@ -27,7 +27,7 @@ You will use this UXD slide package in job interviews and you will present it to
 ## Submission
 
 ::: warning
-**Due Tuesday/Thursday December 14/16 by the end of class**
+**Due Tuesday December 14 by 11:59pm**
 Thursday December 16 by 11:59pm: The last possible day to submit **ANY** work.
 :::
 
