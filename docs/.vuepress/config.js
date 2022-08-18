@@ -1,7 +1,7 @@
 module.exports = {
   title: 'MAD9034',
   description: 'User Experience Design',
-  base: '/F2021/', //used as the root location of the site (repo name)
+  base: '/f2022/', //used as the root location of the site (repo name)
   // then we can <img :src="$withBase('/foo.png')" alt="foo">
   markdown: {
     lineNumbers: true,
@@ -10,7 +10,7 @@ module.exports = {
     resolve: {
       alias: {
         '@alias': 'path/to/some/dir',
-        '@root': '/F2021',
+        '@root': '/f2022',
         //![Image from alias](~@alias/image.png)
         // ![Image alt text](~@root/modules/week3/myimg.jpg)
         // images inside /docs/.vuepress/public will be copied to repo root

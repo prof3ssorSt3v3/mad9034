@@ -1,7 +1,7 @@
 {
   "name": "mad9034",
-  "description": "UX Design Fall 2021",
-  "version": "2.0.0",
+  "description": "UX Design Fall 2022",
+  "version": "3.0.0",
   "main": "index.js",
   "license": "MIT",
   "contributors": [
@@ -14,8 +14,8 @@
       "email": "lees1@algonquincollege.com"
     },
     {
-      "name": "Lauren Wong",
-      "email": "griffis@algonquincollege.com"
+      "name": "Laura Olac",
+      "email": "olacl@algonquincollege.com"
     }
   ],
   "devDependencies": {

@@ -26,7 +26,7 @@ The embedded YouTube video component:
 
 <YouTube
   title="the title for the embedded youtube video"
-  url="https://www.youtube,.com/embed/unique-video-id"
+  url="https://www.youtube.com/embed/unique-video-id"
 />
 
 ## Tables
