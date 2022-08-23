@@ -1,7 +1,7 @@
 {
   "name": "mad9034",
   "description": "UX Design Fall 2022",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "main": "index.js",
   "license": "MIT",
   "contributors": [
@@ -28,6 +28,7 @@
     "vuepress": "^1.8.2"
   },
   "scripts": {
+    "predocs:build": "npm version patch --no-git-tag-version",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "deploy": "/bin/bash deploy.sh"
