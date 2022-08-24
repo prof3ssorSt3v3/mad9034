@@ -65,15 +65,15 @@ This course complies with the college directives. Please complete this [**Plagia
 ## Contacts
 
 <ContactCard 
-  name="Lauren Wong"
-  title="Instructor"
-  img-url="/F2021/lauren.jpeg"
+  name="SuCheng Lee"
+  title="Professor"
+  img-url="/f2022/slee_h.png"
   bio="Instructor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
-      { label: 'email', value: 'wongl2@algonquincollege.com' }, 
-      { label: 'github', value: 'wongelle' },  
+      { label: 'email', value: 'lees1@algonquincollege.com' }, 
+      { label: 'github', value: 'lees1' },  
       { label: 'office', value: 'Zoom - by appointment' },
-      { label: 'twitter', value: '@x' },
+      { label: 'twitter', value: '@UXResearchLab' },
     ]"
 />
 
