@@ -25,7 +25,7 @@ By the end of this week, students will:
 ## Week 9 - Required preparation for class 1
 
 ### Read
-- Review [MAD9020 Week 13 slides](https://drive.google.com/drive/folders/10NKQiCrXfsCbgcqM-RBrD-dckCa3FbI-?usp=sharing) (6-10) – MAP OUT ALL SCREENS, BRAINSTORM
+- Review [MAD9020 Week 13 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) (6-10) – MAP OUT ALL SCREENS, BRAINSTORM
 - [User flow design process](https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs)
 - [Site flows vs user flows](https://uxmovement.com/wireframes/site-flows-vs-user-flows-when-to-use-which/)
 - [User flows for smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/)
@@ -34,13 +34,14 @@ By the end of this week, students will:
 ### Resources
 
 - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- [Material Design](https://material.io/design)
+- [Material Design 2](https://material.io/design)
+- [Material Design 3](https://m3.material.io/)
 
 
 ### Lesson Slides
 
-- [Week 9-1 Lecture: User Flows](https://drive.google.com/file/d/11c547oLJPnoj-ifaMxN97asPuLd4yBwP/view?usp=sharing)
-- [Week 9-1b Inclass: User flows & Validating IA](https://drive.google.com/file/d/1eVKVQdUojH0kaxV9HG2Zkvanr7B_-hjW/view?usp=sharing)
+- [Week 9-1 Lecture: User Flows](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 9-1b Inclass: User flows & Validating IA](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Week 9 - Required preparation for class 2
