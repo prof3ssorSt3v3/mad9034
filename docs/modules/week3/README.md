@@ -65,7 +65,7 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 
 - [Week 3-2 Lecture: Prototyping overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 - [Week 3-2b In-class: Prototyping](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Week 3-2b In-class: Prototyping (includes examples)](https://drive.google.com/file/d/1B22CJgD4s214eQirPrl2suz7KylFrzsZ/view?usp=sharing)
+- [Week 3-2b In-class: Prototyping (2021 includes examples)](https://drive.google.com/file/d/1B22CJgD4s214eQirPrl2suz7KylFrzsZ/view?usp=sharing)
 
 
 ## Resources & References for Week 2, 3, 4
