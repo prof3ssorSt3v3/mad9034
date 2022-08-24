@@ -51,7 +51,7 @@ USER FEEDBACK
 
 ### Lesson Slides
 
-- [Week 5-2 Lecture & In-class: Product Research](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 5-2 Lecture & In-class: Project Planning](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## TODO

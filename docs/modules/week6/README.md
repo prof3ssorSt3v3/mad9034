@@ -23,17 +23,12 @@ By the end of this week, students will:
 
 ### Watch
 
-[Create Personas](https://www.linkedin.com/learning/ux-design-3-creating-personas/welcome?u=2199673): Watch the entire LinkedIn Learning course that includes
-
-- Introduction
-  1. Personas in the User-Centered Design (UCD) Process
-  2. Persona Creation
-  3. Data-Driven Personas
-- Conclusion
+- [How To Create UX Personas](https://youtu.be/B23iWg0koi8)
+- [How to Choose the Scope of Your Personas](https://youtu.be/XVaiNayTi8U)
 
 ### Lesson Slides
 
-- [Week 6-1 Lecture: Creating Personas](https://drive.google.com/file/d/1rwaMv7ZYmibkKbkYfU0ft6laPOJ6hEJq/view?usp=sharing)
+- [Week 6-1 Lecture: Creating Personas](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Week 6 - Required preparation for class 2
@@ -43,14 +38,13 @@ By the end of this week, students will:
 - [Persona Categories](https://wiki.fluidproject.org/display/fluid/Persona+Categories)
 
 ### Watch
-
-- [How to create UX Personas](https://youtu.be/B23iWg0koi8)
+- [Why Personas Fail](https://youtu.be/fal4Wylyt3M)
 - [Bringing Personas to Agile](https://youtu.be/3ZLDQSFf5j8)
 
 
 ### Lesson Slides
 
-- [Week 6-2b In-class: Persona working session](https://drive.google.com/file/d/17LcDDSg4IPqBvC0bpkiOs2cp6-H9Z8-B/view?usp=sharing)
+- [Week 6-2b In-class: Persona working session](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## TODO
