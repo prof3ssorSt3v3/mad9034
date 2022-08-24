@@ -78,7 +78,7 @@ Links to Adobe software:
     - [Sketch (50% student discount)](https://www.sketch.com)
 
 - Prototype
-    - [Figma](https://www.figma.com/) 
+    - [Figma (Free education access](https://www.figma.com/education/) 
     - [Adobe XD](https://www.adobe.com/ca/products/xd.html?promoid=PYPVQ3HN&mv=other) 
     - [InVision Studio](https://www.invisionapp.com/studio) & [Cloud version signup](https://projects.invisionapp.com/d/signup)
     - [Sketch (50% student discount)](https://www.sketch.com)
