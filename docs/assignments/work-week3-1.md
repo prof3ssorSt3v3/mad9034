@@ -15,6 +15,6 @@ In-class exercise: [Week 3-1b In-class: Brainstorming](https://drive.google.com/
 
 ### Resources 
 - Sketching template: [applewatch_template.pdf](../files/applewatch_template.pdf)
-- [XD WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps)
+– [**Figma** WatchOS UI Kit (most popular)](https://www.figma.com/community/file/860215346713471808) OR Bring in [Apple WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps) to **Figma** from Sketch or XD
 - [WatchOS Visual design guideline: Layout](https://developer.apple.com/design/human-interface-guidelines/watchos/visual-design/layout/)
-- [Common Watch OS interaction](https://pbs.twimg.com/media/Dm_StBuU0AE13zI.jpg)
+- [Common WatchOS interaction](https://pbs.twimg.com/media/Dm_StBuU0AE13zI.jpg)

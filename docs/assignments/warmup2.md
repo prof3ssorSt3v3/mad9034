@@ -11,7 +11,7 @@ Each group will present their observations from the warm-up project.
     - Prototyping
     - Testing
 
-Note: One person submits your final XD file. & Everyone presents, please! 
+Note: One person submits your final **Figma** file. & Everyone presents, please! 
 
 
 ::: tip Presentation
@@ -24,7 +24,7 @@ Prepare to share your observations in class. One or more team members will do a 
 ## Submission
 
 ::: warning
-**Due Thursday September 30 in-class**
+**Due Thursday September 29 in-class**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.

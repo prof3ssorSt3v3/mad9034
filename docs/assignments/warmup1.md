@@ -28,13 +28,13 @@ We want to help with _____ (describe specifically what your product will solve) 
 - 3 major patterns that can be solved with a digital product
 - ONE chosen pattern, stated as a Problem Statement
 - Submit as ONE PDF file (or Word)
-- Filename: _FirstNameLastName-warmup1.pdf_
+- Filename: _MemberNames-warmup1.pdf_
 
 
 ## Submission
 
 ::: warning
-**Due Tuesday September 21 by 5:00pm**
+**Due Sunday September 18 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
