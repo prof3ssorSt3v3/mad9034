@@ -2,13 +2,13 @@
 
 ## Details
 
-- Based on the project chosen, you are to conduct 3 user interviews [(Major Project Brief)](./project-brief.md)
+- Based on the project chosen, you are to conduct 3 user interviews each [(Major Project Brief)](./project-brief.md)
 - Work in groups of 3s to document your persona research data from 9 users in shared file accessible to all group members
 - Submit your group work for marking by the end of Week 05
 - Include the project topic and group memember names in the submission comment
 - File name: _personaResearch-memberNames.xlsx_ (or PDF)
 
-### The Goal of Persona (User) Research
+### The Goal of Persona (user) Research
 Understand user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies to: 
 Produce measurable and actionable results.
 - WHO are you designing for?
@@ -22,7 +22,7 @@ Produce measurable and actionable results.
 
 1. Identify your users for the primary and secondary persona
     - Discuss how you will access your users
-2. Decide what questions to ask (slide 20)
+2. Decide what questions to ask (Week 5-1b slide 20)
 3. Review and customize the [persona research spreadsheet](https://docs.google.com/spreadsheets/d/1oQMsQwGLWMzClIwAz_1pMDOw2DaCgBIaGXyAhFnW7XY/edit?usp=sharing)
     - Decide what you need to know about your users (demographic info.)
     - Make adjustments to the spreadsheet
