@@ -78,10 +78,11 @@ Links to Adobe software:
     - [Sketch (50% student discount)](https://www.sketch.com)
 
 - Prototype
+    - [Figma](https://www.figma.com/) 
     - [Adobe XD](https://www.adobe.com/ca/products/xd.html?promoid=PYPVQ3HN&mv=other) 
     - [InVision Studio](https://www.invisionapp.com/studio) & [Cloud version signup](https://projects.invisionapp.com/d/signup)
     - [Sketch (50% student discount)](https://www.sketch.com)
-    - [Figma (emerging tool)](https://www.figma.com/) 
+
 
 - Colour
     - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
@@ -105,9 +106,9 @@ Links to Adobe software:
 
 - Platform Specific Guidelines
     - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-        - [The iOS 13 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
+        - [The iOS 15 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
     - [Android Design Guidelines](https://developer.android.com/design/)
-    - [Material Design Guidelines](https://material.io/design)
+    - [Material Design 2](https://material.io/design) & [Material Design 3]()
     - [Progressive Web App Design Best Practices](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 
 - Platform Specific Design Resources
