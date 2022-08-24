@@ -41,8 +41,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 4-1 Lecture: User Testing Overview](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 4-1b In-class: User testing](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 4-1 Lecture: User Testing Overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 4-1b In-class: User testing](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Week 4 - Required preparation for class 2
@@ -54,7 +54,7 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 4-2 In-class: Presentations and Major Project Intro](https://drive.google.com/file/d/11pi3ZBo_V0xzeOdyq3J7LHSM2Ib0USqm/view?usp=sharing)
+- [Week 4-2 In-class: Presentations and Major Project Intro](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## TODO
