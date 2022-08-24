@@ -2,7 +2,10 @@
 
 ## Details
 
-Get together with 3-4 students working on the same project as you are.
+We conduct product research to evaluate how a product might fit into the market, to learn what the desired characteristics might be. It helps companies to understand what the customers really want, and what is likely to succeed in the market using available technology. It can help to refine new product ideas.
+
+For this assignment, you will get together with 3-4 students working on the same project as you are to conduct product research.
+
 Assign a group member to research each of these topics:
 
 1. What might the business model be?
