@@ -69,9 +69,9 @@ Tips:
     - At the end: "Do you have any questions for me?"
 
 
-3. **Decide How To Ask:** Individual Interviews (for this assignment)
-4. Get access to users
-5. Begin your interviews to collect data
+#### 3. Decide How To Ask: Individual Interviews (for this assignment)
+#### 4. Get access to users
+#### 5. Conduct your interviews to collect data
 
 
 ::: tip Note
