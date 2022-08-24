@@ -40,7 +40,7 @@ Access traditional market research data (if available):
     - Research users of your competitors or similar companies, products or services
 
 
-#### 2. **Decide What To Ask** to create interview script and protocols
+#### 2. **Decide What To Ask**
 - OVERVIEW 
 - DOMAIN KNOWLEDGE 
 - GOALS
@@ -54,7 +54,25 @@ Access traditional market research data (if available):
 - WRAPPING UP 
 
 
-Tips: 
+#### 3. Decide How To Ask: Individual Interviews for this assignment
+
+**Create a quick research plan/script to learn about people's fitness-tracker use/habits.** 
+
+Your questions should help you learn specifically about:
+
+General diet, exercise, and fitness habits
+
+- Current and past use (or non-use) of fitness tracker(s)
+- Positive health experiences or successes with fitness trackers
+- Positive health experiences or successes with other products or services
+- Negative health experiences or successes with fitness trackers
+- Negative health experiences or successes with other products or services
+- Perceived barriers to success with use of fitness trackers
+- Desired features in an 'ideal' fitness tracker
+- Any other thoughts or concerns on the topic
+
+
+**Tips:**
 - Ask primarily open-ended questions.
 - Ask participants to show more than tell.
 - Ask participants to describe current/past experiences, not imagine future states
@@ -69,9 +87,24 @@ Tips:
     - At the end: "Do you have any questions for me?"
 
 
-#### 3. Decide How To Ask: Individual Interviews (for this assignment)
 #### 4. Get access to users
 #### 5. Conduct your interviews to collect data
+
+**Things to remember:**
+- Try to keep it to 10-15 mins max
+- Prepare a set of questions, AND follow-up probes
+- Do a dry-run (with each other) to make sure that:
+    - the questions make sense
+    - are in a logical order
+    - the interview won’t run too long/short
+
+**Each team member runs the interview with 3 people.**
+
+Have a note-taker with you, so you can focus on facilitating the interview. ( Or, use zoom and record their voice. Ensure you get their consent first!  )
+
+Get user permission in the Non Disclosure Agreement [(NDA example)](https://docs.google.com/forms/d/1jDQfyZg0oNOnJdgZYecHtr0E1483E683BaEdcUPfyzc/edit?usp=sharing)
+
+
 
 
 ::: tip Note
