@@ -27,6 +27,8 @@ Produce measurable and actionable results.
     - Decide what you need to know about your users (demographic info.)
     - Make adjustments to the spreadsheet
     - Add/remove any columns you believe are necessary/unnecessary
+4. Get access to users
+5. Begin your interviews
 
 
 1. **Identify your users for the primary and secondary persona**
@@ -38,7 +40,7 @@ Access traditional market research data (if available):
     - Research users of your competitors or similar companies, products or services
 
 
-2. **Decide What To Ask**
+2. **Decide What To Ask** to create interview script and protocols
 - OVERVIEW 
 - DOMAIN KNOWLEDGE 
 - GOALS
@@ -67,8 +69,9 @@ Tips:
     - At the end: "Do you have any questions for me?"
 
 
-3. **Decide How To Ask**
-- Individual Interviews
+3. **Decide How To Ask:**Individual Interviews (for this assignment)
+4. Get access to users
+5. Begin your interviews to collect data
 
 
 ::: tip Note
