@@ -46,7 +46,7 @@ Links to Adobe software:
 ## UI/UX Design Resources
 
 ### Tools
-
+- [Design Tools Database](https://uxtools.co/tools/design)
 - Graphics
     - [Squoosh app (image optimization)](https://squoosh.app/)
     - [CSS Gradient Generator](https://cssgradient.io/)
@@ -95,7 +95,7 @@ Links to Adobe software:
         - [Colorable:](https://colorable.jxnblk.com/ffffff/6b757b)
         - [w3schools tool:](https://www.w3schools.com/colors/colors_picker.asp)
     - Online colorizer: [http://paletton.com](http://paletton.com)
-
+    - [Open Source Color System](https://www.opensourcecolorsystem.design/)
 
 ### Design Resources
 
