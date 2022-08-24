@@ -1,5 +1,5 @@
 # Major Project Brief
-Slides: [Week 4-2 In-class: Presentations and Major Project Intro](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+Slides: [Week 4-2 In-class: Presentations and Major Project Intro](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 ## Details
 
