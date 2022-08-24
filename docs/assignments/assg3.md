@@ -4,9 +4,6 @@
 
 Get together with 3-4 students working on the same project as you are.
 Assign a group member to research each of these topics:
-1. What might the business model be?
-2. What competitors exist? (digital or other?)
-3. What similar products exist? (service provider + service seeker?)
 
 1. What might the business model be?
     - Free with ads?
