@@ -1,21 +1,28 @@
-# UX Project Plan 
+# Persona research
 
 ## Details
 
-Based on the project chosen, you are to build a UX project plan to help you think about how UX work will integrate with the broader project timeline. Your UX project plan will be the blueprint for how you will conduct UX activities for the remaining term. 
+- Based on the project chosen, you are to conduct 3 user interviews [(Major Project Brief)](./project-brief.md)
+- Work in groups of 3s to document your persona research data from 9 users in shared file accessible to all group members
+- Submit your group work for marking by the end of Week 05
+- Include the project topic and group memember names in the submission comment
+- File name: _personaResearch-memberNames.xlsx_ (or PDF)
 
-- [UX project plan template](https://goo.gl/BCRGg8)
-- Draft review in Week 05 Class 2
-- Include name of the document, date, and author on the cover page.
-- Submit as a PDF file: _firstnameLastname-UXprojectplan.pdf_
+
+::: tip Note
+
+- You will use this persona research spreadsheet data to create 2 personas "individually" in week 6.
+- Example: [music-app-persona_research_example.pdf](../files/music-app-persona_research_example.pdf)
+
+::: 
 
 
 ## Submission
 
 ::: warning
-**Due Tuesday October 12 by 11:59pm**
+**Due Sunday October 10 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to the `UX Project Plan` assignment.
-- Upolad your file on the assignment page in BS LMS and click the submit button.
+- Go to the `Persona research` assignment.
+- Upolad your file (and document link) on the assignment page in BS LMS and click the submit button.

@@ -1,39 +1,29 @@
-# Testing documentation 
+# Visual design
 
 ## Details
 
-You are to prepare the following documents for usability testing this week:
+Provide a visual design for your mobile app using UX visual design principles. Use Adobe XD or the UI design tool you are familiar with to apply visual treatment to the same screens as your wireframe. You will add visual design to increase usability. Make sure your design document is organized for the prototype tool: InVision or Adobe Xd or a tool of your choice.
 
-1. Test plan (Draft due at the end of Week 13-1 class)
-    - Refer to resources below, and content in [week 13-1 lecture](https://drive.google.com/file/d/1O3lqecrP2aPHUEqPE_rKfjqw2F9GUB6N/view?usp=sharing) & [13-1b In-class slides](https://drive.google.com/file/d/10gR1vUIr5dxdc2B3PRAks_DIlO4Wky2H/view?usp=sharing)
-2. Test script (Draft due at the end of Week 13-1 class)
-    - Refer to resources below, or outline in week 13-1 lecture & 13-1b In-class slides
-    - 1+ scenarios: Include one additional scenario of your choice to test
-3. NDA 
-    - Customize NDA Google Form below for your testing 
-4. Test-ready prototype
-    - Submit a URL to your interactive prototype
+**NOTE:** Submit visual design for
 
-**NOTE:** Submit testing documentations which include: Test plan, test script, NDA, test-ready prototype.
-- You will use this work to complete usability testing before Week 14-1 class.
-- [Usability Testing Steps](https://mad9034.github.io/F2021/modules/week13/UT-steps.html)
+- 3 key screens (use the 3 from your midterm, unless you have reason to select different screens)
+- Submit in one PDF file with all screens on the same page 
+    - You are being marked on how you apply the elements of design to achieve and demonstrate the principles of design.
+- filename: _FirstNameLastName-visualDesign.pdf_
 
+Refer to [Week 12-1 Lecture](hhttps://drive.google.com/file/d/1wQc-486vbVOJNb4El0a0Jy5yh3zS1rfE/view?usp=sharing) and [this article](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design).
 
-### Resources:
+**Resources**
 
-- [Testing Documentation templates](https://drive.google.com/drive/folders/1ptUqGDPzOlM0b6RmY-wLnAHXryZgBmS6?usp=sharing)
-- Test plan (and more) from [week 13-1 lecture](https://drive.google.com/file/d/1O3lqecrP2aPHUEqPE_rKfjqw2F9GUB6N/view?usp=sharing) & [13-1b In-class slides](https://drive.google.com/file/d/10gR1vUIr5dxdc2B3PRAks_DIlO4Wky2H/view?usp=sharing)
-- Test script: [Steve Krug's Usability Testing Script](https://sensible.com/download-files/)
-- [NDA Google Form](https://docs.google.com/forms/d/1n3HuVnplNqcCEMLsrF-naGEJvVmObvvVk1axpEjkuew/edit?usp=sharing)
-- [Notetaker's guide](https://drive.google.com/file/d/1hY5bYEwERtWA3r8SVR9uiusl6yTXbAbK/view?usp=sharing)
+Adobe XD UI kits on the website [(Resources > UI Kits)](https://www.adobe.com/ca/products/xd/resources.html) 
 
 
 ## Submission:
 
 ::: warning 
-**Due Thursday December 02 by 11:59pm**
+**Due Thursday November 25 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to the `Testing documentation` assignment.
+- Go to the `Visual design` assignment.
 - Upolad your file on the assignment page in BS LMS and click the submit button. 

@@ -1,29 +1,45 @@
-# Visual design
+# Test-ready lo-fi prototype
 
 ## Details
 
-Provide a visual design for your mobile app using UX visual design principles. Use Adobe XD or the UI design tool you are familiar with to apply visual treatment to the same screens as your wireframe. You will add visual design to increase usability. Make sure your design document is organized for the prototype tool: InVision or Adobe Xd or a tool of your choice.
+Based on your scenario, and information architecture, you are to create test-ready app concept in a form of paper prototype (or lo-fi digital wireframe) for user testing.
 
-**NOTE:** Submit visual design for
+- Platform chosen: iOS or Android
+- [Paper screen template](http://sneakpeekit.com)
 
-- 3 key screens (use the 3 from your midterm, unless you have reason to select different screens)
-- Submit in one PDF file with all screens on the same page 
-    - You are being marked on how you apply the elements of design to achieve and demonstrate the principles of design.
-- filename: _FirstNameLastName-visualDesign.pdf_
+Take a photo or scan of your paper prototype to submit your page layout as _ONE PDF file_. Use your information architecture (IA) to determine the required app screens. Test your layout and navigation with a partner to ensure that the user has the ability to navigate through the workflow.
 
-Refer to [Week 12-1 Lecture](hhttps://drive.google.com/file/d/1wQc-486vbVOJNb4El0a0Jy5yh3zS1rfE/view?usp=sharing) and [this article](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design).
+**Note:** To submit, you will
 
-**Resources**
+- Complete lo-fi prototype
+- Test your app concept with your classmates in next class
+- Make design improvements to your wireframe work
+- Put all screens in one PDF document logically
+- Add annotations to identify each screen and explain your task flow
+- Submit as ONE PDF 
+- Filename: _FirstNameLastName-PaperPrototype.pdf_
 
-Adobe XD UI kits on the website [(Resources > UI Kits)](https://www.adobe.com/ca/products/xd/resources.html) 
+### Testing
+
+To test UI usability, your users should be able to **_browse, navigate to a screen to perform a specific task and then switch to another task_**.
+
+**Required pages:** ?
+
+**Tasks:**
+
+- browse
+- navigate to
+- do something
+- browse something else
+- do something 
 
 
 ## Submission:
 
 ::: warning 
-**Due Thursday November 25 by 11:59pm**
+**Due Thursday November 11 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to the `Visual design` assignment.
+- Go to the `Test-ready lo-fi prototype` assignment.
 - Upolad your file on the assignment page in BS LMS and click the submit button. 

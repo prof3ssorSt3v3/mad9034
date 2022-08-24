@@ -1,28 +1,43 @@
-# Persona research
+# Product Research
 
 ## Details
 
-- Based on the project chosen, you are to conduct 3 user interviews [(Major Project Brief)](./project-brief.md)
-- Work in groups of 3s to document your persona research data from 9 users in shared file accessible to all group members
-- Submit your group work for marking by the end of Week 05
-- Include the project topic and group memember names in the submission comment
-- File name: _personaResearch-memberNames.xlsx_ (or PDF)
+Get together with 3-4 students working on the same project as you are.
+Assign a group member to research each of these topics:
+1. What might the business model be?
+2. What competitors exist? (digital or other?)
+3. What similar products exist? (service provider + service seeker?)
+
+1. What might the business model be?
+    - Free with ads?
+    - Subscription?
+    - Commission?
+    - Supported by donations/grants?
+    - Other?
+
+2. What competitors exist? (digital or other?)
+    - How are they structured?
+    - What features do they have?
+    - How do they look?
+
+3. What similar products exist? (a. service provider + b. service seeker?)
+    - How are they structured?
+    - What features do they have?
+    - How do they look?
 
 
-::: tip Note
-
-- You will use this persona research spreadsheet data to create 2 personas "individually" in week 6.
-- Example: [music-app-persona_research_example.pdf](../files/music-app-persona_research_example.pdf)
-
-::: 
+- Record your findings in a Word document and submit your group work 
+- Draft review in Week 05 Class 1
+- Include name of the document, date, and author on the cover page.
+- Submit as a PDF file: _memberNames-ProductResearch.pdf_
 
 
 ## Submission
 
 ::: warning
-**Due Sunday October 10 by 11:59pm**
+**Due Tuesday October 12 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to the `Persona research` assignment.
-- Upolad your file (and document link) on the assignment page in BS LMS and click the submit button.
+- Go to the `UX Project Plan` assignment.
+- Upolad your file on the assignment page in BS LMS and click the submit button.
