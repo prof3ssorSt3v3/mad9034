@@ -85,7 +85,7 @@ This course complies with the college directives. Please complete **Plagiarism D
 <ContactCard 
   name="Laura Olac"
   title="Professor"
-  img-url="/f2022/HeadshotPlaceholder.png"
+  img-url="/f2022/Laura-Olac.png"
   bio="Instructor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'olacl@algonquincollege.com' }, 
