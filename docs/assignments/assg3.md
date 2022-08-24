@@ -32,9 +32,9 @@ Assign a group member to research each of these topics:
 ## Submission
 
 ::: warning
-**Due Tuesday October 12 by 11:59pm**
+**Due Tuesday October 06 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to the `UX Project Plan` assignment.
+- Go to the `Product Research` assignment.
 - Upolad your file on the assignment page in BS LMS and click the submit button.
