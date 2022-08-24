@@ -41,7 +41,7 @@ By the end of this week, students will:
 
 ### Read
 
-- Review [MAD9020 Week 4 slides](https://drive.google.com/drive/folders/10NKQiCrXfsCbgcqM-RBrD-dckCa3FbI-?usp=sharing) – INFORMATION ARCHITECTURE
+- Review [MAD9020 Week 4 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) – INFORMATION ARCHITECTURE
 - [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
 - [What is flowchart](https://asq.org/quality-resources/flowchart)
 - [Common flowchart shapes & their meaning](https://creately.com/diagram-type/objects/flowchart)
