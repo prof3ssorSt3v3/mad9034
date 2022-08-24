@@ -72,7 +72,7 @@ Access traditional market research data (if available):
 
 
 #### 4. Get access to users 
-- Each member conduct at least 3 interviews with your PRIMARY persona
+- Each member conduct at least 3 interviews for your PRIMARY persona
 - NOTE: YOU ARE RESPONSIBLE FOR GATHERING DATA ON YOUR SECONDARY PERSONA. IN-CLASS ACTIVITIES WILL WALK YOU THROUGH ALL THE STEPS REQUIRED, FOCUSED ON THE PRIMARY PERSONA. FOLLOW THE SAME STEPS FOR THE SECONDARY PERSONA.
     - Primary user persona - the browser/consumer (info seeker) of the service/program
     - Secondary user persona - the poster/deliverer (info provider) of the service/program
