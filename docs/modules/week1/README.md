@@ -27,6 +27,8 @@ In addition, there will be practical in-class exercises that are marked toward y
 
 Review [**Resources**](../../resources/) page for college digital resources, online books, references, and free software signup information.
 
+Prototype tools: Figma ([Free with full features for students](https://www.figma.com/education/]))
+
 ## Week 1 - Required preparation for class 2
 
 ### Read
@@ -42,7 +44,7 @@ Review [**Resources**](../../resources/) page for college digital resources, onl
 
 ### Figma – Self-guided learning
 
-Learn Figma with in-depth tutorials and quick tips and tricks
+Learn Figma with in-depth tutorials and quick tips and tricks. 
 - Tutorials: [Figma for Beginners (4 parts)](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts-)
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://youtu.be/FTFaQWZBqQ8)
 - [Figma Masterclass for Beginners (2022 Updated)](https://youtu.be/II-6dDzc-80)
