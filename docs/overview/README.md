@@ -68,7 +68,7 @@ This course complies with the college directives. Please complete this [**Plagia
   name="SuCheng Lee"
   title="Professor"
   img-url="/f2022/slee_h.png"
-  bio="Instructor in the Mobile Application Design & Development Program at Algonquin College."
+  bio="Professor of the Mobile Application Design & Development Program at Algonquin College"
   :details="[
       { label: 'email', value: 'lees1@algonquincollege.com' }, 
       { label: 'github', value: 'lees1' },  
@@ -76,6 +76,20 @@ This course complies with the college directives. Please complete this [**Plagia
       { label: 'twitter', value: '@UXResearchLab' },
     ]"
 />
+
+<ContactCard 
+  name="Laura Olac"
+  title="Professor"
+  img-url="/f2022/HeadshotPlaceholder.png"
+  bio="Instructor in the Mobile Application Design & Development Program at Algonquin College."
+  :details="[
+      { label: 'email', value: 'olacl@algonquincollege.com' }, 
+      { label: 'github', value: 'TBA' },  
+      { label: 'office', value: 'Zoom - by appointment' },
+      { label: 'twitter', value: 'TBA' },
+    ]"
+/>
+
 
 <ContactCard 
   name="Admed Elbadri"
