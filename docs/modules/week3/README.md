@@ -46,6 +46,8 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 
 - [Week 3-1 Lecture: Ideation overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 - [Week 3-1b In-class: Brainstorming](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Apple Watch - Human Interface Guidelines & User Experience](https://drive.google.com/file/d/19v8xM5zdZF5KHfAB2aFDljnlpB8ug392/view?usp=sharing)
+
 
 
 ## Week 3 - Required preparation for class 2
@@ -66,12 +68,11 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 - [Week 3-2b In-class: Prototyping](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
-## Resources & References for Week 2, 3, 4
+## Resources & References
 
 ### WatchOS
 - Sketching template: [applewatch_template.pdf](../../files/applewatch_template.pdf)
 - [WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps)
-- [Apple Watch - Human Interface Guidelines & User Experience](https://drive.google.com/file/d/19v8xM5zdZF5KHfAB2aFDljnlpB8ug392/view?usp=sharing)
 - [WatchOS Visual design guideline: Layout](https://developer.apple.com/design/human-interface-guidelines/foundations/layout#watchos)
 - [Common Watch OS interaction](https://pbs.twimg.com/media/Dm_StBuU0AE13zI.jpg)
 
