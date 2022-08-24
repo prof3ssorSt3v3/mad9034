@@ -48,7 +48,7 @@ By the end of this week, students will:
 - [**Data Architecture v.s. Information Architecture**](https://www.dataversity.net/data-architecture-and-information-architecture-whats-the-difference/)
   - DA, development deliverables: Data structure diagram + High-level architecture
   - IA, UX deliverable: Information architecture diagram, sitemap, wireflow, UX flow map, wireframes
-    - [See some 2019W project examples](https://drive.google.com/drive/folders/1BkmqpoNGVV_nefiRgwH_BuvKERCaqNtQ?usp=sharing)
+    - [See some 2019W project examples](https://drive.google.com/drive/folders/1e9FSXDYPMFY_haesYZlcZFDU9A2sgDMq?usp=sharing)
 
 
 ### Watch 
