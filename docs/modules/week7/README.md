@@ -79,9 +79,9 @@ Read all the notes for Week 9 and watch the videos. This will help you answer po
 ### Assignments
 
 **For class 1:** 
-- [6. Scenario & Information architecture](../../assignments/assg6.md): Create a usage scenario for your primary persona
+- [6. Scenario](../../assignments/assg6.md): Create a usage scenario for your primary persona
 
 **For class 2:** 
-- [6. Scenario & Information architecture](../../assignments/assg6.md) – Map out the information architecture for your app
+- [7. Information architecture](../../assignments/assg7.md) – Map out the information architecture for your app
 
 :::
