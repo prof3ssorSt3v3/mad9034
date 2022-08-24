@@ -18,7 +18,7 @@ Produce measurable and actionable results.
 - What are the PROBLEMS with the current way they complete their tasks?
 
 
-### To begin, form a group with 3-4 people working on the same project as you.
+### To begin, form a group with 3~4 people working on the same project as you.
 
 1. Identify your users for the primary and secondary persona
     - Discuss how you will access your users
