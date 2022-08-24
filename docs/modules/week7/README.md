@@ -33,8 +33,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 7-1 Lecture: Usage scenarios](https://drive.google.com/file/d/1xlWadnf8lFqgODybXoH6iUzK-DWB9Wdd/view?usp=sharing)
-- [Week 7-1b In-class: Usage scenarios](https://drive.google.com/file/d/1CSWmN_erXjromXOreWqAiUN2Ngq8rwGv/view?usp=sharing)
+- [Week 7-1 Lecture: Usage scenarios](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 7-1b In-class: Usage scenarios](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Week 7 - Required preparation for class 2
@@ -58,7 +58,7 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 7-2 Lecture & In-class: Information Architecture](https://drive.google.com/file/d/1X0U5cPu5576VvGvq7kqnWxA-kw1Crftz/view?usp=sharing)
+- [Week 7-2 Lecture & In-class: Information Architecture](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## References: Examples & IA Tools
@@ -67,7 +67,6 @@ By the end of this week, students will:
 - [https://app.moqups.com](https://app.moqups.com)
 - [https://mind42.com/](https://mind42.com/)
 - [https://www.mindmup.com/](https://www.mindmup.com/)
-- Balsamiq Wireframes - Academic Access: [Free Software Sign Up](https://brightspace.algonquincollege.com/d2l/le/content/366500/Home)
 
 
 ## TODO
