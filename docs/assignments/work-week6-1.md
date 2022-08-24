@@ -2,7 +2,7 @@
 
 ## Details
 
-In-class exercise: [Week 6-1 Lecture Creating Personas](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+In-class exercise: [Week 6-1 Lecture Creating Personas](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 This step is challenging. To analyze your **Persona Research data**, you must look at a range of variables across a range of participants, and find the patterns that are meaningful to your project. 
 

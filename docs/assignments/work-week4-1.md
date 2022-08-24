@@ -18,7 +18,7 @@ In each group:
 [**Usability Testing – Non Disclosure Agreement Example**](https://docs.google.com/forms/d/1n3HuVnplNqcCEMLsrF-naGEJvVmObvvVk1axpEjkuew/edit)
 
 - Follow the link (ensure you already logged in your Google Account ) 
-- Do NOT edit this NDA example directly
+- **Do NOT edit this NDA example directly**
 - Make a copy to your Google Drive to create your own copy
 - Revise the form for your testing
 - Have your user sign your NDA before testing
