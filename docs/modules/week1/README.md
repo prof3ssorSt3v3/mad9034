@@ -35,17 +35,22 @@ Review [**Resources**](../../resources/) page for college digital resources, onl
 - [Design thinking comes of age](https://hbr.org/2015/09/design-thinking-comes-of-age)
 - [Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative?](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/)
 
-### Adobe XD Updates
-
-Learn Adobe XD with in-depth tutorials and quick tips and tricks
-
-- [LetsXD Overview](https://letsxd.com)
-- [Pro Tips](https://letsxd.com/protips)
-- [_What's new in Adobe XD_](https://helpx.adobe.com/ca/xd/help/whats-new.html)
 
 ### Lesson Slides
 
-- [Week 1-1 Lecture: UXD Overview](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 1-1 Lecture: UXD Overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+
+
+### Figma – Self-guided learning
+
+Learn Figma with in-depth tutorials and quick tips and tricks
+- [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://youtu.be/FTFaQWZBqQ8)
+- [Figma Masterclass for Beginners (2022 Updated)](https://youtu.be/II-6dDzc-80)
+- [Online Help: Get Started](https://help.figma.com/hc/en-us/categories/360002051613-Get-started)
+- [Figma Video Tutorials](https://www.youtube.com/figmadesign)
+- [Best Practices - Tips & Tricks](https://www.figma.com/best-practices/tips-and-tricks/)
+
+
 
 ## TODO
 
