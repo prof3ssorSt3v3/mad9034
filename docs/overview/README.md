@@ -99,6 +99,7 @@ This course complies with the college directives. Please complete **Plagiarism D
 <ContactCard 
   name="Admed Elbadri"
   title="Student Success Specialist"
+  img-url="/f2022/ahmed.jpg"
   bio=""
   :details="[
       { label: 'email', value: 'elbadra@algonquincollege.com' }, 
