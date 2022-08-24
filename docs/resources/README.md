@@ -133,6 +133,7 @@ Links to Adobe software:
 - [Empty State Best Practices(UI Design)](https://www.justinmind.com/blog/everything-you-need-to-know-about-empty-state-design/)
 - [How to design for AI-enabled UI](https://blog.prototypr.io/how-to-design-for-ai-enabled-ui-77e144e99126)
 - [Building a Design System from scratch](https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/)
+- [Naming colors in design systems](https://adobe.design/stories/design-for-scale/naming-colors-in-design-systems)
 
 
 ### Tutorials
