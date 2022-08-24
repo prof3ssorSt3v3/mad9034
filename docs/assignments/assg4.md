@@ -105,11 +105,9 @@ Have a note-taker with you, so you can focus on facilitating the interview. ( Or
 Get user permission in the Non Disclosure Agreement [(NDA example)](https://docs.google.com/forms/d/1jDQfyZg0oNOnJdgZYecHtr0E1483E683BaEdcUPfyzc/edit?usp=sharing)
 
 
-
-
 ::: tip Note
 
-- You will use this persona research spreadsheet data to create 2 personas "individually" in week 6.
+- You will use this persona research spreadsheet data to create **2 personas "individually"** in week 6.
 - Example: [music-app-persona_research_example.pdf](../files/music-app-persona_research_example.pdf)
 
 ::: 
