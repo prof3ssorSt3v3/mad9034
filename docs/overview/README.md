@@ -9,6 +9,7 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 ## Course Description
 
 - [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=113)
+- Course Section Information (CSI) on Brightspace LMS
 
 ## Student Workload Expectations
 
@@ -25,8 +26,8 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 **Section 020:** two days :clock7:
 
-- Tuesday 7pm - 9pm (Virtual)
-- Thursday 6pm - 8pm 
+- Tuesday 7pm - 9pm 
+- Thursday 6pm - 8pm (Virtual)
 
 
 ## User Experience Design Process
@@ -64,7 +65,7 @@ In-class work progress review is part of the performance assessment. A student m
 
 ### Copyright
 
-This course complies with the college directives. Please complete this [**Plagiarism Declaration**](https://brightspace.algonquincollege.com/d2l/le/content/282599/viewContent/4288653/View)
+This course complies with the college directives. Please complete **Plagiarism Declaration** [Section 010](https://brightspace.algonquincollege.com/d2l/le/content/474453/viewContent/7112658/View) / [Section 020](https://brightspace.algonquincollege.com/d2l/le/content/474453/Home)
 
 ## Contacts
 
