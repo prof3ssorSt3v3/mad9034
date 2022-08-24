@@ -25,7 +25,9 @@ By the end of this week, students will:
 
 - [How To Create UX Personas](https://youtu.be/B23iWg0koi8)
 - [How to Choose the Scope of Your Personas](https://youtu.be/XVaiNayTi8U)
-- [Creating Personas for User Experience Research](https://youtu.be/u44pBnAn7cM)([See a persona examples at 9:25](https://youtu.be/u44pBnAn7cM?t=565))
+- [Creating Personas for User Experience Research](https://youtu.be/u44pBnAn7cM)
+  - [Marketing Persona vs. User Persona](https://youtu.be/u44pBnAn7cM?t=85)
+  - [See user persona example at 9:25](https://youtu.be/u44pBnAn7cM?t=565)
 
 ### Lesson Slides
 
