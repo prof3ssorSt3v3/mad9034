@@ -43,9 +43,10 @@ Review [**Resources**](../../resources/) page for college digital resources, onl
 ### Figma – Self-guided learning
 
 Learn Figma with in-depth tutorials and quick tips and tricks
+- Tutorials: [Figma for Beginners (4 parts)](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts-)
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://youtu.be/FTFaQWZBqQ8)
 - [Figma Masterclass for Beginners (2022 Updated)](https://youtu.be/II-6dDzc-80)
-- [Online Help: Get Started](https://help.figma.com/hc/en-us/categories/360002051613-Get-started)
+- [Online Help](https://help.figma.com/hc/en-us/categories/360002051613-Get-started)
 - [Figma Video Tutorials](https://www.youtube.com/figmadesign)
 - [Best Practices - Tips & Tricks](https://www.figma.com/best-practices/tips-and-tricks/)
 
