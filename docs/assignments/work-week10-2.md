@@ -2,7 +2,7 @@
 
 ## Details
 
-In-class exercise: [Week 10-2b In-class: Testing!](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+In-class exercise: [Week 10-2b In-class: Testing!](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 1. Split class into 2 groups - Group A and Group B
 2. Group A tests with 1st participant (10 mins)

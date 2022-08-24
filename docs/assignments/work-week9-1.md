@@ -2,7 +2,7 @@
 
 ## Details
 
-In-class exercise: [Week 9-1b In-class: User flows validating IA](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+In-class exercise: [Week 9-1b In-class: User flows validating IA](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 We talk a lot about validating and iterating in the design process. Today, you’ll validate your **Information Architecture** and iterate if needed.
 
