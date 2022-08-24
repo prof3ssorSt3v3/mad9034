@@ -40,7 +40,7 @@ Access traditional market research data (if available):
     - Research users of your competitors or similar companies, products or services
 
 
-#### 2. **Decide What To Ask**
+#### 2. **Decide What To Ask** ([A sample script](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/#overview))
 - OVERVIEW 
 - DOMAIN KNOWLEDGE 
 - GOALS
