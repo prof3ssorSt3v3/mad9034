@@ -132,6 +132,7 @@ Links to Adobe software:
 - [Gamification: A guide for designers to a misunderstood concept](https://uxdesign.cc/gamification-aguide-for-designers-to-a-misunderstood-concept-4de5bef0c5d9)
 - [Empty State Best Practices(UI Design)](https://www.justinmind.com/blog/everything-you-need-to-know-about-empty-state-design/)
 - [How to design for AI-enabled UI](https://blog.prototypr.io/how-to-design-for-ai-enabled-ui-77e144e99126)
+- [Building a Design System from scratch](https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/)
 
 
 ### Tutorials
