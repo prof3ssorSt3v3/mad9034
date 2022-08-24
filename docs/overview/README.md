@@ -18,12 +18,16 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 ## Schedule
 
-Zoom Classroom
+**Section 010:** two days :clock1:
 
-**Section 010:** two days :clock7:
+- Tuesday 1pm - 3pm (Virtual)
+- Thursday 1pm - 3pm 
 
-- Tuesday 5pm - 7pm
-- Thursday 5pm - 7pm
+**Section 020:** two days :clock7:
+
+- Tuesday 7pm - 9pm (Virtual)
+- Thursday 6pm - 8pm 
+
 
 ## User Experience Design Process
 
