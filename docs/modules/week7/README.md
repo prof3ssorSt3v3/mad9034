@@ -42,9 +42,8 @@ By the end of this week, students will:
 ### Read
 
 - Review [MAD9020 Week 4 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) – INFORMATION ARCHITECTURE
-- [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
+- [Information Architecture Principles for Mobile (With Infographic)](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)
 - [What is flowchart](https://asq.org/quality-resources/flowchart)
-- [Common flowchart shapes & their meaning](https://creately.com/diagram-type/objects/flowchart)
 - [**Data Architecture v.s. Information Architecture**](https://www.dataversity.net/data-architecture-and-information-architecture-whats-the-difference/)
   - DA, development deliverables: Data structure diagram + High-level architecture
   - IA, UX deliverable: Information architecture diagram, sitemap, wireflow, UX flow map, wireframes
@@ -81,6 +80,6 @@ Read all the notes for Week 9 and watch the videos. This will help you answer po
 - [6. Scenario](../../assignments/assg6.md): Create a usage scenario for your primary persona
 
 **For class 2:** 
-- [7. Information architecture](../../assignments/assg7.md) – Map out the information architecture for your app
+- [7. Information Architecture](../../assignments/assg7.md) – Map out the information architecture for your app
 
 :::
