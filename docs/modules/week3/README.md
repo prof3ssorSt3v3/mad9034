@@ -65,15 +65,14 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 
 - [Week 3-2 Lecture: Prototyping overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 - [Week 3-2b In-class: Prototyping](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Week 3-2b In-class: Prototyping (2021 includes examples)](https://drive.google.com/file/d/1B22CJgD4s214eQirPrl2suz7KylFrzsZ/view?usp=sharing)
 
 
 ## Resources & References for Week 2, 3, 4
 
 ### WatchOS
 - Sketching template: [applewatch_template.pdf](../../files/applewatch_template.pdf)
-- [XD WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps)
-- [WatchOS Visual design guideline: Layout](https://developer.apple.com/design/human-interface-guidelines/watchos/visual-design/layout/)
+- [WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps)
+- [WatchOS Visual design guideline: Layout](https://developer.apple.com/design/human-interface-guidelines/foundations/layout#watchos)
 - [Common Watch OS interaction](https://pbs.twimg.com/media/Dm_StBuU0AE13zI.jpg)
 
 ### Common user testing questions
