@@ -27,7 +27,8 @@ In addition, there will be practical in-class exercises that are marked toward y
 
 Review [**Resources**](../../resources/) page for college digital resources, online books, references, and free software signup information.
 
-Prototype tools: Figma ([Free with full features for students](https://www.figma.com/education/]))
+Use **Figma** [free with full features for students](https://www.figma.com/education/]) to create prototype in this coures. 
+
 
 ## Week 1 - Required preparation for class 2
 
