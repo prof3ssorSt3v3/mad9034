@@ -32,7 +32,7 @@ Submit the 3 screens (ex. Home screen, browse screen, detail screen) as a single
 ## Submission:
 
 ::: warning 
-**Due Thursday November 18 by 11:59pm**
+**Due Thursday November 17 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.

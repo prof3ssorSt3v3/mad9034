@@ -31,7 +31,7 @@ You are to prepare the following documents for usability testing this week:
 ## Submission:
 
 ::: warning 
-**Due Thursday December 02 by 11:59pm**
+**Due Thursday December 01 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.

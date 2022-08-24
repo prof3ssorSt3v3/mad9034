@@ -27,8 +27,8 @@ You will use this UXD slide package in job interviews and you will present it to
 ## Submission
 
 ::: warning
-**Due Tuesday December 14 by 11:59pm**
-- Thursday December 16 by 11:59pm: The last possible day to submit **ANY** work.
+**Due Tuesday December 13 by 11:59pm**
+- Thursday December 15 by 11:59pm: The last possible day to submit **ANY** work.
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.

@@ -17,7 +17,7 @@ For each UX design step, explain why you made certain decisions and how it enhan
 
 ::: warning
 
-**Due Tuesday/Thursday December 14/16 by the end of week 14 class**
+**Due Tuesday/Thursday December 13/15 by the end of week 15 class**
 
 - Your [presenation spot](https://www.random.org/lists/) will be randomly generated/assigned.
 - Each of you will provide feedback to 2 presentors who present after you. 

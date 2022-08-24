@@ -1,4 +1,4 @@
-# Test-ready lo-fi prototype -- testing
+# Test-ready lo-fi prototype
 
 ## Details
 
@@ -37,7 +37,7 @@ To test UI usability, your users should be able to **_browse, navigate to a scre
 ## Submission:
 
 ::: warning 
-**Due Thursday November 11 by 11:59pm**
+**Due Thursday November 10 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
