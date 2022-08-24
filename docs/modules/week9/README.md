@@ -59,14 +59,14 @@ By the end of this week, students will:
 
 **Fun facts**
 
-- [From Android 1.0 to Android 10, here’s how Google’s OS evolved over a decade](https://www.cnet.com/pictures/google-android-versions-history/)
-- [The Evolution of Apple iOS: From iOS 1 to iOS 13](https://appinventiv.com/blog/ios-evolution-timeline/)
+- [Android versions: A living history from 1.0 to 13](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html)
+- [The History of iOS, from Version 1.0 to 16.0](https://www.lifewire.com/ios-versions-4147730)
 
 
 ### Lesson Slides
 
-- [Week 9-2 Lecture: Wireframing & Ideating](https://drive.google.com/file/d/1fG26L72PhUoZQ4cwYWj9GR3pOMnvc_iY/view?usp=sharing)
-- [Week 9-2b In-class: Wireframing & Ideating](https://drive.google.com/file/d/1FWIGg34lpojUXhrzCTeDTMoouuiT_kf-/view?usp=sharing)
+- [Week 9-2 Lecture: Wireframing & Ideating](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 9-2b In-class: Wireframing & Ideating](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 
