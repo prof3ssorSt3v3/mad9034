@@ -8,6 +8,67 @@
 - Include the project topic and group memember names in the submission comment
 - File name: _personaResearch-memberNames.xlsx_ (or PDF)
 
+### The Goal of Persona (User) Research
+Understand user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies to: 
+Produce measurable and actionable results.
+- WHO are you designing for?
+- WHAT are their goals?
+- WHY will they use your app?
+- WHERE, WHEN and HOW do they perform tasks?
+- What are the PROBLEMS with the current way they complete their tasks?
+
+
+### To begin, form a group with 3-4 people working on the same project as you.
+
+1. Identify your users for the primary and secondary persona
+    - Discuss how you will access your users
+2. Decide what questions to ask (slide 20)
+3. Review and customize the [persona research spreadsheet](https://docs.google.com/spreadsheets/d/1oQMsQwGLWMzClIwAz_1pMDOw2DaCgBIaGXyAhFnW7XY/edit?usp=sharing)
+    - Decide what you need to know about your users (demographic info.)
+    - Make adjustments to the spreadsheet
+    - Add/remove any columns you believe are necessary/unnecessary
+
+
+1. **Identify your users for the primary and secondary persona**
+Access traditional market research data (if available):
+- Established user base:
+    - Get existing demographics data
+- If no existing demographics data, survey current users
+    - No user base (new company/product)
+    - Research users of your competitors or similar companies, products or services
+
+
+2. **Decide What To Ask**
+- OVERVIEW 
+- DOMAIN KNOWLEDGE 
+- GOALS
+- ATTITUDES AND MOTIVATIONS
+- PROCESSES 
+- ENVIRONMENT 
+- PAIN POINTS 
+- TOOLS AND TECHNOLOGY 
+- [MENTAL MODELS](https://en.wikipedia.org/wiki/Mental_model)
+- PROJECTING INTO THE FUTURE
+- WRAPPING UP 
+
+
+Tips: 
+- Ask primarily open-ended questions.
+- Ask participants to show more than tell.
+- Ask participants to describe current/past experiences, not imagine future states
+- Ask for specific stories, especially about anything you can’t observe.
+- Some good questions to ask
+    - "Can you tell me about how you/your family currently does X?”
+    - “Can you tell me about your most recent experience doing  X?"
+    - “Can you tell me some of the tools and resources you used?”
+    - “Can you tell me why this is important?” (goals)
+    - “Can you describe any frustrating experiences you have had with X?”
+    - "I notice you [did something] - can you explain that to me?"
+    - At the end: "Do you have any questions for me?"
+
+3. **Decide How To Ask**
+- Individual Interviews
+
 
 ::: tip Note
 
