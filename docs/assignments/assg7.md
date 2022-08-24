@@ -1,4 +1,4 @@
-# Scenario & Information architecture
+# Information architecture
 
 ## Details
 

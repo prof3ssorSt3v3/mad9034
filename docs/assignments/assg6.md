@@ -1,5 +1,4 @@
-# Scenario & Information architecture
-
+# Scenario
 ## Details
 
 ### 1. Backstory – Scenario
