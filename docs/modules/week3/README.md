@@ -44,8 +44,8 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 
 ### Lesson Slides
 
-- [Week 3-1 Lecture: Ideation overview](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 3-1b In-class: Brainstorming](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 3-1 Lecture: Ideation overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 3-1b In-class: Brainstorming](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 - [Apple Watch - Human Interface Guidelines & User Experience](https://drive.google.com/file/d/1h8T4Vd7_1JalElUmhtcd2S77A_v8ycws/view?usp=sharing)
 
 
@@ -63,8 +63,8 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 
 ### Lesson Slides
 
-- [Week 3-2 Lecture: Prototyping overview](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 3-2b In-class: Prototyping](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 3-2 Lecture: Prototyping overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 3-2b In-class: Prototyping](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 - [Week 3-2b In-class: Prototyping (includes examples)](https://drive.google.com/file/d/1B22CJgD4s214eQirPrl2suz7KylFrzsZ/view?usp=sharing)
 
 
