@@ -47,8 +47,6 @@ Links to Adobe software:
 
 ### Tools
 
-[**Free wireframe/prototype tools**: Confidential Sign Up info on BSp LMS](https://brightspace.algonquincollege.com/d2l/le/content/317262/Home)
-
 - Graphics
     - [Squoosh app (image optimization)](https://squoosh.app/)
     - [CSS Gradient Generator](https://cssgradient.io/)
@@ -149,5 +147,4 @@ Links to Adobe software:
 
 - [Android App on pttrns.:](https://pttrns.com/android-patterns)
 - [Apple Design Awards:](https://developer.apple.com/design/awards/)
-    - [Top 9 Apps Of 2019](https://www.mobileappdaily.com/apple-design-awards)
 - [10 Progressive Web App Examples that Brand Owners can Learn From](https://www.iflexion.com/blog/pwa-examples)
