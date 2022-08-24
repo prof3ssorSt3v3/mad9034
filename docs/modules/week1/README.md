@@ -27,7 +27,7 @@ In addition, there will be practical in-class exercises that are marked toward y
 
 Review [**Resources**](../../resources/) page for college digital resources, online books, references, and free software signup information.
 
-Use **Figma** [free with full features for students](https://www.figma.com/education/]) to create prototype in this coures. 
+Use [**Figma**, free with full features for students](https://www.figma.com/education/]) to create prototype in this coures. 
 
 
 ## Week 1 - Required preparation for class 2
@@ -43,7 +43,7 @@ Use **Figma** [free with full features for students](https://www.figma.com/educa
 - [Week 1-1 Lecture: UXD Overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
-### Figma – Self-guided learning
+### Figma – Self-guided Learning
 
 Learn Figma with in-depth tutorials and quick tips and tricks. 
 - Tutorials: [Figma for Beginners (4 parts)](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts-)
