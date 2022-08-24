@@ -31,7 +31,7 @@ Produce measurable and actionable results.
 5. Begin your interviews
 
 
-1. **Identify your users for the primary and secondary persona**
+#### 1. **Identify your users for the primary and secondary persona**
 Access traditional market research data (if available):
 - Established user base:
     - Get existing demographics data
@@ -40,7 +40,7 @@ Access traditional market research data (if available):
     - Research users of your competitors or similar companies, products or services
 
 
-2. **Decide What To Ask** to create interview script and protocols
+#### 2. **Decide What To Ask** to create interview script and protocols
 - OVERVIEW 
 - DOMAIN KNOWLEDGE 
 - GOALS
