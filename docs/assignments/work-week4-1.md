@@ -2,7 +2,7 @@
 
 ## Details
 
-In-class exercise: [Week 4-1b In-class: User testing](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+In-class exercise: [Week 4-1b In-class: User testing](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 - Test your prototypes on classmates.
 - Each group will test their paper prototype on 3 classmates, asking them to complete key tasks.
