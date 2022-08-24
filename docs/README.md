@@ -15,7 +15,7 @@ footer: Authored by SuCheng Lee & Laura Olac ~ Copyright © 2022, Algonquin Coll
 
 <ContactCard 
   name="SuCheng Lee"
-  img-url="/F2021/slee_h.png"
+  img-url="/f2022/slee_h.png"
   bio="Professor of the Mobile Application Design & Development program at Algonquin College"
   :details="[
       { label: 'email', value: 'lees1@algonquincollge.com' }, 
