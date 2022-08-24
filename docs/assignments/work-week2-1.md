@@ -2,7 +2,7 @@
 
 ## Details
 
-In-class exercise: [Week 2-1b In-class: Mini-project Intro, research script](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+In-class exercise: [Week 2-1b In-class: Mini-project Intro, research script (slide 14 to 18)](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 Work in groups of 3-4 to create a quick research plan/script to learn about people's fitness-tracker use/habits. Your questions should help you learn specifically about:
 
