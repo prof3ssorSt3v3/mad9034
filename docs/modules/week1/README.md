@@ -32,7 +32,6 @@ Review [**Resources**](../../resources/) page for college digital resources, onl
 ### Read
 
 - [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
-- [Design thinking comes of age](https://hbr.org/2015/09/design-thinking-comes-of-age)
 - [Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative?](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/)
 
 
