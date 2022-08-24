@@ -26,8 +26,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 2-1 Lecture: - Research Overview](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 2-1b In-class: Mini-project Intro, research script](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 2-1 Lecture: - Research Overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 2-1b In-class: Mini-project Intro, research script](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Week 2 - Required preparation for class 2
@@ -38,24 +38,24 @@ By the end of this week, students will:
 ### Read
 
 - [How to make sense of your design research](https://uxdesign.cc/synthesis-how-to-make-sense-of-your-design-research-d67ad79b684b)
-- [3 WatchOS 7 features that'll forever change the way you use your Apple Watch](https://www.cnet.com/how-to/3-watchos-7-features-thatll-forever-change-the-way-you-use-your-apple-watch/)
+- [WatchOS 9 Preview](https://www.apple.com/ca/watchos/watchos-preview/)
 
 ### Watch
 
-- [What's new in watchOS7 design](https://developer.apple.com/videos/play/wwdc2020/10171/)
+- [What's new in watchOS 8 design](https://developer.apple.com/videos/play/wwdc2021/10002/)
 
 
 ### Lesson Slides
 
-- [Week 2-2 Lecture: Analysis](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
-- [Week 2-2b In-class: Synthesizing research results](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y)
+- [Week 2-2 Lecture: Analysis](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 2-2b In-class: Synthesizing research results](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 - [Week 2-2b In-Class: Synthesizing research results (including examples)](https://drive.google.com/file/d/1uB9wB0e-kuSieYBcGacC7Y7QqSJ4IQ9n/view?usp=sharing)
 
 ### Resources
 
 - [User Research Basics Guide](https://drive.google.com/file/d/1yHLHBRK689wF49iE5Q4PNu33gMfHrbJC/view?usp=sharing)
 - [How to create a user interview script](https://drive.google.com/file/d/1h-idGXxdnd4OKADDpccpdNdLBLalME0o/view?usp=sharing)
-- [Mural sign up](https://start.mural.co/free-forever?utm_medium=paid-search&utm_source=adwords&utm_campaign=201101-Core_Brand&utm_adgroup=MURAL_-_Branded&utm_campaign_id=11265145092&utm_content=mural%20sign%20up&utm_adgroupid=109231331743&gclid=Cj0KCQjws4aKBhDPARIsAIWH0JXVxyfldvsY8uTiF-_X3-PW_OgzBCPlGbFqifn0O9HyHpdK-4zPpU4aAvWhEALw_wcB)
+- [miro sign up](https://help.miro.com/hc/en-us/articles/360017730473-Education-plan)
 
 ## TODO
 
