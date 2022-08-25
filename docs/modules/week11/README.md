@@ -48,7 +48,7 @@ By the end of this week, students will:
 
 **Further reading**
 
-- [Common user interface elements](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)
+- [UI Control Guidelines](https://balsamiq.com/learn/ui-control-guidelines/)
 - [10 Essential Types of App Screens in Mobile UI Design You Should Know — and a few more!](https://cadabra.studio/blog/10-types-of-app-screens-you-should-know)
 
 
