@@ -46,7 +46,7 @@ By the end of this week, students will:
 
 - [Micro-interactions in User Experience](https://www.nngroup.com/articles/microinteractions/)
 - [Creating usability with motion](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-- [iOS Motion Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/animation)
+- [iOS Motion Guidelines](https://developer.apple.com/design/human-interface-guidelines/foundations/motion/)
 - [Material Design Motion Guidelines](https://material.io/design/motion/understanding-motion.html) - Motion helps make a UI expressive and easy to use.
 
 
