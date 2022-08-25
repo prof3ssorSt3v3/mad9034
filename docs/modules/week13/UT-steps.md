@@ -68,7 +68,7 @@ Note: Whenever possible, record each test session.
 
 - Take detailed notes of each user's behaviour, comments, errors and completion (success or failure) Note: Use Quantitative Metrics from your Test Plan
 - Review the errors or issues found to identify any required changes to the Visual Design and/or your Interactive Prototype(visual mockups)
-- A quick summary of each test
+- Summarize each test
     - ParticipantID (e.g. Tester 1)
     - Timecode of the issue (When have a video recording of your session, E.g. 24:12)
     - A brief description of the issue
