@@ -25,8 +25,6 @@ By the end of this week, students will:
 ### Read
 
 - [Principles for Usable Design](http://www.usabilitybok.org/principles-for-usable-design)
-- [An Extension of What You Should Already Know – UX for Mobile Applications](https://www.interaction-design.org/literature/article/an-extension-of-what-you-should-already-know-ux-for-mobile-applications)
-- [Functionality and Mobile Design – Don’t Shrink the Screen, Focus on the Tasks](https://www.interaction-design.org/literature/article/functionality-and-mobile-design-don-t-shrink-the-screen-focus-on-the-tasks)
 - [Shneiderman’s Eight Golden Rules Will Help You Design Better Interfaces](https://www.interaction-design.org/literature/article/shneiderman-s-eight-golden-rules-will-help-you-design-better-interfaces)
 - [What is a Progressive Web App?](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction) 
 - [MACHINE LEARNING IN MOBILE APPLICATIONS](https://theappsolutions.com/blog/development/machine-learning-in-mobile-app/)
