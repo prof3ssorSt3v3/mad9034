@@ -36,8 +36,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 12-1 Lecture: Visual Design](https://drive.google.com/file/d/1wQc-486vbVOJNb4El0a0Jy5yh3zS1rfE/view?usp=sharing)
-- [Week 12-1b In-class: Visual design](https://drive.google.com/file/d/1oIZBn6g8uHmTF2N9mQGNUiuM9w9Hcx4F/view?usp=sharing)
+- [Week 12-1 Lecture: Visual Design](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 12-1b In-class: Visual design](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Week 12 - Required preparation for class 2
@@ -57,13 +57,11 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 12-2 Lecture: Animation, transitions and interactivity](https://drive.google.com/file/d/1zssMMhoFa1kDUaZlup9WXGzsv5HFAjDk/view?usp=sharing)
+- [Week 12-2 Lecture: Animation, transitions and interactivity](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Reference
 
-- [XD 2020 New features](https://helpx.adobe.com/ca/xd/help/whats-new/2020.html)
-  - [XD Pro tip](https://letsxd.com/whats-new)
 - [Chips design guidelines for Android, iOS, Web, Flutter:  Chips are compact elements that represent an input, attribute, or action.](https://material.io/components/chips/)
 - [Search bars & Scope bars in iOS](https://developer.apple.com/design/human-interface-guidelines/ios/bars/search-bars/)
 - [Search/filter patterns](https://pttrns.com/?scid=38)
@@ -84,7 +82,7 @@ By the end of this week, students will:
 - [8. Visual design](../../assignments/assg8.md)
 
 **For class 2:** 
-- Complete [8. Visual design](../../assignments/assg8.md) – Due by midnight
+- Complete [9. Visual design](../../assignments/assg9.md) – Due by midnight
 - Begin **interactive visual mockups (prototype)** which will be used for user testing, final presentation, and final project submission.
 
   :::
