@@ -23,7 +23,7 @@ Complete and come to class with:
 - Usability test notes
 - Usabiilty test recordings
 
-Review [Usability Testing Steps for your final project](https://mad9034.github.io/F2020/modules/week13/UT-steps.html#step-4-report)
+Review [Usability Testing Steps for your final project](../week13/UT-steps.md#step-4-report)
 
 
 ### References 
@@ -38,15 +38,15 @@ Review [Usability Testing Steps for your final project](https://mad9034.github.i
 
 ### Lesson Slides
 
-- [Week 14-1 Lecture: Usability test reporting](https://drive.google.com/file/d/1IS5ZY0GwGauWjeHR4zLhEbA6y2w6J9MS/view?usp=sharing)
-- [Week 14-1b In-class: Usability test analysis](https://drive.google.com/file/d/1njgD-dX1ZaxbFJBzri9cHxP-eNVbf-WN/view?usp=sharing)
+- [Week 14-1 Lecture: Usability test reporting](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 14-1b In-class: Usability test analysis](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
  
 
 ## Week 14 - Required preparation for class 2
 
 ### Read Lesson Slides
 
-- [Week 14-2 Lecture: Presenting your work](https://drive.google.com/file/d/1deCNvTD4HCrQ4vBdya40fnsETpSbJbLR/view?usp=sharing)
+- [Week 14-2 Lecture: Presenting your work](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 
@@ -60,7 +60,7 @@ Review [Usability Testing Steps for your final project](https://mad9034.github.i
 
 **For class 1:** 
 - Week 14 Class 1 work: 
-  - [Incorporating usability test feedback](https://drive.google.com/drive/folders/1NIPEEpSmhYMkEWt5WsQyFekJgUcB-2-y) (Week 14-1b In-class slides)
+  - [Incorporating usability test feedback](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7) (Week 14-1b In-class slides)
   - Improve usability of the product based on your usability testing findings.
   - Start on your [Final project](../../assignments/proj.md) – UXD Portfolio Slide Package
 

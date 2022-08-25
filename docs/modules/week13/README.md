@@ -37,8 +37,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 13-1 Lecture: Testing. (Again!)](https://drive.google.com/file/d/1O3lqecrP2aPHUEqPE_rKfjqw2F9GUB6N/view?usp=sharing)
-- [Week 13-1b In-class: Test documentation](https://drive.google.com/file/d/10gR1vUIr5dxdc2B3PRAks_DIlO4Wky2H/view?usp=sharing)
+- [Week 13-1 Lecture: Testing. (Again!)](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 13-1b In-class: Test documentation](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Week 13 - Required preparation for class 2
@@ -68,8 +68,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 13-2 Lecture: How to run a test](https://drive.google.com/file/d/1Ky5Y3uOEApQs4sNqYa0ALLp6DlX66kRC/view?usp=sharing)
-- [Week 13-2b In-class: Logistics for testing](https://drive.google.com/file/d/1Aoq3suG2jn2der7-JbzyJuDnVRi3ASGi/view?usp=sharing)
+- [Week 13-2 Lecture: How to run a test](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 13-2b In-class: Logistics for testing](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## TODO

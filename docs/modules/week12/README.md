@@ -61,7 +61,7 @@ By the end of this week, students will:
 - [Chips design guidelines for Android, iOS, Web, Flutter:  Chips are compact elements that represent an input, attribute, or action.](https://material.io/components/chips/)
 - [Search bars & Scope bars in iOS](https://developer.apple.com/design/human-interface-guidelines/ios/bars/search-bars/)
 - [Search/filter patterns](https://pttrns.com/?scid=38)
-- - [Designing with accessible colors](https://codelabs.developers.google.com/color-contrast-accessibility#0)
+- [Designing with accessible colors](https://codelabs.developers.google.com/color-contrast-accessibility#0)
 - [Material Design color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
 - [Adobe color tool](https://color.adobe.com/create)
 - Do you keep both the < (back arrow) and bottom nav on the UI screen? It depends!
