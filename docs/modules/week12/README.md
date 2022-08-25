@@ -65,6 +65,7 @@ By the end of this week, students will:
 - [Material Design color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
 - [Adobe color tool](https://color.adobe.com/create)
 - Do you keep both the < (back arrow) and bottom nav on the UI screen? It depends!
+- [M3 Typography – Applying Type](https://m3.material.io/styles/typography/applying-type)
 
 
 ## TODO
@@ -76,7 +77,7 @@ By the end of this week, students will:
 ### Assignments
 
 **For class 1:** 
-- [8. Visual design](../../assignments/assg8.md)
+- [9. Visual design](../../assignments/assg9.md)
 
 **For class 2:** 
 - Complete [9. Visual design](../../assignments/assg9.md) – Due by midnight
