@@ -45,7 +45,7 @@ By the end of this week, students will:
 
 ### Read
 
-- [A student example: From Usage Scenario to Usability Testing Script](http://tiny.cc/x4qahz)
+- [A student example: From Usage Scenario to Usability Testing Script](https://docs.google.com/document/d/11Wl25D13YRw-hFzv1go7S_J69QHwvK4EgwKS65-WHL4/edit?usp=sharing)
 - [Note taker's guide by usability.gov](https://drive.google.com/file/d/1hY5bYEwERtWA3r8SVR9uiusl6yTXbAbK/view?usp=sharing)
 
 
