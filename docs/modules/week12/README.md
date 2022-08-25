@@ -23,11 +23,10 @@ By the end of this week, students will:
 
 ### Read
 
-- [Visual Design Basics](https://www.usability.gov/what-and-why/visual-design.html)
-- [Color Theory: Brief Guide For Designers](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)  
-- [A guide to color accessibility in product design | Inside Design](https://www.invisionapp.com/inside-design/color-accessibility-product-design/)
+- [Color in Design: Influence on Users' Actions](https://blog.tubikstudio.com/color-in-design-influence-on-users-actions/)
+- [Designing for accessibility is not that hard](https://www.invisionapp.com/inside-design/designing-accessibility-not-hard/)
 - [10 Tips On Typography in Web Design](https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d)
-- Review [MAD9020 Week 3 lecture slides #12-46](https://drive.google.com/drive/folders/10NKQiCrXfsCbgcqM-RBrD-dckCa3FbI-) & [MAD9020 Week 11 slides #36-42](https://drive.google.com/drive/folders/10NKQiCrXfsCbgcqM-RBrD-dckCa3FbI-)
+- Review [MAD9020 Week 3 lecture slides #12-46](https://drive.google.com/file/d/1C6AejW7qJrj_Hde8OK0fX1ODsQef7nyu/view?usp=sharing) & [MAD9020 Week 11 slides #36-42](https://drive.google.com/file/d/1woBTepETd0VDYkxHcCFXvVOJEFqky3_H/view?usp=sharing)
 
 
 ### Watch
