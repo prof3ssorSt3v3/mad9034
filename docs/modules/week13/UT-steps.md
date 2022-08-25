@@ -4,7 +4,7 @@ Mobile Application Usability Testing Process
 
 ## Step 1: Preparation
 
-Using your interactive prototype(visual mockups) with your [test plan](../assignments/assg10.md), conduct a usability test with **3 test participants** for the **2 scenarios**: your own scenario + one additional scenario 
+Using your interactive prototype(visual mockups) with your [test plan](../../assignments/assg10.md), conduct a usability test with **3 test participants** for the **2 scenarios**: your own scenario + one additional scenario 
 
 - Resource: [Testing Documentation templates](https://drive.google.com/drive/folders/1ptUqGDPzOlM0b6RmY-wLnAHXryZgBmS6)
 
