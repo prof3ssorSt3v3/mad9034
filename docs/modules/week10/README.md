@@ -34,8 +34,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 10-1 Lecture: Prototyping](https://drive.google.com/file/d/1bGu_vtADNQZ_dq0DvkaMbWdWWOK4zRgJ/view?usp=sharing)
-- [Week 10-1b In-class: Paper prototyping](https://drive.google.com/file/d/17gKWPAM-nSiWLTY_2ZsfqKK3uWxf5NgP/view?usp=sharing)
+- [Week 10-1 Lecture: Prototyping](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 10-1b In-class: Paper prototyping](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## Week 10 - Required preparation for class 2
@@ -58,8 +58,8 @@ By the end of this week, students will:
 
 ### Lesson Slides
 
-- [Week 10-2 Lecture: Concept Testing](https://drive.google.com/file/d/1u-va6prLlv3RN1xilGpUc-QDnpMGfN-8/view?usp=sharing)
-- [Week 10-2b In-class: Testing!](hhttps://drive.google.com/file/d/1-h19eTGm9AIfw9dZK87C0yV5rBf86UA-/view?usp=sharing)
+- [Week 10-2 Lecture: Concept Testing](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- [Week 10-2b In-class: Testing!](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
 
 ## TODO
@@ -71,7 +71,7 @@ By the end of this week, students will:
 ### Assignments
 
 **For class 1:** 
-- Week 10 Class 1 work: Complete [7. Test-ready lo-fi prototype](../../assignments/assg7.md) for teacher's feedback before the end of the class. 
+- Week 10 Class 1 work: Complete [8. Test-ready lo-fi prototype](../../assignments/assg8.md) for teacher's feedback before the end of the class. 
 
 **For class 2:** 
 - [Week 10 Class 2 work - Concept testing](../../assignments/work-week10-2.md)
