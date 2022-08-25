@@ -88,7 +88,7 @@ Note: Whenever possible, record each test session.
 
 
 
-## Logistics of Usability Testing
+## LOGISTICS OF UT
 
 **Before Tests**
 - Ensure your prototype supports your test plan & script
