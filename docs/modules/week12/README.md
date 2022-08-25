@@ -25,13 +25,9 @@ By the end of this week, students will:
 
 - [Color in Design: Influence on Users' Actions](https://blog.tubikstudio.com/color-in-design-influence-on-users-actions/)
 - [Designing for accessibility is not that hard](https://www.invisionapp.com/inside-design/designing-accessibility-not-hard/)
-- [10 Tips On Typography in Web Design](https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d)
+- [Guide for designing better mobile apps typography](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f)
 - Review [MAD9020 Week 3 lecture slides #12-46](https://drive.google.com/file/d/1C6AejW7qJrj_Hde8OK0fX1ODsQef7nyu/view?usp=sharing) & [MAD9020 Week 11 slides #36-42](https://drive.google.com/file/d/1woBTepETd0VDYkxHcCFXvVOJEFqky3_H/view?usp=sharing)
 
-
-### Watch
-
-- [Visual Design Principles: 5 things you should know to create persuasive content](https://youtu.be/lKqqA4fCDzA)
 
 
 ### Lesson Slides
@@ -65,6 +61,7 @@ By the end of this week, students will:
 - [Chips design guidelines for Android, iOS, Web, Flutter:  Chips are compact elements that represent an input, attribute, or action.](https://material.io/components/chips/)
 - [Search bars & Scope bars in iOS](https://developer.apple.com/design/human-interface-guidelines/ios/bars/search-bars/)
 - [Search/filter patterns](https://pttrns.com/?scid=38)
+- - [Designing with accessible colors](https://codelabs.developers.google.com/color-contrast-accessibility#0)
 - [Material Design color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
 - [Adobe color tool](https://color.adobe.com/create)
 - Do you keep both the < (back arrow) and bottom nav on the UI screen? It depends!
