@@ -28,9 +28,10 @@ By the end of this week, students will:
 - [What kind of prototype should you create?](https://www.interaction-design.org/literature/article/what-kind-of-prototype-should-you-create)
 - [Paper Prototyping As A Usability Testing Technique](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
 
-**Reference reading**
+**Reference**
 
-- [Device Vortex](https://www.nngroup.com/articles/device-vortex)
+- Watch [Device Vortex](https://youtu.be/hVtTQPBAaDw) Or, 
+- [Read about Device Vortex](https://www.nngroup.com/articles/device-vortex/)
 
 ### Lesson Slides
 
