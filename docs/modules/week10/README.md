@@ -30,7 +30,7 @@ By the end of this week, students will:
 
 **Reference**
 
-- Watch [Device Vortex](https://youtu.be/hVtTQPBAaDw) Or, 
+- Watch this video to learn about [Device Vortex](https://youtu.be/hVtTQPBAaDw), or 
 - [Read about Device Vortex](https://www.nngroup.com/articles/device-vortex/)
 
 ### Lesson Slides
