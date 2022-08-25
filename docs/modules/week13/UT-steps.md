@@ -33,7 +33,7 @@ Using your interactive prototype(visual mockups) with your [test plan](../../ass
         - Think aloud method: Ask users to say what they are looking at, what they are trying to do, and what they are thinking.
 2. Collect Demongraphic information:
     - Take the participant's demographic information: Full Name, Gender, Age Range, Occupation, Browsing Device, Technical Ability etc. 
-3. Assign the tasks (scenarios from your Test Plan/Test Script)
+3. **Assign the tasks** (scenarios from your Test Plan/Test Script)
     - The test user walks through test scenarios. 
     - The researcher observes the performed task and takes notes on the steps taken by the user.
 
@@ -85,3 +85,32 @@ Note: Whenever possible, record each test session.
     1. What issues did the participants have while interacting with the prototype(visual mockups)?
     2. Based on the issues, what changes did you have to make to your visual design & interactive prototype(visual mockups) to improve usability?
     3. How does your App meet the persona goals?
+
+
+
+## Logistics of Usability Testing
+
+**Before test**
+- Ensure your prototype supports your test plan & script
+    - Include sufficient screens/states in the interactive prototype (visual mockups) 
+    - Ensure your script acknowledges gaps in functionality (404 coming soon)
+- Test material: Test plan, prototype, and test script & test notes 
+- DO A PILOT TEST!!  (aim for approx 20 mins test e.g. with your classmate/test partner)
+
+**Test**
+- Decide if you want to take your own notes, or partner up with a classmate to take notes for each other.
+- Find a participant. 
+- Run your test, while your note taker takes notes.
+- Try to limit it to about 20 mins.
+- When finished, take 5 mins to sync with your note taker (if you have one) or just jot down any additional notes
+- Repeat with the next participant! (Take turns if you have a partner)
+- Make sure you each perform your test on 3 participants
+
+**Best Practices**
+- Make sure your participant feels comfortable.
+- Silent pauses are ok. Focus on watching and listening.
+- Remain neutral. Do not show disappointment if tasks fail.
+- Avoid leading questions or comments.
+- If participant asks for help, start with “What do you think?”
+- Stick to the script!
+- Watch the clock!
