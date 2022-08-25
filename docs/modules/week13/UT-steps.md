@@ -90,7 +90,7 @@ Note: Whenever possible, record each test session.
 
 ## Logistics of Usability Testing
 
-**Before test**
+**Before Tests**
 - Ensure your prototype supports your test plan & script
     - Include sufficient screens/states in the interactive prototype (visual mockups) 
     - Ensure your script acknowledges gaps in functionality (404 coming soon)
