@@ -40,7 +40,7 @@ By the end of this week, students will:
 ### Read
 
 - [5 reasons you should embrace uncertainty as a designer](https://medium.com/@MartijnvdBroeck/5-reasons-why-every-designer-should-embrace-uncertainty-670341b6c64e) 
-- [Lean UX is about mitigating risk](https://medium.com/@drewmck/lean-ux-is-about-reducing-risk-1d7d505d2881)
+- [Lean UX is about reducing risk](https://medium.com/@drewmck/lean-ux-is-about-reducing-risk-1d7d505d2881)
 - Review [MAD9020 Week 3 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing)
   - DESIGN PRINCIPLES: slide 20 – 45 
   - USABILITY HEURISTICS: slide 53 – 63
