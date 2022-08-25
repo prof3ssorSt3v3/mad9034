@@ -83,6 +83,6 @@ By the end of this week, students will:
 - Re-submit validated scenario & IA at the end of class
 
 **For class 2:** 
-- [7. Test-ready lo-fi prototype](../../assignments/assg7.md)
+- [7. Test-ready lo-fi prototype](../../assignments/assg8.md)
 
   :::
