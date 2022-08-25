@@ -16,7 +16,7 @@ You are to prepare the following documents for usability testing this week:
 
 **NOTE:** Submit testing documentations which include: Test plan, test script, NDA, test-ready prototype.
 - You will use this work to complete usability testing before Week 14-1 class.
-- [Usability Testing Steps](//modules/week13/UT-steps.md)
+- [Usability Testing Steps](../modules/week13/UT-steps.md)
 
 
 ### Resources:
