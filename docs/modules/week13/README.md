@@ -21,7 +21,7 @@ By the end of this week, students will:
 ### Read
 - [Usability Testing](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
 - [User interviews v.s. Usability testing](https://www.nngroup.com/articles/user-interviews/)
-- [Usability Testing Steps for your final project](https://mad9034.github.io/F2020/modules/week13/UT-steps.html)
+- [Usability Testing Steps for your final project](UT-steps.md)
 
 ### Watch
 
