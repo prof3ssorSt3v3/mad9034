@@ -19,16 +19,14 @@ By the end of this week, students will:
 ## Week 13 - Required preparation for class 1
 
 ### Read
-- [Usability Testing](https://www.usability.gov/how-to-and-tools/methods/usability-testing.html)
+- [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)
 - [User interviews v.s. Usability testing](https://www.nngroup.com/articles/user-interviews/)
 - [Usability Testing Steps for your final project](UT-steps.md)
 
-### Watch
 
-- UX Foundations: Usability Testing (LinkedIn Learning)
-  - [What is usability testing](https://www.linkedin.com/learning/ux-foundations-usability-testing/what-is-usability-testing?u=2199673)
-  - [Creating a Test Plan](https://www.linkedin.com/learning/ux-foundations-usability-testing/creating-a-test-plan?resume=false&u=2199673)
-  - [How to Test Visual Design(2:42 mins)](https://www.nngroup.com/videos/how-test-visual-design/)
+### Watch
+- [Usability Testing 101](https://youtu.be/n8MnoJyl3W4)
+- [How to Test Visual Design(2:42 mins)](https://www.nngroup.com/videos/how-test-visual-design/)
 
 
 ### References
