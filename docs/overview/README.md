@@ -26,8 +26,8 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 **Section 020:** two days
 
-- Tuesday :clock7: 7pm - 9pm 
-- Thursday :clock6: 6pm - 8pm (Virtual)
+- :clock7: Tuesday 7pm - 9pm 
+- :clock6: Thursday 6pm - 8pm (Virtual)
 
 
 ## User Experience Design Process
