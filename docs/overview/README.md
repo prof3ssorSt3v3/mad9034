@@ -19,10 +19,10 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 ## Schedule
 
-**Section 010:** two days :clock1:
+**Section 010:** two days
 
-- Tuesday :clock12: 12pm - 2pm (Virtual)
-- Thursday :clock1: 1pm - 3pm 
+- :clock12: Tuesday 12pm - 2pm (Virtual)
+- :clock1: Thursday 1pm - 3pm 
 
 **Section 020:** two days
 
