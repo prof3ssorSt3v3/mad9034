@@ -108,7 +108,7 @@ Links to Adobe software:
     - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
         - [The iOS 15 Design Guidelines: An Illustrated Guide](https://learnui.design/blog/ios-design-guidelines-templates.html)
     - [Android Design Guidelines](https://developer.android.com/design/)
-    - [Material Design 2](https://material.io/design) & [Material Design 3]()
+    - [Material Design 2](https://material.io/design) & [Material Design 3](https://m3.material.io/)
     - [Progressive Web App Design Best Practices](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 
 - Platform Specific Design Resources
