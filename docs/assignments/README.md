@@ -76,7 +76,7 @@ Worth <Badge type="error" text="30%"/> of Final Grade
 
 <Badge text="Due Thur. Nov 24 by 11:59pm"/>
 
-[Assignment 9 details (10%)](./assg9.md)
+[Assignment 9 details (5%)](./assg9.md)
 
 
 ### 10. Testing documentation
