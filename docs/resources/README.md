@@ -148,6 +148,6 @@ Links to Adobe software:
 
 ### UI Design Examples
 
-- [Android App on pttrns.:](https://pttrns.com/android-patterns)
+- [User Interface Design patterns:](https://ui-patterns.com/)
 - [Apple Design Awards:](https://developer.apple.com/design/awards/)
 - [10 Progressive Web App Examples that Brand Owners can Learn From](https://www.iflexion.com/blog/pwa-examples)
