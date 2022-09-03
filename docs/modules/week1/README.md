@@ -27,7 +27,7 @@ In addition, there will be practical in-class exercises that are marked toward y
 
 Review [**Resources**](../../resources/) page for college digital resources, online books, references, and free software signup information.
 
-Use [**Figma**, free with full features for students](https://www.figma.com/education/]) to create prototype in this coures; [**miro.com**](https://miro.com/education-whiteboard/) and **Google Drive** for group work. 
+You will use [**Figma**](https://www.figma.com/education/]) to create prototype in this coures, [**miro.com**](https://miro.com/education-whiteboard/) and **Google Drive** for group work. 
 
 
 ## Week 1 - Required preparation for class 2
