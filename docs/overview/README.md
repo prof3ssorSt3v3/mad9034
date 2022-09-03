@@ -65,7 +65,7 @@ In-class work progress review is part of the performance assessment. A student m
 
 ### Copyright
 
-This course complies with the college directives. Please complete **Plagiarism Declaration** [Section 010](https://brightspace.algonquincollege.com/d2l/le/content/474453/viewContent/7112658/View) / [Section 020](https://brightspace.algonquincollege.com/d2l/le/content/474453/Home)
+This course complies with the college directives. Please complete [**Plagiarism Declaration**](https://brightspace.algonquincollege.com/d2l/le/content/474453/viewContent/7112658/View)
 
 ## Contacts
 
