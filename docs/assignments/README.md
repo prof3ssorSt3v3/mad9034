@@ -3,9 +3,7 @@
 
 Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others. There will be four pass/fail assignments (20%), five graded assignments (30%), midterm (10%), final project(30%) and final presentation (10%).
 
-[BS LMS MAD9034_010 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=282599&isprv=0)
-
-[BS LMS MAD9034_020 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=282599&isprv=0)
+[BS LMS MAD9034_010_020 Assignments page](https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folders_list.d2l?ou=474453&isprv=0)
 
 
 ## Group assignments
