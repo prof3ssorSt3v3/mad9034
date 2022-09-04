@@ -103,6 +103,7 @@ Links to Adobe software:
 - [Icons and Photos For Everything](https://thenounproject.com/)
 - [Laws of UX](https://lawsofux.com/) 
 - [Designing for Readability – A Guide to Web Typography](https://www.toptal.com/designers/typography/web-typography-infographic)
+- User Research: [15 Common Rating Scales Explained](https://measuringu.com/rating-scales/)
 
 - Platform Specific Guidelines
     - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
