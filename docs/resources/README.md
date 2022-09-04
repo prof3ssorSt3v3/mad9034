@@ -103,7 +103,9 @@ Links to Adobe software:
 - [Icons and Photos For Everything](https://thenounproject.com/)
 - [Laws of UX](https://lawsofux.com/) 
 - [Designing for Readability – A Guide to Web Typography](https://www.toptal.com/designers/typography/web-typography-infographic)
-- User Research: [15 Common Rating Scales Explained](https://measuringu.com/rating-scales/)
+- User Research
+    - [15 Common Rating Scales Explained](https://measuringu.com/rating-scales/)
+    - [Likert-Type Scale Response Anchors (PDF)](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://media.clemson.edu/cbshs/prtm/research/resources-for-research-page-2/Vagias-Likert-Type-Scale-Response-Anchors.pdf)
 
 - Platform Specific Guidelines
     - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
