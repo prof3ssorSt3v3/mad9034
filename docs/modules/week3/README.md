@@ -34,7 +34,7 @@ Google has developed its own set of Design Sprint toolkit. Let's read through th
     - Designing for watchOS
     - Best practices
     - Resources
-  - [Components](https://developer.apple.com/design/human-interface-guidelines/components/all-components)
+  - [Components - watchOS](https://developer.apple.com/design/human-interface-guidelines/components/all-components)
 
 
 ### Watch
