@@ -30,11 +30,11 @@ Google has developed its own set of Design Sprint toolkit. Let's read through th
   - [Solution Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/solution-sketch)
 
 [AppleWatch guidelines](https://developer.apple.com/design/human-interface-guidelines/watchos/overview/getting-started/) - Be sure to read:
-  - [Platform](https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-watchos)
+  - **Platform**
     - Designing for watchOS
     - Best practices
     - Resources
-  - [Components - watchOS](https://developer.apple.com/design/human-interface-guidelines/components/all-components)
+  - [**Components** - Use filter to see watchOS components](https://developer.apple.com/design/human-interface-guidelines/components/all-components)
 
 
 ### Watch
