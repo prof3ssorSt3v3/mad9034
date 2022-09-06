@@ -96,6 +96,7 @@ Links to Adobe software:
         - [w3schools tool:](https://www.w3schools.com/colors/colors_picker.asp)
     - Online colorizer: [http://paletton.com](http://paletton.com)
     - [Open Source Color System](https://www.opensourcecolorsystem.design/)
+    - [Color Phsycology PDF Book](https://www.behavioraldesign.academy/color-psychology/color-psychology-book-download3-7841 )
 
 ### Design Resources
 
