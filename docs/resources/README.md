@@ -58,7 +58,7 @@ Links to Adobe software:
 
 - Paper prototype templates
     - Download 1: [sneakpeekit.com](https://sneakpeekit.com/)
-    - Download 2: [alterspark.com](https://www.alterspark.com/wp-content/uploads/documents/alterspark-digital-psychology-wireframe-kit_letter-size_v103.pdf)
+    - Download 2: [Paper Wireframe PDF](https://www.behavioraldesign.academy/guides/wireframe-kit-download3-9546 )
 
 - Information Architecture (Free educational diagram tools):
     - [app.moqups.com](https://app.moqups.com)
