@@ -13,11 +13,11 @@ You will:
 
 ::: tip Problem Statement
 
-We spoke to _____________ (describe persona) ____________________________________
+We spoke to ________________ (describe persona) 
 
-We noticed that ________ (describe challenge or opportunity) __________________________
+We noticed that ________________ (describe challenge or opportunity)
 
-We want to help with _____ (describe specifically what your product will solve) _________
+We want to help with _______________ (describe specifically what your product will solve)
 
 ::: 
 
