@@ -13,9 +13,9 @@ You will:
 
 ::: tip Problem Statement
 
-We spoke to _____________ (describe persona) ____________________________________________
+We spoke to _____________ (describe persona) _____________________________________
 
-We noticed that ________ (describe challenge or opportunity) ____________________________
+We noticed that ________ (describe challenge or opportunity) _____________________
 
 We want to help with _____ (describe specifically what your product will solve) _________
 
