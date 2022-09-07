@@ -15,7 +15,7 @@ You will:
 
 We spoke to _____________ (describe persona) ____________________________________
 
-We noticed that ________ (describe challenge or opportunity) ____________________________
+We noticed that ________ (describe challenge or opportunity) __________________________
 
 We want to help with _____ (describe specifically what your product will solve) _________
 
