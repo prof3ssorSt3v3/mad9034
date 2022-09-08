@@ -19,8 +19,8 @@ By the end of this week, students will:
 
 ### Read
 
-- [Never Ask What They Want](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e)
 - [The Design Sprints](https://www.thesprintbook.com/the-design-sprint)
+- [Never Ask What They Want](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e)
 - [Individual Interview](https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
 
 
