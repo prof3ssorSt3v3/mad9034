@@ -21,14 +21,6 @@ By the end of this week, students will:
 
 ### Read
 
-Google has developed its own set of Design Sprint toolkit. Let's read through these short articles and see how similar/different they are from the GV design sprint. 
-
-- [Google Design Sprint: Sketching (short reading)](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)
-- Be sure to read these 3 sub-sections specifically: 
-  - [Crazy 8s](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s)
-  - [Crazy 8s Sharing and Voting](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s-sharing-and-voting)
-  - [Solution Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/solution-sketch)
-
 [AppleWatch guidelines](https://developer.apple.com/design/human-interface-guidelines/watchos/overview/getting-started/) - Be sure to read:
   - **Platform**
     - Designing for watchOS
@@ -49,6 +41,17 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 - [Week 3-1 Lecture: Ideation overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 - [Week 3-1b In-class: Brainstorming](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
   - [Apple Watch - Human Interface Guidelines & User Experience](https://drive.google.com/file/d/19v8xM5zdZF5KHfAB2aFDljnlpB8ug392/view?usp=sharing)
+
+
+### References
+
+Google has developed its own set of Design Sprint toolkit. Let's read through these short articles and see how similar/different they are from the GV design sprint. 
+
+- [Google Design Sprint: Sketching (short reading)](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)
+- Check out these 3 sub-sections: 
+  - [Crazy 8s](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s)
+  - [Crazy 8s Sharing and Voting](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s-sharing-and-voting)
+  - [Solution Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/solution-sketch)
 
 
 
