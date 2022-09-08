@@ -38,8 +38,6 @@ Select 1 concept from class 1 (or, a combination of multiple concepts) and creat
 
 ### Resources 
 - Sketching template: [applewatch_template.pdf](../files/applewatch_template.pdf)
-- [XD WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps)
 - [WatchOs UI kit](https://developer.apple.com/design/resources/#watchos-apps)
-- [WatchOS Visual design guideline: Layout](https://developer.apple.com/design/human-interface-guidelines/watchos/visual-design/layout/)
 - [Common Watch OS interaction](https://pbs.twimg.com/media/Dm_StBuU0AE13zI.jpg)
 - [The art of asking questions in usability testing](https://www.akendi.com/blog/the-art-of-asking-questions-in-usability-testing/) 
