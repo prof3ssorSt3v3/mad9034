@@ -43,27 +43,11 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
   - [Apple Watch - Human Interface Guidelines & User Experience](https://drive.google.com/file/d/19v8xM5zdZF5KHfAB2aFDljnlpB8ug392/view?usp=sharing)
 
 
-### References
-
-Google has developed its own set of Design Sprint toolkit. Let's read through these short articles and see how similar/different they are from the GV design sprint. 
-
-- [Google Design Sprint: Sketching (short reading)](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)
-- Check out these 3 sub-sections: 
-  - [Crazy 8s](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s)
-  - [Crazy 8s Sharing and Voting](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s-sharing-and-voting)
-  - [Solution Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/solution-sketch)
-
-
 
 ## Week 3 - Required preparation for class 2
 
 ### Read
 
-- [Google Design Sprint: Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype) 
-- Be sure to read the 3 subsections
-  - [Storyboard](https://designsprintkit.withgoogle.com/methodology/phase5-prototype/storyboard)
-  - [Assign tasks](https://designsprintkit.withgoogle.com/methodology/phase5-prototype/assign-tasks)
-  - [Prototyping tools](https://designsprintkit.withgoogle.com/methodology/phase5-prototype/prototyping-tools)
 - [Paper Prototyping As A Usability Testing Technique](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
 
 
@@ -85,6 +69,22 @@ Google has developed its own set of Design Sprint toolkit. Let's read through th
 - Read [THE ART OF ASKING QUESTIONS IN USABILITY TESTING](https://www.akendi.com/blog/the-art-of-asking-questions-in-usability-testing/) section **3. Test/Tasks** & **4. Post-test**
 - [WAI Site Usability Testing Questions](https://www.usability.gov/how-to-and-tools/resources/templates/wai-site-usability-testing-questions.html)
 - [The best usability testing questions (website)](https://www.hotjar.com/usability-testing/questions)
+
+### Google Design Sprint
+Google has developed its own set of Design Sprint toolkit. Let's read through these short articles and see how similar/different they are from the GV design sprint. 
+
+- [Google Design Sprint: Sketching (short reading)](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)
+- Check out these 3 sub-sections: 
+  - [Crazy 8s](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s)
+  - [Crazy 8s Sharing and Voting](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s-sharing-and-voting)
+  - [Solution Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/solution-sketch)
+
+- [Google Design Sprint: Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype) 
+- Be sure to read the 3 subsections
+  - [Storyboard](https://designsprintkit.withgoogle.com/methodology/phase5-prototype/storyboard)
+  - [Assign tasks](https://designsprintkit.withgoogle.com/methodology/phase5-prototype/assign-tasks)
+  - [Prototyping tools](https://designsprintkit.withgoogle.com/methodology/phase5-prototype/prototyping-tools)
+
 
 
 ## TODO
