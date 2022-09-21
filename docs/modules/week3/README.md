@@ -73,10 +73,12 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 ## Resources & References
 
 ### WatchOS
-- Sketching template: [applewatch_template.pdf](../../files/applewatch_template.pdf)
-- [WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps)
-- [WatchOS Visual design guideline: Layout](https://developer.apple.com/design/human-interface-guidelines/foundations/layout#watchos)
-- [Common Watch OS interaction](https://pbs.twimg.com/media/Dm_StBuU0AE13zI.jpg)
+- Sketching template: [applewatch_template.pdf](../files/applewatch_template.pdf)
+- [**Figma** WatchOS UI Kit (most popular)](https://www.figma.com/community/file/860215346713471808) OR 
+- Bring in [Apple WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps) to **Figma** from [Sketch](https://help.figma.com/hc/en-us/articles/360040514273-Import-Sketch-files) or [Adobe XD](https://mockitt.wondershare.com/adobe-xd/xd-to-figma.html)
+- [WatchOS Visual design guideline: Layout](https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-watchos/)
+- [Common WatchOS interaction](https://pbs.twimg.com/media/Dm_StBuU0AE13zI.jpg)
+
 
 ### Common user testing questions
 - Read [THE ART OF ASKING QUESTIONS IN USABILITY TESTING](https://www.akendi.com/blog/the-art-of-asking-questions-in-usability-testing/) section **3. Test/Tasks** & **4. Post-test**
@@ -96,6 +98,6 @@ Read all the notes for Week 4 and watch the videos. This will help you answer po
 - [Week 3 Class 1 work: Crazy 8s](../../assignments/work-week3-1.md)
 
 **For class 2:**
-- [Week 3 Class 2 work: (Paper) Prototype](../../assignments/work-week3-2.md)
+- [Week 3 Class 2 work: Prototype](../../assignments/work-week3-2.md)
 
 :::
