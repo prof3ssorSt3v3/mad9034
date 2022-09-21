@@ -1,4 +1,4 @@
-# Week 3 Class 2 work: (Paper) Prototype
+# Week 3 Class 2 work: Prototype
 
 ## Details
 
@@ -31,7 +31,7 @@ Select 1 concept from class 1 (or, a combination of multiple concepts) and creat
 
 - Create a complete interview script that your prototype will support
 - Create the necessary mockups to illustrate each step in the script
-- Assemble the mockups
+- Assemble the mockups (Build a digital prototype in Figma)
 - Do a dry-run within your team to make sure the script and prototype match up
     - Adjust either if needed
 
