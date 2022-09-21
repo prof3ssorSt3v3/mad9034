@@ -74,7 +74,8 @@ These two videos summarize **Sketch** and **Crazy 8s** processes in the _GV Desi
 
 ### WatchOS
 - Sketching template: [applewatch_template.pdf](../files/applewatch_template.pdf)
-- [**Figma** WatchOS UI Kit (most popular)](https://www.figma.com/community/file/860215346713471808) OR 
+- [Official Figma WatchOS 5 UI Kit](https://www.figma.com/community/file/875092858821168331) 
+- [**Figma** WatchOS UI Kit (most popular)](https://www.figma.com/community/file/860215346713471808)
 - Bring into **Figma** the [Apple WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps)
     - [from Sketch](https://help.figma.com/hc/en-us/articles/360040514273-Import-Sketch-files)(tutorial)
     - [from Adobe XD](https://mockitt.wondershare.com/adobe-xd/xd-to-figma.html)(tutorial)
