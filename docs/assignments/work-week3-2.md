@@ -13,7 +13,30 @@ Select 1 concept from class 1 (or, a combination of multiple concepts) and creat
 - Plot out the key steps in your scenario, that will help illustrate your solution, and get good user feedback on key areas  
     - You don't need to sketch out every use case, just enough to get accurate feedback
 - Map out the flow that you'll use in the interview script
-- Figure out which steps/frames can be rough, and which need to be defined with more detail or fidelity
+- Figure out which steps/frames can be rough, and which need to be defined with more detail or 
+
+
+**Turn your ideas into a hypothesis**
+
+Ask how might you solve your user’s problem.
+
+**Your Problem Statement from W2D2:**
+
+We spoke to ________________ (describe persona) 
+
+We noticed that ________________ (describe challenge or opportunity)
+
+We want to help with _______________ (describe specifically what your product will solve)
+
+
+**Solution from W3D2:**
+
+We believe that ________________ (creating this experience) 
+
+For  ________________ (persona) 
+
+Will  ________________ (achieve this outcome) 
+
 
 
 **Step 2 : Assign tasks (20 minutes)**
