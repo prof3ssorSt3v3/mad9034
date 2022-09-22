@@ -16,7 +16,7 @@ Select 1 concept from class 1 (or, a combination of multiple concepts) and creat
 - Figure out which steps/frames can be rough, and which need to be defined with more detail or 
 
 
-**Turn your ideas into a hypothesis:** Ask how might you solve your user’s problem.
+**TURN YOUR IDEAS INTO A HYPOTHESIS:** Ask how might you solve your user’s problem.
 
 **Your Problem Statement from W2D2:**
 - We spoke to ________________ (describe persona) 
@@ -26,11 +26,12 @@ Select 1 concept from class 1 (or, a combination of multiple concepts) and creat
 
 ::: tip Solution
 
-We believe that _______(creating this experience)_______ 
+We believe that ________________ (creating this experience) 
 
-For _______________(persona)_____________ 
+For  ________________ (persona) 
 
-Will ______________(achieve this outcome)_____________
+Will  ________________ (achieve this outcome) 
+
 :::
 
 
