@@ -26,7 +26,7 @@ Ask how might you solve your user’s problem.
 - We want to help with _______________ (describe specifically what your product will solve)
 
 
-::: Solution
+::: tip Solution
 
 We believe that ________________ (creating this experience) 
 
