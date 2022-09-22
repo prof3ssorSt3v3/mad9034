@@ -18,7 +18,7 @@ Select 1 concept from class 1 (or, a combination of multiple concepts) and creat
 
 **TURN YOUR IDEAS INTO A HYPOTHESIS:** Ask how might you solve your user’s problem.
 
-**Your Problem Statement from W2D2:**
+**Start with Your Problem Statement from W2D2:**
 - We spoke to ________________ (describe persona) 
 - We noticed that ________________ (describe challenge or opportunity)
 - We want to help with _______________ (describe specifically what your product will solve)
