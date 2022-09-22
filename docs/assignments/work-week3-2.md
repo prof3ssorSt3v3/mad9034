@@ -16,9 +16,7 @@ Select 1 concept from class 1 (or, a combination of multiple concepts) and creat
 - Figure out which steps/frames can be rough, and which need to be defined with more detail or 
 
 
-**Turn your ideas into a hypothesis**
-
-Ask how might you solve your user’s problem.
+**Turn your ideas into a hypothesis:** Ask how might you solve your user’s problem.
 
 **Your Problem Statement from W2D2:**
 
@@ -29,7 +27,7 @@ We noticed that ________________ (describe challenge or opportunity)
 We want to help with _______________ (describe specifically what your product will solve)
 
 
-**Solution from W3D2:**
+::: Solution
 
 We believe that ________________ (creating this experience) 
 
@@ -37,6 +35,7 @@ For  ________________ (persona)
 
 Will  ________________ (achieve this outcome) 
 
+:::
 
 
 **Step 2 : Assign tasks (20 minutes)**
