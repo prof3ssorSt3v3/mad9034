@@ -11,7 +11,7 @@ Each group will present their observations from the warm-up project.
     - Prototyping
     - Testing
 
-Note: One person submits your final **Figma** file. & Everyone presents, please! 
+Note: One person submits your final **Figma** file (link). & Everyone presents, please! 
 
 
 ::: tip Presentation
