@@ -15,6 +15,29 @@ In each group:
 - Rest of group takes notes
 
 
+### Step 1: Prepare for your tests [5~10 mins]
+- Choose 2-3 tasks that you’ll ask your participants to complete
+- Prepare your prototype (make sure you have the parts in the correct order to simulate tasks)
+- Appoint a facilitator, prototype-handler, and note-taker
+
+
+### Step 2: First groups test! (3 x 10 mins)
+
+Remember:
+- Put the prototype/product in your participant’s hands/control
+- Ask your participant to complete one task at a time
+- Ask your participant to think out loud as they complete tasks
+- Do not jump in to help - give your participant time to figure it out
+- Remain neutral
+- Ask questions to better understand their actions
+- Measure performance and subjective metrics like:
+    - Successes 
+    - failures 
+    - Confusion 4)Frustration 
+    - Emotional reactions
+    - Specific steps in the tasks where these occur
+
+
 [**Usability Testing – Non Disclosure Agreement Example**](https://docs.google.com/forms/d/1n3HuVnplNqcCEMLsrF-naGEJvVmObvvVk1axpEjkuew/edit)
 
 - Follow the link (ensure you already logged in your Google Account ) 
