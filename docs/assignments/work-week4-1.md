@@ -31,9 +31,9 @@ Remember:
 - Remain neutral
 - Ask questions to better understand their actions
 - Measure performance and subjective metrics like:
-    - Successes 
-    - failures 
-    - Confusion 4)Frustration 
+    - Successes / failures 
+    - Confusion 
+    - Frustration 
     - Emotional reactions
     - Specific steps in the tasks where these occur
 
