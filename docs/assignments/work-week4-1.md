@@ -15,13 +15,13 @@ In each group:
 - Rest of group takes notes
 
 
-#### Step 1: Prepare for your tests
+**Step 1: Prepare for your tests**
 - Choose 2-3 tasks that you’ll ask your participants to complete
 - Prepare your prototype (make sure you have the parts in the correct order to simulate tasks)
 - Appoint a facilitator, prototype-handler, and note-taker
 
 
-#### Step 2: Test 
+**Step 2: Test** 
 
 Remember:
 - Put the prototype/product in your participant’s hands/control
