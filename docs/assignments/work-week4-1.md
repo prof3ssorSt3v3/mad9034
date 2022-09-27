@@ -16,7 +16,7 @@ In each group:
 
 
 **Step 1: Prepare for your tests**
-- You have chosen 2-3 tasks that you’ll ask your participants to complete
+- Choose 2-3 tasks that you’ll ask your participants to complete
 - Prepare your prototype (make sure you have the parts in the correct order to simulate tasks)
 - Appoint a facilitator, prototype-handler, and note-taker
 
