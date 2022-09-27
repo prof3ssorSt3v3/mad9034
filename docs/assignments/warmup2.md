@@ -16,7 +16,7 @@ Note: One person submits your final **Figma** file. & Everyone presents, please!
 
 ::: tip Presentation
 
-Prepare to share your observations in class.Each team will do a 2-3 minute oral presentation. (No slides/etc required) Your team will be marked in class. 
+Prepare to share your observations in class. Each team will do a 2-3 minute oral presentation. (No slides/etc required) Your team will be marked in class. 
 
 ::: 
 
