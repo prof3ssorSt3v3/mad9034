@@ -31,7 +31,8 @@ Remember:
 - Remain neutral
 - Ask questions to better understand their actions
 - Measure performance and subjective metrics like:
-    - Successes / failures 
+    - Successes 
+    - Failures 
     - Confusion 
     - Frustration 
     - Emotional reactions
