@@ -27,7 +27,7 @@ Worth <Badge type="error" text="20%"/> of Final Grade
 
 ### 3. Product Research
 
-<Badge text="Due Tue. Oct 06 by 11:59pm"/>
+<Badge text="Due Thr. Oct 06 by 11:59pm"/>
 
 [Assignment 3 details (5%)](./assg3.md)
 
