@@ -35,7 +35,7 @@ Assign a group member to research each of these topics:
 ## Submission
 
 ::: warning
-**Due Tuesday October 06 by 11:59pm**
+**Due Thursday October 06 by 11:59pm**
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
