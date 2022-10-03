@@ -94,7 +94,7 @@ Access traditional market research data (if available):
 ::: tip Note
 
 - You will use this persona research spreadsheet data to create **2 personas "individually"** in week 6.
-- Example: [music-app-persona_research_example.pdf](../files/music-app-persona_research_example.pdf)
+- Example: [music-app-persona_research_example.pdf](https://drive.google.com/file/d/1k0y1tr6OuNoZNOM3jQKLf2_wcxcl1rv9/view?usp=sharing)
 
 ::: 
 
