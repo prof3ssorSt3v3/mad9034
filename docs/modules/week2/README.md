@@ -21,7 +21,6 @@ By the end of this week, students will:
 
 - [The Design Sprints](https://www.thesprintbook.com/the-design-sprint)
 - [User Research Basics](https://www.usability.gov/what-and-why/user-research.html)
-- [Never Ask What They Want](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e)
 - [Individual Interview](https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html)
 
 
@@ -55,6 +54,7 @@ By the end of this week, students will:
 ### Resources
 
 - [User Research Basics Guide](https://drive.google.com/file/d/1yHLHBRK689wF49iE5Q4PNu33gMfHrbJC/view?usp=sharing)
+- [Never Ask What They Want](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e)
 - [How to create a user interview script](https://drive.google.com/file/d/1h-idGXxdnd4OKADDpccpdNdLBLalME0o/view?usp=sharing)
 - [miro sign up](https://help.miro.com/hc/en-us/articles/360017730473-Education-plan)
 
