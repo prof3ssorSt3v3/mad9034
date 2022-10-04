@@ -46,8 +46,8 @@ USER FEEDBACK
 
 ### Read
 - [UX project plan](https://rosenfeldmedia.com/ux-team-of-one/ux-method-of-the-week-ux-project-plan/)
-- [A Closer Look At Personas: What They Are And How They Work | 1](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/)
-- [A Closer Look At Personas: A Guide To Developing The Right Ones | 2](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/)
+- [A Closer Look At Personas: What They Are And How They Work (Part 1)](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/)
+- [A Closer Look At Personas: A Guide To Developing The Right Ones (Part 2)](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/)
 
 
 ### Lesson Slides
