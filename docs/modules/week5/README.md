@@ -22,8 +22,8 @@ By the end of this week, students will:
 
 - Review [MAD 9020 Week 2 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) - HOW DO DESIGNERS DESIGN?
 USER FEEDBACK 
-- [User Research Basics](https://www.usability.gov/what-and-why/user-research.html)
-- [Design Sprints vs Design Thinking vs Agile](https://medium.com/design-sprint-academy/design-sprints-vs-design-thinking-vs-agile-49afea5bedfe)
+- [Market Research vs. User Research — Are they the Same?](https://medium.com/reassemble/market-research-vs-user-research-are-they-the-same-3ec59dec637f)
+<!-- - [Design Sprints vs Design Thinking vs Agile](https://medium.com/design-sprint-academy/design-sprints-vs-design-thinking-vs-agile-49afea5bedfe) -->
 
 
 ### Reference videos
@@ -46,7 +46,6 @@ USER FEEDBACK
 
 ### Read
 - [UX project plan](https://rosenfeldmedia.com/ux-team-of-one/ux-method-of-the-week-ux-project-plan/)
-- [Market Research vs. User Research — Are they the Same?](https://medium.com/reassemble/market-research-vs-user-research-are-they-the-same-3ec59dec637f)
 
 
 ### Lesson Slides
