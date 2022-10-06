@@ -12,7 +12,8 @@ By the end of this week, students will:
 - User research: Work in groups of 3s to conduct user interviews (Research notes ready before Week 6 Class 1)
 
 **Class 2**
-- Create a UX project plan and submit it for review (marking) at the end of class 2 
+- Practice to create a UX Project Plan
+- Continue working on research deliverables: Product Research & User Interviews
 
 :::
 
