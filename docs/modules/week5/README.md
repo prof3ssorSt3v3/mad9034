@@ -13,7 +13,7 @@ By the end of this week, students will:
 
 **Class 2**
 - Practice to create a UX Project Plan
-- Continue working on research deliverables: Product Research & User Interviews
+- Continue working on deliverables for Product Research and User Research
 
 :::
 
