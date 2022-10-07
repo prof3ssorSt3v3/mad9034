@@ -39,7 +39,7 @@ By the end of this week, students will:
 
 - Review [MAD9020 Week 4 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) – INFORMATION ARCHITECTURE
 - [Information Architecture Principles for Mobile (With Infographic)](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)
-- [An Excellent Beginner’s Guide to Information Architecture (8 Priciples of IA)](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/)
+<!--- [An Excellent Beginner’s Guide to Information Architecture (8 Priciples of IA)](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/) -->
 - [What is flowchart](https://asq.org/quality-resources/flowchart)
 - [**Data Architecture v.s. Information Architecture**](https://www.dataversity.net/data-architecture-and-information-architecture-whats-the-difference/)
   - DA, development deliverables: Data structure diagram + High-level architecture
