@@ -26,10 +26,6 @@ By the end of this week, students will:
 - [User stories](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604)
 
 
-### Watch
-- [Creating Scenarios tutorial](https://www.linkedin.com/learning/ux-design-5-creating-scenarios-and-storyboards-2/prerequisites-for-scenario-creation?u=2199673)
-- [From Scenario to Storyboard tutorial](https://www.linkedin.com/learning/ux-design-5-creating-scenarios-and-storyboards-2/from-scenario-to-storyboard?u=2199673)
-
 
 ### Lesson Slides
 
@@ -43,16 +39,13 @@ By the end of this week, students will:
 
 - Review [MAD9020 Week 4 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) – INFORMATION ARCHITECTURE
 - [Information Architecture Principles for Mobile (With Infographic)](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)
+- [An Excellent Beginner’s Guide to Information Architecture (8 Priciples of IA)](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/)
 - [What is flowchart](https://asq.org/quality-resources/flowchart)
 - [**Data Architecture v.s. Information Architecture**](https://www.dataversity.net/data-architecture-and-information-architecture-whats-the-difference/)
   - DA, development deliverables: Data structure diagram + High-level architecture
   - IA, UX deliverable: Information architecture diagram, sitemap, wireflow, UX flow map, wireframes
     - [See some 2019W project examples](https://drive.google.com/drive/folders/1e9FSXDYPMFY_haesYZlcZFDU9A2sgDMq?usp=sharing)
 
-
-### Watch 
-
-- [A Beginner's Guide to Information Architecture](https://www.youtube.com/watch?v=Ij4WquJaRTc)
 
 
 ### Lesson Slides
