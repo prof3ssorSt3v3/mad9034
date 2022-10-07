@@ -28,7 +28,7 @@ By the end of this week, students will:
 - Review [MAD9020 Week 13 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) (6-10) – MAP OUT ALL SCREENS, BRAINSTORM
 - [User flow design process](https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs)
 - [Site flows vs user flows](https://uxmovement.com/wireframes/site-flows-vs-user-flows-when-to-use-which/)
-- [User flows for smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/)
+<!-- - [User flows for smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/) -->
 
 
 ### Resources
@@ -53,12 +53,10 @@ By the end of this week, students will:
 - [Navigation for mobile applications](https://www.interaction-design.org/literature/article/show-me-the-way-to-go-anywhere-navigation-for-mobile-applications)
 - [Dropdowns Should be the UI of Last Resort](https://www.lukew.com/ff/entry.asp?1950) 
 
-### Watch
 
-- [RIP Dropdowns](https://youtu.be/hcYAHix-riY)
+### References
 
-**Fun facts**
-
+- [RIP Dropdowns (Video)](https://youtu.be/hcYAHix-riY)
 - [Android versions: A living history from 1.0 to 13](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html)
 - [The History of iOS, from Version 1.0 to 16.0](https://www.lifewire.com/ios-versions-4147730)
 
