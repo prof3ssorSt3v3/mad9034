@@ -49,7 +49,7 @@ By the end of this week, students will:
 
 ### Watch
 
-- [Example Usability Test with a Paper Prototype](https://youtu.be/9wQkLthhHKA)
+- [Paper Prototype User Testing](https://youtu.be/SF_N3l2Sv08)
 
 ### Resource
 
