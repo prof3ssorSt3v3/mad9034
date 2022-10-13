@@ -31,8 +31,11 @@ You work for an up and coming start-up that is focused on creating the best ____
 
 
 **Resources:**
-- Persona Template: [persona_template.ai](../files/persona_template.ai)
-- [Xtensio.com Persona tool](https://xtensio.com/user-persona/)
+- Persona Template: 
+    - [Figma template](https://www.figma.com/file/bqiBRe7hv1ilX2D675twHG/UX-User-Persona-Template-(Community)?node-id=2%3A4012)
+    - [Xtensio.com Persona tool](https://xtensio.com/user-persona/)
+    - [miro persona template](https://miro.com/app/board/uXjVPOyF6k4=/?moveToWidget=3458764535638614543&cot=14)
+    - [persona_template.ai](../files/persona_template.ai)
 - Photo Resources:
     - [uifaces.co](https://uifaces.co/) 
     - [unsplash.com](https://unsplash.com/)
