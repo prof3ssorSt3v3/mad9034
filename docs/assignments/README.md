@@ -46,7 +46,7 @@ Worth <Badge type="error" text="30%"/> of Final Grade
 
 ### 5. Personas Creation
 
-<Badge text="Due Tue. Oct 19 by 11:59pm"/>
+<Badge text="Due Tue. Oct 18 by 11:59pm"/>
 
 [Assignment 5 details (5%)](./assg5.md)
 
