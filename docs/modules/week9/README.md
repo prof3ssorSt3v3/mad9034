@@ -11,7 +11,7 @@ By the end of this week, students will:
 
 - Map out key flows for the primary persona
 - Validate your Information Architecture against it
-- Submit validated scenario & IA at the end of class
+- Submit validated/revised IA before Week 9-2 class
 
 **Class 2**
 
@@ -79,7 +79,7 @@ By the end of this week, students will:
 
 **For class 1:** 
 - [Week 9 Class 1 work: User flows to validate IA](../../assignments/work-week9-1.md)
-- Re-submit validated IA before Week 9-2 class
+- Re-submit validated/revised IA before Week 9-2 class
 
 **For class 2:** 
 - [8. Test-ready lo-fi prototype](../../assignments/assg8.md)
