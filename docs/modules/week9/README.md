@@ -11,7 +11,7 @@ By the end of this week, students will:
 
 - Map out key flows for the primary persona
 - Validate your Information Architecture against it
-- Submit validated/revised IA before Week 9-2 class
+- Resubmit validated/revised IA before Week 9-2 class
 
 **Class 2**
 
