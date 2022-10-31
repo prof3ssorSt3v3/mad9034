@@ -27,8 +27,9 @@ By the end of this week, students will:
 ### Read
 - Review [MAD9020 Week 13 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) (6-10) – MAP OUT ALL SCREENS, BRAINSTORM
 - [User flow design process](https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs)
-- [Site flows vs user flows](https://uxmovement.com/wireframes/site-flows-vs-user-flows-when-to-use-which/)
-<!-- - [User flows for smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/) -->
+
+<!-- - [Site flows vs user flows](https://uxmovement.com/wireframes/site-flows-vs-user-flows-when-to-use-which/)
+ - [User flows for smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/) -->
 
 
 ### Resources
