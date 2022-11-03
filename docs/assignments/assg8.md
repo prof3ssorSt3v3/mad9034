@@ -11,9 +11,9 @@ Take a photo or scan of your paper prototype to submit your page layout as _ONE 
 
 **Note:** To submit, you will
 
-- Complete lo-fi prototype
-- Test your app concept with your classmates in next class
-- Make design improvements to your wireframe work
+- Complete lo-fi prototype (before Week 10-2)
+- Test your app concept with your classmates in next class (Week 10-2)
+- Make design improvements to your wireframe work 
 - Put all screens in one PDF document logically
 - Add annotations to identify each screen and explain your task flow
 - Submit as ONE PDF 
