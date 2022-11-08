@@ -11,7 +11,7 @@ By the end of this week, students will:
 **Class 1**
 
 - Complete lo-fi (paper) prototype for concept testing 
-- Submit paper prototype for marking
+- Submit paper prototype for marking in Week 10-2
 
 **Class 2**
 
