@@ -2,7 +2,7 @@
 
 ## Details
 
-Convert your hand drawn prototype into a medium fidelity greyscale wireframe, using the digital wireframing tool of your choice. Take this opportunity to improve on the application user interface to support good user experience with your new knowledge. 
+Convert your hand drawn prototype into a medium fidelity greyscale wireframe, using Figma. Take this opportunity to improve on the application user interface to support good user experience with your new knowledge. 
 
 Submit the 3 screens (ex. Home screen, browse screen, detail screen) as a single pdf. Include annotation to explain user flow where is necessary. Your app will involve more screens, and you will continue to work on those. **The midterm requires that 3 key screens are submitted.**
 
