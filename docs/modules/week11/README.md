@@ -4,7 +4,7 @@
 
 By the end of this week, students will:
 
-- Choose the tool you will use for your final design
+- Use Figma for your final design
 - Learn how to shift from low fidelity to high fidelity designs.
 - Identify risks/unknowns and how to proceed
 
@@ -25,9 +25,8 @@ By the end of this week, students will:
 ### Read
 
 - [Principles for Usable Design](http://www.usabilitybok.org/principles-for-usable-design)
-- [Shneiderman’s Eight Golden Rules of Interface Design](https://public-media.interaction-design.org/pdf/Shneiderman.s.Eight.Golden.Rules.Worksheet.pdf)(PDF Checklist)
-- [What is a Progressive Web App?](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction) 
 - [MACHINE LEARNING IN MOBILE APPLICATIONS Examples](https://theappsolutions.com/blog/development/machine-learning-in-mobile-app/)
+
 
 ### Lesson Slides
 
@@ -46,15 +45,20 @@ By the end of this week, students will:
   - USABILITY HEURISTICS: slide 53 – 63
 
 
-**Further reading**
-
-- [UI Control Guidelines](https://balsamiq.com/learn/ui-control-guidelines/)
-- [10 Essential Types of App Screens in Mobile UI Design You Should Know — and a few more!](https://cadabra.studio/blog/10-types-of-app-screens-you-should-know)
-
-
 ### Lesson Slides
 
 - [Week 11-2 Lecture: Identifying and working with risks and unknowns](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+
+
+### Referneces
+
+- [UI Control Guidelines](https://balsamiq.com/learn/ui-control-guidelines/)
+- [10 Essential Types of App Screens in Mobile UI Design You Should Know — and a few more!](https://cadabra.studio/blog/10-types-of-app-screens-you-should-know)
+- [Shneiderman’s Eight Golden Rules of Interface Design](https://public-media.interaction-design.org/pdf/Shneiderman.s.Eight.Golden.Rules.Worksheet.pdf)(PDF Checklist)
+- [What is a Progressive Web App?](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction) 
+- [Foldable devices Material Design 3](https://m3.material.io/foundations/adaptive-design/foldables/overview)
+
+
 
 
 ## TODO
