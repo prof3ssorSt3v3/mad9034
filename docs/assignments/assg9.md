@@ -1,4 +1,4 @@
-# Visual design -- testing
+# Visual design 
 
 ## Details
 
