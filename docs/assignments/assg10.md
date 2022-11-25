@@ -28,6 +28,9 @@ You are to prepare the following documents for usability testing this week:
 - [Notetaker's guide](https://drive.google.com/file/d/1hY5bYEwERtWA3r8SVR9uiusl6yTXbAbK/view?usp=sharing)
 
 
+### Reference
+-  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+
 ## Submission:
 
 ::: warning 
