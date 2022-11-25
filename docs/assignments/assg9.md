@@ -13,7 +13,7 @@ Provide a visual design for your mobile app using UX visual design principles. C
 
 Refer to [Week 12-1 Lecture](hhttps://drive.google.com/file/d/1wQc-486vbVOJNb4El0a0Jy5yh3zS1rfE/view?usp=sharing) and [this article](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design).
 
-### Reference
+#### Reference
 -  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
 
 

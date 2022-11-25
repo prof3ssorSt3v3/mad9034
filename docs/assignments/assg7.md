@@ -19,6 +19,10 @@ At this stage of the UX (user-centered) design process, you have gathered user r
 **Note:** A well-defined IA diagram will help you identify what screens to design/develop for your product.    
 
 
+#### Reference
+-  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+
+
 ## Submission
 
 ::: warning

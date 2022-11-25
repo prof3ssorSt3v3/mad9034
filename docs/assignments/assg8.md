@@ -34,6 +34,11 @@ To test UI usability, your users should be able to **_browse, navigate to a scre
 - do something 
 
 
+
+#### Reference
+-  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+
+
 ## Submission:
 
 ::: warning 
