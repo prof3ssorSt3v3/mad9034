@@ -4,7 +4,7 @@
 
 By the end of this week, students will:
 
-- Learn how to shift from low fidelity to high fidelity designs.
+- Learn how to shift from wireframe to high fidelity designs.
 - Learn to implement UI and graphic design skills.
 - Have a high-level understanding of interaction design and animation.
 
