@@ -15,6 +15,9 @@ Based on the user research, you have created 2 personas of your target users. Yo
 **Note:** Your usage scenario will be part of your usability testing script for week 13. 
 
 
+#### Reference
+-  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+
 
 
 ## Submission
