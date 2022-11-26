@@ -91,6 +91,10 @@ Access traditional market research data (if available):
 - Get user permission in the Non Disclosure Agreement [(NDA example)](https://docs.google.com/forms/d/1jDQfyZg0oNOnJdgZYecHtr0E1483E683BaEdcUPfyzc/edit?usp=sharing)
 
 
+#### Reference
+-  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+
+
 ::: tip Note
 
 - You will use this persona research spreadsheet data to create **2 personas "individually"** in week 6.
