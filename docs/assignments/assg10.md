@@ -19,10 +19,6 @@ You are to prepare the following documents for usability testing this week:
 - [Usability Testing Steps](../modules/week13/UT-steps.md)
 
 
-#### Reference
--  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
-
-
 ### Resources:
 
 - [Testing Documentation templates](https://drive.google.com/drive/folders/1ptUqGDPzOlM0b6RmY-wLnAHXryZgBmS6?usp=sharing)
@@ -30,6 +26,12 @@ You are to prepare the following documents for usability testing this week:
 - Test script: [Steve Krug's Usability Testing Script](https://sensible.com/download-files/)
 - [NDA Google Form](https://docs.google.com/forms/d/1n3HuVnplNqcCEMLsrF-naGEJvVmObvvVk1axpEjkuew/edit?usp=sharing)
 - [Notetaker's guide](https://drive.google.com/file/d/1hY5bYEwERtWA3r8SVR9uiusl6yTXbAbK/view?usp=sharing)
+
+
+#### Reference
+-  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+
+
 
 
 ## Submission:
