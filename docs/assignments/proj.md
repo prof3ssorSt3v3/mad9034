@@ -24,6 +24,11 @@ You will use this UXD slide package in job interviews and you will present it to
 - Final Adobe XD file (*FirstNameLastName-FinalVisualMockup*)
 
 
+#### Reference
+-  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+
+
+
 ## Submission
 
 ::: warning
