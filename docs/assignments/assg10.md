@@ -26,6 +26,7 @@ You are to prepare the following documents for usability testing this week:
 - Test script: [Steve Krug's Usability Testing Script](https://sensible.com/download-files/)
 - [NDA Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ8RAkZzF7bLbDdnHwCkfjj9a3LChUJlFjig6c-ZRTDuNiWA/viewform?usp=share_link)
 - [Notetaker's guide](https://drive.google.com/file/d/1hY5bYEwERtWA3r8SVR9uiusl6yTXbAbK/view?usp=sharing)
+- [Online Course/Certification on Research Ethics by gov.ca](https://tcps2core.ca/welcome)
 
 
 #### Reference
