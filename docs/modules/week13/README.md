@@ -82,10 +82,10 @@ By the end of this week, students will:
 ### Assignments
 
 **For class 1:** 
-- [9. Testing documentation](../../assignments/assg9.md)
+- [10. Testing documentation](../../assignments/assg10.md)
 
 **For class 2:** 
-- Complete [9. Testing documentation](../../assignments/assg9.md) – Due by midnight
+- Complete [10. Testing documentation](../../assignments/assg10.md) – Due by midnight
 - Do a test run with your classmates today: [Usability Testing Steps for your final project](UT-steps.md)
 
 - [Final project](../../assignments/proj.md) – UXD Portfolio Slide Package
