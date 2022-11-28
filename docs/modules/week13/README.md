@@ -77,7 +77,7 @@ By the end of this week, students will:
 ::: tip TODO before next week
 
 - Read all the notes for Week 14 and watch the videos.
-- Complete uability testing with 3 users before Week 14-1 class. 
+- Complete usability testing with 3 users before Week 14-1 class. 
 
 ### Assignments
 
