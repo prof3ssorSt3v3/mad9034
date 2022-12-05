@@ -22,14 +22,14 @@ By the end of this week, students will:
 Complete and come to class with:
 - Usability test notes
 - Usabiilty test recordings
+- Review [Usability Testing Steps for your final project](../week13/UT-steps.md#step-4-report)
 
-Review [Usability Testing Steps for your final project](../week13/UT-steps.md#step-4-report)
+- Read: [How to write a user testing report that people will actually read](https://uxdesign.cc/how-to-write-a-user-testing-report-that-people-will-actually-read-652d15d2f92e)
 
 
 ### References 
 
 - [Usability Test Report Template by usability.gov](https://drive.google.com/file/d/1KRXKLTd3GZA1X786Fw1wj1pw8ZeYdr5Y/view?usp=sharing)
-- [How to write a user testing report that people will actually read](https://uxdesign.cc/how-to-write-a-user-testing-report-that-people-will-actually-read-652d15d2f92e)
 - [Making usability test findings actionable](https://www.nngroup.com/articles/actionable-usability-findings/)
 - [How to prioritize usability issues](https://userbrain.net/blog/how-to-prioritize-usability-issues)(rainbow spreadsheet)
 - [Past UXD final project slide deck examples](https://drive.google.com/drive/folders/1y7608EmlnKrQsDVA3_qdYvotDaE4Qltz?usp=sharing) 
