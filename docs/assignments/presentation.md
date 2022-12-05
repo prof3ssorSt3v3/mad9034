@@ -2,7 +2,7 @@
 
 ## Instructions
 
-You are required to give **a max 8-minute (10mins in total)** presentation on your mobile application in front of the class virtually in Week 15. A date and time will be given to you, you must be ready to give your presentation on time. Be sure to test the files, make backups, and be there early, as there will be no option to reschedule your presentation.
+You are required to give **a max 8-minute (10mins in total)** presentation on your mobile application in class in Week 15. A date and time will be given to you, you must be ready to give your presentation on time. Be sure to test the files, make backups, and be there early, as there will be no option to reschedule your presentation.
 
 For each UX design step, explain why you made certain decisions and how it enhances the user experience. You can note changes that were made throughout the user-centered design process, and what you learned from user testing. 
 
