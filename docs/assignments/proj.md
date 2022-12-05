@@ -21,7 +21,7 @@ You will use this UXD slide package in job interviews and you will present it to
     - Q & A slide (Wrap-up)
 - Supporting files: Provide links in the applicable slides to link to their respective files for paper prototype, hi-fi wireframes, visual design; interactive prototype, test plan, script, notes, reports etc.
 - Filename: *FirstNameLastName-UXDportfolio* (PDF or PPTX format)
-- Final Adobe XD file (*FirstNameLastName-FinalVisualMockup*)
+- Final Figma file (submit the link to your *FirstNameLastName-FinalVisualMockup*)
 
 
 #### Reference
