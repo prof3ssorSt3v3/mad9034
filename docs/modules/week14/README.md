@@ -23,7 +23,7 @@ Complete and come to class with:
 - Usability test notes
 - Usabiilty test recordings
 
-#### Read
+### Read
 - [Usability Testing Steps – Step 4: Report](../week13/UT-steps.md#step-4-report)
 - [How to write a user testing report that people will actually read](https://uxdesign.cc/how-to-write-a-user-testing-report-that-people-will-actually-read-652d15d2f92e)
 
