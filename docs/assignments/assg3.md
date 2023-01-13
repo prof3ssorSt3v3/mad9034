@@ -32,8 +32,10 @@ Assign a group member to research each of these topics:
 - Submit as a PDF file: _memberNames-ProductResearch.pdf_
 
 
+
 #### Reference
--  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+-  [Major Project Brief](project-brief.md)
+- [Final Project Outline](proj.md)
 
 
 
