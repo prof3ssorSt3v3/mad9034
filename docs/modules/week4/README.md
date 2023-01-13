@@ -71,5 +71,6 @@ Read all the notes for Week 5 and watch the videos. This will help you answer po
 **For class 2:**
 - [2. Warm up project: Share your observations (Week 4-2)](../../assignments/warmup2.md)
 - [**Major Project Brief**](../../assignments/project-brief.md)
+- [Final Project Outline](../../assignments/proj.md)
 
 :::
