@@ -20,7 +20,8 @@ At this stage of the UX (user-centered) design process, you have gathered user r
 
 
 #### Reference
--  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+-  [Major Project Brief](project-brief.md)
+- [Final Project Outline](proj.md)
 
 
 ## Submission

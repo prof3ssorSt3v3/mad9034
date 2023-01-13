@@ -30,7 +30,8 @@ Submit the 3 screens (ex. Home screen, browse screen, detail screen) as a single
 
 
 #### Reference
--  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+-  [Major Project Brief](project-brief.md)
+- [Final Project Outline](proj.md)
 
 
 ## Submission:

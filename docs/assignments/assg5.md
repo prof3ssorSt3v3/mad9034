@@ -43,7 +43,8 @@ You work for an up and coming start-up that is focused on creating the best ____
     - [placeit.net](https://placeit.net/?search=people%20with%20phone)
 
 #### Reference
--  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
+-  [Major Project Brief](project-brief.md)
+- [Final Project Outline](proj.md)
 
 
 ## Submission

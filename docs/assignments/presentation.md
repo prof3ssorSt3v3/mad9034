@@ -15,6 +15,11 @@ For each UX design step, explain why you made certain decisions and how it enhan
 
 **Note:** -5% - Minus mark for every minute under 6 or surpassing 8 minutes.
 
+#### Reference
+-  [Major Project Brief](project-brief.md)
+- [Final Project Outline](proj.md)
+
+
 ::: warning
 
 **Due Tuesday/Thursday December 13/15 by the end of week 15 class**

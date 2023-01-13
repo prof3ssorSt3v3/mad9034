@@ -30,9 +30,8 @@ You are to prepare the following documents for usability testing this week:
 
 
 #### Reference
--  [Major Project Brief](https://mad9034.github.io/f2022/assignments/project-brief.html)
-
-
+-  [Major Project Brief](project-brief.md)
+- [Final Project Outline](proj.md)
 
 
 ## Submission:
