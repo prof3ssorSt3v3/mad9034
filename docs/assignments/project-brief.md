@@ -56,7 +56,7 @@ There would be three main parts to the app:
 **Note:** If you decide to create **your own product/app idea**, please write a project brief to describe what it is in the same writing format as Option 1 and 2. You will <span style="color: #cc0000;"> submit your project description to your teacher(s) before Week 05 Class 1.</span>
 
 
-**Project Deliverables-2022**
+## Project Deliverables - 2022
 
 | Date   | Grades           | Deliverable                      |
 |--------| ---------------- | -------------------------------- |
