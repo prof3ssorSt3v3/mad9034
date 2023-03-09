@@ -30,8 +30,8 @@ You are to prepare the following documents for usability testing this week:
 
 
 #### Reference
--  [Major Project Brief](project-brief.md)
-- [Final Project Outline](proj.md)
+- [Major Project Brief](project-brief.md)
+- [Final Project: UXD Portfolio Slide Package](proj.md)
 
 
 ## Submission:
