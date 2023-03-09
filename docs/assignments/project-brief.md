@@ -60,7 +60,7 @@ There would be three main parts to the app:
 | Date   | Grades           | Deliverable                      |
 |--------| ---------------- | -------------------------------- |
 | OCT 06 | group work       | Product Research                 |
-| OCT 09 | Group work       | Persona research spreadsheet     |
+| OCT 09 | group work       | Persona research spreadsheet     |
 | OCT 19 | graded out of 5  | Personas                         |
 | OCT 30 | graded out of 5  | Scenario                         |
 | OCT 30 | graded out of 5  | Information architecture         |
