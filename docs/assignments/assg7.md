@@ -20,8 +20,8 @@ At this stage of the UX (user-centered) design process, you have gathered user r
 
 
 #### Reference
--  [Major Project Brief](project-brief.md)
-- [Final Project Outline](proj.md)
+- [Major Project Brief](project-brief.md)
+- [Final Project: UXD Portfolio Slide Package](proj.md)
 
 
 ## Submission

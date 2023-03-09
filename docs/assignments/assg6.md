@@ -16,8 +16,8 @@ Based on the user research, you have created 2 personas of your target users. Yo
 
 
 #### Reference
--  [Major Project Brief](project-brief.md)
-- [Final Project Outline](proj.md)
+- [Major Project Brief](project-brief.md)
+- [Final Project: UXD Portfolio Slide Package](proj.md)
 
 
 ## Submission

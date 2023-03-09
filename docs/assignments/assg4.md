@@ -92,8 +92,8 @@ Access traditional market research data (if available):
 
 
 #### Reference
--  [Major Project Brief](project-brief.md)
-- [Final Project Outline](proj.md)
+- [Major Project Brief](project-brief.md)
+- [Final Project: UXD Portfolio Slide Package](proj.md)
 
 
 ::: tip Note

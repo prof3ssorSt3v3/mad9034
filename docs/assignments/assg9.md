@@ -15,8 +15,8 @@ Refer to [Week 12-1 Lecture](hhttps://drive.google.com/file/d/1wQc-486vbVOJNb4El
 
 
 #### Reference
--  [Major Project Brief](project-brief.md)
-- [Final Project Outline](proj.md)
+- [Major Project Brief](project-brief.md)
+- [Final Project: UXD Portfolio Slide Package](proj.md)
 
 
 ## Submission:
