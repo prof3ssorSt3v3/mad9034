@@ -53,3 +53,20 @@ There would be three main parts to the app:
     **You will focus on the browsing/searching interface AND the profile-creating interface. However you will simply account for the posting interface in your overall framework and architecture**
 
 **Note:** If you decide to create **your own product/app idea**, please write a project brief to describe what it is in the same writing format as Option 1 and 2. You will <span style="color: #cc0000;"> submit your project description to your teacher(s) before Week 05 Class 1.</span>
+
+
+**Project Deliverables-2022**
+
+| Date   | Grades           | Deliverable                      |
+|--------| ---------------- | -------------------------------- |
+| OCT 06 | group work       | Product Research                 |
+| OCT 09 | Group work       | Persona research spreadsheet     |
+| OCT 19 | graded out of 5  | Personas                         |
+| OCT 30 | graded out of 5  | Scenario                         |
+| OCT 30 | graded out of 5  | Information architecture         |
+| NOV 10 | graded out of 5  | Lo-fi prototype (Paper sketches) |
+| NOV 10 | graded out of 10 | Midterm: 3 key wireframes        |
+| NOV 10 | graded out of 5  | Visual design                    |
+| DEC 01 | graded out of 5  | Testing documentation            |
+| DEC 13 | graded out of 10 | Final presentation               |
+| DEC 13 | graded out of 30 | Final submission                 |
