@@ -36,3 +36,8 @@ In-class exercise: [Week 10-2b In-class: Testing!](https://drive.google.com/driv
 ::: warning Note
 Based on your concept testing, you will make design improvements by creating digital wireframes for the midterm submission. 
 :::
+
+
+#### Reference
+- [Major Project Brief](project-brief.md)
+- [Final Project: UXD Portfolio Slide Package](proj.md)

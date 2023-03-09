@@ -14,7 +14,13 @@ This step is challenging. To analyze your **Persona Research data**, you must lo
     - Each of these groups should be represented by one persona.
 - At some point, you will determine the main groups (primary and secondary personas) you will be designing for.
 
+
 ::: warning Note
 The outcome of this exercise will lead you to create the primary and secondary personas for your final project.
 
 :::
+
+
+#### Reference
+- [Major Project Brief](project-brief.md)
+- [Final Project: UXD Portfolio Slide Package](proj.md)
