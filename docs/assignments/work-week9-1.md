@@ -17,3 +17,7 @@ We’ll use user flows to validate how effective your proposed IA is.
 ::: warning Note
 After iterating your IA, resubmit the revision. 
 :::
+
+#### Reference
+- [Major Project Brief](project-brief.md)
+- [Final Project: UXD Portfolio Slide Package](proj.md)
