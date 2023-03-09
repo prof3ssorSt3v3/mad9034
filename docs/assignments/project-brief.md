@@ -1,6 +1,7 @@
 # Major Project Brief
 Slides: [Week 4-2 In-class: Presentations and Major Project Intro](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Final Project Outline](proj.md)
+
+- [Final Project: UXD Portfolio Slide Package](proj.md)
 
 ## Details
 
