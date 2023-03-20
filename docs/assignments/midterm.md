@@ -1,4 +1,4 @@
-# Midterm: 3 key wireframes
+# Midterm: Digital Wireframing
 
 ## Details
 
