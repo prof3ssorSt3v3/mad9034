@@ -91,7 +91,7 @@ Worth <Badge type="error" text="30%"/> of Final Grade
 Worth <Badge type="error" text="50%"/> of Final Grade
 
 
-### Midterm: Digital Wireframing 
+### Midterm: Digital Wireframe 
 
 <Badge text="Due Thur. Nov 17 by 11:59pm"/>
 

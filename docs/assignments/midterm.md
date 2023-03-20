@@ -1,4 +1,4 @@
-# Midterm: Digital Wireframing
+# Midterm: Digital Wireframe
 
 ## Details
 
@@ -41,5 +41,5 @@ Submit the 3 screens (ex. Home screen, browse screen, detail screen) as a single
 :::
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to the `Midterm: 3 key wireframes` assignment.
+- Go to the `Midterm: Digital Wireframe` assignment.
 - Upolad your file on the assignment page in BS LMS and click the submit button. 
