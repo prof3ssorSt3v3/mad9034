@@ -66,7 +66,7 @@ There would be three main parts to the app:
 | OCT 30 | graded out of 5  | Scenario                         |
 | OCT 30 | graded out of 5  | Information architecture         |
 | NOV 10 | graded out of 5  | Lo-fi prototype (Paper sketches) |
-| NOV 10 | graded out of 10 | Midterm: 3 key wireframes        |
+| NOV 10 | graded out of 10 | Midterm: Digital wireframe       |
 | NOV 10 | graded out of 5  | Visual design                    |
 | DEC 01 | graded out of 5  | Testing documentation            |
 | DEC 13 | graded out of 10 | Final presentation               |
