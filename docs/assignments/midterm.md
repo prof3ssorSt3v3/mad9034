@@ -18,7 +18,7 @@ Submit the 3 screens (ex. Home screen, browse screen, detail screen) as a single
 - To search: Filter Menu > License Type > No Link Back
  
 
-**Reminder:** Requirements from the Paper Prototype to Wireframe
+**Required Screens:**
 
 - 3 required screens: for example, 1) Home  2) Menu screen 3) List screen OR 1) Home/Browse  2) Results 3) Detail screen
 - Basic Scenario Tasks (user flow):
