@@ -20,15 +20,15 @@ Great work completing the user research phase! Now, it's time to distill all the
 
 ::: tip Problem Statement
 
-<pre>We spoke to ________________ [describe persona]</pre>
+We spoke to <u>******\_\_\_\_******</u> [describe persona]
 
 <span style="color:#3eaf7c; font-size: 14px;">(Share essential details about the targeted user persona based on your research.)</span>
 
-<pre>We noticed that ________________ [describe challenge or opportunity]</pre>
+We noticed that <u>******\_\_\_\_******</u> [describe challenge or opportunity]
 
 <span style="color:#3eaf7c; font-size: 14px;">(Clearly state the challenge or opportunity observed during the research.)</span>
 
-<pre>We want to help with ________________ [describe specifically what your product will solve]</pre>
+We want to help with <u>******\_\_\_\_******</u> [describe specifically what your product will solve]
 
 <span style="color:#3eaf7c; font-size: 14px;">(Articulate the specific solution or purpose your digital product aims to achieve for the identified challenge or opportunity.)</span>
 
