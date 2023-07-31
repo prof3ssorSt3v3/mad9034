@@ -22,15 +22,18 @@ Your group can decide to complete this exercise either on sticky notes or with F
 
 ::: tip Problem Statement
 
-We spoke to <span text="_____________________"></span> [describe persona]
+<!-- prettier-ignore -->
+We spoke to _____________________ [describe persona]
 
 <span style="color:#3eaf7c; font-size: 14px;">(Share essential details about the targeted user persona based on your research.)</span>
 
-We noticed that <span text="_____________________"></span> [describe challenge or opportunity]
+<!-- prettier-ignore -->
+We noticed that _____________________ [describe challenge or opportunity]
 
 <span style="color:#3eaf7c; font-size: 14px;">(Clearly state the challenge or opportunity observed during the research.)</span>
 
-We want to help with <span text="_____________________"></span> [describe specifically what your product will solve]
+<!-- prettier-ignore -->
+We want to help with _____________________ [describe specifically what your product will solve]
 
 <span style="color:#3eaf7c; font-size: 14px;">(Articulate the specific solution or purpose your digital product aims to achieve for the identified challenge or opportunity.)</span>
 
