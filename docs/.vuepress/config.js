@@ -34,7 +34,7 @@ module.exports = {
       },
       {
         text: 'Deliverables',
-        link: '/assignments/',
+        link: '/deliverables/',
       },
       {
         text: 'Modules',
