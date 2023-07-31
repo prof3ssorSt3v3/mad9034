@@ -1,6 +1,5 @@
 # MAD9034 - User Experience Design
 
-TEST
 ::: tip Welcome to UXD
 
 Going beyond the basics of graphics and user interface fundamentals, students learn how to combine these elements to create intuitive, efficient and enjoyable products. Students are introduced to a user-centered approach to designing mobile applications. Students begin with user research and build toward creating interaction design specifications in the form of wireframe documents. Topics such as information architecture, navigation and orientation, and interaction design principles are discussed and applied.
@@ -9,6 +8,7 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 ## Course Description
 
+<badge type="error" text="Need to update link"/>
 - [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=121)
 - Course Section Information (CSI) on Brightspace LMS
 
@@ -22,13 +22,13 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 **Section 010:** two days
 
-- :clock12: Tuesday 12pm - 2pm (Virtual)
-- :clock1: Thursday 1pm - 3pm
+- :clock7: Tuesday 7pm - 9pm
+- :clock7: Thursday 7pm - 9pm
 
 **Section 020:** two days
 
-- :clock7: Tuesday 7pm - 9pm
-- :clock6: Thursday 6pm - 8pm (Virtual)
+- :clock5: Tuesday 5pm - 7pm
+- :clock5: Thursday 5pm - 7pm
 
 ## User Experience Design Process
 
@@ -65,22 +65,10 @@ In-class work progress review is part of the performance assessment. A student m
 
 ### Copyright
 
+<badge type="error" text="Need to check/update link"/>
 This course complies with the college directives. Please complete [**Plagiarism Declaration**](https://brightspace.algonquincollege.com/d2l/le/content/474453/viewContent/7112658/View)
 
 ## Contacts
-
-<ContactCard 
-  name="SuCheng Lee"
-  title="Professor"
-  img-url="/f2022/slee_h.png"
-  bio="Professor of the Mobile Application Design & Development Program at Algonquin College"
-  :details="[
-      { label: 'email', value: 'lees1@algonquincollege.com' }, 
-      { label: 'github', value: 'lees1' },  
-      { label: 'office', value: 'Zoom - by appointment' },
-      { label: 'twitter', value: '@UXResearchLab' },
-    ]"
-/>
 
 <ContactCard 
   name="Laura Olac"
@@ -88,10 +76,19 @@ This course complies with the college directives. Please complete [**Plagiarism 
   img-url="/f2022/Laura-Olac.png"
   bio="Instructor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
-      { label: 'email', value: 'olacl@algonquincollege.com' }, 
-      { label: 'github', value: 'TBA' },  
+      { label: 'email', value: 'olacl@algonquincollege.com' },  
       { label: 'office', value: 'Zoom - by appointment' },
-      { label: 'twitter', value: 'TBA' },
+    ]"
+/>
+
+<ContactCard 
+  name="Tyler Bristow"
+  title="Professor"
+  img-url="/f2022/tyler-bristow.jpg"
+  bio="Professor of the Mobile Application Design & Development Program at Algonquin College"
+  :details="[
+      { label: 'email', value: 'bristot@algonquincollege.com' }, 
+      { label: 'office', value: 'Zoom - by appointment' },
     ]"
 />
 
