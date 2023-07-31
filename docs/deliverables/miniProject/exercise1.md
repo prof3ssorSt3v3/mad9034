@@ -50,7 +50,7 @@ Craft a thoughtful script to elicit valuable insights from participants. Your sc
 4. **Desired Features:** Identify the features they would like to see in an ideal fitness tracker.
 5. **Additional Thoughts:** Encourage participants to share any other relevant thoughts related to the research goals.
 
-To ensure a smooth interview process:
+**To ensure a smooth interview process:**
 
 6. **Time Management:** Keep interviews concise, with a maximum duration of 15 minutes.
 7. **Rehearse the Script:** Practice the interview script with your team before conducting interviews with users.
@@ -75,14 +75,11 @@ This exercise is graded as a PASS / FAIL
 
 ## Submission
 
-::: warning Due Date
-
-<Badge text="Section 010: Thursday September 14th @7:00pm" />
-<Badge type="error" text="Section 020: Thursday September 14th @5:00pm" />
-
-**Submit on Brightspace under Assignments > Exercise 1 — User Research **
-:::
-
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 1 — User Research.
 - Upload your file (as a word document, or pdf, etc.) on the assignment page in BS LMS and click the submit button.
+
+**Due Dates:**
+
+<Badge text="Section 010: Thursday September 14th @7:00pm" />
+<Badge type="error" text="Section 020: Thursday September 14th @5:00pm" />
