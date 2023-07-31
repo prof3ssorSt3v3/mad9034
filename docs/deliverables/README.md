@@ -13,8 +13,6 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 <Badge text="Section 010: Thursday September 14th @7:00pm" />
 <Badge type="error" text="Section 020: Thursday September 14th @5:00pm" />
 
-<Badge text="Due: Placeholder" />
-
 ### Exercise 2 — Synthesized Research Results
 
 [Synthesized Research Result Details](./miniProject/exercise2.md)
