@@ -20,21 +20,23 @@ Great work completing the user research phase! Now, it's time to distill all the
 
 ::: tip Problem Statement
 
-We spoke to \***\*\*\*\*\***\_\***\*\*\*\*\*** [describe persona]:
+<pre>We spoke to ________________ [describe persona]</pre>
 
 _(Share essential details about the targeted user persona based on your research.)_
 
-We noticed that \***\*\*\*\*\***\_\***\*\*\*\*\*** [describe challenge or opportunity]:
+<pre>We noticed that ________________ [describe challenge or opportunity]</pre>
 
 _(Clearly state the challenge or opportunity observed during the research.)_
 
-We want to help with \***\*\*\*\*\***\_\***\*\*\*\*\*** [describe specifically what your product will solve]:
+<pre>We want to help with ________________ [describe specifically what your product will solve]</pre>
 
 _(Articulate the specific solution or purpose your digital product aims to achieve for the identified challenge or opportunity.)_
 
 :::
 
 ## Grading
+
+This exercise is graded as a PASS / FAIL
 
 ## Submission
 
