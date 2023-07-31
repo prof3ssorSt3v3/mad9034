@@ -12,12 +12,16 @@ To ensure a smooth and engaging presentation, follow these guidelines:
 
 2. **Reflect on the Journey:** As a group, take a moment to reflect on each stage of the mini project, highlighting one surprising aspect in each:
 
-- <span style="color:#3eaf7c">Initial Research:</span> Share what surprised you during the research phase.
-- <span style="color:#3eaf7c">Analyzing Results:</span> Discuss unexpected findings during the analysis process.
-- <span style="color:#3eaf7c">Brainstorming:</span> Highlight any surprising ideas that emerged during brainstorming sessions.
-- <span style="color:#3eaf7c">Prototyping:</span> Mention any revelations or surprises that surfaced during the prototyping phase.
-- <span style="color:#3eaf7c">Testing:</span> Talk about unexpected user responses or insights discovered during testing.
-- <span style="color:#3eaf7c">Submission and Presentation:</span> One team member should submit the final Figma file link. Everyone in the team should participate in the oral presentation.
+- **Initial Research:** Share what surprised you during the research phase.
+- **Analyzing Results:** Discuss unexpected findings during the analysis process.
+- **Brainstorming:** Highlight any surprising ideas that emerged during brainstorming sessions.
+- **Prototyping:** Mention any revelations or surprises that surfaced during the prototyping phase.
+- **Testing:** Talk about unexpected user responses or insights discovered during testing.
+- **Submission and Presentation:** One team member should submit the final Figma file link. Everyone in the team should participate in the oral presentation.
+
+::: tips Tips
+
+:::
 
 Your presentation will offer valuable insights into your team's journey and discoveries, allowing your classmates to learn from your experiences. Embrace this opportunity to showcase your hard work and creative process. Best of luck with your presentation!
 
