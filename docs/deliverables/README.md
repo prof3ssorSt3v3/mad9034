@@ -17,8 +17,8 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [Synthesized Research Result Details](./miniProject/exercise2.md)
 
-<Badge text="Section 010: Sunday 17th @11:59pm" />
-<Badge type="error" text="Section 020: Sunday 17th @11:59pm" />
+<Badge text="Section 010: Sunday September 17th @11:59pm" />
+<Badge type="error" text="Section 020: Sunday September 17th @11:59pm" />
 
 ### Exercise 3 — Brainstorming
 
@@ -31,8 +31,8 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [Prototyping Details](./miniProject/exercise4.md)
 
-<Badge text="Section 010: Sunday 24th @11:59pm" />
-<Badge type="error" text="Section 020: Sunday 24th @11:59pm" />
+<Badge text="Section 010: Sunday September 24th @11:59pm" />
+<Badge type="error" text="Section 020: Sunday September 24th @11:59pm" />
 
 ### Exercise 5 — Testing
 
