@@ -1,5 +1,6 @@
 # MAD9034 - User Experience Design
 
+TEST
 ::: tip Welcome to UXD
 
 Going beyond the basics of graphics and user interface fundamentals, students learn how to combine these elements to create intuitive, efficient and enjoyable products. Students are introduced to a user-centered approach to designing mobile applications. Students begin with user research and build toward creating interaction design specifications in the form of wireframe documents. Topics such as information architecture, navigation and orientation, and interaction design principles are discussed and applied.
@@ -22,13 +23,12 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 **Section 010:** two days
 
 - :clock12: Tuesday 12pm - 2pm (Virtual)
-- :clock1: Thursday 1pm - 3pm 
+- :clock1: Thursday 1pm - 3pm
 
 **Section 020:** two days
 
-- :clock7: Tuesday 7pm - 9pm 
+- :clock7: Tuesday 7pm - 9pm
 - :clock6: Thursday 6pm - 8pm (Virtual)
-
 
 ## User Experience Design Process
 
@@ -94,7 +94,6 @@ This course complies with the college directives. Please complete [**Plagiarism 
       { label: 'twitter', value: 'TBA' },
     ]"
 />
-
 
 <ContactCard 
   name="Admed Elbadri"
