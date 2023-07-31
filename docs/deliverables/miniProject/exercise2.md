@@ -20,8 +20,6 @@ Your group can decide to complete this exercise either on sticky notes or with F
 
 5. **Problem Statement Articulation:** Select one of the major patterns and frame it as a clear problem to be solved. Use the following format:
 
-::: tip Problem Statement
-
 <!-- prettier-ignore -->
 We spoke to _____________________ [describe persona]
 
@@ -37,9 +35,9 @@ We want to help with _____________________ [describe specifically what your prod
 
 <span style="color:#3eaf7c; font-size: 14px;">(Articulate the specific solution or purpose your digital product aims to achieve for the identified challenge or opportunity.)</span>
 
-:::
-
 7.  **Submission:** Once your group has completed the problem statement, one member of the group should export them your work and submit to Brightspace.
+
+By following these instructions, your team will be well-equipped to present valuable insights and a well-defined problem statement, setting the stage for the next phase of your project. Happy synthesizing!
 
 ## Grading
 
@@ -47,11 +45,11 @@ This exercise is graded as a PASS / FAIL
 
 ## Submission
 
+**Due Dates:**
+
+<Badge text="Section 010: Sunday 17th @11:59pm" />
+<Badge type="error" text="Section 020: Sunday 17th @11:59pm" />
+
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 2 — Synthesized Research Results.
 - Upload your file (as a word document, or pdf, etc.) on the assignment page in BS LMS and click the submit button.
-
-**Due Dates:**
-
-<Badge text="Section 010: Thursday ______________ @7:00pm" />
-<Badge type="error" text="Section 020: Thursday ______________ @5:00pm" />

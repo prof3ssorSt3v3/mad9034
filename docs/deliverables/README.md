@@ -17,7 +17,8 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [Synthesized Research Result Details](./miniProject/exercise2.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Section 010: Sunday 17th @11:59pm" />
+<Badge type="error" text="Section 020: Sunday 17th @11:59pm" />
 
 ### Exercise 3 — Brainstorming
 
