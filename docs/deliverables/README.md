@@ -24,25 +24,29 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [Brainstorming Details](./miniProject/exercise3.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Section 010: Thursday September 21st @7:00pm" />
+<Badge type="error" text="Section 020: Thursday September 21st @5:00pm" />
 
 ### Exercise 4 — Prototyping
 
 [Prototyping Details](./miniProject/exercise4.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Section 010: Sunday 24th @11:59pm" />
+<Badge type="error" text="Section 020: Sunday 24th @11:59pm" />
 
 ### Exercise 5 — Testing
 
 [Testing Details](./miniProject/exercise5.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Section 010: Thursday September 28th @7:00pm" />
+<Badge type="error" text="Section 020: Thursday September 28th @5:00pm" />
 
 ### Exercise 6 — Share Your Observations
 
 [Share Your Observations Details](./miniProject/exercise6.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Section 010: Thursday September 28th @9:00pm" />
+<Badge type="error" text="Section 020: Thursday September 28th @7:00pm" />
 
 ## Major Project
 
