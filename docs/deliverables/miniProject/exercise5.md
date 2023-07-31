@@ -1,18 +1,20 @@
 # Exercise 5 — Testing
 
+## Introduction
+
 ## Instructions
-
-## Example
-
-## File Set Up
 
 ## Grading
 
+This exercise is graded as a PASS / FAIL
+
 ## Submission
 
-::: warning Due Date
+**Due Dates:**
 
-All Sections: TBA @ 11:59pm
+<Badge text="Section 010: Thursday September 28th @7:00pm" />
+<Badge type="error" text="Section 020: Thursday September 28th @5:00pm" />
 
-**Submit on Brightspace under Assignments > Exercise 5 — Testing **
-:::
+- Open BS LMS and go to the Activities > Assignments page.
+- Go to Exercise 1 — User Research.
+- Upload your file (as a word document, or pdf, etc.) on the assignment page in BS LMS and click the submit button.
