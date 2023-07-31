@@ -27,8 +27,7 @@ In addition, there will be practical in-class exercises that are marked toward y
 
 Review [**Resources**](../../resources/) page for college digital resources, online books, references, and free software signup information.
 
-You will use [**Figma**](https://www.figma.com/education/]) to create prototype in this coures, [**miro.com**](https://miro.com/education-whiteboard/) and **Google Drive** for group work. 
-
+You will use [**Figma**](https://www.figma.com/education/) to create prototype in this coures, [**miro.com**](https://miro.com/education-whiteboard/) and **Google Drive** for group work.
 
 ## Week 1 - Required preparation for class 2
 
@@ -37,23 +36,20 @@ You will use [**Figma**](https://www.figma.com/education/]) to create prototype 
 - [Benefits of User-Centered Design](http://www.usability.gov/what-and-why/benefits-of-ucd.html)
 - [Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative?](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/)
 
-
 ### Lesson Slides
 
 - [Week 1-1 Lecture: UXD Overview](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
 
-
 ### Figma – Self-guided Learning
 
-Learn Figma with in-depth tutorials and quick tips and tricks. 
+Learn Figma with in-depth tutorials and quick tips and tricks.
+
 - Tutorials: [Figma for Beginners (4 parts)](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts-)
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://youtu.be/FTFaQWZBqQ8)
 - [Figma Masterclass for Beginners (2022 Updated)](https://youtu.be/II-6dDzc-80)
 - [Online Help](https://help.figma.com/hc/en-us/categories/360002051613-Get-started)
 - [Figma Video Tutorials](https://www.youtube.com/figmadesign)
 - [Best Practices - Tips & Tricks](https://www.figma.com/best-practices/tips-and-tricks/)
-
-
 
 ## TODO
 
