@@ -22,15 +22,15 @@ Great work completing the user research phase! Now, it's time to distill all the
 
 <pre>We spoke to ________________ [describe persona]</pre>
 
-_(Share essential details about the targeted user persona based on your research.)_
+<span style="color:#3eaf7c; font-size: 14px;">(Share essential details about the targeted user persona based on your research.)</span>
 
 <pre>We noticed that ________________ [describe challenge or opportunity]</pre>
 
-_(Clearly state the challenge or opportunity observed during the research.)_
+<span style="color:#3eaf7c; font-size: 14px;">(Clearly state the challenge or opportunity observed during the research.)</span>
 
 <pre>We want to help with ________________ [describe specifically what your product will solve]</pre>
 
-_(Articulate the specific solution or purpose your digital product aims to achieve for the identified challenge or opportunity.)_
+<span style="color:#3eaf7c; font-size: 14px;">(Articulate the specific solution or purpose your digital product aims to achieve for the identified challenge or opportunity.)</span>
 
 :::
 
