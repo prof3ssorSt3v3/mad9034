@@ -8,37 +8,37 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 ### Exercise 1 — User Research
 
-[User Research Details (2%)]()
+[User Research Details](./miniProject/exercise1.md)
 
 <Badge text="Due: Placeholder" />
 
 ### Exercise 2 — Synthesized Research Results
 
-[Synthesized Research Result Details (2%)]()
+[Synthesized Research Result Details](./miniProject/exercise2.md)
 
 <Badge text="Due: Placeholder" />
 
 ### Exercise 3 — Brainstorming
 
-[Brainstorming Details (2%)]()
+[Brainstorming Details](./miniProject/exercise3.md)
 
 <Badge text="Due: Placeholder" />
 
 ### Exercise 4 — Prototyping
 
-[Prototyping Details (2%)]()
+[Prototyping Details](./miniProject/exercise4.md)
 
 <Badge text="Due: Placeholder" />
 
 ### Exercise 5 — Testing
 
-[Testing Details (2%)]()
+[Testing Details](./miniProject/exercise5.md)
 
 <Badge text="Due: Placeholder" />
 
 ### Exercise 6 — Share Your Observations
 
-[Share Your Observations Details (2%)]()
+[Share Your Observations Details](./miniProject/exercise6.md)
 
 <Badge text="Due: Placeholder" />
 
