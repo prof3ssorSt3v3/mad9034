@@ -78,7 +78,7 @@ In-class work progress review is part of the performance assessment. A student m
 <ContactCard 
   name="Tyler Bristow"
   title="Professor"
-  img-url="/f2022/tyler-bristow.jpg"
+  img-url="../assets/tyler-bristow.jpg"
   bio="Professor of the Mobile Application Design & Development Program at Algonquin College"
   :details="[
       { label: 'email', value: 'bristot@algonquincollege.com' }, 
