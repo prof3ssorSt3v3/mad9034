@@ -2,7 +2,7 @@
 
 Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others. There will be a mini project (10%), major project (40%), midterm (10%), UXD portfolio slide package (30%) and final presentation (10%).
 
-## Mini Project
+## Warm-up Project
 
 Worth <Badge type="error" text="10%" /> of Final Grade
 
@@ -60,13 +60,13 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Product Research (Group)
 
-[Product Research Details (5%)]()
+[Product Research Details (5%)](./majorProject/part1.md)
 
 <Badge text="Due: Placeholder" />
 
 #### Persona Research (Group)
 
-[Persona Research Details (5%)]()
+[Persona Research Details (5%)](./majorProject/part2.md)
 
 <Badge text="Due: Placeholder" />
 
@@ -76,19 +76,19 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Persona Creation
 
-[Persona Creation Details (5%)]()
+[Persona Creation Details (5%)](./majorProject/part3.md)
 
 <Badge text="Due: Placeholder" />
 
 #### Scenarios
 
-[Scenario Details (5%)]()
+[Scenario Details (5%)](./majorProject/part4.md)
 
 <Badge text="Due: Placeholder" />
 
 #### Information Architecture
 
-[Information Architecture Details (5%)]()
+[Information Architecture Details (5%)](./majorProject/part5.md)
 
 <Badge text="Due: Placeholder" />
 
@@ -98,7 +98,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Test Ready Low-Fidelity Prototype
 
-[Test Ready Low-fi Prototype Details (5%)]()
+[Test Ready Low-fi Prototype Details (5%)](./majorProject/part6.md)
 
 <Badge text="Due: Placeholder" />
 
@@ -108,7 +108,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Visual Design
 
-[Visual Design Details (5%)]()
+[Visual Design Details (5%)](./majorProject/part7.md)
 
 <Badge text="Due: Placeholder" />
 
@@ -118,7 +118,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Testing Documentation
 
-[Testing Documentation Details (5%)]()
+[Testing Documentation Details (5%)](./majorProject/part8.md)
 
 <Badge text="Due: Placeholder" />
 
@@ -128,18 +128,18 @@ Worth <Badge type="error" text="50%" /> of Final Grade
 
 ### Midterm: Mid-Fidelity Wireframes
 
-[Midterm Details (10%)]()
+[Midterm Details (10%)](./majorDeliverables/midterm.md)
 
 <Badge text="Due: Placeholder" />
 
 ### Final: Presentation
 
-[Final Presentation Details (10%)]()
+[Final Presentation Details (10%)](./majorDeliverables/finalPresentation.md)
 
 <Badge text="Due: Placeholder" />
 
 ### Final: UXD Portfolio Slide Package
 
-[Final Presentation Details (30%)]()
+[Final Presentation Details (30%)](./majorDeliverables/finalSlidePackage.md)
 
 <Badge text="Due: Placeholder" />
