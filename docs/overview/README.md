@@ -33,6 +33,7 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 ## User Experience Design Process
 
 <img src="../assets/UXD.png" alt="UX Design Process">
+*[Source](https://www.nngroup.com/articles/design-thinking/)*
 
 ## Core Topics
 
@@ -63,10 +64,10 @@ In-class work progress review is part of the performance assessment. A student m
 
 :::
 
-### Copyright
+<!-- ### Copyright
 
 <badge type="error" text="Need to check/update link"/>
-This course complies with the college directives. Please complete [**Plagiarism Declaration**](https://brightspace.algonquincollege.com/d2l/le/content/474453/viewContent/7112658/View)
+This course complies with the college directives. Please complete [**Plagiarism Declaration**](https://brightspace.algonquincollege.com/d2l/le/content/474453/viewContent/7112658/View) -->
 
 ## Contacts
 
