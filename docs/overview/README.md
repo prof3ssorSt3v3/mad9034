@@ -8,8 +8,6 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 ## Course Description
 
-<badge type="error" text="Need to update link"/>
-- [Course Outline](https://ecoursemap.com/Outline?coursecode=MAD9034&courseversion=&academicyearid=121)
 - Course Section Information (CSI) on Brightspace LMS
 
 ## Student Workload Expectations
@@ -33,7 +31,7 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 ## User Experience Design Process
 
 <img src="../assets/UXD.png" alt="UX Design Process">
-*[Source](https://www.nngroup.com/articles/design-thinking/)*
+[Source](https://www.nngroup.com/articles/design-thinking/)
 
 ## Core Topics
 
@@ -63,11 +61,6 @@ Students may still submit their assignments after the ten days but it will only 
 In-class work progress review is part of the performance assessment. A student must pass the combined term work (marked exercises and assignments) and score higher than 50% in all graded assignments, presentations, and projects to pass this course.
 
 :::
-
-<!-- ### Copyright
-
-<badge type="error" text="Need to check/update link"/>
-This course complies with the college directives. Please complete [**Plagiarism Declaration**](https://brightspace.algonquincollege.com/d2l/le/content/474453/viewContent/7112658/View) -->
 
 ## Contacts
 
