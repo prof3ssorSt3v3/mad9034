@@ -1,9 +1,16 @@
 # Week 8: Reading Week
 
+## Chill
 
-## TODO
+Take some time off to relax and recharge!
 
-::: tip TODO before next week
+<YouTube
+  title="Deep Underwater • Relaxing Sleep Music in an Underwater Paradise"
+  url="https://www.youtube.com/embed/OVct34NUk3U"
+/>
 
-- Submit your Scenario and IA Diagram assignments by Sunday, October 30. Read all the assigned reading for Week 9 and watch the videos. This will help you answer pop-quiz questions and prepare you for the lectures and the in-class exercises.
-  :::
+::: tip To Do
+
+Something goes here.
+
+:::

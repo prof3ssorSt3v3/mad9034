@@ -10,13 +10,13 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Class 1
 
-### Summarized Content from Resources
+**Summarized Content from Resources**
 
 ### To do
 
 ## Class 2
 
-### Summarized Content from Resources
+**Summarized Content from Resources**
 
 ### To do
 
