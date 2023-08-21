@@ -33,8 +33,7 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-<Badge text="Section 010: Thursday September 28th @9:00pm" />
-<Badge type="error" text="Section 020: Thursday September 28th @7:00pm" />
+<Badge text="Both Sections: Thursday September 28th @11:59pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 1 — User Research.

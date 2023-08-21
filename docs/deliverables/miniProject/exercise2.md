@@ -47,8 +47,7 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-<Badge text="Section 010: Sunday September 17th @11:59pm" />
-<Badge type="error" text="Section 020: Sunday September 17th @11:59pm" />
+<Badge text="Both Sections: Sunday September 17th @11:59pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Exercise 2 — Synthesized Research Results.
