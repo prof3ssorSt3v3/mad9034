@@ -34,7 +34,7 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [Testing Details](./miniProject/exercise5.md)
 
-<Badge text="Both Sections: Thursday September 28th @12:00pm (noon)" />
+<Badge text="Both Sections: Thursday September 28th @11:59pm" />
 
 ### Exercise 6 — Share Your Observations
 
