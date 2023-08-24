@@ -43,6 +43,8 @@ User experience design (UXD or UED) is the process of enhancing user satisfactio
 
 ## UX Design Process
 
+[Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
+
 The design-thinking framework follows an overall flow of 1) understand, 2) explore, and 3) materialize. Within these larger buckets fall the 6 phases: empathize, define, ideate, prototype, test, and implement.
 
 ![UX Design Process](./UXD.png)
@@ -82,9 +84,7 @@ Imagine the onboarding situation once more. In the define phase, use the info yo
 > Remember
 > Before building a mobile app, you want to verify if your idea is viable and the features you intend to build meet your users’ needs and wants. A User Centered Design approach will assist you in creating the best product experience and effectively fulfill your client’s business objectives.
 
-## Todo
-
-::: tip
+::: tip To do
 
 - Review Week 1 & 2 content
 
