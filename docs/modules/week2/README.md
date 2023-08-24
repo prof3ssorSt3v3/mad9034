@@ -41,8 +41,7 @@ User research focuses on understanding user behaviors, needs and motivations thr
 
 <!-- ![Image Alt Text](image-url)  -->
 
-| :--------------------------: | :------: | -------- |
-| Image| **Card Sorting** | Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think. |
+| Image | **Card Sorting** | Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think. |
 
 **Card Sorting:** Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think.
 
