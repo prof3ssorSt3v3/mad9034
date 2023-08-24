@@ -39,6 +39,11 @@ User research focuses on understanding user behaviors, needs and motivations thr
 
 ### A selection of methods used in UX Design
 
+<!-- ![Image Alt Text](image-url)  -->
+
+| :--------------------------: | :------: | -------- |
+| Image| **Card Sorting** | Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think. |
+
 **Card Sorting:** Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think.
 
 **Contextual Interviews:** Enable you to observe users in their natural environment, giving you a better understanding of the way users work.
@@ -68,6 +73,16 @@ User research focuses on understanding user behaviors, needs and motivations thr
 **Use Case:** Use cases, scenarios and storyboards focus on describing how users use your product and their goals.
 
 ### Context of use
+
+## Analysis
+
+### Definition and Goals
+
+### Thematic Analysis
+
+### Thematic analysis method
+
+### Tips
 
 ::: tip To do
 
