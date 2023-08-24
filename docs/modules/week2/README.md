@@ -39,7 +39,7 @@ User research focuses on understanding user behaviors, needs and motivations thr
 
 ### A selection of methods used in UX Design
 
-<!-- ![Image Alt Text](image-url)  -->
+<Badge type="error" text="In progress" />
 
 |       |                                  |                                                                                                                                                                          |
 | ----- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -60,15 +60,61 @@ User research focuses on understanding user behaviors, needs and motivations thr
 
 ### Context of use
 
+<Badge type="error" text="In progress" />
+
 ## Analysis
 
 ### Definition and Goals
 
+User research analysis is about making sense of the data that you collected during your study.
+
+**Goals**
+
+- Avoid being influenced by your own bias or interests
+- Ensure opportunities aren’t overlooked
+- Be able to share with other people (product stakeholders) how you reached your conclusions
+- Know what you don’t know
+
 ### Thematic Analysis
+
+A systematic method of breaking down and organizing rich data from qualitative research by tagging individual observations and quotations with appropriate codes, to facilitate the discovery of significant themes.
+
+![Thematic Analysis](./thematic-analysis.png)
+
+[How to Analyze Qualitative Data from UX Research: Thematic Analysis](https://www.nngroup.com/articles/thematic-analysis/)
 
 ### Thematic analysis method
 
+**STEP 1:** Familiarize yourself with your data.
+**STEP 2:** Search for patterns across all the interviews
+**STEP 3:** Identify preliminary themes
+**STEP 4:** Review themes
+**STEP 5:** Name and define themes
+
+<YouTube
+  title="Affinity Diagramming: Collaborate, Sort and Prioritize UX Ideas"
+  url="https://www.youtube.com/embed/C4nYxZxteJY?si=NbBtZryz6-4hRw60"
+/>
+
 ### Tips
+
+1. **Watch your bias!**
+   Description / Explanation...
+
+2. **Interpret the data as honestly as you can**
+   Description / Explanation...
+
+3. **Stay focused on analyzing data that is relevant to the goals of your project:**
+   Description / Explanation...
+
+## Design Sprint
+
+Talk about what a design sprint is...
+
+<YouTube
+  title="Sprint: Monday"
+  url="https://www.youtube.com/embed/7zOBMxRYJ7I?si=zS_Zc71nAHezNsfY"
+/>
 
 ::: tip To do
 
