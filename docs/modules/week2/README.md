@@ -39,24 +39,22 @@ User research focuses on understanding user behaviors, needs and motivations thr
 
 ### A selection of methods used in UX Design
 
-<Badge type="error" text="In progress" />
-
-|       |                                  |                                                                                                                                                                          |
-| ----- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Image | **Card Sorting**                 | Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think.       |
-| Image | **Contextual Interviews**        | Enable you to observe users in their natural environment, giving you a better understanding of the way users work.                                                       |
-| Image | **First Click Testing**          | A testing method focused on navigation, which can be performed on a functioning website, a prototype, or a wireframe.                                                    |
-| Image | **Focus Groups**                 | Moderated discussion with a group of users, allow you to learn about user attitudes, ideas, and desires.                                                                 |
-| Image | **Heuristic Evaluation**         | Usability experts evaluating your website (app) against a list of established guidelines.                                                                                |
-| Image | **Individual Interviews**        | One-on-one discussions with users show you how a particular user works. They enable you to get detailed information about a user's attitudes, desires, and experiences.  |
-| Image | **Parallel Design**              | Involves several designers pursuing the same effort simultaneously, but independently, with the intention to combine the best aspects of each for the ultimate solution. |
-| Image | **Persona**                      | Create a representative user based on available data and user interviews. Some personal details may be fiction, but the information used to create the user type is not. |
-| Image | **Prototyping**                  | Explore ideas before implementing them by creating a mock-up. A prototype can range from a paper mock-up to interactive html pages.                                      |
-| Image | **Survey**                       | A series of questions asked to multiple users of your website, help you learn about the people who visit your site.                                                      |
-| Image | **System Usability Scale (SUS)** | SUS is a technology independent ten item scale for subjective evaluation of the usability.                                                                               |
-| Image | **Task Analysis**                | Involves learning about user goals, including what users want to do on your App, and helps you understand the tasks that users will perform on it.                       |
-| Image | **Usability Testing**            | Usability testing refers to evaluating a product or service by testing it with representative users.                                                                     |
-| Image | **Use Case**                     | Use cases, scenarios and storyboards focus on describing how users use your product and their goals.                                                                     |
+|                                      |                                                                                                                                                                          |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Card Sorting**<br>                 | Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think.       |
+| **Contextual Interviews**<br>        | Enable you to observe users in their natural environment, giving you a better understanding of the way users work.                                                       |
+| **First Click Testing**<br>          | A testing method focused on navigation, which can be performed on a functioning website, a prototype, or a wireframe.                                                    |
+| **Focus Groups**<br>                 | Moderated discussion with a group of users, allow you to learn about user attitudes, ideas, and desires.                                                                 |
+| **Heuristic Evaluation**<br>         | Usability experts evaluating your website (app) against a list of established guidelines.                                                                                |
+| **Individual Interviews**<br>        | One-on-one discussions with users show you how a particular user works. They enable you to get detailed information about a user's attitudes, desires, and experiences.  |
+| **Parallel Design**<br>              | Involves several designers pursuing the same effort simultaneously, but independently, with the intention to combine the best aspects of each for the ultimate solution. |
+| **Persona**<br>                      | Create a representative user based on available data and user interviews. Some personal details may be fiction, but the information used to create the user type is not. |
+| **Prototyping**<br>                  | Explore ideas before implementing them by creating a mock-up. A prototype can range from a paper mock-up to interactive html pages.                                      |
+| **Survey**<br>                       | A series of questions asked to multiple users of your website, help you learn about the people who visit your site.                                                      |
+| **System Usability Scale (SUS)**<br> | SUS is a technology independent ten item scale for subjective evaluation of the usability.                                                                               |
+| **Task Analysis**<br>                | Involves learning about user goals, including what users want to do on your App, and helps you understand the tasks that users will perform on it.                       |
+| **Usability Testing**<br>            | Usability testing refers to evaluating a product or service by testing it with representative users.                                                                     |
+| **Use Case**<br>                     | Use cases, scenarios and storyboards focus on describing how users use your product and their goals.                                                                     |
 
 ### Context of use
 
@@ -115,11 +113,3 @@ Talk about what a design sprint is...
   title="Sprint: Monday"
   url="https://www.youtube.com/embed/7zOBMxRYJ7I?si=zS_Zc71nAHezNsfY"
 />
-
-::: tip To do
-
-- Review Week 1 & 2 content
-
-**No assignments due this week**
-
-:::

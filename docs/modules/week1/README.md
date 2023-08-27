@@ -83,11 +83,3 @@ Imagine the onboarding situation once more. In the define phase, use the info yo
 
 > Remember
 > Before building a mobile app, you want to verify if your idea is viable and the features you intend to build meet your users’ needs and wants. A User Centered Design approach will assist you in creating the best product experience and effectively fulfill your client’s business objectives.
-
-::: tip To do
-
-- Review Week 1 & 2 content
-
-**No assignments due this week**
-
-:::
