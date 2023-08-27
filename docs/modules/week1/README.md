@@ -77,6 +77,16 @@ Imagine the onboarding situation once more. In the define phase, use the info yo
 
 <Badge type="error" text="In progress" />
 
+### Tools and Deliverables (covered in this course)
+
+- Personas
+- Scenarios
+- Information Architecture
+- Wireframes
+- Visual design
+- Prototype
+- Usability testing
+
 ## UX Design Competencies
 
 ![UX Design Competencies](./ux-design-competencies.png)

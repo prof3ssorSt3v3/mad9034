@@ -1,4 +1,4 @@
-# Week 5: Major project discovery and research
+# Week 5: Product Research and Personas
 
 ::: warning Required Preparation
 
@@ -8,16 +8,50 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Learning Objectives
 
-## Class 1
+## Product Research
 
-**Summarized Content from Resources**
+### Definition and Goals
 
-### To do
+[Product research - Meaning, Importance, Stages, Example.](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/8598-product-research.html#3)
 
-## Class 2
+Product Research refers to the systematic process of gathering and analyzing information to better understand a specific product, its market, and its potential customers.
 
-**Summarized Content from Resources**
+**Goals**
+Learn about:
 
-### To do
+- Market segment
+- Competitive landscape
+- Strengths and weaknesses of competitive products
+- Competitive advantage of your product
+- How your product can gain market share
 
-## Prepare for Week
+### Product Research vs User Research
+
+|     Product Research Studies      |      User Research Studies      |
+| :-------------------------------: | :-----------------------------: |
+|            The market             |            The user             |
+| Products that exist in the market |           Unmet needs           |
+|           Product risks           |         Product demands         |
+|           Market risks            |        Product features         |
+|     What people say they want     |        What people need         |
+|       What people will buy        | How people will use the product |
+
+### Benefits
+
+### Components
+
+**Product Research Case Study**
+
+## Business Research
+
+### Benefits
+
+### Components
+
+## Market Research
+
+### Benefits
+
+### Components
+
+## Competitive Analysis
