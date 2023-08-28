@@ -41,4 +41,4 @@ This exercise is graded as a PASS / FAIL
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 3 — Brainstorming`
-- Upload your file (as a word document, or pdf, etc.) on the assignment page in BS LMS and click the submit button.
+- Upload your screenshot on the assignment page in BS LMS and click the submit button.
