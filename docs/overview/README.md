@@ -31,6 +31,7 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 ## User Experience Design Process
 
 <img src="../assets/UXD.png" alt="UX Design Process">
+
 [Source](https://www.nngroup.com/articles/design-thinking/)
 
 ## Core Topics
@@ -78,7 +79,7 @@ In-class work progress review is part of the performance assessment. A student m
 <ContactCard 
   name="Tyler Bristow"
   title="Professor"
-  img-url="../f2023/tyler-bristow.jpg"
+  img-url="/f2023/tyler-bristow.jpg"
   bio="Professor of the Mobile Application Design & Development Program at Algonquin College"
   :details="[
       { label: 'email', value: 'bristot@algonquincollege.com' }, 
