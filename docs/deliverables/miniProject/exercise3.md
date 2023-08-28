@@ -39,6 +39,6 @@ This exercise is graded as a PASS / FAIL
 
 <Badge text="Both Sections: Thursday September 21st @12:00pm (noon)" />
 
-- Open BS LMS and go to the Activities > Assignments page.
-- Go to Exercise 1 — User Research.
+- Open BS LMS and go to the `Activities > Assignments` page.
+- Go to `Exercise 3 — Brainstorming`
 - Upload your file (as a word document, or pdf, etc.) on the assignment page in BS LMS and click the submit button.

@@ -80,6 +80,6 @@ This exercise is graded as a PASS / FAIL
 
 <Badge text="Both Sections: Sunday September 24th @11:59pm" />
 
-- Open BS LMS and go to the Activities > Assignments page.
-- Go to Exercise 4 — Prototyping.
+- Open BS LMS and go to the `Activities > Assignments` page.
+- Go to `Exercise 4 — Prototyping`.
 - Upload your file (as a word document, or pdf, etc.) on the assignment page in BS LMS and click the submit button.
