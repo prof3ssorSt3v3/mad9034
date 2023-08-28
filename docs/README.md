@@ -10,17 +10,5 @@ features:
     details: Apply user-centered design principles to design mobile apps. Begin with user research to identify user requirements. Communicate research findings with personas and usage scenarios. Create interactive mobile mockups to verify the solution by testing it with users.
   - title: Create interaction design specifications in the form of wireframe documents
     details: Incorporate interaction design principles and platform guidelines to generate mobile UI specifications by designing various interactive wireframe documents.
-footer: Authored by SuCheng Lee & Laura Olac ~ Copyright © 2022, Algonquin College of Applied Arts and Technology
+footer: Authored by Tyler Bristow & Laura Olac ~ Copyright © 2023, Algonquin College of Applied Arts and Technology
 ---
-
-<ContactCard 
-  name="SuCheng Lee"
-  img-url="/f2022/slee_h.png"
-  bio="Professor of the Mobile Application Design & Development program at Algonquin College"
-  :details="[
-      { label: 'email', value: 'lees1@algonquincollge.com' }, 
-      { label: 'twitter', value: '@UXResearchLab' }, 
-      { label: 'github', value: 'lees1' }, 
-      { label: 'office', value: 'Zoom - by appointment' }
-    ]"
-/>
