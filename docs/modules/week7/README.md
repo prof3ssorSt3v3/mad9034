@@ -8,6 +8,11 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Learning Objectives
 
+- Have a solid understanding of the why, when, what, and how to create scenarios
+- Translate user research data to create a usage scenario
+- Harness your knowledge of information architecture (IA) to create high-level navigation for your product
+- Learn other IA technique for user flow mapping
+
 ## Class 1
 
 **Summarized Content from Resources**

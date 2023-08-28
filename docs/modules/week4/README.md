@@ -8,6 +8,10 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Learning Objectives
 
+- Have a deeper understanding of the role of user testing and iterating in the UXD process
+- Have learned and practiced some testing and iterating skills, using appropriate tools
+- Be introduced to the major project for the term
+
 ## Usability Testing
 
 ### Definition and Goals

@@ -8,6 +8,9 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Learning Objectives
 
+- Have a high-level understanding of the project objectives and Identify appropriate user-research methods to gather information for your project.
+- Have an understanding of UX project planning and create one for their individual project
+
 ## Product Research
 
 ### Definition and Goals

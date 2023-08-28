@@ -8,6 +8,10 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Learning Objectives
 
+- Have a deeper understanding of the role of design and prototyping in the UXD process
+- Have learned and practiced some design and prototyping skills, using appropriate tools
+- Be introduced to key design software available to be used throughout the term
+
 ## Ideation
 
 ### Definition and Goals
@@ -112,6 +116,8 @@ A prototype is an early model or sample which is built for the purpose of testin
 **Content:** Include enough real or realistic content for participants to respond to it accordingly, and provide useful feedback.
 
 **Interactivity:** Include interactivity -- at any level of fidelity -- to test how a user would navigate through content, screens, and apps themselves.
+
+---
 
 The first step is to decide what you want to test, which determines what goes in your prototype.
 

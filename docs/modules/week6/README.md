@@ -8,6 +8,9 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Learning Objectives
 
+- Review submitted persona spreadsheet data (submitted in week 5)
+- Have a hands-on experience of using user research data to create personas and move into usage scenario creation
+
 ## Class 1
 
 **Summarized Content from Resources**
