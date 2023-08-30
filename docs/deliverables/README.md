@@ -76,15 +76,19 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Scenarios
 
-[Scenario Details (5%)](./majorProject/part4.md)
+<Badge type="error" text="Coming Soon" />
 
-<Badge text="Due: Placeholder" />
+<!-- [Scenario Details (5%)](./majorProject/part4.md)
+
+<Badge text="Due: Placeholder" /> -->
 
 #### Information Architecture
 
-[Information Architecture Details (5%)](./majorProject/part5.md)
+<Badge type="error" text="Coming Soon" />
 
-<Badge text="Due: Placeholder" />
+<!-- [Information Architecture Details (5%)](./majorProject/part5.md)
+
+<Badge text="Due: Placeholder" /> -->
 
 ### <span style="color:#3eaf7c">**Ideate**</span>
 
@@ -92,9 +96,11 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Test Ready Low-Fidelity Prototype
 
-[Test Ready Low-fi Prototype Details (5%)](./majorProject/part6.md)
+<Badge type="error" text="Coming Soon" />
 
-<Badge text="Due: Placeholder" />
+<!-- [Test Ready Low-fi Prototype Details (5%)](./majorProject/part6.md)
+
+<Badge text="Due: Placeholder" /> -->
 
 ### <span style="color:#3eaf7c">**Prototype**</span>
 
@@ -102,9 +108,11 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Visual Design
 
-[Visual Design Details (5%)](./majorProject/part7.md)
+<Badge type="error" text="Coming Soon" />
 
-<Badge text="Due: Placeholder" />
+<!-- [Visual Design Details (5%)](./majorProject/part7.md)
+
+<Badge text="Due: Placeholder" /> -->
 
 ### <span style="color:#3eaf7c">**Test**</span>
 
@@ -112,9 +120,11 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Testing Documentation
 
-[Testing Documentation Details (5%)](./majorProject/part8.md)
+<Badge type="error" text="Coming Soon" />
 
-<Badge text="Due: Placeholder" />
+<!-- [Testing Documentation Details (5%)](./majorProject/part8.md)
+
+<Badge text="Due: Placeholder" /> -->
 
 ## Major Deliverables
 
@@ -128,24 +138,16 @@ Worth <Badge type="error" text="50%" /> of Final Grade
 
 ### Final: Presentation
 
-[Final Presentation Details (10%)](./majorDeliverables/finalPresentation.md)
+<Badge type="error" text="Coming Soon" />
 
-<Badge text="Due: Placeholder" />
+<!-- [Final Presentation Details (10%)](./majorDeliverables/finalPresentation.md)
+
+<Badge text="Due: Placeholder" /> -->
 
 ### Final: UXD Portfolio Slide Package
 
-[Final Presentation Details (30%)](./majorDeliverables/finalSlidePackage.md)
+<Badge type="error" text="Coming Soon" />
 
-<Badge text="Due: Placeholder" />
+<!-- [Final Presentation Details (30%)](./majorDeliverables/finalSlidePackage.md)
 
-::: tip Notice
-
-The rest of the content regarding the Final Project, will be posted after reading week!
-
-:::
-
-::: tip Notice
-
-The deliverables for the Final Project, will be posted after reading week!
-
-:::
+<Badge text="Due: Placeholder" /> -->
