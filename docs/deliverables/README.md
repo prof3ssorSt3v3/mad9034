@@ -137,3 +137,15 @@ Worth <Badge type="error" text="50%" /> of Final Grade
 [Final Presentation Details (30%)](./majorDeliverables/finalSlidePackage.md)
 
 <Badge text="Due: Placeholder" />
+
+::: tip Notice
+
+The rest of the content regarding the Final Project, will be posted after reading week!
+
+:::
+
+::: tip Notice
+
+The deliverables for the Final Project, will be posted after reading week!
+
+:::
