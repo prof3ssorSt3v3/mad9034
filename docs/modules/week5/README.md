@@ -163,13 +163,20 @@ Thousands of people located in multiple geographical locations, with various cul
 
 ## Project Planning
 
-|                 |                      |
-| --------------- | -------------------- |
-| UX Project Plan | Overall Project Plan |
+**UX Project Plan**
 
-| - Owner: UX team<br> - UX activities only<br> - Estimates for UX activities<br> - Primary audience: the UX Team<br> - How UX work integrates into the overall project plan and timelines
-| - Owner: project or product management<br> - Activities across all disciplines involved<br> - May summarize multiple UX activities into a single item<br> - Audience: multiple stakeholders across many disciplines
-|
+- Owner: UX team
+- UX activities only
+- Estimates for UX activities
+- Primary audience: the UX Team<
+- How UX work integrates into the overall project plan and timelines
+
+**Overall Project Plan**
+
+- Owner: project or product management
+- Activities across all disciplines involved
+- May summarize multiple UX activities into a single item
+- Audience: multiple stakeholders across many disciplines
 
 ### UX Project Plan
 
@@ -182,12 +189,13 @@ A list of UX activities to be performed
 
 **A UX Project Plan is a living document!**
 
+Simple Project Plan
 ![Project Plan](./project-plan.png)
 
-### Project Managment Tools
+### Project Management Tools
 
 (Recommended in 2023)
 
-![Project Managment Tools](./tool.png)
+![Project Management Tools](./tool.png)
 
 [Top Management Software of 2023](https://www.top10.com/project-management/comparison?utm_source=google&kw=top%20project%20management%20tools&c=641267620270&t=search&p=&m=p&adpos=&dev=c&devmod=&mobval=0&network=g&campaignid=15692302968&groupid=134576865347&targetid=kwd-4221054342&interest=&physical=9000679&feedid=&a=200435&ts=&topic=&clicktype=&camtype=&gclid=CjwKCAjwrranBhAEEiwAzbhNtfgFXJBLlglYdWFWB1lXTB9Rqw-eKVqN0k6aVyeYTJ32kgMen0IqgxoCSF0QAvD_BwE)
