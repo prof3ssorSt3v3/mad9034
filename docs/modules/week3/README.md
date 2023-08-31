@@ -93,21 +93,15 @@ A prototype is an early model or sample which is built for the purpose of testin
 - Affordance or feedback
 - Terminology
 
-**Navigation**
+**Navigation:** Ensure users have all the navigation they need to accomplish the task at hand
 
-- Ensure users have all the navigation they need to accomplish the task at hand
+**Functionality:** Ensure users have all the interactive elements they need to perform the task at hand
 
-**Functionality**
-
-- Ensure users have all the interactive elements they need to perform the task at hand
-
-**Alternate designs**
-
-- If there are multiple options for users to accomplish the task at hand, determine which one is most frequently chosen by users
+**Alternate designs:** If there are multiple options for users to accomplish the task at hand, determine which one is most frequently chosen by users
 
 ### Elements of a prototype
 
-**What you want to test** determines what goes into a prototype.
+**What you want to test:** determines what goes into a prototype.
 
 **Scope:** Enough screens for participants to imagine completing the task that you want to test.
 
@@ -117,7 +111,7 @@ A prototype is an early model or sample which is built for the purpose of testin
 
 **Interactivity:** Include interactivity -- at any level of fidelity -- to test how a user would navigate through content, screens, and apps themselves.
 
----
+### Determining what to test
 
 The first step is to decide what you want to test, which determines what goes in your prototype.
 
