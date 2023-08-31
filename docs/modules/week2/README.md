@@ -58,7 +58,10 @@ User research focuses on understanding user behaviors, needs and motivations thr
 
 ### Context of use
 
-<Badge type="error" text="In progress" />
+The image below maps the types of user research methods out there to the first two dimensions — Attitudinal vs. Behavioural and Qualitative vs Quantitative.
+
+![Context of use](./context-of-use.png)
+[source](https://uxdesign.cc/the-right-way-of-doing-user-research-569bf7f35b36)
 
 ## Analysis
 
@@ -83,11 +86,11 @@ A systematic method of breaking down and organizing rich data from qualitative r
 
 ### Thematic analysis method
 
-**STEP 1:** Familiarize yourself with your data.
-**STEP 2:** Search for patterns across all the interviews
-**STEP 3:** Identify preliminary themes
-**STEP 4:** Review themes
-**STEP 5:** Name and define themes
+**STEP 1:** Familiarize yourself with your data.<br>
+**STEP 2:** Search for patterns across all the interviews<br>
+**STEP 3:** Identify preliminary themes<br>
+**STEP 4:** Review themes<br>
+**STEP 5:** Name and define themes<br>
 
 <YouTube
   title="Affinity Diagramming: Collaborate, Sort and Prioritize UX Ideas"
@@ -107,7 +110,17 @@ A systematic method of breaking down and organizing rich data from qualitative r
 
 ## Design Sprint
 
-Talk about what a design sprint is...
+A design sprint is a structured and time-bound process used by teams to quickly conceptualize, prototype, and test new ideas or solutions. It's typically done in a span of about one to five days, and it aims to address challenges and develop innovative solutions through a collaborative and iterative approach. Here's a summary of the key steps involved in a design sprint:
+
+1. **Understand:** Identify the problem.
+2. **Diverge:** Generate a bunch of ideas.
+3. **Converge:** Pick the best idea.
+4. **Prototype:** Make a simple model of your idea.
+5. **Test:** Get feedback from real users.
+6. **Iterate:** Improve your idea based on feedback.
+7. **Decide:** Choose whether to pursue the idea further.
+
+The process is quick, collaborative, and helps teams avoid wasting time on ideas that might not work.
 
 <YouTube
   title="Sprint: Monday"

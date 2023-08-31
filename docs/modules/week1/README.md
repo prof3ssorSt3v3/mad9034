@@ -45,37 +45,45 @@ User experience design (UXD or UED) is the process of enhancing user satisfactio
 
 [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
 
-The design-thinking framework follows an overall flow of 1) understand, 2) explore, and 3) materialize. Within these larger buckets fall the 6 phases: empathize, define, ideate, prototype, test, and implement.
+The design-thinking framework follows an overall flow of:
+
+1. Understand
+2. Explore
+3. Materialize.
+
+Within these larger buckets fall the 6 phases: empathize, define, ideate, prototype, test, and implement.
 
 ![UX Design Process](./UXD.png)
 
 ### Empathize
 
 **Gather information by studying what your users do, say, think, and feel.**
-
 For example, let's say you want to make the introduction process better for new users. At this stage, talk to different real users. Watch closely how they use things, what they like, and what they struggle with. Ask yourself questions like 'What makes users excited or disappointed?' or 'Where do they get stuck?' The aim is to collect enough observations so you can really understand your users and how they see things.
 
 ### Define
 
 **Collect all your research and see where your users have problems. As you figure out what your users require, start spotting chances to come up with new ideas.**
-
 Imagine the onboarding situation once more. In the define phase, use the info you got from the empathize phase to learn important things. Put together all the things you observed and find common things in how your users experience things now. Do lots of users have the same issue? Find needs that no one is addressing yet.
 
 ### Ideate
 
-<Badge type="error" text="In progress" />
+**Brainstorm a range of crazy, creative ideas that address the unmet user needs identified in the define phase. Give yourself and your team total freedom; no idea is too farfetched and quantity supersedes quality.**
+At this phase, bring your team members together and sketch out many different ideas. Then, have them share ideas with one another, mixing and remixing, building on others' ideas.
 
 ### Prototype
 
-<Badge type="error" text="In progress" />
+**Build real, tactile representations for a subset of your ideas. The goal of this phase is to understand what components of your ideas work, and which do not.**
+Make your ideas tactile. If it is a new landing page, draw out a wireframe and get feedback internally. Change it based on feedback, then prototype it again in quick and dirty code. Then, share it with another group of people.
 
 ### Test
 
-<Badge type="error" text="In progress" />
+**Put your prototype in front of real customers and verify that it achieves your goals.**
+Has the users’ perspective during onboarding improved? Does the new landing page increase time or money spent on your site? As you are executing your vision, continue to test along the way.
 
 ### Implement + Measure
 
-<Badge type="error" text="In progress" />
+**Put the vision into effect.**
+Ensure that your solution is materialized and touches the lives of your end users.
 
 ### Tools and Deliverables (covered in this course)
 
