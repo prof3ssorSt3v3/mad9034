@@ -25,8 +25,6 @@ Ideation is a creative process intended to generate many ideas.
 - Uncover unexpected areas of innovation
 - Generate a large volume of ideas to build on
 
-**Ideation is NOT design-by-committee.**
-
 **Principles of Ideation**
 
 - Open mind

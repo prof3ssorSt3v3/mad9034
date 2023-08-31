@@ -29,7 +29,7 @@ Usability testing or user testing refers to evaluating a prototype, product or s
   url="https://www.youtube.com/embed/n8MnoJyl3W4?si=IvjdnQ46q26izrYj"
 />
 
-### What might we do usability testing?
+### Why might we do usability testing?
 
 Usability testing reveals information about:
 
