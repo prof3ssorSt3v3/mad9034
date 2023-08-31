@@ -130,7 +130,7 @@ Thousands of people located in multiple geographical locations, with various cul
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
 |    **Primary persona**    |                                                        **Secondary persona**                                                        |
 | primary user of a product | is another user of the product for whom we will make accommodations as long as the primary persona’s experience is not compromised. |
-|     SERVICE CONSUMER      |                                                          SERVICE PROVIDER                                                           |
+|     Service Consumer      |                                                          Service Provider                                                           |
 
 ### Steps to create them
 
@@ -154,9 +154,9 @@ Thousands of people located in multiple geographical locations, with various cul
    - Depending on the project you work on, sometimes you may want to ask them to imagine an ideal product. However, not everyone can do that. Know that many people adapt to how a product works and cannot articulate what they want to see different. This is why it is better to ask them about their experience and you will determine what works, what doesn’t and whether things can be presented to the user in a different way
    - Ask for stories and details that you cannot observe yourself
 
-3. Get access to users
-4. Gain an understanding of the users
-5. Analyze the data
-6. Synthesize a model of users
-7. Produce a persona document
-8. Socialize the personas with other stakeholders
+3. **Get access to users**
+4. **Gain an understanding of the users**
+5. **Analyze the data**
+6. **Synthesize a model of users**
+7. **Produce a persona document**
+8. **Socialize the personas with other stakeholders**
