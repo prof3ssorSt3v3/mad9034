@@ -19,10 +19,6 @@ To ensure a smooth and engaging presentation, follow these guidelines:
 - **Testing:** Talk about unexpected user responses or insights discovered during testing.
 - **Submission and Presentation:** One team member should submit the final Figma file link. Everyone in the team should participate in the oral presentation.
 
-::: tips Tips
-
-:::
-
 Your presentation will offer valuable insights into your team's journey and discoveries, allowing your classmates to learn from your experiences. Embrace this opportunity to showcase your hard work and creative process. Best of luck with your presentation!
 
 ## Grading
@@ -35,6 +31,4 @@ This exercise is graded as a PASS / FAIL
 
 <Badge text="Both Sections: Thursday September 28th @11:59pm" />
 
-- Open BS LMS and go to the `Activities > Assignments` page.
-- Go to `Exercise 6 — Share Your Observations`
-- Upload your screenshot on the assignment page in BS LMS and click the submit button.
+- No BS LMS Submission required

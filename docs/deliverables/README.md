@@ -76,19 +76,15 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Scenarios
 
-<Badge type="error" text="Coming Soon" />
+[Scenario Details (5%)](./majorProject/part4.md)
 
-<!-- [Scenario Details (5%)](./majorProject/part4.md)
-
-<Badge text="Due: Placeholder" /> -->
+<Badge text="Due: Placeholder" />
 
 #### Information Architecture
 
-<Badge type="error" text="Coming Soon" />
+[Information Architecture Details (5%)](./majorProject/part5.md)
 
-<!-- [Information Architecture Details (5%)](./majorProject/part5.md)
-
-<Badge text="Due: Placeholder" /> -->
+<Badge text="Due: Placeholder" />
 
 ### <span style="color:#3eaf7c">**Ideate**</span>
 

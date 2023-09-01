@@ -6,11 +6,16 @@ Great work completing the user research phase! Now, it's time to distill all the
 
 ## Instructions
 
-Your group can decide to complete this exercise either on sticky notes or with Figjam.
+::: tip Figma File
+
+Continue to use the Figma file from exercise 1.
+Complete your work on the corresponding page for this exercise.
+
+:::
 
 **Follow these steps to synthesize the research findings effectively:**
 
-1. **Insight Gathering:** Write down each valuable insight or observation on separate post-it notes.
+1. **Insight Gathering:** In the Figma file, Using the post-it notes from Exercise 1, write down each valuable insight or observation on a separate post-it note.
 
 2. **Group Discussion:** Read aloud the collected insights to your group, fostering a collaborative understanding.
 
@@ -51,4 +56,4 @@ This exercise is graded as a PASS / FAIL
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 2 — Synthesized Research Results`.
-- Upload your screenshot on the assignment page in BS LMS and click the submit button.
+- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.

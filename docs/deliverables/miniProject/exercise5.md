@@ -24,31 +24,19 @@ Within each group:
 
 **Step 2: Conducting the Test**
 
-1. Introducing the Prototype:
+1. **Introducing the Prototype:** Place the prototype or product in the participant's control.
 
-   - Place the prototype or product in the participant's control.
+2. **Task Instructions:** Instruct participants to complete tasks one at a time.
 
-2. Task Instructions:
+3. **Encouraging Verbalization:** Encourage participants to vocalize their thoughts and reasoning as they perform tasks.
 
-   - Instruct participants to complete tasks one at a time.
+4. **Avoiding Intervention:** Refrain from intervening; allow participants sufficient time to work through challenges.
 
-3. Encouraging Verbalization:
+5. **Maintaining Neutrality:** Maintain a neutral and unbiased demeanor throughout the testing process.
 
-   - Encourage participants to vocalize their thoughts and reasoning as they perform tasks.
+6. **Questioning for Insights:** Pose questions to participants to gain deeper insight into their actions and decisions.
 
-4. Avoiding Intervention:
-
-   - Refrain from intervening; allow participants sufficient time to work through challenges.
-
-5. Maintaining Neutrality:
-
-   - Maintain a neutral and unbiased demeanor throughout the testing process.
-
-6. Questioning for Insights:
-
-   - Pose questions to participants to gain deeper insight into their actions and decisions.
-
-7. Evaluating Performance and Subjectivity:
+7. **Evaluating Performance and Subjectivity:**
 
    - Assess both the objective aspects of performance and the subjective elements, including:
      - Successful task completions and instances of failure.
@@ -57,7 +45,7 @@ Within each group:
      - Documenting any emotional responses observed.
      - Identifying specific steps within tasks where difficulties arise.
 
-8. Non-Disclosure Agreement (NDA):
+8. **Non-Disclosure Agreement (NDA):**
 
    - Reference the Sample Non-Disclosure Agreement for Usability Testing:
      - Click the link while being logged into your Google Account.
@@ -86,4 +74,4 @@ This exercise is graded as a PASS / FAIL
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 5 — Testing`.
-- Upload your screenshot on the assignment page in BS LMS and click the submit button.
+- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.

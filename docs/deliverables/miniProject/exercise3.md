@@ -29,6 +29,8 @@ Follow these steps to generate and refine your design concepts for an Apple Watc
 
 By following these instructions, your team will go through a dynamic ideation process, generating innovative solutions for the Apple Watch application. Embrace the creative journey and collaborate effectively to select the most promising concept for prototyping. Good luck!
 
+5. **Submission:** Once you have completed your Crazy 8's on a piece of paper, take a photo and added it your Figma File.
+
 ## Grading
 
 This exercise is graded as a PASS / FAIL
@@ -41,4 +43,4 @@ This exercise is graded as a PASS / FAIL
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 3 — Brainstorming`
-- Upload your screenshot on the assignment page in BS LMS and click the submit button.
+- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.
