@@ -6,8 +6,15 @@ Now that we have generated some ideas during the Brainstorming phase, it's time 
 
 ## Instructions
 
+::: tip Figma File
+
+Continue to use the Figma file from exercise 1.
+Complete your work on the corresponding page for this exercise.
+
+:::
+
 1. **Storyboard (30-40 minutes)**
-   - Get a piece of whiteboard, and draw a grid (6-10 squares)
+   - On a piece of paper or in your Figma file, and draw a grid (6-10 squares)
    - Plot out the key steps in your scenario, that will help illustrate your solution, and get good user feedback on key areas
    - You don't need to sketch out every use case, just enough to get accurate feedback
    - Map out the flow that you'll use in the interview script

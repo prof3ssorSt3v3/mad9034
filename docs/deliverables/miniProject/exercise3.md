@@ -6,6 +6,13 @@ Welcome to the creative ideation phase! This week, we will channel our creativit
 
 ## Instructions
 
+::: tip Figma File
+
+Continue to use the Figma file from exercise 1.
+Complete your work on the corresponding page for this exercise.
+
+:::
+
 Follow these steps to generate and refine your design concepts for an Apple Watch solution:
 
 1. Problem Refresher: Start by revisiting the problem statement identified last week to focus your ideation efforts.

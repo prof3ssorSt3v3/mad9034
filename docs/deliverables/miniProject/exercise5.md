@@ -10,6 +10,13 @@ This week's task involves the testing of your prototype, focusing on...
 
 ## Instructions
 
+::: tip Figma File
+
+Continue to use the Figma file from exercise 1.
+Complete your work on the corresponding page for this exercise.
+
+:::
+
 Within each group:
 
 - One student will facilitate the test.
@@ -45,7 +52,9 @@ Within each group:
      - Documenting any emotional responses observed.
      - Identifying specific steps within tasks where difficulties arise.
 
-8. **Non-Disclosure Agreement (NDA):**
+8. **Document your results:** Document your findings in your Figma file.
+
+9. **Non-Disclosure Agreement (NDA):**
 
    - Reference the Sample Non-Disclosure Agreement for Usability Testing:
      - Click the link while being logged into your Google Account.

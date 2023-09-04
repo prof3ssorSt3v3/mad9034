@@ -6,6 +6,13 @@ Congratulations on completing your mini project! Now, it's time to share your te
 
 ## Instructions
 
+::: tip Figma File
+
+Continue to use the Figma file from exercise 1.
+Complete your work on the corresponding page for this exercise.
+
+:::
+
 To ensure a smooth and engaging presentation, follow these guidelines:
 
 1. **Prepare Concise Presentation:** Craft a short, well-organized 2-3 minute presentation. Slides are not required, allowing you to focus on conveying your insights clearly.
