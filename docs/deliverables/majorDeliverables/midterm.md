@@ -45,8 +45,6 @@ To ensure a seamless and comprehensible user experience, address the following b
 - [Major Project Brief]()
 - [Final Project Outline]()
 
-## Grading
-
 ## Submission
 
 **Due Dates:**
