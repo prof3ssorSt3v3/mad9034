@@ -27,9 +27,7 @@ For this assignment, you will get together with 3-4 students working on the same
    - How do they look?
 3. **Documenting your findings:**
 
-## Grading
-
-This exercise is graded as a PASS / FAIL
+- Record your findings in the Figma file.
 
 ## Submission
 
@@ -40,4 +38,4 @@ This exercise is graded as a PASS / FAIL
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Product Research.
-- Upload your file (as a word document, or pdf, etc.) on the assignment page in BS LMS and click the submit button.
+- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.
