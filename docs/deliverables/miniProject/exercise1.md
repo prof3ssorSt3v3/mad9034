@@ -81,4 +81,4 @@ This exercise is graded as a PASS / FAIL
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 1 — User Research`.
-- Upload your screenshot on the assignment page in BS LMS and click the submit button.
+- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.
