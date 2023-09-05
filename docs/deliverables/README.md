@@ -56,13 +56,13 @@ You will follow the UX design process based on the project of your choice, to pr
 
 [Product Research Details (5%)](./majorProject/part1.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Both Sections: Thursday October 5th @11:59pm" />
 
 #### Persona Research (Group)
 
 [Persona Research Details (5%)](./majorProject/part2.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Both Sections: Sunday October 8th @11:59pm" />
 
 ### <span style="color:#3eaf7c">**Define**</span>
 
@@ -72,19 +72,19 @@ You will follow the UX design process based on the project of your choice, to pr
 
 [Persona Creation Details (5%)](./majorProject/part3.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Both Sections: Sunday October 15th @11:59pm" />
 
 #### Scenarios
 
 [Scenario Details (5%)](./majorProject/part4.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Both Sections: Thursday October 19th @12:00pm (noon)" />
 
 #### Information Architecture
 
 [Information Architecture Details (5%)](./majorProject/part5.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Both Sections: Sunday October 22nd @11:59pm" />
 
 ### <span style="color:#3eaf7c">**Ideate**</span>
 
@@ -128,9 +128,10 @@ Worth <Badge type="error" text="50%" /> of Final Grade
 
 ### Midterm: Mid-Fidelity Wireframes
 
-[Midterm Details (10%)](./majorDeliverables/midterm.md)
+<Badge type="error" text="Coming Soon" />
+<!-- [Midterm Details (10%)](./majorDeliverables/midterm.md)
 
-<Badge text="Due: Placeholder" />
+<Badge text="Due: Placeholder" /> -->
 
 ### Final: Presentation
 

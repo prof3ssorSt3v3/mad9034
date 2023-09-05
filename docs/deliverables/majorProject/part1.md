@@ -33,8 +33,7 @@ For this assignment, you will get together with 3-4 students working on the same
 
 **Due Dates:**
 
-<!-- <Badge text="Section 010: Thursday September 14th @7:00pm" />
-<Badge type="error" text="Section 020: Thursday September 14th @5:00pm" /> -->
+<Badge text="Both Sections: Thursday October 5th @11:59pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Product Research.

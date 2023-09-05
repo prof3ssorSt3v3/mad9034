@@ -24,8 +24,7 @@ You work for an up and coming start-up that is focused on creating the best ____
 
 **Due Dates:**
 
-<!-- <Badge text="Section 010: Thursday September 14th @7:00pm" />
-<Badge type="error" text="Section 020: Thursday September 14th @5:00pm" /> -->
+<Badge text="Both Sections: Sunday October 15th @11:59pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Persona Research.

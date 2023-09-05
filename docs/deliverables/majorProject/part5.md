@@ -17,8 +17,7 @@ At this stage of the UX (user-centered) design process, you have gathered user r
 
 **Due Dates:**
 
-<!-- <Badge text="Section 010: Thursday September 14th @7:00pm" />
-<Badge type="error" text="Section 020: Thursday September 14th @5:00pm" /> -->
+<Badge text="Both Sections: Sunday October 22nd @11:59pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Information Architecture
