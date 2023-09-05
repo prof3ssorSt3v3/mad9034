@@ -1,4 +1,4 @@
-# Week 4: Validation and next steps overview: Major project introductory
+# Week 4: Validation
 
 ::: warning Required Preparation
 

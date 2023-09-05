@@ -122,3 +122,7 @@ Cynthia is traveling to see her family for Christmas and she wants to get her sh
 **DON’T** Marty clicks on the username input field then types his name. He then clicks on the password input field and enters his password. Marty clicks on the login button.
 
 **DO** Marty signs into the product.
+
+## Information Architecture
+
+<Badge type="error" text="Coming Soon" />

@@ -8,9 +8,3 @@ Take some time off to relax and recharge!
   title="Deep Underwater • Relaxing Sleep Music in an Underwater Paradise"
   url="https://www.youtube.com/embed/OVct34NUk3U"
 />
-
-::: tip To Do
-
-Something goes here.
-
-:::
