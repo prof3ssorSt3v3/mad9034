@@ -62,7 +62,7 @@ module.exports = {
         title: "Deliverables",
         collapsable: true,
         sidebarDepth: 3,
-        children: ["/assignments/"],
+        children: ["/deliverables/"],
       },
     ],
   },
