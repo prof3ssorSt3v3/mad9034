@@ -17,6 +17,10 @@ By the end of this week, students will:
 - Have an understanding of the MAD9034 course: User Experience Design
 - Have a high-level understanding of the User Experience Design (UXD) process
 
+## Slides
+
+[MAD9034 1-1 UXD Overview](https://drive.google.com/file/d/1NAhD92Dual_1jFTyOOTE6b6zQpxH6etP/view?usp=sharing)
+
 ## UX vs UI
 
 While User Interface (UI) and User Experience (UX) are frequently used interchangeably, they encompass distinct aspects of the design and interaction with products or services.
@@ -98,6 +102,8 @@ Ensure that your solution is materialized and touches the lives of your end user
 ## UX Design Competencies
 
 ![UX Design Competencies](./ux-design-competencies.png)
+
+[The Five Competencies of User Experience Design](https://www.uxmatters.com/mt/archives/2007/11/the-five-competencies-of-user-experience-design.php)
 
 > Remember
 > Before building a mobile app, you want to verify if your idea is viable and the features you intend to build meet your users’ needs and wants. A User Centered Design approach will assist you in creating the best product experience and effectively fulfill your client’s business objectives.

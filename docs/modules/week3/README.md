@@ -12,11 +12,18 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 - Have learned and practiced some design and prototyping skills, using appropriate tools
 - Be introduced to key design software available to be used throughout the term
 
+## Slides
+
+[MAD9034 3-1 Ideation](https://drive.google.com/file/d/1qTl_j58dtlZw8Fl3GbITSczUfGFaVnw6/view?usp=sharing)
+[MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing)
+
 ## Ideation
 
 ### Definition and Goals
 
 Ideation is a creative process intended to generate many ideas.
+
+[Stage 3 in the design process - Ideate](https://www.interaction-design.org/literature/article/stage-3-in-the-design-thinking-process-ideate)
 
 **Goals**
 
@@ -34,18 +41,24 @@ Ideation is a creative process intended to generate many ideas.
 
 ### Ideation techniques
 
-|                         |                                                                                                                                                                                           |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Brainstorming           | - Generating ideas in a group <br> - Leveraging the group’s diversity <br> - Building on one another’s ideas                                                                              |
-| Braindumping            | - Similar to brainstorming, but done individually <br> - Simply write down your own ideas <br> - Combine ideas and build on them                                                          |
-| Storyboarding           | - Develop a story related to the problem you’re solving <br> - Bring the situation to life <br> - Explore different scenarios to see where the story goes                                 |
-| Challenging Assumptions | - Step back and consider the assumptions you have about the product <br> - Try to get ‘unstuck’ of current thinking <br> - Are constraints truly constraints, or just what we’re used to? |
-| Worst Possible Idea     | - Flip brainstorming on its head <br> - Bad, silly ideas to train the mind to think differently <br> - Easier to critique - low personal commitment                                       |
-| SCAMPER                 | - Substitute <br> - Combine <br> - Adapt <br> - Modify <br> - Put to another use <br> - Eliminate <br> - Reverse                                                                          |
-| Role Playing            | - Changes how participants think about something <br> - Develops new thoughts and ideas <br> - Can be uncomfortable for some <br> - The role of the system or another person              |
-| Co-Design / Co-Creation | - Collages <br> - Cognitive and context mapping <br> - Storyboards <br> - Inspiration cards <br> - Modeling <br> - Paper prototyping <br> - Games                                         |
+[Foundational Workshop Activities](https://www.nngroup.com/articles/workshop-activities/)
+[Introduction to the Essential Ideation Techniques at the Heart of Design Thinking](https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking)
+
+|                                                                                                                                                   |                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Brainstorming](https://www.interaction-design.org/literature/topics/brainstorming)                                                               | - Generating ideas in a group <br> - Leveraging the group’s diversity <br> - Building on one another’s ideas                                                                              |
+| [Braindumping](https://www.nngroup.com/articles/workshop-activities/)                                                                             | - Similar to brainstorming, but done individually <br> - Simply write down your own ideas <br> - Combine ideas and build on them                                                          |
+| [Storyboarding](https://www.nngroup.com/articles/storyboards-visualize-ideas/)                                                                    | - Develop a story related to the problem you’re solving <br> - Bring the situation to life <br> - Explore different scenarios to see where the story goes                                 |
+| [Challenging Assumptions](https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-challenge-assumptions) | - Step back and consider the assumptions you have about the product <br> - Try to get ‘unstuck’ of current thinking <br> - Are constraints truly constraints, or just what we’re used to? |
+| [Worst Possible Idea](https://www.interaction-design.org/literature/topics/worst-possible-idea)                                                   | - Flip brainstorming on its head <br> - Bad, silly ideas to train the mind to think differently <br> - Easier to critique - low personal commitment                                       |
+| [SCAMPER](https://www.youtube.com/watch?v=aFGAmk3lj1s&t=181s)                                                                                     | - Substitute <br> - Combine <br> - Adapt <br> - Modify <br> - Put to another use <br> - Eliminate <br> - Reverse                                                                          |
+| [Role Playing](https://www.nngroup.com/articles/workshop-activities/)                                                                             | - Changes how participants think about something <br> - Develops new thoughts and ideas <br> - Can be uncomfortable for some <br> - The role of the system or another person              |
+| [Co-Design / Co-Creation](https://www.interaction-design.org/literature/topics/co-creation)                                                       | - Collages <br> - Cognitive and context mapping <br> - Storyboards <br> - Inspiration cards <br> - Modeling <br> - Paper prototyping <br> - Games                                         |
 
 ## Brainstorming
+
+[7 rules for effective brainstorming](https://schoolofdesignthinking.echos.cc/blog/2020/10/7-rules-for-effective-lateral-thinking-and-brainstorming/)
+[Facilitating an Effective Design Studio Workshop](https://www.nngroup.com/articles/facilitating-design-studio-workshop/)
 
 Brainstorming is one of the most common methods of ideation that all of you will likely be involved in, either a facilitator or a contributor.
 For a brainstorming session to be successful, there are some guidelines to follow:
@@ -71,6 +84,21 @@ For a brainstorming session to be successful, there are some guidelines to follo
 1. Consider an ice breaker
 2. FigJam or Miro-like software
 3. Provide high-level structure along with problem statement
+
+### Design Sprint
+
+[Phase 3 - Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)
+[Phase 4 - Decide](https://designsprintkit.withgoogle.com/methodology/phase4-decide)
+
+<YouTube
+  title="Sprint: Tuesday"
+  url="https://www.youtube.com/embed/_ITJ5lAXQhg?si=LewUhrDVEGb5nxCH"
+/>
+
+<YouTube
+  title="Sprint: Wednesday"
+  url="https://www.youtube.com/embed/7BKBFOOKbNo?si=x87Kkggt7VMvVkGt"
+/>
 
 ## Prototyping
 
@@ -156,3 +184,12 @@ A digital, interactive prototype can be created at any stage of the design proce
 
 - Engage a developer to create a dev prototype when you have more complex functionality that you may have incomplete requirements for, or that is key to the general workflow of the product that you are working on.
 - Chose a dev prototype over a Figma prototype when the functionality requires database calls, or other complexity that is not possible to reproduce in an interactive design prototype.
+
+### Design Sprint
+
+[Phase 5 - Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype)
+
+<YouTube
+  title="Sprint: Thursday"
+  url="https://www.youtube.com/embed/IGcwFV76t7o?si=MxlF60W9UcaIsQ71"
+/>
