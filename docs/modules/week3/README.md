@@ -14,7 +14,7 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Slides
 
-[MAD9034 3-1 Ideation](https://drive.google.com/file/d/1qTl_j58dtlZw8Fl3GbITSczUfGFaVnw6/view?usp=sharing)
+[MAD9034 3-1 Ideation](https://drive.google.com/file/d/1qTl_j58dtlZw8Fl3GbITSczUfGFaVnw6/view?usp=sharing)<br>
 [MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing)
 
 ## Ideation
@@ -41,7 +41,7 @@ Ideation is a creative process intended to generate many ideas.
 
 ### Ideation techniques
 
-[Foundational Workshop Activities](https://www.nngroup.com/articles/workshop-activities/)
+[Foundational Workshop Activities](https://www.nngroup.com/articles/workshop-activities/)<br>
 [Introduction to the Essential Ideation Techniques at the Heart of Design Thinking](https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking)
 
 |                                                                                                                                                   |                                                                                                                                                                                           |
@@ -57,7 +57,7 @@ Ideation is a creative process intended to generate many ideas.
 
 ## Brainstorming
 
-[7 rules for effective brainstorming](https://schoolofdesignthinking.echos.cc/blog/2020/10/7-rules-for-effective-lateral-thinking-and-brainstorming/)
+[7 rules for effective brainstorming](https://schoolofdesignthinking.echos.cc/blog/2020/10/7-rules-for-effective-lateral-thinking-and-brainstorming/)<br>
 [Facilitating an Effective Design Studio Workshop](https://www.nngroup.com/articles/facilitating-design-studio-workshop/)
 
 Brainstorming is one of the most common methods of ideation that all of you will likely be involved in, either a facilitator or a contributor.
@@ -87,7 +87,7 @@ For a brainstorming session to be successful, there are some guidelines to follo
 
 ### Design Sprint
 
-[Phase 3 - Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)
+[Phase 3 - Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)<br>
 [Phase 4 - Decide](https://designsprintkit.withgoogle.com/methodology/phase4-decide)
 
 <YouTube

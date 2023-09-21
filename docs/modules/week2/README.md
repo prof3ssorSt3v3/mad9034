@@ -15,7 +15,7 @@ By the end of this week, students will:
 
 ## Slides
 
-[MAD9034 2-1 Research Overview](https://drive.google.com/file/d/10-yd6Z9_vQeaQOlNgLxnlqEsLP0c-ee_/view?usp=sharing)
+[MAD9034 2-1 Research Overview](https://drive.google.com/file/d/10-yd6Z9_vQeaQOlNgLxnlqEsLP0c-ee_/view?usp=sharing)<br>
 [MAD9034 2-2 Analysis](https://drive.google.com/file/d/1Xam4P8KAvr3cb4lL3fhN57Pc30LP4QYi/view?usp=sharing)
 
 ## User Research
@@ -46,8 +46,8 @@ User research focuses on understanding user behaviors, needs and motivations thr
 
 ### A selection of methods used in UX Design
 
-[UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
-[Which UX Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
+[UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)<br>
+[Which UX Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)<br>
 [How to choose the right research method](https://uxdesign.cc/the-right-way-of-doing-user-research-569bf7f35b36)
 
 |                                                                                                            |                                                                                                                                                                          |
@@ -93,7 +93,7 @@ A systematic method of breaking down and organizing rich data from qualitative r
 
 ![Thematic Analysis](./thematic-analysis.png)
 
-[How to Analyze Qualitative Data from UX Research: Thematic Analysis](https://www.nngroup.com/articles/thematic-analysis/)
+[How to Analyze Qualitative Data from UX Research: Thematic Analysis](https://www.nngroup.com/articles/thematic-analysis/)<br>
 [Workshop Activities](https://www.nngroup.com/articles/workshop-activities/)
 
 ### Thematic analysis method
@@ -139,5 +139,5 @@ The process is quick, collaborative, and helps teams avoid wasting time on ideas
   url="https://www.youtube.com/embed/7zOBMxRYJ7I?si=zS_Zc71nAHezNsfY"
 />
 
-[Sprint](http://www.gv.com/sprint/)
+[Sprint](http://www.gv.com/sprint/)<br>
 [Phase 2 Design](https://designsprintkit.withgoogle.com/methodology/phase2-define)
