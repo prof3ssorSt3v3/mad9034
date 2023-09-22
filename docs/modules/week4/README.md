@@ -48,6 +48,8 @@ Usability testing reveals information about:
 - Participants who are representative of the target market
 - Appoint facilitator and note taker
 
+[A Cheatsheet for User Interview and Follow Ups Questions](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/)
+
 ### Execution
 
 **Participant**
@@ -77,6 +79,15 @@ Usability testing reveals information about:
 - Problems encountered
 - Comments and recommendations
 - Answers to open-ended question
+
+### Design Sprint
+
+[Phase 5 - Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype)
+
+<YouTube
+  title="Sprint: Friday"
+  url="https://www.youtube.com/embed/jQmBuKN10VY?si=PSTq4BSHPpRf-J7c"
+/>
 
 ### Reporting
 
