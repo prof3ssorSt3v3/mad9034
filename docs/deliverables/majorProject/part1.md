@@ -66,20 +66,26 @@ There will be three main parts to the app:
 4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File ]()
 
 5. **Division of Work:** Assign a group member to research each of these topics:
-   1. **What might the business model be?**
-   - Free with ads?
-   - Subscription?
-   - Commission?
-   - Supported by donations/grants?
-   - Other?
-   2. **What competitors exist? (digital or other?)**
+   1. **What competitors exist? (digital or other?)**
    - How are they structured?
    - What features do they have?
    - How do they look?
-   3. **What similar products exist? (a. service provider + b. service seeker?)**
+   - What is their business model?
+     - Free with ads?
+     - Subscription?
+     - Commission?
+     - Supported by donations/grants?
+     - Other?
+   2. **What similar products exist? (a. service provider + b. service seeker?)**
    - How are they structured?
    - What features do they have?
    - How do they look?
+   - What is their business model?
+     - Free with ads?
+     - Subscription?
+     - Commission?
+     - Supported by donations/grants?
+     - Other?
 6. **Documenting your findings:**
    - Record your findings in the Figma file.
 
