@@ -38,7 +38,7 @@ export default {
 }
 
 .image-container {
-  width: 200px; /* You can adjust the width as needed */
+  width: 100px; /* You can adjust the width as needed */
   height: auto; /* Set height to 'auto' to maintain aspect ratio */
 }
 
