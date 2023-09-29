@@ -1,7 +1,9 @@
 <template>
   <div class="two-column-component">
     <div class="column">
-      <img :src="imageSrc" alt="Image" />
+      <div class="image-container">
+        <img :src="imageSrc" alt="Image" />
+      </div>
       <h3>{{ title }}</h3>
     </div>
     <div class="column">
@@ -35,8 +37,14 @@ export default {
   padding: 10px;
 }
 
+.image-container {
+  width: 200px; /* You can adjust the width as needed */
+  height: auto; /* Set height to 'auto' to maintain aspect ratio */
+}
+
 img {
   max-width: 100%;
+  max-height: 100%; /* Ensure the image fits within the container */
 }
 
 a {
