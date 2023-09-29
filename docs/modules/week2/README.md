@@ -50,6 +50,22 @@ User research focuses on understanding user behaviors, needs and motivations thr
 [Which UX Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)<br>
 [How to choose the right research method](https://uxdesign.cc/the-right-way-of-doing-user-research-569bf7f35b36)
 
+<TwoColumnComponent
+imageSrc="/f2023/moduleImages/cardSorting.jpg"
+title="Card Sorting"
+description="Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think."
+linkUrl="https://www.nngroup.com/articles/card-sorting-definition/"
+linkText="Read more"
+/>
+
+<TwoColumnComponent
+imageSrc="/f2023/moduleImages/interviews.jpg"
+title="Contextual Interviews"
+description="Enable you to observe users in their natural environment, giving you a better understanding of the way users work."
+linkUrl="https://www.nngroup.com/articles/contextual-inquiry/"
+linkText="Read more"
+/>
+
 |                                                                                                            |                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **[Card Sorting](https://www.nngroup.com/articles/card-sorting-definition/)**<br>                          | Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think.       |
