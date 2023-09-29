@@ -11,6 +11,12 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 - Have a high-level understanding of the project objectives and Identify appropriate user-research methods to gather information for your project.
 - Have an understanding of UX project planning and create one for their individual project
 
+## Slides
+
+[MAD9034 5-1 Product Research and Persona Deep Dive](https://drive.google.com/file/d/1rth4OPA7LjoNtZsDZ5evRseR5XWjvBaB/view?usp=sharing)<br>
+
+<!-- [MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing) -->
+
 ## Product Research
 
 ### Definition and Goals
@@ -41,9 +47,12 @@ Learn about:
 
 **Benefits**
 
-- Informed decision making
-- Customer centric approach
-- Competitive edge
+- **Informed Decision-Making:** Data-driven insights minimize risks and increase the likelihood of product success.
+  A well researched product will meet the requirements of the customer in a much better way. Understanding the competition can really help make a product which solves known product issues in that market.
+- **Customer-Centric Approach:** Tailoring products to customer needs enhances satisfaction and builds brand loyalty.
+  It helps companies to understand what the customers really want, and what is likely to succeed in the market using available technology.
+- **Competitive Edge:** Thorough research identifies gaps in the market, leading to innovative and unique solutions.
+  It can help to refine new product ideas.
 
 **Components**
 
@@ -51,6 +60,25 @@ Learn about:
 - Market research
 - Competitive analysis
 - Brand research
+
+In a nutshell, market research is valuable because it shows us broad information; user research is valuable because it gives us deep insights.
+
+- **Product research** >> **what people want**
+- **User research** >> **what people need**
+  - Evaluates users’ ability to complete tasks, and their satisfaction with the product
+
+### Example
+
+**Product research:** showed that travellers wanted a lighter luggage, yet literally lighter in weight luggage did not end the complaints.
+
+**User research:** Observing people use the luggage at the airport revealed the actual problem which was carrying the luggage from point A to point B. A wheeled luggage was the actual solution to the problem, not a lighter in weight luggage.
+
+**Conclusion:** Both types of research are very important to position a product in the market and to decide what needs the product should meet.
+
+Market research is valuable because it shows us broad information; user research is valuable because it gives us deep insights. Sometimes a business needs one (to draw up a business model); sometimes it might need the other (when deciding which features are prioritised).
+What is clear, though, is that both kinds of research are important. Without the directions that they give, a product will be steered blindly.
+
+Full example described in this [article](https://medium.com/@reassembleux/market-research-vs-user-research-are-they-the-same-3ec59dec637f).
 
 ### Business Research
 

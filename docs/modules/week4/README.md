@@ -12,6 +12,11 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 - Have learned and practiced some testing and iterating skills, using appropriate tools
 - Be introduced to the major project for the term
 
+## Slides
+
+[MAD9034 4-1 Testing](https://drive.google.com/file/d/1RKxVPBt4fzM18u9_RmK1trkbWeZOSWeC/view?usp=sharing)<br>
+[MAD9034 4-2 Presentations_MajorProjectIntro](https://drive.google.com/file/d/1fycnyEF-Crw1PGqQKAYwoc0HiLXgG3GX/view?usp=sharing)
+
 ## Usability Testing
 
 ### Definition and Goals

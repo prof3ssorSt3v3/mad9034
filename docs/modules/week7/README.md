@@ -13,6 +13,11 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 - Harness your knowledge of information architecture (IA) to create high-level navigation for your product
 - Learn other IA technique for user flow mapping
 
+## Slides
+
+<!-- [MAD9034 3-1 Ideation](https://drive.google.com/file/d/1qTl_j58dtlZw8Fl3GbITSczUfGFaVnw6/view?usp=sharing)<br>
+[MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing) -->
+
 ## Scenarios
 
 ### Definition and Goals
