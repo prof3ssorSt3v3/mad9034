@@ -45,6 +45,31 @@ User experience design (UXD or UED) is the process of enhancing user satisfactio
   url="https://www.youtube.com/embed/Ovj4hFxko7c?si=LWPGlzNstKo9wyTK"
 />
 
+## Example
+
+Imagine you work for a software company looking at the end to end customer/user experience.
+The **user experience of the customer with the product** happens at all the touch points of that customer or user with the company, its services and products:
+
+1. Starts from the time when the customer is looking to buy a product to satisfy a need.
+2. The experience they have online looking for information, speaking to a salesperson, or installing a trial
+3. The purchasing experience
+4. The onboarding
+5. eventually using the product.
+
+**If the user/customer is happy and satisfied with the user experience at all touch points with the company, its services and the product, the users develop trust in the company, they become loyal customers and promoters of the product and this is what we all want to see happening.**
+
+## What kind of experiences can we create?
+
+**Memorable:** A user experience can be memorable and leave users or participants with thoughts and feelings after the event ends.
+Examples: online games, shows, architecture, restaurants.
+
+**Intuitive:** A user experience can be aligned with the user’s expectation so much that the user doesn’t have to think about it while using it, or after. It just works.
+
+**Negative: intentional:** A user experience can be intentionally negative to help motivate the user to do something.
+Example: the Duolingo character who is sometimes sad or angry.
+
+**Negative: unintentional:** A user experience can be unintentionally negative and generate unexpected feelings.
+
 ## UX Design Process
 
 [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
