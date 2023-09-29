@@ -27,13 +27,23 @@ While often used interchangeably, User Interface (UI) and User Experience (UX) r
 
 **User Experience (UX):** UX takes a holistic approach, considering the entire user journey. It encompasses emotional, psychological, and practical aspects of the experience. UX design aims to create a meaningful interaction aligned with user needs and expectations.
 
-In summary, UI deals with interface components, while UX addresses the broader user experience. Watch [Don Norman's take on UX](https://www.youtube.com/embed/9BdtGjoIN4E?si=-PaS2xXu_3a0cC_R) for further insights.
+In summary, UI deals with interface components, while UX addresses the broader user experience. Watch Don Norman's take on UX for further insights.
+
+<YouTube
+  title="Don Norman: The term UX"
+  url="https://www.youtube.com/embed/9BdtGjoIN4E?si=-PaS2xXu_3a0cC_R"
+/>
 
 ## What is UXD?
 
 User Experience Design (UXD) enhances user satisfaction by improving usability, accessibility, and overall pleasure in user-product interactions. It extends traditional human-computer interaction (HCI) design to address all aspects of user perception.
 
-For a quick overview, watch [What the #\$%@ is UX Design?](https://www.youtube.com/embed/Ovj4hFxko7c?si=LWPGlzNstKo9wyTK).
+For a quick overview, watch What the #\$%@ is UX Design?
+
+<YouTube
+  title="What the #$%@ is UX Design?"
+  url="https://www.youtube.com/embed/Ovj4hFxko7c?si=LWPGlzNstKo9wyTK"
+/>
 
 ## Example
 
@@ -68,27 +78,27 @@ Within these phases are 6 key steps: empathize, define, ideate, prototype, test,
 
 ![UX Design Process](./UXD.png)
 
-### Empathize
+**Empathize**
 
 Understand users by studying their actions, words, thoughts, and feelings. Observe them in real situations to gain insights.
 
-### Define
+**Define**
 
 Collect research findings and identify user problems, spotting opportunities for new ideas.
 
-### Ideate
+**Ideate**
 
 Brainstorm creative ideas to address unmet user needs.
 
-### Prototype
+**Prototype**
 
 Create tangible representations of ideas to understand what works and what doesn't.
 
-### Test
+**Test**
 
 Put prototypes in front of users to verify if goals are achieved.
 
-### Implement + Measure
+**Implement + Measure**
 
 Put the UX vision into effect, ensuring it enhances users' lives.
 
@@ -108,4 +118,4 @@ Explore the [Five Competencies of User Experience Design](https://www.uxmatters.
 
 ![UX Design Competencies](./ux-design-competencies.png)
 
-> **Remember:** Before building a mobile app, verify the viability of your idea and its alignment with user needs. A User-Centered Design approach will help create the best product experience and fulfill your business objectives effectively.
+**Remember:** Before building a mobile app, verify the viability of your idea and its alignment with user needs. A User-Centered Design approach will help create the best product experience and fulfill your business objectives effectively.
