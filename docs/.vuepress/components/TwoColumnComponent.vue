@@ -49,7 +49,7 @@ img {
 }
 
 a {
-  color: blue;
+  color: #3eaf7c;
   text-decoration: underline;
 }
 </style>
