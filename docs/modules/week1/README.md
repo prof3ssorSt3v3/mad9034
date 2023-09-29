@@ -1,44 +1,44 @@
-# Week 1: Intro to User Experience Design (UXD)
+# Week 1: Introduction to User Experience Design (UXD)
 
 ## Welcome
 
-In this course, you will learn and apply user experience design process to design mobile application that has what the users like/want and, LOVE!
+Welcome to the User Experience Design (UXD) course! Over the course of this program, you'll dive into the world of UXD and learn how to design mobile applications that users not only like but also love.
 
-Our class will meet twice a week and two hours each time. Check the [Overview](../../overview/README.md) page for time and classroom information.
+Our class meets twice a week, with each session lasting two hours. For details on class schedules and location, please refer to the [Overview](../../overview/README.md) page.
 
-Please ensure that you prepare for each week's lessons by thoroughly reviewing the weeks module prior to the start of class. This preparation is essential to ensure you are fully informed and ready to actively engage in the upcoming topics and discussions. Your active participation and success in the course depend on meeting this requirement diligently.
-
-In addition, there will be practical in-class exercises that are marked toward your final grade, so don't miss it.
+To make the most of this course, it's crucial to prepare for each week's lessons by thoroughly reviewing the module before each class. Active participation and success in the course depend on your commitment to this preparation. Additionally, in-class exercises will contribute to your final grade, so be sure to attend.
 
 ## Learning Objectives
 
-By the end of this week, students will:
+By the end of this week, you will:
 
-- Have an understanding of the MAD9034 course: User Experience Design
-- Have a high-level understanding of the User Experience Design (UXD) process
+- Understand the MAD9034 course: User Experience Design (UXD).
+- Gain a high-level understanding of the UXD process.
 
 ## Slides
 
-[MAD9034 1-1 UXD Overview](https://drive.google.com/file/d/1NAhD92Dual_1jFTyOOTE6b6zQpxH6etP/view?usp=sharing)
+Access this week's slides here: [MAD9034 1-1 UXD Overview](https://drive.google.com/file/d/1NAhD92Dual_1jFTyOOTE6b6zQpxH6etP/view?usp=sharing).
 
-## UX vs UI
+## UX vs. UI
 
-While User Interface (UI) and User Experience (UX) are frequently used interchangeably, they encompass distinct aspects of the design and interaction with products or services.
+While often used interchangeably, User Interface (UI) and User Experience (UX) refer to distinct aspects of product or service design.
 
-**User Interface (UI):** refers to the visual and interactive elements through which users engage with a product or system. It includes the layout, buttons, forms, and other visual components that users interact with directly. A well-designed UI focuses on making these elements intuitive, visually appealing, and user-friendly, thereby facilitating efficient navigation and interaction. In essence, UI design is concerned with the presentation and functionality of the interface components.
+**User Interface (UI):** UI focuses on the visual and interactive elements users engage with directly, such as layouts, buttons, and forms. A well-designed UI aims to be intuitive and user-friendly, enhancing navigation and interaction.
 
-**User Experience (UX):** takes a more holistic approach. It encompasses the entire journey a user undertakes when interacting with a product or service. This includes not only the UI elements but also the emotional, psychological, and practical aspects of the experience. UX design aims to create a positive, meaningful, and memorable interaction that aligns with users' needs, goals, and expectations. It involves understanding user motivations, pain points, and desires to craft an experience that goes beyond surface-level interactions.
+**User Experience (UX):** UX takes a holistic approach, considering the entire user journey. It encompasses emotional, psychological, and practical aspects of the experience. UX design aims to create a meaningful interaction aligned with user needs and expectations.
 
-In summary, while UI focuses on the design and arrangement of visual and interactive elements, UX delves into the broader context of how users perceive and interact with a product or service. By using the term User Experience, designers and practitioners can explore a wider scope that encompasses usability, emotional impact, overall satisfaction, and the complete journey of the user.
+In summary, UI deals with interface components, while UX addresses the broader user experience. Watch Don Norman's take on UX for further insights.
 
 <YouTube
   title="Don Norman: The term UX"
   url="https://www.youtube.com/embed/9BdtGjoIN4E?si=-PaS2xXu_3a0cC_R"
 />
 
-## What is UXD
+## What is UXD?
 
-User experience design (UXD or UED) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and the product. User experience design encompasses traditional human–computer interaction (HCI) design, and extends it by addressing all aspects of a product or service as perceived by users.
+User Experience Design (UXD) enhances user satisfaction by improving usability, accessibility, and overall pleasure in user-product interactions. It extends traditional human-computer interaction (HCI) design to address all aspects of user perception.
+
+For a quick overview, watch What the #\$%@ is UX Design?
 
 <YouTube
   title="What the #$%@ is UX Design?"
@@ -47,72 +47,60 @@ User experience design (UXD or UED) is the process of enhancing user satisfactio
 
 ## Example
 
-Imagine you work for a software company looking at the end to end customer/user experience.
-The **user experience of the customer with the product** happens at all the touch points of that customer or user with the company, its services and products:
+Imagine working for a software company focused on the end-to-end customer/user experience. This encompasses all interactions users have with the company, its services, and products:
 
-1. Starts from the time when the customer is looking to buy a product to satisfy a need.
-2. The experience they have online looking for information, speaking to a salesperson, or installing a trial
-3. The purchasing experience
-4. The onboarding
-5. eventually using the product.
+1. Searching for a product to meet a need.
+2. Browsing online, speaking to salespeople, or installing a trial.
+3. The purchasing process.
+4. Onboarding.
+5. Product usage.
 
-**If the user/customer is happy and satisfied with the user experience at all touch points with the company, its services and the product, the users develop trust in the company, they become loyal customers and promoters of the product and this is what we all want to see happening.**
+A positive user experience at each touchpoint fosters trust, loyalty, and advocacy.
 
-## What kind of experiences can we create?
+## Types of User Experiences
 
-**Memorable:** A user experience can be memorable and leave users or participants with thoughts and feelings after the event ends.
-Examples: online games, shows, architecture, restaurants.
+User experiences can vary:
 
-**Intuitive:** A user experience can be aligned with the user’s expectation so much that the user doesn’t have to think about it while using it, or after. It just works.
-
-**Negative: intentional:** A user experience can be intentionally negative to help motivate the user to do something.
-Example: the Duolingo character who is sometimes sad or angry.
-
-**Negative: unintentional:** A user experience can be unintentionally negative and generate unexpected feelings.
+- **Memorable:** Leaves a lasting impression.
+- **Intuitive:** Aligns with user expectations.
+- **Negative (intentional):** Motivates users.
+- **Negative (unintentional):** Generates unexpected feelings.
 
 ## UX Design Process
 
-[Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
-
-The design-thinking framework follows an overall flow of:
+Learn more about the UX design process in [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/). This process follows:
 
 1. Understand
 2. Explore
-3. Materialize.
+3. Materialize
 
-Within these larger buckets fall the 6 phases: empathize, define, ideate, prototype, test, and implement.
+Within these phases are 6 key steps: empathize, define, ideate, prototype, test, and implement.
 
 ![UX Design Process](./UXD.png)
 
-### Empathize
+**Empathize**
 
-**Gather information by studying what your users do, say, think, and feel.**
-For example, let's say you want to make the introduction process better for new users. At this stage, talk to different real users. Watch closely how they use things, what they like, and what they struggle with. Ask yourself questions like 'What makes users excited or disappointed?' or 'Where do they get stuck?' The aim is to collect enough observations so you can really understand your users and how they see things.
+Understand users by studying their actions, words, thoughts, and feelings. Observe them in real situations to gain insights.
 
-### Define
+**Define**
 
-**Collect all your research and see where your users have problems. As you figure out what your users require, start spotting chances to come up with new ideas.**
-Imagine the onboarding situation once more. In the define phase, use the info you got from the empathize phase to learn important things. Put together all the things you observed and find common things in how your users experience things now. Do lots of users have the same issue? Find needs that no one is addressing yet.
+Collect research findings and identify user problems, spotting opportunities for new ideas.
 
-### Ideate
+**Ideate**
 
-**Brainstorm a range of crazy, creative ideas that address the unmet user needs identified in the define phase. Give yourself and your team total freedom; no idea is too farfetched and quantity supersedes quality.**
-At this phase, bring your team members together and sketch out many different ideas. Then, have them share ideas with one another, mixing and remixing, building on others' ideas.
+Brainstorm creative ideas to address unmet user needs.
 
-### Prototype
+**Prototype**
 
-**Build real, tactile representations for a subset of your ideas. The goal of this phase is to understand what components of your ideas work, and which do not.**
-Make your ideas tactile. If it is a new landing page, draw out a wireframe and get feedback internally. Change it based on feedback, then prototype it again in quick and dirty code. Then, share it with another group of people.
+Create tangible representations of ideas to understand what works and what doesn't.
 
-### Test
+**Test**
 
-**Put your prototype in front of real customers and verify that it achieves your goals.**
-Has the users’ perspective during onboarding improved? Does the new landing page increase time or money spent on your site? As you are executing your vision, continue to test along the way.
+Put prototypes in front of users to verify if goals are achieved.
 
-### Implement + Measure
+**Implement + Measure**
 
-**Put the vision into effect.**
-Ensure that your solution is materialized and touches the lives of your end users.
+Put the UX vision into effect, ensuring it enhances users' lives.
 
 ### Tools and Deliverables (covered in this course)
 
@@ -126,9 +114,8 @@ Ensure that your solution is materialized and touches the lives of your end user
 
 ## UX Design Competencies
 
+Explore the [Five Competencies of User Experience Design](https://www.uxmatters.com/mt/archives/2007/11/the-five-competencies-of-user-experience-design.php).
+
 ![UX Design Competencies](./ux-design-competencies.png)
 
-[The Five Competencies of User Experience Design](https://www.uxmatters.com/mt/archives/2007/11/the-five-competencies-of-user-experience-design.php)
-
-> Remember
-> Before building a mobile app, you want to verify if your idea is viable and the features you intend to build meet your users’ needs and wants. A User Centered Design approach will assist you in creating the best product experience and effectively fulfill your client’s business objectives.
+**Remember:** Before building a mobile app, verify the viability of your idea and its alignment with user needs. A User-Centered Design approach will help create the best product experience and fulfill your business objectives effectively.
