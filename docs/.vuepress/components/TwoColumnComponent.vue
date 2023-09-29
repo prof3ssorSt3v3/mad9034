@@ -1,9 +1,7 @@
 <template>
   <div class="two-column-component">
     <div class="column">
-      <div class="image-container">
-        <img :src="imageSrc" alt="Image" />
-      </div>
+      <img :src="imageSrc" alt="Image" />
       <h3>{{ title }}</h3>
     </div>
     <div class="column">
@@ -38,9 +36,8 @@ export default {
   padding: 10px;
 }
 
-.image-container {
-  width: 100px; /* You can adjust the width as needed */
-  height: auto; /* Set height to 'auto' to maintain aspect ratio */
+.first-column {
+  width: 200px; /* You can adjust the width as needed */
 }
 
 img {
