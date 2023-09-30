@@ -109,7 +109,7 @@ For a detailed exploration of this example, you can refer to this [article](http
 
 **Market research** is a fundamental aspect of product research. It involves collecting and analyzing data about a target market to inform the development, design, and marketing of a new product. Here's a more comprehensive look at market research:
 
-<CollapsibleSection text="More information on Market Research"></CollapsibleSection>
+<CollapsibleSection text="More information on Market Research">
 
 #### Components of Market Research
 
@@ -211,23 +211,6 @@ User personas are powerful tools that keep the user at the center of the design 
 
 ## Project Planning
 
-**UX Project Plan**
-
-- Owner: UX team
-- UX activities only
-- Estimates for UX activities
-- Primary audience: the UX Team<
-- How UX work integrates into the overall project plan and timelines
-
-**Overall Project Plan**
-
-- Owner: project or product management
-- Activities across all disciplines involved
-- May summarize multiple UX activities into a single item
-- Audience: multiple stakeholders across many disciplines
-
-## Project Planning
-
 UX Project Plan: Lists UX activities with descriptions, durations, deliverables, and team members.
 
 **Overall Project Plan:** Includes activities across all disciplines, summarizing UX activities.
@@ -285,7 +268,7 @@ Simple Project Plan
 
 #### Design Brief
 
-![Project Planning Document - Design Brief](./brief.png)
+![Project Planning Document - Design Brief](./designBrief.png)
 
 **Design Brief Components**
 
