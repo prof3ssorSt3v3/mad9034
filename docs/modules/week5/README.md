@@ -69,18 +69,19 @@ In a nutshell, market research is valuable because it shows us broad information
 - **User research** >> **what people need**
   - Evaluates users’ ability to complete tasks, and their satisfaction with the product
 
-#### Example
+#### Example: The Power of Product and User Research
 
-**Product research:** showed that travellers wanted a lighter luggage, yet literally lighter in weight luggage did not end the complaints.
+**Product Research:** In a product research study, it was discovered that travelers expressed a desire for lighter luggage. This finding seemed to suggest that reducing the weight of luggage would address their concerns.
 
-**User research:** Observing people use the luggage at the airport revealed the actual problem which was carrying the luggage from point A to point B. A wheeled luggage was the actual solution to the problem, not a lighter in weight luggage.
+**User Research:** However, a deeper understanding emerged through user research. Observing travelers at the airport revealed that the real issue was not just the weight of the luggage but the challenge of carrying it from point A to point B. It became evident that what people needed was luggage with wheels to ease the burden of transportation.
 
-**Conclusion:** Both types of research are very important to position a product in the market and to decide what needs the product should meet.
+**Conclusion:** This example underscores the significance of both types of research in positioning a product effectively in the market and determining the core needs it should address.
 
-Market research is valuable because it shows us broad information; user research is valuable because it gives us deep insights. Sometimes a business needs one (to draw up a business model); sometimes it might need the other (when deciding which features are prioritised).
-What is clear, though, is that both kinds of research are important. Without the directions that they give, a product will be steered blindly.
+Market research provides valuable broad insights, while user research delves deeper, uncovering the root issues users face. Depending on the business context, one or the other may take precedence – market research is essential for shaping business models, while user research guides feature prioritization and design decisions.
 
-Full example described in this [article](https://medium.com/@reassembleux/market-research-vs-user-research-are-they-the-same-3ec59dec637f).
+In essence, this case highlights that a balanced approach, leveraging both market and user research, is crucial for steering product development in the right direction.
+
+For a detailed exploration of this example, you can refer to this [article](https://medium.com/@reassembleux/market-research-vs-user-research-are-they-the-same-3ec59dec637f).
 
 ### Business Research
 
@@ -221,7 +222,17 @@ UX Project Plan: Lists UX activities with descriptions, durations, deliverables,
 
 - Lists UX activities with descriptions, durations, deliverables, and team members.
 
+Simple Project Plan
+![Project Plan](./project-plan.png)
+
 **A UX Project Plan is a living document!**
+
+### Project Planning Documents
+
+![Project Planning Document - Charter](./charter.png)
+![Project Planning Document - Scope](./scope.png)
+![Project Planning Document - Design Brief](./brief.png)
+![Project Planning Document - Risk Assessment ](./risk.png)
 
 ### Project Management Tools (Recommended in 2023)
 

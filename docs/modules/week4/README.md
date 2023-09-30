@@ -90,8 +90,8 @@ In usability testing, reporting is crucial. Share both positive and negative fin
 
 ## Additional Resources
 
-Watch [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/) for an introduction.
-Explore [User Interview and Follow-Ups Questions](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/) for effective questioning.
+Watch [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/) for an introduction.<br>
+Explore [User Interview and Follow-Ups Questions](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/) for effective questioning.<br>
 Dive into the [Phase 5 - Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype) for hands-on experience.
 
 <YouTube
