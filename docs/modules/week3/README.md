@@ -67,7 +67,7 @@ Learn and apply techniques such as brainstorming, braindumping, storyboarding, c
 <ListItem
 imageSrc="/f2023/moduleImages/week3/storyboard.png"
 title="Storyboarding"
-:items="['Develop a story related to the problem you’re solving', 'Bring the situation to life', 'Explore different scenarios to see where the story goes', '<a href="https://uxstudioteam.com/ux-blog/ux-storyboard/">Another resource</a>']"
+:items="['Develop a story related to the problem you’re solving', 'Bring the situation to life', 'Explore different scenarios to see where the story goes', '- [Another resource](https://uxstudioteam.com/ux-blog/ux-storyboard/)']"
 linkUrl="https://www.nngroup.com/articles/storyboards-visualize-ideas/"
 linkText="Read more"
 />
