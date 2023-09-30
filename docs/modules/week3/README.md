@@ -47,7 +47,7 @@ Explore foundational ideation techniques:
 
 Learn and apply techniques such as brainstorming, braindumping, storyboarding, challenging assumptions, exploring the worst possible idea, SCAMPER, role-playing, and co-design/co-creation.
 
-<br>
+<!-- <br>
 <TwoColumnComponent
 imageSrc="/f2023/moduleImages/cardSorting.jpg"
 title="Brainstorming"
@@ -62,7 +62,7 @@ title="Title"
 description="Description"
 linkUrl="Link"
 linkText="Read more"
-/>
+/> -->
 
 |                                                                                                                                                           |                                                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

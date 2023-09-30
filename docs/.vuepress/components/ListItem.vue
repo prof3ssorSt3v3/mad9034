@@ -1,5 +1,5 @@
 <template>
-  <div class="two-column-component">
+  <div class="list-item">
     <div class="first-column">
       <img :src="imageSrc" alt="Image" />
     </div>
@@ -26,7 +26,7 @@ export default {
 </script>
 
 <style scoped>
-.two-column-component {
+.list-item {
   display: flex;
   justify-content: space-between;
   border-bottom: 1px solid #eaecef;
@@ -40,7 +40,7 @@ export default {
 }
 
 .first-column {
-  width: 100px; /* You can adjust the width as needed */
+  max-width: 100px !important;
 }
 
 img {

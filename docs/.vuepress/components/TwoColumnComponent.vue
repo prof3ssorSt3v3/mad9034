@@ -40,7 +40,7 @@ export default {
 }
 
 .first-column {
-  width: 200px; /* You can adjust the width as needed */
+  max-width: 200px; /* You can adjust the width as needed */
 }
 
 img {
