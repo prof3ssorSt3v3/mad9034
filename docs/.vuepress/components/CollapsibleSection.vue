@@ -38,6 +38,8 @@ export default {
   margin-bottom: 10px;
   box-shadow: 0px 2px 4px rgba(var(--accent-colour), 0.1); /* Updated box shadow */
   overflow: hidden;
+  background-color: #3eaf7c;
+  color: white;
 }
 
 .collapse-button {
@@ -71,6 +73,7 @@ export default {
 .collapsed-content {
   max-height: 0;
   overflow: hidden;
+  display: none;
 }
 
 /* Added styles for the collapse/expand icon */
