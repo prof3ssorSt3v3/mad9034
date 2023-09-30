@@ -1,6 +1,6 @@
 <template>
   <div class="two-column-component">
-    <div class="column">
+    <div class="first-column">
       <img :src="imageSrc" alt="Image" />
       <h3>{{ title }}</h3>
     </div>
@@ -27,13 +27,14 @@ export default {
 .two-column-component {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   border-bottom: 1px solid #eaecef;
 }
 
-.column {
+.column,
+first-column {
   flex: 1;
   padding: 10px;
+  align-items: center;
 }
 
 .first-column {
