@@ -1,12 +1,15 @@
 <template>
   <div class="collapsible-section">
     <button @click="toggleCollapse" class="collapse-button">
-      {{ text }}
+      <h4>
+        {{ text }}
+      </h4>
       <span v-if="collapsed" class="dropdown-arrow">&#9662;</span>
       <span v-else class="dropdown-arrow">&#9652;</span>
     </button>
     <div :class="['content', { 'collapsed-content': collapsed }]">
-      <!-- Display the text prop here -->
+      <!-- Use a slot to render the content -->
+      <slot></slot>
     </div>
   </div>
 </template>
