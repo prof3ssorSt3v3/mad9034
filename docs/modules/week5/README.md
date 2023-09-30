@@ -16,7 +16,7 @@ By the end of this week, you should:
 
 [MAD9034 5-1 Product Research and Persona Deep Dive](https://drive.google.com/file/d/1rth4OPA7LjoNtZsDZ5evRseR5XWjvBaB/view?usp=sharing)<br>
 
-<!-- [MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing) -->
+MAD9034 5-2 Persona Research <Badge type="error" text="To be released before class" />
 
 ## Product Research
 
@@ -87,6 +87,8 @@ For a detailed exploration of this example, you can refer to this [article](http
 
 **Business research** is a crucial element of product research and development. It involves the systematic gathering, analysis, and interpretation of data related to various aspects of a product's development, launch, and ongoing success in the market. Here's a more detailed look at business research:
 
+<CollapsibleSection text="More information on Business Research">
+
 #### Components of Business Research
 
 1. **Business and Pricing Models**: Understanding your business model is essential. Are you a subscription-based service, an e-commerce platform, or a software provider? Analyze how your chosen model aligns with your product and its target market.
@@ -101,9 +103,13 @@ For a detailed exploration of this example, you can refer to this [article](http
 
 - **Investigate the Larger Economic Ecosystem**: Analyze how external economic factors may influence your product's viability. For example, a recession might affect consumer spending on non-essential products.
 
+</CollapsibleSection>
+
 ### Market Research
 
 **Market research** is a fundamental aspect of product research. It involves collecting and analyzing data about a target market to inform the development, design, and marketing of a new product. Here's a more comprehensive look at market research:
+
+<CollapsibleSection text="More information on Market Research"></CollapsibleSection>
 
 #### Components of Market Research
 
@@ -123,9 +129,13 @@ For a detailed exploration of this example, you can refer to this [article](http
 
 - **Secondary Research**: Explore existing data sources, including company records, research studies, books, and industry reports. Secondary research can provide valuable insights without the need for primary data collection.
 
+</CollapsibleSection>
+
 ### Competitive Analysis
 
 **Competitive analysis** is a vital component of product research that involves evaluating and comparing your product or service against similar offerings from other companies in the market. Here's a more detailed overview of competitive analysis:
+
+<CollapsibleSection text="More information on Competitive Analysis">
 
 #### Components of Competitive Analysis
 
@@ -150,6 +160,8 @@ For a detailed exploration of this example, you can refer to this [article](http
 - **Competitor's Roadmap**: Research your competitors' product development roadmap to anticipate their future releases and innovations.
 
 - **Differentiation**: Determine how your product can differentiate itself from competitors. Identify unique features or value propositions that set your product apart.
+
+</CollapsibleSection>
 
 ## User Research
 
@@ -229,23 +241,89 @@ Simple Project Plan
 
 **A UX Project Plan is a living document!**
 
-<!-- ### Project Planning Documents
+### Project Planning Documents
+
+<CollapsibleSection text="Project Charter">
 
 #### Project Charter
 
 ![Project Planning Document - Charter](./charter.png)
 
+**Project Charter Components**
+
+- Scope, objectives, and purpose
+- Individuals/roles involved
+- Deliverables expected and budget
+- Assumptions and risks
+
+**Project Charter Goals**
+
+- **Shared understanding** of the goals of the project
+- **Contract** between key stakeholders and the team
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Project Scope">
+
 #### Project Scope
 
 ![Project Planning Document - Scope](./scope.png)
+
+**Project Scope Components**
+
+- Deliverables, constraints, assumptions and key success metrics
+- Boundaries
+
+**Project Scope Goals**
+
+- Define the boundaries of a project before the project begins
+- Act as a **contract** between key stakeholders and the team
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Design Brief">
 
 #### Design Brief
 
 ![Project Planning Document - Design Brief](./brief.png)
 
+**Design Brief Components**
+
+- Objectives and problems to solve
+- What’s in scope, what isn’t
+- Target market
+- Timelines
+- Required vs available resources
+- Risks
+- Team routines and roles
+- Tools, etc
+
+**Design Brief Goals**
+
+- To ensure a shared understanding of the goals and scope of the design (or redesign)
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Risk Assessment">
+
 #### Risk Assessment
 
-![Project Planning Document - Risk Assessment ](./risk.png) -->
+![Project Planning Document - Risk Assessment ](./risk.png)
+
+**Risk Assessment Components**
+
+- Risk Event
+- Risk Level
+- Impact on Project
+- Precautions
+- Actions in Case of Event
+- Responsibility
+
+**Risk Assessment Goals**
+
+- To **anticipate** and **prepare** for risks your project is likely to encounter
+
+</CollapsibleSection>
 
 ### Project Management Tools (Recommended in 2023)
 

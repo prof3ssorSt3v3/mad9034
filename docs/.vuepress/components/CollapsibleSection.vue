@@ -83,4 +83,8 @@ export default {
 .collapse-button.expanded .dropdown-arrow {
   transform: rotate(180deg); /* Rotate 180 degrees when expanded */
 }
+
+h4 {
+  margin: 0;
+}
 </style>

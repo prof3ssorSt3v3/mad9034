@@ -8,34 +8,31 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Learning Objectives
 
-- Have a solid understanding of the why, when, what, and how to create scenarios
-- Translate user research data to create a usage scenario
-- Harness your knowledge of information architecture (IA) to create high-level navigation for your product
-- Learn other IA technique for user flow mapping
+- Understand why, when, what, and how to create user scenarios.
+- Translate user research data into meaningful usage scenarios.
+- Apply knowledge of information architecture (IA) to design high-level navigation for your product.
+- Learn about IA techniques for mapping user flows.
 
 ## Slides
 
-<!-- [MAD9034 3-1 Ideation](https://drive.google.com/file/d/1qTl_j58dtlZw8Fl3GbITSczUfGFaVnw6/view?usp=sharing)<br>
-[MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing) -->
-
-## Scenarios
+<Badge type="error" text="To be released before class" />
 
 ### Definition and Goals
 
-Scenarios are short stories that provide context behind why a specific user group represented by a persona use your product and how this persona is planning to carry on a key task.
+Scenarios are short stories that provide context for why a specific user group, represented by a persona, uses your product and how this persona plans to complete a key task.
 
 **Summary**
 
-- Scenarios can be developed once you have your personas.
-- They are a form of storytelling meant to bring life to an abstract use case scenario.
-- They describe how a group of users represented by a persona, intend to carry on a key task in your product.
-- A scenario provides context for the usage of the product without going into a great level of detail.
+- Develop scenarios after creating personas.
+- They are narratives that breathe life into abstract use cases.
+- Scenarios explain how user groups, represented by personas, intend to complete key tasks in your product.
+- They provide context for product usage without excessive detail.
 
 **Goals**
 
-- Document the goals and questions to be achieved by users (persona)
-- Define the different ways taks can be accomplished with the product
-- Give life to an abstract use case scenario
+- Document user (persona) goals and questions.
+- Define various ways tasks can be accomplished with the product.
+- Add life to abstract use case scenarios.
 
 ### Personas and Usage Scenarios
 
@@ -43,13 +40,13 @@ Scenarios are short stories that provide context behind why a specific user grou
 
 **A usage scenario describes:**
 
-the persona’s current situation
-a hypothetical, improved one that the persona will have with the new product
+- The persona's current situation.
+- A hypothetical improved situation with the new product.
 
-|                        |                                                                                           |
-| :--------------------: | :---------------------------------------------------------------------------------------: |
-|        PERSONA         |                                         SCENARIO                                          |
-| Who (uses the product) | - Why and How (the persona is using the product)<br> - Existing or hypothetical situation |
+|                        |                                                                                         |
+| :--------------------: | :-------------------------------------------------------------------------------------: |
+|        PERSONA         |                                        SCENARIO                                         |
+| Who (uses the product) | - Why and how (the persona uses the product).<br> - Existing or hypothetical situation. |
 
 ### Scenario Examples
 
@@ -59,16 +56,18 @@ a hypothetical, improved one that the persona will have with the new product
 
 ### Measure and Analysis
 
-|                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                        |                                                                                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Scenarios                                                                                                                                                                                                                  | Use Cases                                                                                                                                                                                                                                              | User Stories                                                                                                                                                                                     |
-| **User’s perspective:** how the user uses or envisage using a system to accomplish a task                                                                                                                                  | **System’s perspective:** how the system responds to a request                                                                                                                                                                                         | Written sequences of actions and events that lead to an outcome.                                                                                                                                 |
-| - tied to personas <br> - part of a story about a particular user type and their needs <br> - written in narrative form <br> - at the beginning of a project <br> - human-centered anchors to guide design and development | - part of detailed product requirement documentation <br> - goal of an action > trigger event that starts a process >each step required <br> - written in the form of an actor or user, performing an action, followed by the expected system response | - used in Agile development <br> - defined during development, before or at the beginning of each sprint <br> - short sentences that capture the essence of a user need<br> - One task per story |
-| **Example:** Cynthia wants to create a shopping list from her family’s wish list.                                                                                                                                          | **Example:** Cynthia navigates to the wish lists > selects the items she wants to buy and > adds them to the shopping list.                                                                                                                            | **Example:** As Cynthia, the grandparent, I want to have a straightforward way to add the items from the wish list to the shopping list, so that I can purchase the gifts for my family.         |
+### Measure and Analysis
 
-### Why might we use scenarios?
+|                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                         |                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Scenarios                                                                                                                                                                                                                   | Use Cases                                                                                                                                                                                                                                               | User Stories                                                                                                                                                                                    |
+| **User's perspective:** How the user uses or envisions using a system to accomplish a task.                                                                                                                                 | **System's perspective:** How the system responds to a request.                                                                                                                                                                                         | Written sequences of actions and events leading to an outcome.                                                                                                                                  |
+| - Tied to personas.<br> - Part of a story about a particular user type and their needs.<br> - Written in narrative form.<br> - At the beginning of a project.<br> - Human-centered anchors to guide design and development. | - Part of detailed product requirement documentation.<br> - Goal of an action > trigger event that starts a process > each step required.<br> - Written in the form of an actor or user performing an action, followed by the expected system response. | - Used in Agile development.<br> - Defined during development, before or at the beginning of each sprint.<br> - Short sentences capturing the essence of a user need.<br> - One task per story. |
+| **Example:** Cynthia wants to create a shopping list from her family’s wish list.                                                                                                                                           | **Example:** Cynthia navigates to the wish lists, selects the items she wants to buy, and adds them to the shopping list.                                                                                                                               | **Example:** As Cynthia, the grandparent, I want to have a straightforward way to add the items from the wish list to the shopping list, so I can purchase the gifts for my family.             |
 
-To answer these questions:
+### Why Use Scenarios?
+
+Scenarios answer critical questions:
 
 1. **Who** is the user?
 2. **Why** does this user use my product?
@@ -78,27 +77,20 @@ To answer these questions:
 
 ### Types of Scenarios
 
-1. **Goal-Based/Task-Based**
-   Focus only on what the user wants to do defining information architecture and content usability testing scenarios
+1. **Goal-Based/Task-Based**:
+   Focuses on what the user wants to accomplish, defining information architecture and content usability testing scenarios.
 
    ![Scenario type 1](./scenario-type-1.png)
 
-2. **Elaborated**
-   Better understand the persona to design for better understand how the persona characteristics may affect the interaction with the product/service helps craft the right content and functionality for a specific user type
+2. **Elaborated**:
+   A deeper understanding of the persona's characteristics and their effect on product interaction. Helps design content and functionality for specific user types.
 
    ![Scenario type 2](./scenario-type-2.png)
 
-3. **Full Scale Task**
-   Includes the steps required to complete a task from a user’s perspective how the product would support the task-oriented or elaborated scenario that you started with
+3. **Full-Scale Task**:
+   Includes all steps required to complete a task from a user's perspective. Expands on the task-oriented or elaborated scenario.
 
-Cynthia is traveling to see her family for Christmas and she wants to get her shopping done early.
-
-- Opens the wish list app
-- Sends a request to her family for wish lists
-- Receives notifications when a family member added items to the wish list
-- Adds items from the wish list to the shopping list
-- Purchases the items online
-- Checks the wish list which has all the purchased items checked off
+For example, Cynthia is traveling for Christmas and wants to complete her shopping early. Her scenario includes opening the wish list app, sending requests, receiving notifications, adding items to the shopping list, making online purchases, and checking off items.
 
 ### Best Practices
 
@@ -106,28 +98,203 @@ Cynthia is traveling to see her family for Christmas and she wants to get her sh
 **Format:** Narrative<br>
 **Actor:** Persona<br>
 **Goal:** The goal/task that the persona wants to accomplish<br>
-**Summary:** Summarize the scenario, motivations, persona goals, etc. Steps Each step required to complete goal<br>
-**Context of Use:** The actual conditions the app is used (in a normal day-to-day working situation, at home, etc)<br>
+**Summary:** Summarize the scenario, motivations, persona goals, etc.<br>
+**Steps:** Each step required to complete the goal<br>
+**Context of Use:** The actual conditions the app is used (normal day-to-day working situation, at home, etc).
 
 ### Usage
 
-1. **Design Ideation:**
+1. **Design Ideation**:
 
-- Focus on your user’s tasks
-- Eliminate bias
-- Organize the content and entry points into the key tasks in a manner that makes sense to your users
+- Focus on user tasks.
+- Eliminate bias.
+- Organize content and entry points into key tasks for user convenience.
 
-2. **Usability testing:**
+2. **Usability Testing**:
 
-- Orient user research around your users’ tasks > evaluate how effectively your product supports these tasks.
-- Identify the key steps required to complete the task > observe the path followed by users > evaluate the effectiveness of your product’s architecture and navigation.
+- Align user research with user tasks for evaluating product support.
+- Identify key steps required for tasks.
+- Observe user paths.
+- Evaluate product architecture and navigation effectiveness.
 
-### Dos and Don’ts
+### Dos and Don'ts
 
-**DON’T** Marty clicks on the username input field then types his name. He then clicks on the password input field and enters his password. Marty clicks on the login button.
+**DON'T:** Marty clicks on the username input field, types his name, clicks on the password input field, enters his password, and clicks the login button.
 
-**DO** Marty signs into the product.
+**DO:** Marty signs into the product.
 
 ## Information Architecture
 
-<Badge type="error" text="Coming Soon" />
+### Definition and Goals
+
+The art and science of organizing and labeling web sites, intranets, online communities and software to support usability and findability.
+
+- Information architecture is the framework for your app.
+- Think about IA independently of screen design.
+- Evaluate the importance of content.
+- Structure your screens and information to display what’s most important.
+- Decide what content and information to disclose later.
+
+[Watch Video: Information Architecture: 3 Key Models](https://www.youtube.com/embed/v39z0JPeIc8?si=Qd_qKw-Z9gH3O4tm)
+
+**Goals**
+
+- **Findability** relates to things users know exist somewhere in the product and they have to find them. It is like looking for your keys before you leave the house. When you test findability, you ask the user where they would go to check out the activities that they signed up for as an example. You don’t use the exact labels used in the product, you want to ask about the outcome and let them find how to get there.
+
+- **Discoverability** is about finding something that the user doesn’t know is there, but that enhances their experience and they can highly benefit from it. This can be a new feature, or an old one presented in a different way that suddenly people can see and use.
+  - Testing discoverability is not as easy because you cannot prompt users to do it. You have to observe them use the product and see if they find something they didn’t know about. Analytics can also bring some insight into this.
+
+Keep both findability and discoverability in mind when you design your information architecture.
+
+I highly recommend you check out the [link](https://www.nngroup.com/articles/ia-vs-navigation/) to the Norman Nielsen Group. It has very good videos and articles about information architecture. A good example is a [site map](https://www.nngroup.com/articles/ia-study-guide/).
+
+The **information architecture (IA)** is not visible to users, it informs the UX and UI of a product.
+
+### How they come together
+
+|                          |                                                                                   |                                                                     |
+| :----------------------: | :-------------------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|         PERSONA          |                                     SCENARIO                                      |                                 IA                                  |
+| **Who** uses the product | A **persona** using a **product** to achieve a **goal** in a specific **context** | Organization structure, Navigation system, Labelling, Search system |
+
+**Information architecture helps define:**
+
+- Organization structure
+- Creating a site map: how to organize the information of the site, or the page, hierarchy of information
+- Labelling system: Terminology used
+- Navigation system: How to structure the content: side nav, top nv, tabs, a combination
+- Search system: How users look for information
+
+[Example of a project on Behance:](https://www.behance.net/gallery/50216285/Expense-Note-App)
+
+### Benifits
+
+The way the information is structured and presented in your product can turn into a competitive advantage. It can lead to:
+
+- Shorter search times > faster way to find information > increased customer satisfaction > which becomes a competitive advantage
+- Finding things fast can create a pleasant UX and create more promoters of your product.
+- With everything you do as a UX designer, you want to create products that are sticky, that customers keep using and have no way to look for an alternative solution. The way you structure the IA can certainly contribute to this outcome.
+
+Here is a [beginners guide to Information Architectures](https://uxbooth.com/articles/complete-beginners-guide-to-information-architecture/).
+
+### Examples
+
+![Exmaple of two fidelities of IA](./iaExample.png)
+
+- You can draw your IA on a piece of paper, on a white board, build it on a wall with sticky notes, or use digital tools.
+- No matter the tool used, don’t skip this step. Imagine an architect who is tasked to design a university campus. Before he starts designing the individual buildings, he needs to create a site plan to figure out how the buildings will be placed on site, how they will be connected with one another, create moments of interest along the way, create green spaces, sitting areas, parking lots, etc.
+- As a UX designer tasked with the creation of the IA, you will build a diagram to show the entire structure of the site, or app, how screens are connected to one another, levels of depth for finding information.
+- Some functionality has to be found immediately, at the top level, whereas other functionality can be buried deeper in the structure of the app and found once the user selected a path through you application. IA helps you determine the way the user has to discover your content.
+- If we think of a network for elderly people, as an example, finding a list of activities must be immediately accessible, whereas reading the profile of a specific care provider may be a few taps away from the main page.
+- Information Architecture is a UX deliverable
+- Solution Architecture is the job of a software architect
+- The collaboration between the two is key
+
+### Mobile Applications
+
+![Image to bne replaced](./mobilePrinciples1.png)
+
+**Information architecture** is the art and science of **organizing and labelling** your product to **support findability and discoverability**.
+
+- Content and functionality
+- Access and flow: search, filters
+
+[Information Architecture Principles Infographic](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)
+
+#### Principles for Mobile: objects
+
+![Image to bne replaced](./mobilePrinciples2.png)
+
+Different content types have their own properties, behaviours and interactions
+
+- Search
+- Type
+- Image
+
+#### Principles for Mobile: choices
+
+- Screens that give users choices and help them advance towards their goal.
+
+![Image to bne replaced](./mobilePrinciples3.png)
+
+#### Principles for Mobile: progressive disclosure
+
+- People cannot consume large amounts of data at once.
+- Disclose content in layers, revealing information gradually.
+
+![Image to bne replaced](./mobilePrinciples4.png)
+
+#### Principles for Mobile: exemplars, front doors, multiple classification
+
+- **Exemplars:** Provide examples through images, icons, lists, to illustrate the content in different categories.
+- **Front doors:** For mobile sites, not native apps, expect users to come to your site in other ways than through the home page.
+- **Multiple classification:** Provide multiple ways to navigate through content to meet different user needs.
+
+![Image to bne replaced](./mobilePrinciples5.png)
+
+#### Principles for Mobile: focused navigation, growth
+
+- **Focused navigation:** Switch from side nav to top nav if the functionality warrants it. Define navigation by its functionality, not its location.
+- **Growth:** Design for scale. Expect other content categories to be added in the future.
+
+![Image to bne replaced](./mobilePrinciples6.png)
+
+### Basic process
+
+To create your own IA, you need to:
+
+- list your assumptions or research findings on:
+- Business goals
+- User needs
+- Content
+- Identify all content
+- Conduct a card sorting exercise with users or stakeholders. Remember that card sorting is a user research method that helps with content structure
+- Create a site map to map out the individual screens and how they relate to each other
+- Validate your IA with users by selecting a path and testing to see if they can perform the tasks you ask them to or find the information you ask them to find.
+
+### Information Architecture Process
+
+<br>
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/storyboard.png"
+  title="Card Sorting"
+  :items="['Based on your user research & analysis data and deliverables, brainstorm to identify possible content that might be necessary for your app', 'Use card sorting to find out how users group things and what names they give those groups', 'For the purpose of the project that you are working on, you will conduct an open card sorting exercise', 'You will write the individual screens on individual pieces of paper and ask participants to group them and name the groups', 'This way you will see what is logical for your users and what words they use to name the categories.']"
+  linkUrl="https://www.nngroup.com/videos/open-vs-closed-card-sorting/"
+  linkText="Watch for more information"
+/>
+<ListItem
+  imageSrc="/f2023/moduleImages/week7/ia.png"
+  title="IA Diagram"
+  :items="['Visual representation of the product’s core content structure', 'Primary Navigation', 'Secondary Navigation', 'Starting point/entry point', 'Home screen', 'Main section screens', 'Sections (may contain sub-sections)', 'Additional content screens', 'Flows/sequences', 'Universal content/links', 'Flow/direction/connector lines', 'Annotations / Legend']"
+  linkUrl="https://www.nngroup.com/videos/open-vs-closed-card-sorting/"
+  linkText="Watch for more information"
+/>
+
+### IA vs Navigation
+
+[The Difference Between Information Architecture and Navigation](https://www.nngroup.com/articles/ia-vs-navigation/)
+
+|                              |                                   |
+| :--------------------------: | :-------------------------------: |
+|              IA              |            Navigation             |
+| How the content is organized | How users move around the content |
+
+### Common mistakes
+
+**IA:**
+
+- No structure
+- Search and structure not integrated
+- Missing category landing screens
+- Extreme polyhierarchy
+- Subsection/microsection poorly integrated with main section
+
+**Navigation**
+
+- Invisible navigation options
+- Uncontrollable navigation elements
+- Inconsistent navigation
+- Too many navigation techniques
+- Made-up menu options
+
+IA and navigation must support each other and integrate with search across features or sections. Complexity, inconsistency, hidden options, and clumsy UI mechanics prevent users from finding what they need.
