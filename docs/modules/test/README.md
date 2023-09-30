@@ -14,3 +14,7 @@ linkText="Read more"
   linkUrl="https://www.example.com"
   linkText="Read more"
 />
+
+<CollapsibleSection text="This is the content of the collapsible section.">
+Hello!
+</CollapsibleSection>
