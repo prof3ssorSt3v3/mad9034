@@ -14,10 +14,10 @@
 
 <script>
 export default {
-  name: 'YouTube',
+  name: "YouTube",
   props: {
     title: { type: String, required: true },
-    url: { type: String, default: 'https://www.youtube.com/embed/TesDIVA28rM' },
+    url: { type: String, default: "https://www.youtube.com/embed/TesDIVA28rM" },
   },
 };
 </script>
@@ -25,7 +25,7 @@ export default {
 <style>
 .video-player {
   width: 100%;
-  padding: 2rem 0;
+  padding: 0 0;
 }
 .video {
   width: 100%;

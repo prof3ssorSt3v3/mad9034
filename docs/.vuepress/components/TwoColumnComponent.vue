@@ -37,7 +37,6 @@ export default {
   padding: 10px;
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
 .first-column {
