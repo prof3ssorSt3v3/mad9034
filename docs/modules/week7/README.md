@@ -56,8 +56,6 @@ Scenarios are short stories that provide context for why a specific user group, 
 
 ### Measure and Analysis
 
-### Measure and Analysis
-
 |                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                         |                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Scenarios                                                                                                                                                                                                                   | Use Cases                                                                                                                                                                                                                                               | User Stories                                                                                                                                                                                    |
@@ -181,14 +179,15 @@ Here is a [beginners guide to Information Architectures](https://uxbooth.com/art
 
 ![Exmaple of two fidelities of IA](./iaExample.png)
 
-- You can draw your IA on a piece of paper, on a white board, build it on a wall with sticky notes, or use digital tools.
-- No matter the tool used, don’t skip this step. Imagine an architect who is tasked to design a university campus. Before he starts designing the individual buildings, he needs to create a site plan to figure out how the buildings will be placed on site, how they will be connected with one another, create moments of interest along the way, create green spaces, sitting areas, parking lots, etc.
-- As a UX designer tasked with the creation of the IA, you will build a diagram to show the entire structure of the site, or app, how screens are connected to one another, levels of depth for finding information.
-- Some functionality has to be found immediately, at the top level, whereas other functionality can be buried deeper in the structure of the app and found once the user selected a path through you application. IA helps you determine the way the user has to discover your content.
-- If we think of a network for elderly people, as an example, finding a list of activities must be immediately accessible, whereas reading the profile of a specific care provider may be a few taps away from the main page.
-- Information Architecture is a UX deliverable
-- Solution Architecture is the job of a software architect
-- The collaboration between the two is key
+- **Creating IA:** Information architecture (IA) can be represented on paper, whiteboards, with sticky notes on a wall, or using digital tools.
+
+- **Don't Skip This Step:** Similar to how an architect plans a campus layout before designing buildings, UX designers create IA diagrams. These diagrams show the structure of the site or app, screen connections, and information depth.
+
+- **Immediate vs. Buried Functionality:** IA helps decide what content should be easily accessible at the top level and what can be deeper in the app's structure. For example, a network for elderly users may prioritize quick access to activity lists.
+
+- **IA in UX:** Information Architecture is a crucial UX deliverable.
+
+- **Solution vs. Information Architecture:** Solution Architecture is the responsibility of a software architect and should collaborate effectively with Information Architecture.
 
 ### Mobile Applications
 
@@ -201,6 +200,8 @@ Here is a [beginners guide to Information Architectures](https://uxbooth.com/art
 
 [Information Architecture Principles Infographic](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)
 
+<CollapsibleSection text="Principles for Mobile: objects">
+
 #### Principles for Mobile: objects
 
 ![Image to bne replaced](./mobilePrinciples2.png)
@@ -211,11 +212,19 @@ Different content types have their own properties, behaviours and interactions
 - Type
 - Image
 
+</CollapsibleSection>
+
+<CollapsibleSection text="Principles for Mobile: choices">
+
 #### Principles for Mobile: choices
 
 - Screens that give users choices and help them advance towards their goal.
 
 ![Image to bne replaced](./mobilePrinciples3.png)
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Principles for Mobile: progressive disclosure">
 
 #### Principles for Mobile: progressive disclosure
 
@@ -223,6 +232,10 @@ Different content types have their own properties, behaviours and interactions
 - Disclose content in layers, revealing information gradually.
 
 ![Image to bne replaced](./mobilePrinciples4.png)
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Principles for Mobile: exemplars, front doors, multiple classification">
 
 #### Principles for Mobile: exemplars, front doors, multiple classification
 
@@ -232,12 +245,18 @@ Different content types have their own properties, behaviours and interactions
 
 ![Image to bne replaced](./mobilePrinciples5.png)
 
+</CollapsibleSection>
+
+<CollapsibleSection text="Principles for Mobile: focused navigation, growth">
+
 #### Principles for Mobile: focused navigation, growth
 
 - **Focused navigation:** Switch from side nav to top nav if the functionality warrants it. Define navigation by its functionality, not its location.
 - **Growth:** Design for scale. Expect other content categories to be added in the future.
 
 ![Image to bne replaced](./mobilePrinciples6.png)
+
+</CollapsibleSection>
 
 ### Basic process
 
