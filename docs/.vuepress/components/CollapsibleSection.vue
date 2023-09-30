@@ -34,9 +34,11 @@ export default {
 /* Add your CSS styling here for the collapsible section */
 
 .collapsible-section {
+  --accent-colour: 44, 62, 80;
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-bottom: 10px;
+  box-shadow: 0px 1px 8px 0px rgba(var(--accent-colour), 0.23);
 }
 
 .collapse-button {
@@ -50,6 +52,8 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: white;
+  border-color: #3eaf7c;
 }
 
 .dropdown-arrow {
@@ -57,13 +61,25 @@ export default {
 }
 
 .content {
-  padding: 10px;
+  padding: 20px;
   display: block;
   transition: max-height 0.3s ease-out;
+  background-color: white;
 }
 
 .collapsed-content {
-  max-height: 0;
-  overflow: hidden;
+  display: none;
+}
+
+.accordion:after {
+  content: "\02795"; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
 </style>
