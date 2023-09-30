@@ -31,55 +31,54 @@ export default {
 </script>
 
 <style scoped>
-/* Add your CSS styling here for the collapsible section */
-
 .collapsible-section {
   --accent-colour: 44, 62, 80;
-  border: 1px solid #ccc;
+  border: 1px solid #eaeaea; /* Updated border color */
   border-radius: 5px;
   margin-bottom: 10px;
-  box-shadow: 0px 1px 8px 0px rgba(var(--accent-colour), 0.23);
+  box-shadow: 0px 2px 4px rgba(var(--accent-colour), 0.1); /* Updated box shadow */
+  overflow: hidden;
 }
 
 .collapse-button {
   background-color: #f5f5f5;
   border: none;
   border-radius: 5px 5px 0 0;
-  padding: 10px;
+  padding: 15px; /* Increased padding */
   width: 100%;
   text-align: left;
   cursor: pointer;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: white;
-  border-color: #3eaf7c;
+  background-color: #ffffff; /* Updated background color */
+  border-bottom: 1px solid #eaeaea; /* Added border bottom for separation */
 }
 
 .dropdown-arrow {
   font-size: 18px;
+  color: #777;
+  transition: transform 0.2s ease; /* Added smooth transition */
 }
 
 .content {
-  padding: 20px;
+  padding: 15px 20px; /* Updated padding */
   display: block;
   transition: max-height 0.3s ease-out;
-  background-color: white;
+  background-color: #ffffff; /* Updated background color */
 }
 
 .collapsed-content {
-  display: none;
+  max-height: 0;
+  overflow: hidden;
 }
 
-.accordion:after {
-  content: "\02795"; /* Unicode character for "plus" sign (+) */
-  font-size: 13px;
-  color: #777;
-  float: right;
-  margin-left: 5px;
+/* Added styles for the collapse/expand icon */
+.collapse-button.collapsed .dropdown-arrow {
+  transform: rotate(0deg); /* Rotate 0 degrees when collapsed */
 }
 
-.active:after {
-  content: "\2796"; /* Unicode character for "minus" sign (-) */
+.collapse-button.expanded .dropdown-arrow {
+  transform: rotate(180deg); /* Rotate 180 degrees when expanded */
 }
 </style>
