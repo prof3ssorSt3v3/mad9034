@@ -159,6 +159,8 @@ The user persona offers a deeper level of detail, focusing on a subset of indivi
 
 ### Why we need them
 
+![Why we need personas](./whyPersona.png)
+
 Thousands of people located in multiple geographical locations, with various cultural expectations and product demands, with different roles and responsibilities, time investment and levels of expertise and sophistication distilled down to a few user personas.
 
 ### A Product Team Tool
@@ -179,7 +181,7 @@ Thousands of people located in multiple geographical locations, with various cul
 
 1. **Identify Your Users**: Begin by identifying the individuals who make up your target audience. This includes gathering demographic, geographic, psychological, and behavioral data. You can source this information from various channels.
 
-2. **What and How to Ask**: Conduct interviews, focus groups, and surveys to collect insights from potential users. Ensure that your questions are open-ended to encourage participants to share their thoughts and experiences freely.
+2. **What and How to Ask**: Conduct interviews, focus groups, and surveys to collect insights from potential users. Ensure that your questions are open-ended to encourage participants to share their thoughts and experiences freely. [Sample interview Script](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/#1-identify-your-users)
 
 3. **Get Access to Users**: Establish contact with potential users. If you have an existing user base, leverage it to gather data. If you're a new company or launching a new product, consider researching competitors' users to gain valuable insights.
 
