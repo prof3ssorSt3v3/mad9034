@@ -52,7 +52,7 @@ User research methods can be broadly classified into qualitative and quantitativ
 
 <br>
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/cardSorting.jpg"
+imageSrc="/f2023/moduleImages/week2/cardSorting.jpg"
 title="Card Sorting"
 description="Allows users to group labels written on cards in categories that make sense to them. This helps ensure that the application structure matches the way users think."
 linkUrl="https://www.nngroup.com/articles/card-sorting-definition/"
@@ -60,7 +60,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/interviews.jpg"
+imageSrc="/f2023/moduleImages/week2/interviews.jpg"
 title="Contextual Interviews"
 description="Enable you to observe users in their natural environment, giving you a better understanding of the way users work."
 linkUrl="https://www.nngroup.com/articles/contextual-inquiry/"
@@ -68,7 +68,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/firstClick.png"
+imageSrc="/f2023/moduleImages/week2/firstClick.png"
 title="First Click Testing"
 description="A testing method focused on navigation, which can be performed on a functioning website, a prototype, or a wireframe."
 linkUrl="https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html"
@@ -76,7 +76,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/focusGroup.jpg"
+imageSrc="/f2023/moduleImages/week2/focusGroup.jpg"
 title="Focus Groups"
 description="Moderated discussion with a group of users, allow you to learn about user attitudes, ideas, and desires."
 linkUrl="https://www.nngroup.com/articles/focus-groups-definition/"
@@ -84,7 +84,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/heuristic.jpg"
+imageSrc="/f2023/moduleImages/week2/heuristic.jpg"
 title="Heuristic Evaluation"
 description="Usability experts evaluating your website (app) against a list of established guidelines."
 linkUrl="https://www.nngroup.com/articles/ten-usability-heuristics/"
@@ -92,7 +92,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/individuaInterviews.jpg"
+imageSrc="/f2023/moduleImages/week2/individuaInterviews.jpg"
 title="Individual Interviews"
 description="One-on-one discussions with users show you how a particular user works. They enable you to get detailed information about a user's attitudes, desires, and experiences."
 linkUrl="https://www.nngroup.com/articles/interviewing-users/"
@@ -100,7 +100,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/parallelDesign.jpg"
+imageSrc="/f2023/moduleImages/week2/parallelDesign.jpg"
 title="Parallel Design"
 description="Involves several designers pursuing the same effort simultaneously, but independently, with the intention to combine the best aspects of each for the ultimate solution."
 linkUrl="https://www.nngroup.com/articles/parallel-and-iterative-design/"
@@ -108,7 +108,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/persona.png"
+imageSrc="/f2023/moduleImages/week2/persona.png"
 title="Persona"
 description="Create a representative user based on available data and user interviews. Some personal details may be fiction, but the information used to create the user type is not."
 linkUrl="https://www.nngroup.com/topic/personas/"
@@ -116,7 +116,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/prototyping.jpg"
+imageSrc="/f2023/moduleImages/week2/prototyping.jpg"
 title="Prototyping"
 description="Explore ideas before implementing them by creating a mock-up. A prototype can range from a paper mock-up to interactive html pages."
 linkUrl="https://www.nngroup.com/videos/prototype-specifications/"
@@ -124,7 +124,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/survey.jpg"
+imageSrc="/f2023/moduleImages/week2/survey.jpg"
 title="Survey"
 description="A series of questions asked to multiple users of your website, help you learn about the people who visit your site."
 linkUrl="https://www.uxdesigninstitute.com/blog/user-surveys-for-ux-research/"
@@ -132,7 +132,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/sus.png"
+imageSrc="/f2023/moduleImages/week2/sus.png"
 title="System Usability Scale (SUS)"
 description="SUS is a technology independent ten item scale for subjective evaluation of the usability."
 linkUrl="https://www.nngroup.com/videos/system-usability-scale/"
@@ -140,7 +140,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/task.png"
+imageSrc="/f2023/moduleImages/week2/task.png"
 title="Task Analysis"
 description="Involves learning about user goals, including what users want to do on your App, and helps you understand the tasks that users will perform on it."
 linkUrl="https://www.nngroup.com/articles/task-analysis/"
@@ -148,7 +148,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/usability.jpg"
+imageSrc="/f2023/moduleImages/week2/usability.jpg"
 title="Usability Testing"
 description="Usability testing refers to evaluating a product or service by testing it with representative users."
 linkUrl="https://www.nngroup.com/videos/usability-testing-101/"
@@ -156,7 +156,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/useCase.png"
+imageSrc="/f2023/moduleImages/week2/useCase.png"
 title="Use Case"
 description="Use cases, scenarios and storyboards focus on describing how users use your product and their goals."
 linkUrl="https://www.usability.gov/how-to-and-tools/methods/use-cases.html"

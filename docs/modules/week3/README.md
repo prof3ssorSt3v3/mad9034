@@ -47,33 +47,70 @@ Explore foundational ideation techniques:
 
 Learn and apply techniques such as brainstorming, braindumping, storyboarding, challenging assumptions, exploring the worst possible idea, SCAMPER, role-playing, and co-design/co-creation.
 
-<!-- <br>
-<TwoColumnComponent
-imageSrc="/f2023/moduleImages/cardSorting.jpg"
-title="Brainstorming"
-description="- Generating ideas in a group <br> - Leveraging the group’s diversity <br> - Building on one another’s ideas"
-linkUrl="https://www.interaction-design.org/literature/topics/brainstorming"
-linkText="Read more"
+<br>
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/brainstorming.jpg"
+  title="Brainstorming"
+  :items="['Generating ideas in a group', 'Leveraging the group’s diversity', 'Building on one another’s ideas']"
+  linkUrl="https://www.interaction-design.org/literature/topics/brainstorming"
+  linkText="Read more"
 />
 
-<TwoColumnComponent
-imageSrc="/f2023/moduleImages/cardSorting.jpg"
-title="Title"
-description="Description"
-linkUrl="Link"
-linkText="Read more"
-/> -->
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/braindumping.jpg"
+  title="Braindumping"
+  :items="['Similar to brainstorming, but done individually', 'Simply write down your own ideas', 'Combine ideas and build on them']"
+  linkUrl="https://www.nngroup.com/articles/workshop-activities/"
+  linkText="Read more"
+/>
 
-|                                                                                                                                                           |                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Brainstorming](https://www.interaction-design.org/literature/topics/brainstorming)                                                                       | - Generating ideas in a group <br> - Leveraging the group’s diversity <br> - Building on one another’s ideas                                                                              |
-| [Braindumping](https://www.nngroup.com/articles/workshop-activities/)                                                                                     | - Similar to brainstorming, but done individually <br> - Simply write down your own ideas <br> - Combine ideas and build on them                                                          |
-| [Storyboarding](https://www.nngroup.com/articles/storyboards-visualize-ideas/) <br> - [Another resource](https://uxstudioteam.com/ux-blog/ux-storyboard/) | - Develop a story related to the problem you’re solving <br> - Bring the situation to life <br> - Explore different scenarios to see where the story goes                                 |
-| [Challenging Assumptions](https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-challenge-assumptions)         | - Step back and consider the assumptions you have about the product <br> - Try to get ‘unstuck’ of current thinking <br> - Are constraints truly constraints, or just what we’re used to? |
-| [Worst Possible Idea](https://www.interaction-design.org/literature/topics/worst-possible-idea)                                                           | - Flip brainstorming on its head <br> - Bad, silly ideas to train the mind to think differently <br> - Easier to critique - low personal commitment                                       |
-| [SCAMPER](https://www.youtube.com/watch?v=aFGAmk3lj1s&t=181s)                                                                                             | - Substitute <br> - Combine <br> - Adapt <br> - Modify <br> - Put to another use <br> - Eliminate <br> - Reverse                                                                          |
-| [Role Playing](https://www.nngroup.com/articles/workshop-activities/)                                                                                     | - Changes how participants think about something <br> - Develops new thoughts and ideas <br> - Can be uncomfortable for some <br> - The role of the system or another person              |
-| [Co-Design / Co-Creation](https://www.interaction-design.org/literature/topics/co-creation)                                                               | - Collages <br> - Cognitive and context mapping <br> - Storyboards <br> - Inspiration cards <br> - Modeling <br> - Paper prototyping <br> - Games                                         |
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/storyboard.jpg"
+  title="Storyboarding"
+  :items="['Develop a story related to the problem you’re solving', 'Bring the situation to life', 'Explore different scenarios to see where the story goes', '[Another resource](https://uxstudioteam.com/ux-blog/ux-storyboard/)']"
+  linkUrl="https://www.nngroup.com/articles/storyboards-visualize-ideas/"
+  linkText="Read more"
+/>
+
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/assumptions.jpg"
+  title="Challenging Assumptions"
+  :items="['Step back and consider the assumptions you have about the product', 'Try to get ‘unstuck’ of current thinking', 'Are constraints truly constraints, or just what we’re used to?']"
+  linkUrl="https://www.interaction-design.org/literature/article/learn-how-to-use-the-best-ideation-methods-challenge-assumptions"
+  linkText="Read more"
+/>
+
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/worstIdeas.png"
+  title="Worst Possible Idea"
+  :items="['Flip brainstorming on its head', 'Bad, silly ideas to train the mind to think differently', 'Easier to critique', 'Low personal commitment']"
+  linkUrl="https://www.interaction-design.org/literature/topics/worst-possible-idea"
+  linkText="Read more"
+/>
+
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/scamper.png"
+  title="SCAMPER"
+  :items="['Substitute', 'Combine', 'Adapt', 'Modify', 'Put to another use', 'Eliminate', 'Reverse']"
+  linkUrl="https://www.youtube.com/watch?v=aFGAmk3lj1s&t=181s"
+  linkText="Watch Video"
+/>
+
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/rolePlaying.jpg"
+  title="Role Playing"
+  :items="['Changes how participants think about something', 'Develops new thoughts and ideas', 'Can be uncomfortable for some', 'The role of the system or another person']"
+  linkUrl="https://www.nngroup.com/articles/workshop-activities/"
+  linkText="Read more"
+/>
+
+<ListItem
+  imageSrc="/f2023/moduleImages/week3/coDesign.jpg"
+  title="Co-Design / Co-Creation"
+  :items="['Collages', 'Cognitive and context mapping', 'Storyboards', 'Inspiration cards', 'Modeling', 'Paper prototyping', 'Games']"
+  linkUrl="https://www.interaction-design.org/literature/topics/co-creation"
+  linkText="Read more"
+/>
 
 ## Brainstorming
 

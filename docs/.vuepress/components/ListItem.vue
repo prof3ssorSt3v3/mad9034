@@ -1,14 +1,14 @@
 <template>
   <div class="list-item">
-    <div class="first-column">
-      <img :src="imageSrc" alt="Image" />
-    </div>
     <div class="column">
       <h3>{{ title }}</h3>
       <ul>
         <li v-for="(item, index) in items" :key="index">{{ item }}</li>
       </ul>
       <a :href="linkUrl">{{ linkText }}</a>
+    </div>
+    <div class="first-column">
+      <img :src="imageSrc" alt="Image" />
     </div>
   </div>
 </template>
@@ -40,7 +40,7 @@ export default {
 }
 
 .first-column {
-  max-width: 100px !important;
+  max-width: 300px !important;
 }
 
 img {
