@@ -29,7 +29,7 @@ export default {
 .list-item {
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid #eaecef;
+  border-top: 1px solid #eaecef;
 }
 
 .column,
@@ -40,7 +40,7 @@ export default {
 }
 
 .first-column {
-  max-width: 300px !important;
+  max-width: 200px !important;
 }
 
 img {
@@ -51,5 +51,8 @@ img {
 a {
   color: #3eaf7c;
   text-decoration: underline;
+}
+h4 {
+  margin: 0;
 }
 </style>

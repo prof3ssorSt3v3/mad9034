@@ -65,7 +65,7 @@ Learn and apply techniques such as brainstorming, braindumping, storyboarding, c
 />
 
 <ListItem
-  imageSrc="/f2023/moduleImages/week3/storyboard.jpg"
+  imageSrc="/f2023/moduleImages/week3/storyboard.png"
   title="Storyboarding"
   :items="['Develop a story related to the problem you’re solving', 'Bring the situation to life', 'Explore different scenarios to see where the story goes', '[Another resource](https://uxstudioteam.com/ux-blog/ux-storyboard/)']"
   linkUrl="https://www.nngroup.com/articles/storyboards-visualize-ideas/"
@@ -97,7 +97,7 @@ Learn and apply techniques such as brainstorming, braindumping, storyboarding, c
 />
 
 <ListItem
-  imageSrc="/f2023/moduleImages/week3/rolePlaying.jpg"
+  imageSrc="/f2023/moduleImages/week3/rolePlaying.png"
   title="Role Playing"
   :items="['Changes how participants think about something', 'Develops new thoughts and ideas', 'Can be uncomfortable for some', 'The role of the system or another person']"
   linkUrl="https://www.nngroup.com/articles/workshop-activities/"

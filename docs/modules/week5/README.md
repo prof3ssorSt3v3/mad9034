@@ -1,15 +1,16 @@
 # Week 5: Product Research and User Research
 
-::: warning Required Preparation
+::: warning Preparation Required
 
-Please ensure that you prepare for each week's lessons by thoroughly reviewing the weeks module prior to the start of class. This preparation is essential to ensure you are fully informed and ready to actively engage in the upcoming topics and discussions. Your active participation and success in the course depend on meeting this requirement diligently.
-
+To maximize your engagement and success in the course, it is crucial to thoroughly review the weekly module before each class. Your active participation depends on diligently meeting this preparation requirement, ensuring you are fully informed and ready to contribute to discussions and activities.
 :::
 
 ## Learning Objectives
 
-- Have a high-level understanding of the project objectives and Identify appropriate user-research methods to gather information for your project.
-- Have an understanding of UX project planning and create one for their individual project
+By the end of this week, you should:
+
+- Understand the objectives of the major project and identify suitable user-research methods.
+- Be familiar with UX project planning and create a plan for your individual project.
 
 ## Slides
 
@@ -23,18 +24,19 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 [Product research - Meaning, Importance, Stages, Example.](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/8598-product-research.html#3)
 
-Product Research refers to the systematic process of gathering and analyzing information to better understand a specific product, its market, and its potential customers.
+Product research involves systematically gathering and analyzing information to understand a specific product, its market, and potential customers.
 
-**Goals**
-Learn about:
+#### Goals:
 
-- Market segment
-- Competitive landscape
-- Strengths and weaknesses of competitive products
-- Competitive advantage of your product
-- How your product can gain market share
+- Understand the market segment.
+- Analyze the competitive landscape.
+- Identify strengths and weaknesses of competing products.
+- Define your product's competitive advantage.
+- Explore how your product can gain market share.
 
 ### Product Research vs User Research
+
+Product Research focuses on the market and existing products, while User Research delves into user needs and behavior.
 
 |     Product Research Studies      |      User Research Studies      |
 | :-------------------------------: | :-----------------------------: |
@@ -45,7 +47,7 @@ Learn about:
 |     What people say they want     |        What people need         |
 |       What people will buy        | How people will use the product |
 
-**Benefits**
+#### Benefits
 
 - **Informed Decision-Making:** Data-driven insights minimize risks and increase the likelihood of product success.
   A well researched product will meet the requirements of the customer in a much better way. Understanding the competition can really help make a product which solves known product issues in that market.
@@ -54,7 +56,7 @@ Learn about:
 - **Competitive Edge:** Thorough research identifies gaps in the market, leading to innovative and unique solutions.
   It can help to refine new product ideas.
 
-**Components**
+#### Components
 
 - Business research
 - Market research
@@ -67,7 +69,7 @@ In a nutshell, market research is valuable because it shows us broad information
 - **User research** >> **what people need**
   - Evaluates users’ ability to complete tasks, and their satisfaction with the product
 
-### Example
+#### Example
 
 **Product research:** showed that travellers wanted a lighter luggage, yet literally lighter in weight luggage did not end the complaints.
 
@@ -82,57 +84,71 @@ Full example described in this [article](https://medium.com/@reassembleux/market
 
 ### Business Research
 
-Business research is an essential component of product research and development. It involves gathering, analyzing, and interpreting data to make informed decisions about various aspects of a product's development, launch, and ongoing success in the market.
+**Business research** is a crucial element of product research and development. It involves the systematic gathering, analysis, and interpretation of data related to various aspects of a product's development, launch, and ongoing success in the market. Here's a more detailed look at business research:
 
-**Components**
+#### Components of Business Research
 
-- Business and pricing models
-- Business regulations
-- Economic conditions and other factors at play
+1. **Business and Pricing Models**: Understanding your business model is essential. Are you a subscription-based service, an e-commerce platform, or a software provider? Analyze how your chosen model aligns with your product and its target market.
 
-**How to do it**
+2. **Business Regulations**: Depending on your industry and location, various regulations may apply to your product. It's essential to research and comply with these regulations to avoid legal issues.
 
-- Gather cost information
-- Investigate the larger economic ecosystem
+3. **Economic Conditions and Other Factors**: The economic landscape can significantly impact your product's success. Investigate the broader economic ecosystem, including factors like inflation, interest rates, and consumer spending, that may affect your product's performance.
+
+#### How to Conduct Business Research
+
+- **Gather Cost Information**: Calculate the costs associated with product development, marketing, and ongoing maintenance. This data helps in pricing strategies and profit projections.
+
+- **Investigate the Larger Economic Ecosystem**: Analyze how external economic factors may influence your product's viability. For example, a recession might affect consumer spending on non-essential products.
 
 ### Market Research
 
-Market research is an essential component of product research. It involves gathering and analyzing information about a target market to inform the development, design, and marketing of a new product.
+**Market research** is a fundamental aspect of product research. It involves collecting and analyzing data about a target market to inform the development, design, and marketing of a new product. Here's a more comprehensive look at market research:
 
-**Components**
+#### Components of Market Research
 
-- Market size and characteristics
-- Market expectations
-- Demands and opportunities
-- Risk mitigation
+1. **Market Size and Characteristics**: Determine the size of your target market and its defining characteristics. This includes demographics, geographic locations, and psychographic data.
 
-**How to do it**
+2. **Market Expectations**: Understand what consumers in your target market expect from products like yours. Identify their needs, preferences, and pain points.
 
-- Surveys or interviews
-- Focus groups
-- Secondary research (company records, research studies, books)
+3. **Demands and Opportunities**: Research the specific demands within your market niche and identify opportunities for innovation or differentiation.
+
+4. **Risk Mitigation**: Assess potential risks in entering the market, such as competition, changing consumer preferences, or economic instability.
+
+#### How to Conduct Market Research
+
+- **Surveys or Interviews**: Collect data directly from potential customers through surveys or interviews. Ask questions about their needs, preferences, and willingness to adopt new products.
+
+- **Focus Groups**: Organize focus groups to gather insights from a small, diverse group of participants. This method is useful for in-depth discussions and idea generation.
+
+- **Secondary Research**: Explore existing data sources, including company records, research studies, books, and industry reports. Secondary research can provide valuable insights without the need for primary data collection.
 
 ### Competitive Analysis
 
-Competitive analysis is an essential component of product research that involves evaluating and comparing your product or service against similar offerings from other companies in the market.
+**Competitive analysis** is a vital component of product research that involves evaluating and comparing your product or service against similar offerings from other companies in the market. Here's a more detailed overview of competitive analysis:
 
-**Components**
+#### Components of Competitive Analysis
 
-- Identify competitors
-- Gather information
-- Analyze product features
-- Pricing and monetization
-- Market positioning
-- User experience
+1. **Identify Competitors**: Create a list of direct and indirect competitors in your market. Direct competitors offer products or services similar to yours, while indirect competitors may address similar needs through different means.
 
-**How to do it**
+2. **Gather Information**: Collect data about your competitors, including their product features, pricing strategies, market positioning, and user experience.
 
-- Customer reviews and feedback
-- Marketing and branding
-- SWOT analysis
-- Competitor’s roadmap
-- Differentiation
-- Summary and actionable insights
+3. **Pricing and Monetization**: Analyze how your competitors price their products and how they monetize their offerings. This information can help you determine your own pricing strategy.
+
+4. **Market Positioning**: Examine how your competitors position themselves in the market. Identify their unique selling points (USPs) and areas where they excel or fall short.
+
+5. **User Experience**: Evaluate the user experience of your competitors' products. This includes assessing usability, design, and overall customer satisfaction.
+
+#### How to Conduct Competitive Analysis
+
+- **Customer Reviews and Feedback**: Review customer feedback and reviews on platforms like social media, review websites, and app stores. Pay attention to common complaints and praises.
+
+- **Marketing and Branding**: Analyze your competitors' marketing strategies, messaging, and branding efforts. Understand how they communicate their product's value to customers.
+
+- **SWOT Analysis**: Perform a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis for each competitor. Identify areas where you can capitalize on their weaknesses or leverage their strengths.
+
+- **Competitor's Roadmap**: Research your competitors' product development roadmap to anticipate their future releases and innovations.
+
+- **Differentiation**: Determine how your product can differentiate itself from competitors. Identify unique features or value propositions that set your product apart.
 
 ## User Research
 
@@ -146,48 +162,37 @@ Thousands of people located in multiple geographical locations, with various cul
 
 ### A Product Team Tool
 
-- Provide focus for product stakeholders
-- Refer to the “users” by persona name
-- Remove biases
-- Keep the number low
-- Represent diversity
+1. **Condense Diverse User Profiles**: In any given target market, you'll encounter a diverse range of individuals with varying needs, preferences, and behaviors. User personas help condense this diversity into a few representative profiles, making it easier to design for your entire audience.
+
+2. **Remove Biases**: Designing for your "average" user can introduce biases and overlook the needs of specific user segments. User personas help in eliminating these biases by considering the unique characteristics of different users.
+
+3. **Maintain Focus**: With well-defined user personas, your team can maintain a clear focus on who the product is intended for. This prevents feature creep and ensures that product decisions align with the needs of your primary users.
 
 ### Primary and Secondary Personas
 
-|                           |                                                                                                                                     |
-| :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-|    **Primary persona**    |                                                        **Secondary persona**                                                        |
-| primary user of a product | is another user of the product for whom we will make accommodations as long as the primary persona’s experience is not compromised. |
-|     Service Consumer      |                                                          Service Provider                                                           |
+- **Primary Persona**: The primary persona represents the core users of your product. These are the individuals who will benefit the most from your solution.
 
-### Steps to create them
+- **Secondary Persona**: Secondary personas represent users whose needs must be accommodated without compromising the primary user's experience. These users may have different requirements, but their interaction with the product should not detract from the primary persona's satisfaction.
 
-1. **Identify your users**
+### Steps to Create User Personas:
 
-   - Existing user base
-     - Get existing demographics data
-     - If no existing demographics data, survey current users
-   - No user base (new company/product)
-     - Research users of your competitors or similar companies, products or services
-   - Whether you conduct the research yourself, or hire a third party research company to do it, the first step if to establish a selection criteria for the participants.
-   - Your criteria for the screener may include demographic, geographical, psychological and behavioural information depending on the project that you are working on.
+1. **Identify Your Users**: Begin by identifying the individuals who make up your target audience. This includes gathering demographic, geographic, psychological, and behavioral data. You can source this information from various channels.
 
-2. **What and how to ask (interviews, focus groups, surveys)**
-   Start by asking permission to record the interview so you can go back and listen to it again in case you missed something.
-   Ask open ended questions as much as possible
+2. **What and How to Ask**: Conduct interviews, focus groups, and surveys to collect insights from potential users. Ensure that your questions are open-ended to encourage participants to share their thoughts and experiences freely.
 
-   - Don’t ask leading questions.
-     - Example: Let’s pretend that you work on an app that provides extra-curricular activities for children with disabilities. If you ask a person: Would you like to be able to print the list of activities? chances are they will say yes. If you probe, often they don’t know why, but when you ask them if they want something they will usually say yes. Instead, you can ask: How will you use the list of activities provided by the application? And see if they tell you that printing is an important use case.
-   - Ask about their present and past experiences
-   - Depending on the project you work on, sometimes you may want to ask them to imagine an ideal product. However, not everyone can do that. Know that many people adapt to how a product works and cannot articulate what they want to see different. This is why it is better to ask them about their experience and you will determine what works, what doesn’t and whether things can be presented to the user in a different way
-   - Ask for stories and details that you cannot observe yourself
+3. **Get Access to Users**: Establish contact with potential users. If you have an existing user base, leverage it to gather data. If you're a new company or launching a new product, consider researching competitors' users to gain valuable insights.
 
-3. **Get access to users**
-4. **Gain an understanding of the users**
-5. **Analyze the data**
-6. **Synthesize a model of users**
-7. **Produce a persona document**
-8. **Socialize the personas with other stakeholders**
+4. **Gain an Understanding of the Users**: Dive deep into the experiences of your potential users. Understand their pain points, motivations, goals, and challenges related to the problem your product aims to solve.
+
+5. **Analyze the Data**: Examine the data collected from interviews, focus groups, and surveys. Identify patterns, commonalities, and significant differences among users.
+
+6. **Synthesize a Model of Users**: Create user personas by aggregating the information into detailed profiles. Each persona should include demographic information, goals, frustrations, behaviors, and any other relevant details.
+
+7. **Produce a Persona Document**: Document the key details of each persona in a structured document. Include their name, age, job title, goals, pain points, and a brief narrative that humanizes the persona.
+
+8. **Socialize the Personas**: Share the personas with your project team and stakeholders. Ensure that everyone involved in the product development process understands and empathizes with the personas. Personas should become a reference point for decision-making throughout the project.
+
+User personas are powerful tools that keep the user at the center of the design process. By following these steps, you can create personas that inform and guide your product's development, ensuring that it meets the diverse needs of your target audience.
 
 ## Project Planning
 
@@ -206,24 +211,20 @@ Thousands of people located in multiple geographical locations, with various cul
 - May summarize multiple UX activities into a single item
 - Audience: multiple stakeholders across many disciplines
 
+## Project Planning
+
+UX Project Plan: Lists UX activities with descriptions, durations, deliverables, and team members.
+
+**Overall Project Plan:** Includes activities across all disciplines, summarizing UX activities.
+
 ### UX Project Plan
 
-A list of UX activities to be performed
-
-- Brief description
-- Expected duration
-- Output/deliverable
-- Team members involved
+- Lists UX activities with descriptions, durations, deliverables, and team members.
 
 **A UX Project Plan is a living document!**
 
-Simple Project Plan
-![Project Plan](./project-plan.png)
-
-### Project Management Tools
-
-(Recommended in 2023)
+### Project Management Tools (Recommended in 2023)
 
 ![Project Management Tools](./tool.png)
 
-[Top Management Software of 2023](https://www.top10.com/project-management/comparison?utm_source=google&kw=top%20project%20management%20tools&c=641267620270&t=search&p=&m=p&adpos=&dev=c&devmod=&mobval=0&network=g&campaignid=15692302968&groupid=134576865347&targetid=kwd-4221054342&interest=&physical=9000679&feedid=&a=200435&ts=&topic=&clicktype=&camtype=&gclid=CjwKCAjwrranBhAEEiwAzbhNtfgFXJBLlglYdWFWB1lXTB9Rqw-eKVqN0k6aVyeYTJ32kgMen0IqgxoCSF0QAvD_BwE)
+Explore [Top Management Software of 2023.](https://www.top10.com/project-management/comparison?utm_source=google&kw=top%20project%20management%20tools&c=641267620270&t=search&p=&m=p&adpos=&dev=c&devmod=&mobval=0&network=g&campaignid=15692302968&groupid=134576865347&targetid=kwd-4221054342&interest=&physical=9000679&feedid=&a=200435&ts=&topic=&clicktype=&camtype=&gclid=CjwKCAjwrranBhAEEiwAzbhNtfgFXJBLlglYdWFWB1lXTB9Rqw-eKVqN0k6aVyeYTJ32kgMen0IqgxoCSF0QAvD_BwE)

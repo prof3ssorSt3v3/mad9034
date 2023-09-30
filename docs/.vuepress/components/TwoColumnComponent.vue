@@ -28,7 +28,7 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center; /* Vertically center the content */
-  border-bottom: 1px solid #eaecef;
+  border-top: 1px solid #eaecef;
 }
 
 .column,
@@ -51,5 +51,8 @@ img {
 a {
   color: #3eaf7c;
   text-decoration: underline;
+}
+h4 {
+  margin: 0;
 }
 </style>

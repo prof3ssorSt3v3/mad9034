@@ -1,16 +1,17 @@
 # Week 4: Validation
 
-::: warning Required Preparation
+::: warning Preparation Required
 
-Please ensure that you prepare for each week's lessons by thoroughly reviewing the weeks module prior to the start of class. This preparation is essential to ensure you are fully informed and ready to actively engage in the upcoming topics and discussions. Your active participation and success in the course depend on meeting this requirement diligently.
-
+To maximize your engagement and success in the course, it is crucial to thoroughly review the weekly module before each class. Your active participation depends on diligently meeting this preparation requirement, ensuring you are fully informed and ready to contribute to discussions and activities.
 :::
 
 ## Learning Objectives
 
-- Have a deeper understanding of the role of user testing and iterating in the UXD process
-- Have learned and practiced some testing and iterating skills, using appropriate tools
-- Be introduced to the major project for the term
+By the end of this week, students will:
+
+- Gain a deeper understanding of the role of user testing and iteration in the UXD process.
+- Learn and practice essential testing and iterating skills using appropriate tools.
+- Get introduced to the major project for the term.
 
 ## Slides
 
@@ -19,88 +20,85 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Usability Testing
 
-### Definition and Goals
+### Understanding the Basics
 
-Usability testing or user testing refers to evaluating a prototype, product or service by testing it with representative users.
+Usability testing, also known as user testing, involves evaluating a prototype, product, or service by testing it with real users. The primary goals are to:
 
-**Goals**
-
-- Identify problems in the design
-- Discover opportunities for improvement
-- Learn about users
+- Identify design problems.
+- Discover opportunities for improvement.
+- Gain insights into user behavior.
 
 <YouTube
   title="Usability Testing 101"
   url="https://www.youtube.com/embed/n8MnoJyl3W4?si=IvjdnQ46q26izrYj"
 />
 
-### Why might we do usability testing?
+### Why Usability Testing?
 
-Usability testing reveals information about:
+![Context of use: Usability Testing](./usabilityTesting.png)
 
-- Ability to complete a task
-- Time to complete a task
-- User satisfaction using the product
-- Opportunities for improvement/alternate paths to complete a task
-- Performance
+Usability testing provides valuable information about:
 
-### Elements of Usability Testing
+- A user's ability to complete tasks.
+- The time it takes to complete tasks.
+- User satisfaction.
+- Opportunities for improvement.
+- Overall performance.
 
-[Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)
+**Prototyping and Usability** Testing give product teams the confidence to try new ideas, because they will be validated before too much time or money is invested.
 
-- What to test (tasks, flow)
-- Level of fidelity required for the prototype
-- Participants who are representative of the target market
-- Appoint facilitator and note taker
+### Key Elements
 
-[A Cheatsheet for User Interview and Follow Ups Questions](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/)
+When conducting usability testing, pay attention to these key elements:
+
+- **What to Test:** Define the specific tasks and flow that you want to evaluate. It sets the stage for a focused assessment.
+  (Learn more: [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/))
+
+- **Prototype Fidelity:** Decide the level of detail your prototype should have. This impacts how realistically users can interact with it.
+  (Learn more: [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/))
+
+- **Participants:** Select participants who truly represent your target audience. Their feedback will be the most valuable.
+  (Further Reading: [A Cheatsheet for User Interview and Follow Ups Questions](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/))
+
+- **Facilitator and Note Taker:** Appoint roles for guiding the usability test and capturing valuable observations.
+
+By addressing these elements, you'll ensure a comprehensive usability testing process that yields actionable insights.
+
+## The Usability Testing Process
 
 ### Execution
 
-**Participant**
+- **Participant:** They interact with the prototype one task at a time while vocalizing their thoughts.
+- **Facilitator:** Observes without interference and may ask clarifying questions.
+- **Note Taker:** Records both quantitative and qualitative data.
 
-- Has access to the prototype
-- Completes one task at a time
-- Thinks out loud
+### Measuring and Analyzing Data
 
-**Facilitator**
+**Quantitative Data** includes metrics like success rate, error rate, task completion time, and user satisfaction.
 
-- Fly-on-the-wall
-- Ask questions to clarify user actions
-- Record quantitative and qualitative measures
+**Qualitative Data** covers the participant's navigation path, encountered problems, comments, recommendations, and answers to open-ended questions.
 
-### Measure and Analysis
+## Reporting Findings
 
-**Quantitative data**
+In usability testing, reporting is crucial. Share both positive and negative findings, and include:
 
-- Success rate
-- Error rate
-- Time to complete a task
-- Satisfaction
+- Direct user quotes when possible (create personas).
+- Quantitative data, such as task completion rates and satisfaction levels.
+- Problem severity levels (critical, serious, minor).
+- Recommendations for addressing issues.
+- Next steps in the UX process.
 
-**Qualitative data**
+## Additional Resources
 
-- Path taken by the participant
-- Problems encountered
-- Comments and recommendations
-- Answers to open-ended question
-
-### Design Sprint
-
-[Phase 5 - Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype)
+Watch [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/) for an introduction.
+Explore [User Interview and Follow-Ups Questions](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/) for effective questioning.
+Dive into the [Phase 5 - Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype) for hands-on experience.
 
 <YouTube
   title="Sprint: Friday"
   url="https://www.youtube.com/embed/jQmBuKN10VY?si=PSTq4BSHPpRf-J7c"
 />
 
-### Reporting
+### Reporting Usability Test Results
 
-[Reporting Usability Test Results](https://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
-
-- Both positive and negative findings.
-- Record and report direct user quotes when possible. (persona)
-- Quantitative data (task completion rate, success rate, satisfaction rate)
-- Level of severity for each problem (critical, serious, minor)
-- Recommendation for each problem or group of problems
-- Next steps
+For detailed guidance on reporting usability test results, visit [Reporting Usability Test Results.](https://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html)
