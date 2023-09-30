@@ -2,9 +2,11 @@
   <div class="two-column-component">
     <div class="first-column">
       <img :src="imageSrc" alt="Image" />
-      <h3>{{ title }}</h3>
+      <h4>{{ title }}</h4>
     </div>
     <div class="column">
+      <h4>{{ title }}</h4>
+      <!-- Move the title above the description -->
       <p>{{ description }}</p>
       <a :href="linkUrl">{{ linkText }}</a>
     </div>
