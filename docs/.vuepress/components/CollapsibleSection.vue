@@ -1,12 +1,11 @@
 <template>
   <div class="collapsible-section">
     <button @click="toggleCollapse" class="collapse-button">
-      {{ collapsed ? "Expand" : "Collapse" }}
+      {{ text }}
       <span v-if="collapsed" class="dropdown-arrow">&#9662;</span>
       <span v-else class="dropdown-arrow">&#9652;</span>
     </button>
     <div :class="['content', { 'collapsed-content': collapsed }]">
-      {{ text }}
       <!-- Display the text prop here -->
     </div>
   </div>
@@ -38,12 +37,9 @@ export default {
   margin-bottom: 10px;
   box-shadow: 0px 2px 4px rgba(var(--accent-colour), 0.1); /* Updated box shadow */
   overflow: hidden;
-  background-color: #3eaf7c;
-  color: white;
 }
 
 .collapse-button {
-  background-color: #f5f5f5;
   border: none;
   border-radius: 5px 5px 0 0;
   padding: 15px; /* Increased padding */
