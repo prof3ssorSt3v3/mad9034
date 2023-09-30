@@ -199,7 +199,7 @@ Here is a [beginners guide to Information Architectures](https://uxbooth.com/art
 - Access and flow: search, filters
 
 [Information Architecture Principles Infographic](https://www.toptal.com/designers/mobile-ui/information-architecture-principles-infographic)
-
+<br>
 <CollapsibleSection text="Principles for Mobile: objects">
 
 #### Principles for Mobile: objects

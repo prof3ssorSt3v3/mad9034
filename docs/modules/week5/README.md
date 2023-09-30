@@ -226,6 +226,7 @@ Simple Project Plan
 
 ### Project Planning Documents
 
+<br>
 <CollapsibleSection text="Project Charter">
 
 #### Project Charter
