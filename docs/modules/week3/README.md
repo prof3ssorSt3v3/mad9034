@@ -79,8 +79,8 @@ linkText="Read more"
 
 Enhance your brainstorming skills:
 
-[7 rules for effective brainstorming](https://schoolofdesignthinking.echos.cc/blog/2020/10/7-rules-for-effective-lateral-thinking-and-brainstorming/)<br>
-[Facilitating an Effective Design Studio Workshop](https://www.nngroup.com/articles/facilitating-design-studio-workshop/)
+- [7 rules for effective brainstorming](https://schoolofdesignthinking.echos.cc/blog/2020/10/7-rules-for-effective-lateral-thinking-and-brainstorming/)<br>
+- [Facilitating an Effective Design Studio Workshop](https://www.nngroup.com/articles/facilitating-design-studio-workshop/)
 
 For a successful brainstorming session, follow these guidelines:
 
@@ -99,8 +99,8 @@ Explore physical and online brainstorming environments for optimal results.
 
 Engage with the design sprint process:
 
-[Phase 3 - Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)
-[Phase 4 - Decide](https://designsprintkit.withgoogle.com/methodology/phase4-decide)
+- [Phase 3 - Sketch](https://designsprintkit.withgoogle.com/methodology/phase3-sketch)
+- [Phase 4 - Decide](https://designsprintkit.withgoogle.com/methodology/phase4-decide)
 
 Watch these informative videos to delve deeper into the design sprint process:
 
@@ -224,7 +224,7 @@ Choosing the right prototyping method depends on your project's specific require
 
 Explore the prototyping phase of the design sprint process:
 
-[Phase 5 - Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype)
+- [Phase 5 - Prototype](https://designsprintkit.withgoogle.com/methodology/phase5-prototype)
 
 Watch the informative video for a better understanding:
 

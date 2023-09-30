@@ -6,3 +6,11 @@ Examples: online games, shows, architecture, restaurants."
 linkUrl="/your-link-url"
 linkText="Read more"
 />
+
+<ListItem
+  imageSrc="/f2023/moduleImages/interviews.jpg"
+  title="Interview Techniques"
+  :items="['Behavioral interviews', 'Structured interviews', 'Panel interviews']"
+  linkUrl="https://www.example.com"
+  linkText="Read more"
+/>
