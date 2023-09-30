@@ -105,6 +105,8 @@ For a detailed exploration of this example, you can refer to this [article](http
 
 **Market research** is a fundamental aspect of product research. It involves collecting and analyzing data about a target market to inform the development, design, and marketing of a new product. Here's a more comprehensive look at market research:
 
+<CollapsibleSection>
+
 #### Components of Market Research
 
 1. **Market Size and Characteristics**: Determine the size of your target market and its defining characteristics. This includes demographics, geographic locations, and psychographic data.
@@ -122,6 +124,8 @@ For a detailed exploration of this example, you can refer to this [article](http
 - **Focus Groups**: Organize focus groups to gather insights from a small, diverse group of participants. This method is useful for in-depth discussions and idea generation.
 
 - **Secondary Research**: Explore existing data sources, including company records, research studies, books, and industry reports. Secondary research can provide valuable insights without the need for primary data collection.
+
+</CollapsibleSection>
 
 ### Competitive Analysis
 
