@@ -229,12 +229,23 @@ Simple Project Plan
 
 **A UX Project Plan is a living document!**
 
-### Project Planning Documents
+<!-- ### Project Planning Documents
+
+#### Project Charter
 
 ![Project Planning Document - Charter](./charter.png)
+
+#### Project Scope
+
 ![Project Planning Document - Scope](./scope.png)
+
+#### Design Brief
+
 ![Project Planning Document - Design Brief](./brief.png)
-![Project Planning Document - Risk Assessment ](./risk.png)
+
+#### Risk Assessment
+
+![Project Planning Document - Risk Assessment ](./risk.png) -->
 
 ### Project Management Tools (Recommended in 2023)
 
