@@ -2,11 +2,9 @@
   <div class="two-column-component">
     <div class="first-column">
       <img :src="imageSrc" alt="Image" />
-      <h4>{{ title }}</h4>
     </div>
     <div class="column">
       <h4>{{ title }}</h4>
-      <!-- Move the title above the description -->
       <p>{{ description }}</p>
       <a :href="linkUrl">{{ linkText }}</a>
     </div>
@@ -29,13 +27,16 @@ export default {
 .two-column-component {
   display: flex;
   justify-content: space-between;
+  align-items: center; /* Vertically center the content */
   border-bottom: 1px solid #eaecef;
 }
 
 .column,
-first-column {
+.first-column {
   flex: 1;
   padding: 10px;
+  display: flex;
+  flex-direction: column;
   align-items: center;
 }
 

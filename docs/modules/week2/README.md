@@ -50,6 +50,7 @@ User research methods can be broadly classified into qualitative and quantitativ
 
 ### A Selection of Methods used in UX Design
 
+<br>
 <TwoColumnComponent
 imageSrc="/f2023/moduleImages/cardSorting.jpg"
 title="Card Sorting"
@@ -67,7 +68,7 @@ linkText="Read more"
 />
 
 <TwoColumnComponent
-imageSrc="/f2023/moduleImages/firstClick.jpg"
+imageSrc="/f2023/moduleImages/firstClick.png"
 title="First Click Testing"
 description="A testing method focused on navigation, which can be performed on a functioning website, a prototype, or a wireframe."
 linkUrl="https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html"
