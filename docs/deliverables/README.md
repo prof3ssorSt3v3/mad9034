@@ -62,7 +62,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 [Persona Research Details (5%)](./majorProject/part2.md)
 
-<Badge text="Both Sections: Sunday October 8th @11:59pm" />
+<Badge text="Both Sections: Tuesday October 10th @12:00pm" />
 
 ### <span style="color:#3eaf7c">**Define**</span>
 

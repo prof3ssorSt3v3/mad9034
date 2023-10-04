@@ -14,9 +14,9 @@ By the end of this week, you should:
 
 ## Slides
 
-[MAD9034 5-1 Product Research and Project Planning](https://drive.google.com/file/d/1rth4OPA7LjoNtZsDZ5evRseR5XWjvBaB/view?usp=sharing)<br>
+[MAD9034 5-1 Product Research and Project Planning](https://drive.google.com/file/d/1j7gx3MDVPcnQr4J-oIqIlZpkMHGHjCQq/view?usp=sharing)<br>
 
-MAD9034 5-2 Persona Research <Badge type="error" text="To be released before class" />
+[MAD9034 5-2 Persona Research](https://drive.google.com/file/d/13PGLnignKV_jtTNXf0FoDDRZmEbPpcyW/view?usp=sharing)
 
 ## Product Research
 

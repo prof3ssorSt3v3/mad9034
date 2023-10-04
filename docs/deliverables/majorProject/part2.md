@@ -96,7 +96,7 @@ Access traditional market research data (if available):
 
 **Due Dates:**
 
-<Badge text="Both Sections: Sunday October 8th @11:59pm" />
+<Badge text="Both Sections: Tuesday October 10th @12:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Persona Research.
