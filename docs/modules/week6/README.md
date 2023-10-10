@@ -14,7 +14,9 @@ By the end of this week, you will:
 
 ## Slides
 
-<Badge type="error" text="To be released before class" />
+[MAD9034 6-1 How to Create Personas](https://drive.google.com/file/d/1hGO_149FtIu6YldHVhzMhQviyq42YTOx/view?usp=sharing)
+
+[MAD9034 6-2 Persona Working Session](https://drive.google.com/file/d/1JjUezwe6SboRodR8C_pCDY2V10T6lN9S/view?usp=sharing)
 
 ## Persona Creation
 
