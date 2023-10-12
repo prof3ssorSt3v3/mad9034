@@ -1,5 +1,11 @@
 # Major Project - Persona Creation
 
+::: tip Transition to Individual Work
+
+Having wrapped up your collaborative efforts in Product Research and Persona Research, it's time for you to embark on your solo journey for the major project. Please initiate a fresh Figma file named "FirstName-LastName-Major Project" and grant access to your instructors. This dedicated space will be your workspace for the remainder of the term as you undertake your individual work.
+
+:::
+
 ## Introduction
 
 In this assignment, you will embark on the crucial journey of user persona development, an indispensable step in crafting user-centered services and programs. You will be tasked with creating two distinct personas: a primary user persona, representing the typical consumer, and a secondary user persona, embodying the characteristics of the service or program provider. Leveraging your own background knowledge and conducting persona research, you will construct comprehensive profiles that encompass demographic information, motivations, pain points, and behavioral traits. These personas will serve as guiding lights, ensuring your designs resonate with your target audience and paving the way for user-centric solutions.
