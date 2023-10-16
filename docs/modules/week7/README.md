@@ -15,7 +15,7 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Slides
 
-[MAD9034 7-1 Usage Scenarios](https://drive.google.com/file/d/1GZP6lEuhGf1Fts4z97v5sCxyqpL2NMz-/view?usp=sharing)
+[MAD9034 7-1 Usage Scenarios](https://drive.google.com/file/d/1GZP6lEuhGf1Fts4z97v5sCxyqpL2NMz-/view?usp=sharing)<br>
 [MAD9034 7-2 Information Architecture](https://drive.google.com/file/d/17V1IJsfKMit17G45fRj1lWk6C6waU2ts/view?usp=sharing)
 
 ### Definition and Goals
