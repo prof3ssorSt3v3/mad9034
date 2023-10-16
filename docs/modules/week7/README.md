@@ -15,7 +15,8 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 
 ## Slides
 
-<Badge type="error" text="To be released before class" />
+[MAD9034 7-1 Usage Scenarios](https://drive.google.com/file/d/1GZP6lEuhGf1Fts4z97v5sCxyqpL2NMz-/view?usp=sharing)
+[MAD9034 7-2 Information Architecture](https://drive.google.com/file/d/17V1IJsfKMit17G45fRj1lWk6C6waU2ts/view?usp=sharing)
 
 ### Definition and Goals
 
@@ -56,12 +57,15 @@ Scenarios are short stories that provide context for why a specific user group, 
 
 ### Measure and Analysis
 
-|                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                         |                                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Scenarios                                                                                                                                                                                                                   | Use Cases                                                                                                                                                                                                                                               | User Stories                                                                                                                                                                                    |
-| **User's perspective:** How the user uses or envisions using a system to accomplish a task.                                                                                                                                 | **System's perspective:** How the system responds to a request.                                                                                                                                                                                         | Written sequences of actions and events leading to an outcome.                                                                                                                                  |
-| - Tied to personas.<br> - Part of a story about a particular user type and their needs.<br> - Written in narrative form.<br> - At the beginning of a project.<br> - Human-centered anchors to guide design and development. | - Part of detailed product requirement documentation.<br> - Goal of an action > trigger event that starts a process > each step required.<br> - Written in the form of an actor or user performing an action, followed by the expected system response. | - Used in Agile development.<br> - Defined during development, before or at the beginning of each sprint.<br> - Short sentences capturing the essence of a user need.<br> - One task per story. |
-| **Example:** Cynthia wants to create a shopping list from her family’s wish list.                                                                                                                                           | **Example:** Cynthia navigates to the wish lists, selects the items she wants to buy, and adds them to the shopping list.                                                                                                                               | **Example:** As Cynthia, the grandparent, I want to have a straightforward way to add the items from the wish list to the shopping list, so I can purchase the gifts for my family.             |
+| User Stories                                                                                                                                                                                    | Scenarios                                                                                                                                                                                                                   | Use Cases                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User's perspective:** How the user uses or envisions using a system to accomplish a task.                                                                                                     | **System's perspective:** How the system responds to a request.                                                                                                                                                             | Written sequences of actions and events leading to an outcome.                                                                                                                                                                                          |
+| - Used in Agile development.<br> - Defined during development, before or at the beginning of each sprint.<br> - Short sentences capturing the essence of a user need.<br> - One task per story. | - Tied to personas.<br> - Part of a story about a particular user type and their needs.<br> - Written in narrative form.<br> - At the beginning of a project.<br> - Human-centered anchors to guide design and development. | - Part of detailed product requirement documentation.<br> - Goal of an action > trigger event that starts a process > each step required.<br> - Written in the form of an actor or user performing an action, followed by the expected system response. |
+| **Example:** As Cynthia, the grandparent, I want to have a straightforward way to add the items from the wish list to the shopping list, so I can purchase the gifts for my family.             | **Example:** Cynthia wants to create a shopping list from her family’s wish list.                                                                                                                                           | **Example:** Cynthia navigates to the wish lists, selects the items she wants to buy, and adds them to the shopping list.                                                                                                                               |
+
+| User Story                                                                                                                                                                  | Scenario                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| As Cynthia, the grandparent, I want to have a straightforward way to add the items from the wish list to the shopping list, so that I can purchase the gifts for my family. | ![Scenario Examples](./scenario-example-2.png) |
 
 ### Why Use Scenarios?
 
@@ -104,7 +108,7 @@ For example, Cynthia is traveling for Christmas and wants to complete her shoppi
 
 1. **Design Ideation**:
 
-- Focus on user tasks.
+- Focus on user's tasks.
 - Eliminate bias.
 - Organize content and entry points into key tasks for user convenience.
 
@@ -120,6 +124,18 @@ For example, Cynthia is traveling for Christmas and wants to complete her shoppi
 **DON'T:** Marty clicks on the username input field, types his name, clicks on the password input field, enters his password, and clicks the login button.
 
 **DO:** Marty signs into the product.
+
+### Best Practices
+
+- Scenarios are **based on user research**.
+- At least **1 scenario per persona**.
+- **Context of use** is described.
+- ln each scenario, **a goal** is indicated and **a specific situation** is described.
+- The **goal connects** the scenario to **a specific persona**.
+- The **tasks and activities** describe **how the goal is achieved**.
+- Describe the **entire sequence of steps**, in order, **from start to finish**, with an appropriate amount of detail.
+- Scenarios describe **interactions, not interfaces**.
+- The set of scenarios combine to describe **the core usage of the app**.
 
 ## Information Architecture
 
