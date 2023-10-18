@@ -16,7 +16,7 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 ## Slides
 
 [MAD9034 7-1 Usage Scenarios](https://drive.google.com/file/d/1GZP6lEuhGf1Fts4z97v5sCxyqpL2NMz-/view?usp=sharing)<br>
-[MAD9034 7-2 Information Architecture](https://drive.google.com/file/d/17V1IJsfKMit17G45fRj1lWk6C6waU2ts/view?usp=sharing)
+[MAD9034 7-2 Information Architecture](https://drive.google.com/file/d/1TQ8IcI8FGtHrjlP3b8GLu-QZoQ6f73pW/view?usp=sharing)
 
 ### Definition and Goals
 
@@ -209,7 +209,7 @@ Here is a [beginners guide to Information Architectures](https://uxbooth.com/art
 
 ![Image to bne replaced](./mobilePrinciples1.png)
 
-**Information architecture** is the art and science of **organizing and labelling** your product to **support findability and discoverability**.
+**In the context of mobile application design**, IA is the practice of labeling and giving structure to digital content.
 
 - Content and functionality
 - Access and flow: search, filters
@@ -218,7 +218,7 @@ Here is a [beginners guide to Information Architectures](https://uxbooth.com/art
 
 <br>
 
-<CollapsibleSection text="Principles for Mobile: objects">
+<!-- <CollapsibleSection text="Principles for Mobile: objects">
 
 #### Principles for Mobile: objects
 
@@ -274,7 +274,7 @@ Different content types have their own properties, behaviours and interactions
 
 ![Image to bne replaced](./mobilePrinciples6.png)
 
-</CollapsibleSection>
+</CollapsibleSection> -->
 
 ### Basic process
 
