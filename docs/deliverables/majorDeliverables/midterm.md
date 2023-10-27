@@ -1,56 +1,64 @@
-# Midterm - Digital Wireframes
+# **Midterm - Mid-Fidelity Wireframes**
 
-## Introduction
+## **Introduction**
 
-In this phase of the project, you'll transition your initial hand-drawn prototype into a medium-fidelity greyscale wireframe using Figma. Leverage your newfound insights to refine the application's user interface, aiming for an enhanced user experience. This assignment offers an opportunity to bridge your theoretical knowledge with practical design principles.
+Transition your initial hand-drawn prototypes into medium-fidelity digital wireframes using Figma. This phase focuses on integrating user insights and applying design principles to refine the app's user interface for an optimal user experience.
 
-## Task Overview
+## **Task Overview**
 
-Your task involves the conversion of your initial prototype into a more polished and interactive digital wireframe. This step will significantly contribute to your app's usability and visual clarity.
+Convert your initial prototype into a refined, interactive digital wireframe. This refined design will greatly enhance your app's visual clarity and usability.
 
-## Submission Guidelines
+## **Project Scope**
 
-- Submit the three essential screens as a cohesive PDF document. These screens typically include elements such as the home screen, browse screen, and detail screen.
-- Ensure each wireframe is appropriately annotated to elucidate the user flow, particularly where it's crucial for understanding.
+For this midterm, concentrate on refining and submitting three pivotal screens that embody your app's central functionality.
 
-## Project Scope
+## **Wireframe Specifications**
 
-While your app will ultimately encompass more screens, this midterm specifically focuses on refining and submitting three key screens. These screens should effectively capture the core functionality of your app.
+- Utilize a greyscale color scheme.
+- Focus on content layout and structure; disregard colors and typography at this stage.
+- Maintain consistent dimensions tailored to your chosen platform.
 
-## Wireframe Specifications
+## **Required Screens**
 
-- Embrace a greyscale palette for the wireframes.
-- Prioritize layout and content structuring over aesthetics at this juncture, so don't be concerned about colors and typography for now.
-- Opt for the most common dimensions suitable for your chosen platform, ensuring consistency and coherence.
+Select three primary screens representing the app's main interactions, such as:
 
-## Required Screens
+- 3 required screens: for example:
 
-Choose three essential screens that encapsulate the core interactions of your application. Examples include:
+1. Home
+2. Menu screen
+3. List screen
+   OR
+4. Home/Browse
+5. Results
+6. Detail screen
 
-1. Home, Menu, and List screens
-2. Home/Browse, Results, and Detail screens
+- Basic Scenario Tasks (user flow):
+  - browse
+  - navigate to
+  - do something
+  - navigate to a specific screen
+  - do something
 
-## Guiding User Flow
+## **Guiding User Flow**
 
-To ensure a seamless and comprehensible user experience, address the following basic scenario tasks in your wireframes:
+Ensure your wireframes cater to the following fundamental user interactions:
 
-- Browsing through the app's content.
-- Navigating to different sections or screens.
-- Accomplishing specific actions within the app's context.
-- Navigating to a designated screen based on user choices.
-- Completing tasks that mirror real-world app functionality.
+- Exploring the app's content.
+- Shifting between various sections or screens.
+- Executing specific in-app actions.
+- Transitioning to specific screens based on user selections.
+- Undertaking tasks that replicate authentic app use.
 
-### Reference
+## **Submission Guidelines**
 
-- [Major Project Brief]()
-- [Final Project Outline]()
-
-## Submission
+- Submit the main three screens compiled into a single PDF.
+- The essential screens often comprise the home screen, browse screen, and detail screen.
+- Clearly annotate each wireframe to highlight the user flow, especially in crucial junctures.
 
 **Due Dates:**
 
-<Badge text="Both Sections: TBD" />
+<Badge text="Both Sections: Thursday October 5th @11:59pm" />
 
-- Open BS LMS and go to the `Activities > Assignments` page.
-- Go to `Midterm: Digital Wireframes`.
-- Upload your file (as a word document, or pdf, etc.) on the assignment page in BS LMS and click the submit button.
+- Access BS LMS and navigate to `Activities > Assignments`.
+- Locate `Midterm: Mid-fidelity Wireframes`.
+- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.

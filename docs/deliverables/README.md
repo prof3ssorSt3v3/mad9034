@@ -54,13 +54,13 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Product Research (Group)
 
-[Product Research Details (5%)](./majorProject/part1.md)
+[Product Research Details ](./majorProject/part1.md)
 
 <Badge text="Both Sections: Thursday October 5th @11:59pm" />
 
 #### Persona Research (Group)
 
-[Persona Research Details (5%)](./majorProject/part2.md)
+[Persona Research Details ](./majorProject/part2.md)
 
 <Badge text="Both Sections: Tuesday October 10th @12:00pm" />
 
@@ -70,19 +70,19 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Persona Creation
 
-[Persona Creation Details (5%)](./majorProject/part3.md)
+[Persona Creation Details ](./majorProject/part3.md)
 
 <Badge text="Both Sections: Sunday October 15th @11:59pm" />
 
 #### Scenarios
 
-[Scenario Details (5%)](./majorProject/part4.md)
+[Scenario Details ](./majorProject/part4.md)
 
 <Badge text="Both Sections: Thursday October 19th @12:00pm (noon)" />
 
 #### Information Architecture
 
-[Information Architecture Details (5%)](./majorProject/part5.md)
+[Information Architecture Details ](./majorProject/part5.md)
 
 <Badge text="Both Sections: Sunday October 22nd @11:59pm" />
 
@@ -92,11 +92,9 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Test Ready Low-Fidelity Prototype
 
-<Badge type="error" text="Coming Soon" />
+[Test Ready Low-fi Prototype Details ](./majorProject/part6.md)
 
-<!-- [Test Ready Low-fi Prototype Details (5%)](./majorProject/part6.md)
-
-<Badge text="Due: Placeholder" /> -->
+<Badge text="Due: Placeholder" />
 
 ### <span style="color:#3eaf7c">**Prototype**</span>
 
@@ -106,7 +104,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 <Badge type="error" text="Coming Soon" />
 
-<!-- [Visual Design Details (5%)](./majorProject/part7.md)
+<!-- [Visual Design Details ](./majorProject/part7.md)
 
 <Badge text="Due: Placeholder" /> -->
 
@@ -118,7 +116,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 <Badge type="error" text="Coming Soon" />
 
-<!-- [Testing Documentation Details (5%)](./majorProject/part8.md)
+<!-- [Testing Documentation Details ](./majorProject/part8.md)
 
 <Badge text="Due: Placeholder" /> -->
 
@@ -128,8 +126,7 @@ Worth <Badge type="error" text="50%" /> of Final Grade
 
 ### Midterm: Mid-Fidelity Wireframes
 
-<Badge type="error" text="Coming Soon" />
-<!-- [Midterm Details (10%)](./majorDeliverables/midterm.md)
+[Midterm Details (10%)](./majorDeliverables/midterm.md)
 
 <Badge text="Due: Placeholder" /> -->
 
