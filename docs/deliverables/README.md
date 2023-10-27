@@ -92,9 +92,11 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Test Ready Low-Fidelity Prototype
 
-[Test Ready Low-fi Prototype Details ](./majorProject/part6.md)
+<Badge type="error" text="Coming Soon" />
 
-<Badge text="Due: Placeholder" />
+<!-- [Test Ready Low-fi Prototype Details ](./majorProject/part6.md)
+
+<Badge text="Due: Placeholder" /> -->
 
 ### <span style="color:#3eaf7c">**Prototype**</span>
 
