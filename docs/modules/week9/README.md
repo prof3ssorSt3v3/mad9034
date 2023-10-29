@@ -22,9 +22,9 @@ User flows visualize the paths users may take within an application, from entry 
 
 **Summary:**
 
-- They chart a user's journey within an application.
-- They emphasize effortless navigation.
-- They detail interactions and pathways.
+- Chart a user's journey within an application.
+- Emphasize effortless navigation.
+- Detail interactions and pathways.
 
 **Goals:**
 
@@ -38,8 +38,8 @@ User flows visualize the paths users may take within an application, from entry 
 |        Broad, potentially non-linear.         |            Linear, task-specific.             |
 | ![User flow diagram](./user-flow-diagram.png) | ![Task flow diagram](./task-flow-diagram.png) |
 
-- **User flows** are best during initial planning.
-- **Task flows** optimize specific tasks in established apps.
+**User flows** are best during initial planning.
+**Task flows** optimize specific tasks in established apps.
 
 [More on “forgot password” task flow example](https://uxplanet.org/ux-glossary-task-flows-user-flows-flowcharts-and-some-new-ish-stuff-2321044d837d)
 
@@ -53,12 +53,12 @@ User flows visualize the paths users may take within an application, from entry 
 
 ![Flowchart components](./flowchart-components.png)
 
-**Entry Points:**
+#### Entry Points:
 
 - Define user personas and objectives.
 - Anticipate actions and guide with clear messages.
 
-**Flow Mapping:**
+#### Flow Mapping:
 
 ![Possible flows](./possible-flows.png)
 
@@ -71,7 +71,7 @@ Begin with user-centered Information Architecture (IA). Validate with user flows
 
 ## Ideation
 
-Review [week 3's module]() on ideation.
+Review [week 3's module](https://mad9034.github.io/f2023/modules/week3) on ideation.
 
 ## Wireframes
 
@@ -89,12 +89,16 @@ Wireflows combine wireframes with flowcharts, effectively connecting the app’s
 
 ### Wireframe Fidelity
 
-|    Low-fidelity     |    Mid-fidelity     |   High-fidelity    |
-| :-----------------: | :-----------------: | :----------------: |
-|    Basic detail     |   Moderate detail   |      Detailed      |
-| ![low fi example]() | ![mid fi example]() | ![hi fi example]() |
+|           **Low-fidelity**            |           **Mid-fidelity**            |          **High-fidelity**          |
+| :-----------------------------------: | :-----------------------------------: | :---------------------------------: |
+|             Basic detail              |            Moderate detail            |              Detailed               |
+| ![low fi example](./low-fidelity.png) | ![mid fi example](./mid-fidelity.png) | ![hi fi example](./hi-fidelity.png) |
 
 [How to Draw a Wireframe](https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
+
+### Mobile Design Patterns
+
+Each design pattern discussed is collapsible for better organization and user experience:
 
 ### Mobile Design Patterns
 
@@ -173,21 +177,22 @@ Effective navigation ensures users can easily understand and traverse a website 
 **References for Navigation Patterns:**
 
 - [iOS Navigation Patterns](https://developer.apple.com/design/human-interface-guidelines/navigation-and-search)
-- [Material Design Navigation Patterns](https://m1.material.io/patterns/navigation.html)
-- [Mobile Navigation Patterns](https://www.nngroup.com/articles/mobile-navigation-patterns/)
+- [Material Design (Android) Navigation Patterns](https://m1.material.io/patterns/navigation.html)
+- [Nielsen-Norman Group Mobile Navigation Patterns](https://www.nngroup.com/articles/mobile-navigation-patterns/)
+- [Navigation Examples to Be Aware of](https://www.uxpin.com/studio/blog/mobile-navigation-examples/)
+- [Mobile Navigation: Patterns and Examples](https://www.justinmind.com/blog/mobile-navigation/)
 
 ## From Scenario to Wireframes
 
 1. Understanding Scenarios
+   A scenario provides a narrative of a user's interaction with a product. It details:
 
-A scenario provides a narrative of a user's interaction with a product. It details:
+   - The user's motivations and goals.
+   - The sequence of actions taken.
+   - The context in which these actions occur.
 
-- The user's motivations and goals.
-- The sequence of actions taken.
-- The context in which these actions occur.
-
-**Example Scenario:**
-John wants to purchase a new winter jacket. He's unsure about the style, so he logs into an e-commerce app, searches for "winter jackets," filters results based on customer reviews, selects a jacket, checks its details, adds it to his cart, and completes the purchase.
+   **Example Scenario:**
+   John wants to purchase a new winter jacket. He's unsure about the style, so he logs into an e-commerce app, searches for "winter jackets," filters results based on customer reviews, selects a jacket, checks its details, adds it to his cart, and completes the purchase.
 
 2. Translating Scenarios to User Flows
    Once the scenario is laid out, it can be transformed into a user flow, which maps the steps taken by the user.

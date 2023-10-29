@@ -46,7 +46,7 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 Worth <Badge type="error" text="40%" /> of Final Grade
 
-You will follow the UX design process based on the project of your choice, to produce weekly deliverables starting Week 05. At the end you will showcase your completed work in a presentation slide for your first UXD portfolio package.
+You will follow the UX design process based on the project of your choice, to produce weekly deliverables starting Week 05. At the end you will showcase your completed work in a presentation slide.
 
 ### <span style="color:#3eaf7c">**Empathize**</span>
 
