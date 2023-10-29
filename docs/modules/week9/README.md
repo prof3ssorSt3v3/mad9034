@@ -96,7 +96,71 @@ Wireflows combine wireframes with flowcharts, effectively connecting the app’s
 
 [How to Draw a Wireframe](https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
 
+### Mobile Design Patterns
+
+<br>
+
+<CollapsibleSection text="Principles for Mobile: objects">
+
+#### Principles for Mobile: objects
+
+![Image to bne replaced](./mobilePrinciples2.png)
+
+Different content types have their own properties, behaviours and interactions
+
+- Search
+- Type
+- Image
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Principles for Mobile: choices">
+
+#### Principles for Mobile: choices
+
+- Screens that give users choices and help them advance towards their goal.
+
+![Image to bne replaced](./mobilePrinciples3.png)
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Principles for Mobile: progressive disclosure">
+
+#### Principles for Mobile: progressive disclosure
+
+- People cannot consume large amounts of data at once.
+- Disclose content in layers, revealing information gradually.
+
+![Image to bne replaced](./mobilePrinciples4.png)
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Principles for Mobile: exemplars, front doors, multiple classification">
+
+#### Principles for Mobile: exemplars, front doors, multiple classification
+
+- **Exemplars:** Provide examples through images, icons, lists, to illustrate the content in different categories.
+- **Front doors:** For mobile sites, not native apps, expect users to come to your site in other ways than through the home page.
+- **Multiple classification:** Provide multiple ways to navigate through content to meet different user needs.
+
+![Image to bne replaced](./mobilePrinciples5.png)
+
+</CollapsibleSection>
+
+<CollapsibleSection text="Principles for Mobile: focused navigation, growth">
+
+#### Principles for Mobile: focused navigation, growth
+
+- **Focused navigation:** Switch from side nav to top nav if the functionality warrants it. Define navigation by its functionality, not its location.
+- **Growth:** Design for scale. Expect other content categories to be added in the future.
+
+![Image to bne replaced](./mobilePrinciples6.png)
+
+</CollapsibleSection>
+
 ## Navigation
+
+![Navigation models](./navigation.png)
 
 Effective navigation ensures users can easily understand and traverse a website or app.
 
