@@ -41,7 +41,7 @@ User flows visualize the paths users may take within an application, from entry 
 **User flows** are best during initial planning.
 **Task flows** optimize specific tasks in established apps.
 
-[More on “forgot password” task flow example](https://uxplanet.org/ux-glossary-task-flows-user-flows-flowcharts-and-some-new-ish-stuff-2321044d837d)
+[Here is an example of a “forgot password” task flow](https://uxplanet.org/ux-glossary-task-flows-user-flows-flowcharts-and-some-new-ish-stuff-2321044d837d)
 
 ### Benefits of User Flows
 
@@ -53,17 +53,17 @@ User flows visualize the paths users may take within an application, from entry 
 
 ![Flowchart components](./flowchart-components.png)
 
-#### Entry Points:
+### Entry Points:
 
 - Define user personas and objectives.
 - Anticipate actions and guide with clear messages.
 
-#### Flow Mapping:
-
-![Possible flows](./possible-flows.png)
+### Flow Mapping:
 
 - Visualize potential flows.
 - Document interconnected pathways.
+
+![Possible flows](./possible-flows.png)
 
 ### Aligning Information Architecture with User Flow
 
@@ -83,9 +83,9 @@ A wireframe is a visual guide depicting the structure of a website or app, aidin
 
 ### Wireflows
 
-![Wireflows example](./wireflows.png)
-
 Wireflows combine wireframes with flowcharts, effectively connecting the app’s information architecture with its visual design.
+
+![Wireflows example](./wireflows.png)
 
 ### Wireframe Fidelity
 
@@ -226,6 +226,7 @@ Effective navigation ensures users can easily understand and traverse a website 
    Once initial wireframes are crafted, gather feedback, iterate, and refine. This ensures the final designs align with user needs and expectations.
 
 6. Avoiding Common Pitfalls
+   <br>
    **Remember:**
    - Don't design in isolation. Always refer back to the scenario to ensure you're meeting the user's needs.
    - Make the flow as intuitive and simple as possible. Avoid unnecessary steps.

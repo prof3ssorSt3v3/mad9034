@@ -1,80 +1,115 @@
-# Week 10: Lo-fi prototyping and concept testing
+# Week 10: Prototyping and Concept Testing
 
-::: tip Learning Objective
-
-By the end of this week, students will:
-
-- Complete paper prototype (lo-fi prototype) for concept testing 
-- Get feedback from 2 people in class on their concept
-- Incorporate this feedback into their wireframe design  
-
-**Class 1**
-
-- Complete lo-fi (paper) prototype for concept testing 
-- Submit paper prototype for marking in Week 10-2
-
-**Class 2**
-
-- Get feedback from 2 people in class on their design concept
-- Begin wireframe design and incorporate user feedback into their wireframe design
-
+::: warning Required Preparation
+For optimal engagement and understanding, please review this module before class.
 :::
 
+## Learning Objectives
 
-## Week 10 - Required preparation for class 1
+- Understand the importance and benefits of prototyping in the design process.
+- Differentiate between validation and evaluation in concept testing.
+- Recognize various fidelity levels of prototypes and when to use each.
+- Identify the tools and methods suitable for different stages of prototyping.
 
-### Read
+## Slides
 
-- [What kind of prototype should you create?](https://www.interaction-design.org/literature/article/what-kind-of-prototype-should-you-create)
-- [Paper Prototyping As A Usability Testing Technique](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
+[Link to slides for this week's lessons](#)
 
-**Reference**
+## Prototyping
 
-- Watch this video to learn about [Device Vortex](https://youtu.be/hVtTQPBAaDw), or [Read about Device Vortex](https://www.nngroup.com/articles/device-vortex/)
+A **prototype** is an early model or sample built to test a concept or process.
 
-### Lesson Slides
+**Goals of Prototyping:**
 
-- [Week 10-1 Lecture: Prototyping](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Week 10-1b In-class: Paper prototyping](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- Test a design hypothesis.
+- Learn, improve, and gain confidence in a product or idea before investing time and money in the full implementation.
 
+### The Value of Prototyping
 
-## Week 10 - Required preparation for class 2
+![value of prototyping](./prototyping-value.png)
 
-### Read
+- Early changes are easier and less costly to make.
 
-- [Test your prototypes](https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-and-maximise-learning)
-- [Mobile usability testing](https://www.interaction-design.org/literature/article/mobile-usability-research-the-important-differences-from-the-desktop)
-- [From research goals to usability testing](https://www.nngroup.com/articles/ux-research-goals-to-scenarios/)
+### Validation vs. Evaluation
 
+- **Validating** a design introduces bias; it may discourage users from pointing out issues.
+- **Replace "validate" with**: test, research, evaluate, examine, study, analyze, watch how people use, see where the design succeeds and fails.
 
-### Watch
+![Validation vs. Evaluation](./validation.png)
 
-- [Paper Prototype User Testing](https://youtu.be/SF_N3l2Sv08)
+### What Can You Test with a Prototype?
 
-### Resource
+- **Usability**: Layout, affordance/feedback, terminology.
+- **Navigation**: Ensure users can navigate effectively.
+- **Functionality**: Ensure interactive elements support user tasks.
+- **Alternate Designs**: Determine most user-preferred options.
 
-- [NDA Google Form](https://docs.google.com/forms/d/1n3HuVnplNqcCEMLsrF-naGEJvVmObvvVk1axpEjkuew/edit?usp=sharing)
+## Types of Prototyping
 
+|         Paper Prototype         |          Digital Prototype          |                     Dev Prototype                     |
+| :-----------------------------: | :---------------------------------: | :---------------------------------------------------: |
+|       Early design stage        |          Any design stage           | Test complex designs <br> before final implementation |
+| ![Paper Prototype](./paper.png) | ![Digital Prototype](./digital.png) |              ![Dev Prototype](./dev.png)              |
 
-### Lesson Slides
+## Levels of Fidelity in Prototyping
 
-- [Week 10-2 Lecture: Concept Testing](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Week 10-2b In-class: Testing!](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+Prototypes can vary in their detail and realism. Choosing the right fidelity depends on the goals, audience, and stage of the design.
 
+### 1. Low Fidelity
 
-## TODO
+![Low Fidelity](./low-fidelity.png)
 
-::: tip TODO before next week
+- Used early in the design process.
+- Quick, easy, and iterative.
+- Test assumptions and identify major problems.
 
-- Read all the notes for Week 11 and watch the videos. This will help you answer pop-quiz questions and prepare you for the lectures and the in-class exercises.
+**Types of Low-Fidelity Prototypes:**
 
-### Assignments
+- Rough sketches.
+- Paper models.
+- Simple storyboards.
+- Rough digital interfaces.
 
-**For class 1:** 
-- Week 10 Class 1 work: Complete [8. Test-ready lo-fi prototype](../../assignments/assg8.md) for teacher's feedback before the end of the class. 
+### 2. Mid Fidelity
 
-**For class 2:** 
-- [Week 10 Class 2 work - Concept testing](../../assignments/work-week10-2.md)
-- [Midterm: 3 key wireframes (digital)](../../assignments/midterm.md)
+![Mid Fidelity](./mid-fidelity.png)
 
-  :::
+- Refines solutions tested in low fidelity.
+- Tests finer details and specific interactions.
+
+**Details:**
+
+- Static wireframes.
+- Partially interactive digital interfaces.
+
+**Example:** Testing a complex form or search function.
+
+### 3. High Fidelity
+
+![High Fidelity](./high-fidelity.png)
+
+- Closely represents the final product.
+- Used for the last line of testing before actual development.
+
+**Details:**
+
+- Pixel-perfect designs.
+- Real working code with simulated interactions.
+- Actual content and visual design.
+
+### Choosing a Fidelity Level
+
+- Consider **time and budget**: Lower fidelity is faster and cheaper.
+- **Focus on what you want to test**: Avoid distracting elements that you're not ready to evaluate.
+
+|                                                    Low Fidelity                                                    |                                                                      Mid Fidelity                                                                       |                                                           High Fidelity                                                            |
+| :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+| It’s likely that any project has assumptions or unanswered questions. Always test your general solution/direction. | Identify specific questions to answer about the execution of your chosen solution such as specific interaction methods, or workflows through key tasks. | Use when questions remain which can be answered more easily with a prototype than by planning to build the final product & refine. |
+
+[Read more: UX Prototypes: Low Fidelity vs. High Fidelity](https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/)
+
+**Do you need a prototype for every fidelity level?** Each prototype should answer a specific design question.
+
+## Tools for Prototyping
+
+![Wireframing tools](./tools.png)
