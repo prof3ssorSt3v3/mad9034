@@ -12,7 +12,7 @@ For optimal engagement and understanding, please review this module before class
 
 ## Slides
 
-[Link to slides for this week's lessons]
+Coming Soon
 
 ## User Flows
 
