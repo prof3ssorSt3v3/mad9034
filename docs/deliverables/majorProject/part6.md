@@ -2,13 +2,31 @@
 
 ## **Introduction**
 
-Prepare a test-ready low-fidelity prototype, either as a paper prototype or a digital wireframe, based on your predefined scenario and information architecture (IA). This exercise will help you validate your app concept's usability, ensuring users can seamlessly navigate through the intended workflow.
+Prepare a test-ready low-fidelity prototype paper prototype, based on your predefined scenario and information architecture (IA). This exercise will help you validate your app concept's usability, ensuring users can seamlessly navigate through the intended workflow.
 
 ## **Instructions**
 
-1. **Platform**: Decide on a platform - iOS or Android.
-2. **Prototyping Tool**: Use the [Paper screen template](http://sneakpeekit.com) for crafting your prototype.
-3. **Layout and Navigation**: Use your IA as a guide to sketch out the necessary app screens. Collaborate with a partner to test your prototype's layout and navigation. Ensure the user can effortlessly traverse the app's workflow.
+### 1. Prototype Development
+
+- Finalize your low-fidelity prototype.
+- Decide on a platform: iOS or Android.
+- Utilize the [Paper screen template](http://sneakpeekit.com) for crafting your prototype.
+- Reference your IA to draft the necessary app screens.
+
+### 2. In-Class Testing and Feedback
+
+- Engage with your classmates to test your app concept during class.
+  - Conduct concept testing with a minimum of 3 classmates.
+- Document all feedback gathered during the concept testing phase.
+
+### 3. Refinement and Enhancements
+
+- Implement design improvements based on the feedback acquired.
+
+### 4. Documentation
+
+- Integrate all screens into your Figma file.
+- Annotate each screen clearly, providing a succinct description of your task flow.
 
 ## **Concept Testing**
 
@@ -27,14 +45,6 @@ Your users should be able to:
 3. Execute a primary action.
 4. Browse a different section.
 5. Perform a secondary action.
-
-## **Summary**
-
-1. **Prototype Completion**: Finalize your low-fidelity prototype before the Week 10-2 class.
-2. **In-Class Testing**: Collaborate with your classmates to test your app concept during the Week 10-2 class.
-3. **Refinement**: Implement design enhancements based on the feedback received.
-4. **Figma Integration**: Incorporate all screens into your Figma file.
-5. **Annotations**: Clearly label each screen and provide a concise description of your task flow.
 
 ## **Submission**
 

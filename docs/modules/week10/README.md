@@ -105,7 +105,7 @@ Concept testing captures the key essence (the value proposition) of a new produc
 
 ### Testing Prototypes
 
-Here is a help article which looks [testing](https://www.interaction-design.org/literature/article/stage-5-in-the-design-thinking-process-test) in more detail.
+Here is a help article which looks at [testing](https://www.interaction-design.org/literature/article/stage-5-in-the-design-thinking-process-test) in more detail.
 
 #### Early Design Stages
 

@@ -112,9 +112,11 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Testing Documentation
 
-[Testing Documentation Details ](./majorProject/part8.md)
+<Badge type="error" text="Coming Soon!" />
 
-<Badge text="Both Sections: Sunday Dec 3rd @11:59pm" />
+<!-- [Testing Documentation Details ](./majorProject/part8.md)
+
+<Badge text="Both Sections: Sunday Dec 3rd @11:59pm" /> -->
 
 ## Major Deliverables
 
@@ -128,6 +130,8 @@ Worth <Badge type="error" text="50%" /> of Final Grade
 
 ### Final: Presentation
 
-[Final Presentation Details (30%)](./majorDeliverables/finalPresentation.md)
+<Badge type="error" text="Coming Soon!" />
 
-<Badge text="Both Sections: Tuesday December 12th @11:59pm" />
+<!-- [Final Presentation Details (30%)](./majorDeliverables/finalPresentation.md)
+
+<Badge text="Both Sections: Tuesday December 12th @11:59pm" /> -->
