@@ -51,8 +51,10 @@ Your users should be able to:
 1. **Prototype Capture**: Photograph or scan your paper prototype to capture your page layout.
 2. **Figma Integration**: Add the captured prototype to your Figma file.
 
-**Due Dates:**
+**Paper Prototype (Complete by):**
+<Badge text="Both Sections: Thursday November 9th @noon" />
 
+**Final Due Date**
 <Badge text="Both Sections: Thursday November 9th @11:59pm" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
