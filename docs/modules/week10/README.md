@@ -26,9 +26,8 @@ A **prototype** is an early model or sample built to test a concept or process.
 
 ### The Value of Prototyping
 
-![value of prototyping](./prototyping-value.png)
-
 - Early changes are easier and less costly to make.
+- Enables refining of design elements before the final version.
 
 ### Validation vs. Evaluation
 
@@ -63,26 +62,14 @@ Prototypes can vary in their detail and realism. Choosing the right fidelity dep
 - Quick, easy, and iterative.
 - Test assumptions and identify major problems.
 
-**Types of Low-Fidelity Prototypes:**
-
-- Rough sketches.
-- Paper models.
-- Simple storyboards.
-- Rough digital interfaces.
-
 ### 2. Mid Fidelity
 
 ![Mid Fidelity](./mid-fidelity.png)
 
 - Refines solutions tested in low fidelity.
 - Tests finer details and specific interactions.
-
-**Details:**
-
 - Static wireframes.
 - Partially interactive digital interfaces.
-
-**Example:** Testing a complex form or search function.
 
 ### 3. High Fidelity
 
@@ -90,26 +77,121 @@ Prototypes can vary in their detail and realism. Choosing the right fidelity dep
 
 - Closely represents the final product.
 - Used for the last line of testing before actual development.
-
-**Details:**
-
 - Pixel-perfect designs.
 - Real working code with simulated interactions.
 - Actual content and visual design.
 
-### Choosing a Fidelity Level
-
-- Consider **time and budget**: Lower fidelity is faster and cheaper.
-- **Focus on what you want to test**: Avoid distracting elements that you're not ready to evaluate.
-
-|                                                    Low Fidelity                                                    |                                                                      Mid Fidelity                                                                       |                                                           High Fidelity                                                            |
-| :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-| It’s likely that any project has assumptions or unanswered questions. Always test your general solution/direction. | Identify specific questions to answer about the execution of your chosen solution such as specific interaction methods, or workflows through key tasks. | Use when questions remain which can be answered more easily with a prototype than by planning to build the final product & refine. |
-
-[Read more: UX Prototypes: Low Fidelity vs. High Fidelity](https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/)
-
-**Do you need a prototype for every fidelity level?** Each prototype should answer a specific design question.
-
 ## Tools for Prototyping
 
 ![Wireframing tools](./tools.png)
+
+## Concept Testing
+
+Concept testing captures the key essence (the value proposition) of a new product or service concept to understand if it meets the needs of the target audience.
+
+### Early Stage Concept Testing
+
+- Connecting with users.
+- Communicating effectively with users.
+- Identifying user responses.
+- Gauging user interpretations of designs.
+- Testing multiple design concepts.
+
+### Advanced Stage Concept Testing
+
+- Observing user interactions with on-screen elements.
+- Refining content, interactive elements, and overall sequences.
+- Testing multiple microinteraction solutions.
+
+### Testing Prototypes
+
+Here is a help article which looks [testing](https://www.interaction-design.org/literature/article/stage-5-in-the-design-thinking-process-test) in more detail.
+
+#### Early Design Stages
+
+Low-fidelity prototypes allow for testing:
+
+- Concepts.
+- Understanding problems.
+- Identifying 'blind spots'.
+- Gauging the scope of solutions.
+
+<YouTube
+  title="Paper Prototyping: How to Create & Usability-Test Simple UI Prototypes (40 min tutorial)"
+  url="https://www.youtube.com/embed/OlbdIXLunt4?si=2wSMlKS2kmZG0SAH"
+/>
+
+#### Advanced Design Stages
+
+Higher fidelity prototypes help test:
+
+- Usability.
+- Content relevance and clarity.
+- Efficiency.
+- Desirability.
+
+### User Research Methods
+
+It aids design iterations, leading to:
+
+- A deeper empathy and understanding of users.
+- Insights that might redefine your problem statement.
+- New solution ideas.
+- Design and prototype improvement.
+
+![Concept Testing Image](./concept-testing.png)
+
+### Preparation and Execution
+
+To maximize concept testing benefits:
+
+1. **The Prototype**
+
+   - Remember, the prototype is under test, not the user.
+   - Design the prototype with a specific question in mind.
+
+2. **Context and Scenario**
+
+   - Focus on the primary use-case scenario.
+
+3. **User Interaction**
+
+   - Set user expectations about the prototype and the test.
+   - Avoid diving into prototype operation details.
+
+4. **Observation and Feedback Capture**
+   - Ensure the user's interaction is uninterrupted.
+   - Record significant observations.
+
+### Testing a Paper Prototype
+
+<YouTube
+  title="Usability Test with a Paper Prototype"
+  url="https://www.youtube.com/embed/dNbh21-G_cQ?si=F7upesADu6QLjYzM"
+/>
+
+1. **Recruit Users**
+
+   - Seek representative users.
+   - Testing with 5 users typically identifies most problems.
+   - Use 'hallway testing' if recruiting is challenging.
+
+2. **Setup**
+
+   - Use a neutral, quiet environment.
+   - Have adequate space and seating.
+   - Include a facilitator, "product" operator, and ideally, a note-taker.
+
+3. **Conducting Sessions**
+   - Begin with an introduction.
+   - Guide users through tasks.
+   - Observe without intervening.
+   - Engage in post-test discussions.
+
+### Guidelines for Interpreting Results
+
+- Stick to observed facts.
+- Relate feedback to initial research questions.
+- Note answered and unanswered questions.
+- Be prepared for new questions to emerge.
+- Remember: Testing is iterative. Each round brings clarity.

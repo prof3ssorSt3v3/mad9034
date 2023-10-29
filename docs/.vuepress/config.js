@@ -55,6 +55,8 @@ module.exports = {
           "/modules/week6/",
           "/modules/week7/",
           "/modules/week8/",
+          "/modules/week9/",
+          "/modules/week10/",
           "/modules/week0/",
         ],
       },
