@@ -1,87 +1,166 @@
-# Week 9: Mapping key flows, and ideating  
+# Week 9: Mapping Key Flows and Ideating
 
-::: tip Learning Objective
-
-By the end of this week, students will:
-
-- Review user task flow techniques to produce user flow map for their product
-- Review UI design skills to create preliminary design for user testing
-
-**Class 1**
-
-- Map out key flows for the primary persona
-- Validate your Information Architecture against it
-- Resubmit validated/revised IA before Week 9-2 class
-
-**Class 2**
-
-- Consider which navigation model may suit your key user flow(s)
-- Implement your IA to mobile screen layout in navigation model of your choice
-- Ideate many possible solutions for key screens in your user flow, to be used in paper prototype
-
+::: warning Required Preparation
+For optimal engagement and understanding, please review this module before class.
 :::
 
+## Learning Objectives
 
-## Week 9 - Required preparation for class 1
+- Understand user flows and their significance in enhancing user experience.
+- Differentiate between user flows and task flows.
+- Implement user flows to improve design processes.
 
-### Read
-- Review [MAD9020 Week 13 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing) (6-10) – MAP OUT ALL SCREENS, BRAINSTORM
-- [User flow design process](https://www.interaction-design.org/literature/article/flow-design-processes-focusing-on-the-user-s-needs)
+## Slides
 
-<!-- - [Site flows vs user flows](https://uxmovement.com/wireframes/site-flows-vs-user-flows-when-to-use-which/)
- - [User flows for smooth UX](https://www.uxpin.com/studio/blog/creating-perfect-user-flows-for-smooth-ux/) -->
+[Link to slides for this week's lessons]
 
+## User Flows
 
-### Resources
+![Flow chart example](./user-flow.png)
 
-- [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
-- [Material Design 2](https://material.io/design)
-- [Material Design 3](https://m3.material.io/)
+User flows visualize the paths users may take within an application, from entry to a final action.
 
+**Summary:**
 
-### Lesson Slides
+- They chart a user's journey within an application.
+- They emphasize effortless navigation.
+- They detail interactions and pathways.
 
-- [Week 9-1 Lecture: User Flows](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Week 9-1b Inclass: User flows & Validating IA](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+**Goals:**
 
+- Understand and enhance user pathways.
+- Document all potential paths.
 
-## Week 9 - Required preparation for class 2
+### User Flow vs. Task Flow
 
-### Read
+|                 **User Flow**                 |                 **Task Flow**                 |
+| :-------------------------------------------: | :-------------------------------------------: |
+|        Broad, potentially non-linear.         |            Linear, task-specific.             |
+| ![User flow diagram](./user-flow-diagram.png) | ![Task flow diagram](./task-flow-diagram.png) |
 
-- [Ideation](https://www.interaction-design.org/literature/topics/ideation)
-- [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
-- [Navigation for mobile applications](https://www.interaction-design.org/literature/article/show-me-the-way-to-go-anywhere-navigation-for-mobile-applications)
-- [Dropdowns Should be the UI of Last Resort](https://www.lukew.com/ff/entry.asp?1950) 
+- **User flows** are best during initial planning.
+- **Task flows** optimize specific tasks in established apps.
 
+[More on “forgot password” task flow example](https://uxplanet.org/ux-glossary-task-flows-user-flows-flowcharts-and-some-new-ish-stuff-2321044d837d)
 
-### References
+### Benefits of User Flows
 
-- [RIP Dropdowns (Video)](https://youtu.be/hcYAHix-riY)
-- [Android versions: A living history from 1.0 to 13](https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html)
-- [The History of iOS, from Version 1.0 to 16.0](https://www.lifewire.com/ios-versions-4147730)
+- Shape and validate information architecture.
+- Enhance user experience and task completion rates.
+- Drive favorable outcomes.
 
+### Constructing a User Flow
 
-### Lesson Slides
+![Flowchart components](./flowchart-components.png)
 
-- [Week 9-2 Lecture: Wireframing & Ideating](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Week 9-2b In-class: Wireframing & Ideating](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+**Entry Points:**
 
+- Define user personas and objectives.
+- Anticipate actions and guide with clear messages.
 
+**Flow Mapping:**
 
-## TODO
+![Possible flows](./possible-flows.png)
 
-::: tip TODO before next week
+- Visualize potential flows.
+- Document interconnected pathways.
 
-- Read all the notes for Week 10 and watch the videos. This will help you answer pop-quiz questions and prepare you for the lectures and the in-class exercises.
+### Aligning Information Architecture with User Flow
 
-### Assignments
+Begin with user-centered Information Architecture (IA). Validate with user flows and refine based on insights.
 
-**For class 1:** 
-- [Week 9 Class 1 work: User flows to validate IA](../../assignments/work-week9-1.md)
-- Re-submit validated/revised IA before Week 9-2 class
+## Ideation
 
-**For class 2:** 
-- [8. Test-ready lo-fi prototype](../../assignments/assg8.md)
+Review [week 3's module]() on ideation.
 
-  :::
+## Wireframes
+
+A wireframe is a visual guide depicting the structure of a website or app, aiding in the arrangement of elements to fulfill a specific purpose.
+
+**Goals:**
+
+- Explore, share, and communicate ideas.
+
+### Wireflows
+
+![Wireflows example](./wireflows.png)
+
+Wireflows combine wireframes with flowcharts, effectively connecting the app’s information architecture with its visual design.
+
+### Wireframe Fidelity
+
+|    Low-fidelity     |    Mid-fidelity     |   High-fidelity    |
+| :-----------------: | :-----------------: | :----------------: |
+|    Basic detail     |   Moderate detail   |      Detailed      |
+| ![low fi example]() | ![mid fi example]() | ![hi fi example]() |
+
+[How to Draw a Wireframe](https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
+
+## Navigation
+
+Effective navigation ensures users can easily understand and traverse a website or app.
+
+**Goals:**
+
+- Maintain user orientation.
+- Provide quick access to main features.
+- Prioritize vital information.
+
+**References for Navigation Patterns:**
+
+- [iOS Navigation Patterns](https://developer.apple.com/design/human-interface-guidelines/navigation-and-search)
+- [Material Design Navigation Patterns](https://m1.material.io/patterns/navigation.html)
+- [Mobile Navigation Patterns](https://www.nngroup.com/articles/mobile-navigation-patterns/)
+
+## From Scenario to Wireframes
+
+1. Understanding Scenarios
+
+A scenario provides a narrative of a user's interaction with a product. It details:
+
+- The user's motivations and goals.
+- The sequence of actions taken.
+- The context in which these actions occur.
+
+**Example Scenario:**
+John wants to purchase a new winter jacket. He's unsure about the style, so he logs into an e-commerce app, searches for "winter jackets," filters results based on customer reviews, selects a jacket, checks its details, adds it to his cart, and completes the purchase.
+
+2. Translating Scenarios to User Flows
+   Once the scenario is laid out, it can be transformed into a user flow, which maps the steps taken by the user.
+
+   **John's User Flow:**
+
+   1. Log into the app.
+   2. Navigate to the search bar.
+   3. Enter "winter jackets."
+   4. Apply filter based on customer reviews.
+   5. Select a jacket.
+   6. View jacket details.
+   7. Add to cart.
+   8. Checkout and purchase.
+
+3. Wireframing Each Step
+   With the user flow in place, you can begin to draft wireframes for each step, detailing the layout and elements on the screen.
+   **For John's Flow:**
+
+   - **Login Screen:** Fields for username and password, 'login' button, 'forgot password' link.
+   - **Search Screen:** A prominent search bar, past searches, popular searches.
+   - **Results Screen:** List of jackets, filter options (like customer reviews), sorting options.
+   - **Product Detail Screen:** Images of the jacket, product details, size options, 'add to cart' button.
+   - **Cart Screen:** List of selected items, total price, 'checkout' button.
+   - **Checkout Screen:** Payment details, delivery address, 'confirm purchase' button.
+
+4. Connecting Screens Using User Flows
+   User flows also highlight how screens are interlinked. For instance, after adding the jacket to the cart, John should have options to either continue shopping or proceed to checkout.
+
+5. Iterative Feedback and Refinement
+   Once initial wireframes are crafted, gather feedback, iterate, and refine. This ensures the final designs align with user needs and expectations.
+
+6. Avoiding Common Pitfalls
+   **Remember:**
+   - Don't design in isolation. Always refer back to the scenario to ensure you're meeting the user's needs.
+   - Make the flow as intuitive and simple as possible. Avoid unnecessary steps.
+   - Ensure consistency across all screens for elements like buttons, fonts, and colors.
+   - Be mindful of platform-specific design guidelines when crafting wireframes for different devices.
+
+Moving from scenarios to wireframes is a structured process that ensures the final product aligns with the user's needs, providing a seamless and intuitive user experience.

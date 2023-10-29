@@ -92,11 +92,9 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Test Ready Low-Fidelity Prototype
 
-<Badge type="error" text="Coming Soon" />
+[Test Ready Low-fi Prototype Details ](./majorProject/part6.md)
 
-<!-- [Test Ready Low-fi Prototype Details ](./majorProject/part6.md)
-
-<Badge text="Due: Placeholder" /> -->
+<Badge text="Both Sections: Thursday November 9th @11:59pm" />
 
 ### <span style="color:#3eaf7c">**Prototype**</span>
 
@@ -104,11 +102,9 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Visual Design
 
-<Badge type="error" text="Coming Soon" />
+[Visual Design Details ](./majorProject/part7.md)
 
-<!-- [Visual Design Details ](./majorProject/part7.md)
-
-<Badge text="Due: Placeholder" /> -->
+<Badge text="Both Sections: Sunday November 26th @11:59pm" />
 
 ### <span style="color:#3eaf7c">**Test**</span>
 
@@ -116,11 +112,9 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Testing Documentation
 
-<Badge type="error" text="Coming Soon" />
+[Testing Documentation Details ](./majorProject/part8.md)
 
-<!-- [Testing Documentation Details ](./majorProject/part8.md)
-
-<Badge text="Due: Placeholder" /> -->
+<Badge text="Both Sections: Sunday Dec 3rd @11:59pm" />
 
 ## Major Deliverables
 
@@ -128,22 +122,12 @@ Worth <Badge type="error" text="50%" /> of Final Grade
 
 ### Midterm: Mid-Fidelity Wireframes
 
-[Midterm Details (10%)](./majorDeliverables/midterm.md)
+[Midterm Details (20%)](./majorDeliverables/midterm.md)
 
-<Badge text="Due: Placeholder" /> -->
+<Badge text="Both Sections: Sunday November 19th @11:59pm" />
 
 ### Final: Presentation
 
-<Badge type="error" text="Coming Soon" />
+[Final Presentation Details (30%)](./majorDeliverables/finalPresentation.md)
 
-<!-- [Final Presentation Details (10%)](./majorDeliverables/finalPresentation.md)
-
-<Badge text="Due: Placeholder" /> -->
-
-### Final: UXD Portfolio Slide Package
-
-<Badge type="error" text="Coming Soon" />
-
-<!-- [Final Presentation Details (30%)](./majorDeliverables/finalSlidePackage.md)
-
-<Badge text="Due: Placeholder" /> -->
+<Badge text="Both Sections: Tuesday December 12th @11:59pm" />

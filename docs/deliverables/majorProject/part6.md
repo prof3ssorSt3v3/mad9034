@@ -43,7 +43,7 @@ Your users should be able to:
 
 **Due Dates:**
 
-<Badge text="Both Sections: Sunday October 22nd @11:59pm" />
+<Badge text="Both Sections: Thursday November 9th @11:59pm" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Select `Test-Ready Low-Fidelity Prototype`.

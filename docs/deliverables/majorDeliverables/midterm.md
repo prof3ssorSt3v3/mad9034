@@ -6,7 +6,7 @@ Transition your initial hand-drawn prototypes into medium-fidelity digital wiref
 
 ## **Task Overview**
 
-Convert your initial prototype into a refined, interactive digital wireframe. This refined design will greatly enhance your app's visual clarity and usability.
+Convert your initial prototype into a refined, interactive digital wireframes. This refined design will greatly enhance your app's visual clarity and usability.
 
 ## **Project Scope**
 
@@ -51,13 +51,13 @@ Ensure your wireframes cater to the following fundamental user interactions:
 
 ## **Submission Guidelines**
 
-- Submit the main three screens compiled into a single PDF.
+- Submit the main three screens
 - The essential screens often comprise the home screen, browse screen, and detail screen.
 - Clearly annotate each wireframe to highlight the user flow, especially in crucial junctures.
 
 **Due Dates:**
 
-<Badge text="Both Sections: Thursday October 5th @11:59pm" />
+<Badge text="Both Sections: Sunday November 19th @11:59pm" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Locate `Midterm: Mid-fidelity Wireframes`.
