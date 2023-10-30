@@ -12,7 +12,9 @@ For optimal engagement and understanding, please review this module before class
 
 ## Slides
 
-Coming Soon
+[MAD9034 9-1 User Flows](https://drive.google.com/file/d/1jTJBPdnuD2AOJ7YdtlCiGyPlArZPTDp2/view?usp=sharing)
+
+[MAD9034 9-2 Ideation and Wireframing](https://drive.google.com/file/d/1HqSVhwt4zv3gWVfyHmenQODX-jB8nXqg/view?usp=sharing)
 
 ## User Flows
 
