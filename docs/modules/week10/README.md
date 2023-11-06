@@ -13,7 +13,7 @@ For optimal engagement and understanding, please review this module before class
 
 ## Slides
 
-Coming Soon
+[MAD9034 10-1 - Prototyping](https://drive.google.com/file/d/1tYoFltuyCgyE0MyRb3RNXsHBElnwRSn8/view?usp=sharing)
 
 ## Prototyping
 
