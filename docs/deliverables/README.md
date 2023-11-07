@@ -124,6 +124,8 @@ You will follow the UX design process based on the project of your choice, to pr
 
 <Badge text="Both Sections: Sunday Dec 3rd @11:59pm" /> -->
 
+---
+
 #### Final: Presentation
 
 <Badge type="error" text="Coming Soon!" />

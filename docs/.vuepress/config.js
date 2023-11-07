@@ -63,7 +63,7 @@ module.exports = {
       {
         title: "Deliverables",
         collapsable: true,
-        sidebarDepth: 4,
+        sidebarDepth: 5,
         children: ["/deliverables/"],
       },
     ],
