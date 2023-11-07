@@ -96,15 +96,13 @@ You will follow the UX design process based on the project of your choice, to pr
 
 <Badge text="Both Sections: Thursday November 9th @11:59pm" />
 
-### <span style="color:#3eaf7c">**Prototype**</span>
-
----
-
-### Midterm: Mid-Fidelity Wireframes
+#### Midterm: Mid-Fidelity Wireframes
 
 [Midterm Details (20%)](./majorDeliverables/midterm.md)
 
 <Badge text="Both Sections: Sunday November 19th @11:59pm" />
+
+### <span style="color:#3eaf7c">**Prototype**</span>
 
 ---
 
@@ -126,9 +124,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 <Badge text="Both Sections: Sunday Dec 3rd @11:59pm" /> -->
 
----
-
-### Final: Presentation
+#### Final: Presentation
 
 <Badge type="error" text="Coming Soon!" />
 
