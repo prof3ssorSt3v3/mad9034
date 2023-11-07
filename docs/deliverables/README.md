@@ -98,7 +98,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Midterm: Mid-Fidelity Wireframes
 
-[Midterm Details (20%)](./majorDeliverables/midterm.md)
+[Midterm Details (20% of Final Mark)](./majorDeliverables/midterm.md)
 
 <Badge text="Both Sections: Sunday November 19th @11:59pm" />
 
@@ -123,6 +123,8 @@ You will follow the UX design process based on the project of your choice, to pr
 <!-- [Testing Documentation Details ](./majorProject/part8.md)
 
 <Badge text="Both Sections: Sunday Dec 3rd @11:59pm" /> -->
+
+### <span style="color:#3eaf7c">**Present**</span>
 
 ---
 
