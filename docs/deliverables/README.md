@@ -100,6 +100,14 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
+### Midterm: Mid-Fidelity Wireframes
+
+[Midterm Details (20%)](./majorDeliverables/midterm.md)
+
+<Badge text="Both Sections: Sunday November 19th @11:59pm" />
+
+---
+
 #### Visual Design
 
 [Visual Design Details ](./majorProject/part7.md)
@@ -118,15 +126,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 <Badge text="Both Sections: Sunday Dec 3rd @11:59pm" /> -->
 
-## Major Deliverables
-
-Worth <Badge type="error" text="50%" /> of Final Grade
-
-### Midterm: Mid-Fidelity Wireframes
-
-[Midterm Details (20%)](./majorDeliverables/midterm.md)
-
-<Badge text="Both Sections: Sunday November 19th @11:59pm" />
+---
 
 ### Final: Presentation
 
