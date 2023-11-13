@@ -1,79 +1,190 @@
-# Week 11: Detailed design, Identifying and working with unknowns 
+# Week 11: Digital Wireframes & Working with Risks and Unknowns
 
-::: tip Learning Objective: Design iteration 
+## Required Preparation
 
-By the end of this week, students will:
-
-- Use Figma for your final design
-- Learn how to shift from low fidelity to high fidelity designs.
-- Identify risks/unknowns and how to proceed
-
-**Class 1** 
-
-- Explore UI design options, trends, and best practices
-- Midterm wireframes: Work on 3 main screens
-
-**Class 2**
-
-- Prepare 3 main screens of wireframe and get instructor feedback by the end of the class
-- Continue creating the remaining wireframes to be ready for your interactive prototype
-
+::: warning
+Please review this module before class for optimal engagement and understanding.
 :::
 
-## Week 11 - Required preparation for class 1
+## Learning Objectives
 
-### Read
+- [To be filled in later]
 
-- [Principles for Usable Design](http://www.usabilitybok.org/principles-for-usable-design)
-- [MACHINE LEARNING IN MOBILE APPLICATIONS Examples](https://theappsolutions.com/blog/development/machine-learning-in-mobile-app/)
+## Slides
 
+- [To be filled in later]
 
-### Lesson Slides
+## Detailed Design
 
-- [Week 11-1 Lecture: Digital Wireframing](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Week 11-1b In-class: Digital Wireframing](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+**Summary**: Detailed design is the process of refining and specifying all the elements of a product's interface. It involves finalizing the layout, controls, icons, typography, and visual design to ensure a cohesive and functional user experience.
 
+### Concept Design vs Detailed Design
 
-## Week 11 - Required preparation for class 2
+|                                           Concept Design                                            |                                        Detailed Design                                        |
+| :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| Focuses on the application framework, structure, navigation, flows, and information prioritization. | Involves screen layouts, controls & components, icons, labels, typography, and visual design. |
 
-### Read
+#### Components of Detailed Design
 
-- [5 reasons you should embrace uncertainty as a designer](https://medium.com/@MartijnvdBroeck/5-reasons-why-every-designer-should-embrace-uncertainty-670341b6c64e) 
-- [Lean UX is about reducing risk](https://medium.com/@drewmck/lean-ux-is-about-reducing-risk-1d7d505d2881)
-- Review [MAD9020 Week 3 slides](https://drive.google.com/drive/folders/1BlPhZVyvBiRa5n-D0bbHVyn6H8YN2n5c?usp=sharing)
-  - DESIGN PRINCIPLES: slide 20 – 45 
-  - USABILITY HEURISTICS: slide 53 – 63
+- Finalize navigation and overall framework/structure.
+- Design screen layouts.
+- Specify controls & components.
+- Choose icons and labels.
+- Select typography.
+- Implement visual design.
 
+#### Navigation and Framework
 
-### Lesson Slides
+- Finalize navigation and ensure consistency across the product.
+- Define persistent elements like application headers and other UI elements.
+- Consider empty pages as opportunities for instructions or links.
 
-- [Week 11-2 Lecture: Identifying and working with risks and unknowns](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+#### Screen Layouts
 
+- Transition from lo-fi prototypes to detailed screen designs.
+- Define UI elements for each screen and their consistency across the application.
+- Consider validations, warning, and error messages.
 
-### Referneces
+#### Controls and Components
 
-- [UI Control Guidelines](https://balsamiq.com/learn/ui-control-guidelines/)
-- [10 Essential Types of App Screens in Mobile UI Design You Should Know — and a few more!](https://cadabra.studio/blog/10-types-of-app-screens-you-should-know)
-- [Shneiderman’s Eight Golden Rules of Interface Design](https://public-media.interaction-design.org/pdf/Shneiderman.s.Eight.Golden.Rules.Worksheet.pdf)(PDF Checklist)
-- [What is a Progressive Web App?](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Introduction) 
-- [Foldable devices Material Design 3](https://m3.material.io/foundations/adaptive-design/foldables/overview)
+- Design UI elements based on detailed layout designs.
+- Choose appropriate controls and components (e.g., buttons, tabs, menus).
+- Consult UI guidelines like Google Material Design or Atlassian Design System ([Atlassian Design](https://atlassian.design/)).
+- Focus on reusable components.
 
+#### Icons, Labels
 
+- Enhance usability with appropriate icons and clear labels.
+- Ensure icons add clarity and labels are appropriate for your personas.
+- Consider localization and the potential need for text expansion.
 
+#### Typography
 
-## TODO
+- Select typefaces and font sizes for different text elements.
+- Create reusable typography components (e.g., H1, H1 Bold, Regular).
+- Resources: [The Right Way to Use Fonts in Mobile Apps](https://promatics.medium.com/the-right-way-to-use-fonts-in-mobile-apps-c9677483a8bd), [Ellen Lupton](https://ellenlupton.com/), [Apple Fonts](https://developer.apple.com/fonts/), [Material Design The Type System](https://m2.material.io/design/typography/the-type-system.html#type-scale).
 
-::: tip TODO before next week
+#### Visual Design
 
-- Read all the notes for Week 12 and watch the videos. This will help you to answer quiz questions and prepare you for the lectures and the Hybrid exercises.
+- Add color and style as the final layer of design.
+- Choose an appropriate color scheme and style elements considering product branding.
+- Resources: [Web Design Colour Trends in 2023](https://www.linkedin.com/pulse/web-design-colour-trends-2023-enhancing-user-experience-visual/), [Color Schemes for Apps](https://www.uxpin.com/studio/blog/color-schemes-for-apps/).
 
-### Assignments
+## Design Guidelines
 
-**For class 1:** 
-- Week 11 Class 1 work - Explore UI design options, trends, and best practices and apply to your design for [Midterm: 3 key wireframes (digital)](../../assignments/midterm.md)
+### Material Design
 
-**For class 2:** 
-- Week 11 Class 2 work - Recieve teacher's feedback for your [Midterm: 3 key wireframes (digital)](../../assignments/midterm.md) by the end of the class
-- Create the remaining wireframes to be ready for your interactive prototype
+- A design system by Google for high-quality digital experiences.
+- Latest version: [Material Design 3](https://material.io/design).
 
-  :::
+### Human Interface Guidelines
+
+- Guidelines for designing great experiences on Apple platforms.
+- [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
+
+### Atlassian Design System
+
+- An end-to-end design language for creating intuitive experiences.
+- [Atlassian Design System](https://atlassian.design/).
+
+### Benefits of Using Design Guidelines
+
+- Provides a reliable source of information and best practices.
+- Ensures familiarity and ease of use for your application.
+- Encourages creativity within the bounds of user expectations.
+
+### Best Practices
+
+- Maintain consistency.
+- Include shortcuts for power users.
+- Provide meaningful feedback and status indicators.
+- Plan for and handle errors effectively.
+- Allow easy reversal of actions.
+- Give users control and reduce demands on short-term memory.
+
+---
+
+## Risks and Unknowns
+
+### All Stages of the Process
+
+Even with ample time and resources, unknowns or changes are inevitable from the research completion to the product release. Adaptability and agility are crucial, accepting that some aspects will only be validated once the product is in users' hands.
+
+- Unknowns exist at all levels of the process.
+- Initial research often uncovers more questions.
+- Operate with assumptions and hypotheses, validating them through analysis and user feedback.
+- Design phase uncertainties persist even after prototyping and user testing.
+- Prototyping typically covers only parts of the application, leaving some areas untested.
+- Each testing cycle clarifies some questions but may also introduce new ones.
+
+**Key Areas:**
+
+- **Research**: Gaps in understanding, risks in user needs.
+- **Analysis**: Hypotheses are uncertain and need validation.
+- **Design**: Unknowns about product implementation and user interaction.
+- **Prototype**: Inability to test everything.
+- **Testing**: Clarification and emergence of new unknowns.
+
+### Working with Uncertainty
+
+Uncertainty in UX design can stem from unclear requirements, time constraints, resource limitations, or changes in market, technology, user needs, and business priorities.
+
+"Uncertainty is the state of not knowing or being able to predict the outcome or consequences of an action or decision."
+
+**Tips on Embracing Uncertainty:**
+
+- Embrace ambiguity as an opportunity for innovation and exploration.
+- Manage uncertainty as a source of learning and improvement.
+- Foster collaboration to define common goals and embrace uncertainty together.
+- Develop resilience by viewing potential failures as learning opportunities.
+
+### How to Identify Risks
+
+- **Market Risks**: Evaluate market needs and competitive landscape. Consider new product initiatives and their market viability.
+- **Product Risks**: Assess if the product delivers customer value, its MVP status, and competitive advantage.
+- **Risks in Use**: Document potential user errors and their consequences, like security issues or data loss.
+
+Mitigation involves thorough market research, user research, ideation, prototyping, and testing. Be ready to pivot and adapt to changes in technology and market.
+
+### Working with Risks
+
+#### Market Risks
+
+- Use tools like the [Value Proposition Canvas](https://www.strategyzer.com/library/the-value-proposition-canvas) for market need evaluation and competitive analysis.
+- Collaborate with Product Marketing for insights into market risks.
+- Organize focus groups, build prototypes, and conduct usability testing.
+
+#### Product Risks
+
+- Assess design, value, usability, feasibility, and viability risks.
+- Conduct customer interviews, market analysis, and review mining.
+- Engage in QA processes, test with real data, and consider accessibility.
+- Discuss technical aspects with the team, considering quality attributes and system integration.
+
+#### Lean UX
+
+**Definition and Benefits:**
+
+> “Lean UX is a collaborative, cross-functional design approach that establishes the true nature of a product in a fast, user-centered way.”
+
+**Goals and Benefits:**
+
+- Maximize value and minimize waste in software design.
+- Based on the principle: think > make > check.
+
+**Reducing Risks with Lean UX:**
+
+- Emphasize rapid customer testing to reduce product risk.
+- Engage customers/users at all stages of product design and delivery.
+- Validate design concepts early and continuously.
+
+**Difference between Lean UX and Traditional UX:**
+
+- Lean UX involves rapid experimentation and incremental testing.
+- Traditional UX involves more deliverables and comprehensive research.
+- Lean UX requires extensive cross-functional collaboration.
+
+For further reading:
+
+- [Lean UX and Agile: Study Guide](https://www.nngroup.com/articles/lean-ux-and-agile/)
+- [What is Lean UX and Why Does It Matter?](https://uxdesigninstitute.com/blog/what-is-lean-ux/)
