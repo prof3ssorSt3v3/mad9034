@@ -8,14 +8,14 @@ Please review this module before class for optimal engagement and understanding.
 
 ## Learning Objectives
 
-- Differentiate between concept design and detailed design in the context of digital product development, and understand the importance of each stage in creating a cohesive user experience.
-- Demonstrate the ability to finalize navigation, create detailed screen layouts, select appropriate controls and components, and effectively use icons and labels in the design process.
-- Choose and apply suitable typography and visual design elements, considering readability, aesthetic appeal, and brand consistency.
-- Understand and apply key design guidelines from major design systems like Google's Material Design and Apple's Human Interface Guidelines, and incorporate best practices in UI/UX design.
-- Recognize various types of risks (market, product, usage) in digital design projects and develop strategies to address and mitigate these risks.
-- Develop skills to manage uncertainty and ambiguity in design thinking processes, fostering innovation and resilience.
-- Understand the principles of Lean UX, including rapid experimentation and customer testing, and differentiate it from traditional UX approaches.
-- Demonstrate the ability to work collaboratively in cross-functional teams, applying Lean UX and Agile methodologies to optimize design workflows and outcomes.
+- Understand the differences and significance of concept and detailed design in digital product development.
+- Master navigation finalization, screen layout creation, control/component selection, and effective use of icons and labels.
+- Apply suitable typography and visual design for readability, aesthetics, and brand alignment.
+- Utilize key design guidelines from systems like Google's Material Design and Apple's Human Interface Guidelines.
+- Identify and strategize against various risks (market, product, usage) in digital design.
+- Enhance skills in managing uncertainty and ambiguity, promoting innovation and resilience.
+- Grasp Lean UX principles, focusing on rapid experimentation and customer testing, and contrast these with traditional UX methods.
+- Collaborate effectively in cross-functional teams, employing Lean UX and Agile methodologies for optimized design processes.
 
 ## Slides
 
@@ -41,6 +41,14 @@ Please review this module before class for optimal engagement and understanding.
 - Choose icons and labels.
 - Select typography.
 - Implement visual design.
+
+<DetailsCard imageSrc=/f2023/moduleImages/week11/navigation.png>
+
+- Finalize navigation and ensure consistency across the product.
+- Define persistent elements like application headers and other UI elements.
+- Consider empty pages as opportunities for instructions or links.
+
+</DetailsCard>
 
 #### Navigation and Framework
 
