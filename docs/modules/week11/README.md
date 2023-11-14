@@ -8,7 +8,14 @@ Please review this module before class for optimal engagement and understanding.
 
 ## Learning Objectives
 
-- [To be filled in later]
+- Differentiate between concept design and detailed design in the context of digital product development, and understand the importance of each stage in creating a cohesive user experience.
+- Demonstrate the ability to finalize navigation, create detailed screen layouts, select appropriate controls and components, and effectively use icons and labels in the design process.
+- Choose and apply suitable typography and visual design elements, considering readability, aesthetic appeal, and brand consistency.
+- Understand and apply key design guidelines from major design systems like Google's Material Design and Apple's Human Interface Guidelines, and incorporate best practices in UI/UX design.
+- Recognize various types of risks (market, product, usage) in digital design projects and develop strategies to address and mitigate these risks.
+- Develop skills to manage uncertainty and ambiguity in design thinking processes, fostering innovation and resilience.
+- Understand the principles of Lean UX, including rapid experimentation and customer testing, and differentiate it from traditional UX approaches.
+- Demonstrate the ability to work collaboratively in cross-functional teams, applying Lean UX and Agile methodologies to optimize design workflows and outcomes.
 
 ## Slides
 
@@ -35,17 +42,23 @@ Please review this module before class for optimal engagement and understanding.
 
 #### Navigation and Framework
 
+![Navigation and Framework](./navigation.png)
+
 - Finalize navigation and ensure consistency across the product.
 - Define persistent elements like application headers and other UI elements.
 - Consider empty pages as opportunities for instructions or links.
 
 #### Screen Layouts
 
+![Screen Layouts](./layouts.png)
+
 - Transition from lo-fi prototypes to detailed screen designs.
 - Define UI elements for each screen and their consistency across the application.
 - Consider validations, warning, and error messages.
 
 #### Controls and Components
+
+![Controls and Components](./controls.png)
 
 - Design UI elements based on detailed layout designs.
 - Choose appropriate controls and components (e.g., buttons, tabs, menus).
@@ -54,17 +67,23 @@ Please review this module before class for optimal engagement and understanding.
 
 #### Icons, Labels
 
+![Icons, Labels](./icons.png)
+
 - Enhance usability with appropriate icons and clear labels.
 - Ensure icons add clarity and labels are appropriate for your personas.
 - Consider localization and the potential need for text expansion.
 
 #### Typography
 
+![Typography](./typography.png)
+
 - Select typefaces and font sizes for different text elements.
 - Create reusable typography components (e.g., H1, H1 Bold, Regular).
 - Resources: [The Right Way to Use Fonts in Mobile Apps](https://promatics.medium.com/the-right-way-to-use-fonts-in-mobile-apps-c9677483a8bd), [Ellen Lupton](https://ellenlupton.com/), [Apple Fonts](https://developer.apple.com/fonts/), [Material Design The Type System](https://m2.material.io/design/typography/the-type-system.html#type-scale).
 
 #### Visual Design
+
+![Visual Design](./VisualDesign.png)
 
 - Add color and style as the final layer of design.
 - Choose an appropriate color scheme and style elements considering product branding.
@@ -74,17 +93,23 @@ Please review this module before class for optimal engagement and understanding.
 
 ### Material Design
 
-- A design system by Google for high-quality digital experiences.
+![Material Design](./Material.png)
+
+- Material is a design system created by Google to help teams build high-quality digital experiences for Android, iOS, Flutter, and the web.
 - Latest version: [Material Design 3](https://material.io/design).
 
 ### Human Interface Guidelines
 
-- Guidelines for designing great experiences on Apple platforms.
+![Human Interface Guidelines](./HIG.png)
+
+- The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
 - [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
 
 ### Atlassian Design System
 
-- An end-to-end design language for creating intuitive experiences.
+![Atlassian Design System](./Atlassian.png)
+
+- Use Atlassian's end-to-end design language to create simple, intuitive and beautiful experiences.
 - [Atlassian Design System](https://atlassian.design/).
 
 ### Benefits of Using Design Guidelines
@@ -101,8 +126,6 @@ Please review this module before class for optimal engagement and understanding.
 - Plan for and handle errors effectively.
 - Allow easy reversal of actions.
 - Give users control and reduce demands on short-term memory.
-
----
 
 ## Risks and Unknowns
 
