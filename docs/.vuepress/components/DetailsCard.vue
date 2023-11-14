@@ -35,7 +35,7 @@ export default {
 }
 
 .first-column {
-  max-width: 200px; /* You can adjust the width as needed */
+  max-width: 400px; /* You can adjust the width as needed */
 }
 
 img {

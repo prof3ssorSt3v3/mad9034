@@ -42,6 +42,8 @@ Please review this module before class for optimal engagement and understanding.
 - Select typography.
 - Implement visual design.
 
+#### Navigation and Framework
+
 <DetailsCard imageSrc=/f2023/moduleImages/week11/navigation.png>
 
 - Finalize navigation and ensure consistency across the product.
@@ -50,42 +52,40 @@ Please review this module before class for optimal engagement and understanding.
 
 </DetailsCard>
 
-#### Navigation and Framework
-
-![Navigation and Framework](./navigation.png)
-
-- Finalize navigation and ensure consistency across the product.
-- Define persistent elements like application headers and other UI elements.
-- Consider empty pages as opportunities for instructions or links.
-
 #### Screen Layouts
 
-![Screen Layouts](./layouts.png)
+<DetailsCard imageSrc=/f2023/moduleImages/week11/layouts.png>
 
 - Transition from lo-fi prototypes to detailed screen designs.
 - Define UI elements for each screen and their consistency across the application.
 - Consider validations, warning, and error messages.
 
+</DetailsCard>
+
 #### Controls and Components
 
-![Controls and Components](./controls.png)
+<DetailsCard imageSrc=/f2023/moduleImages/week11/controls.png>
 
 - Design UI elements based on detailed layout designs.
 - Choose appropriate controls and components (e.g., buttons, tabs, menus).
 - Consult UI guidelines like Google Material Design or Atlassian Design System ([Atlassian Design](https://atlassian.design/)).
 - Focus on reusable components.
 
+</DetailsCard>
+
 #### Icons, Labels
 
-![Icons, Labels](./icons.png)
+<DetailsCard imageSrc=/f2023/moduleImages/week11/icons.png>
 
 - Enhance usability with appropriate icons and clear labels.
 - Ensure icons add clarity and labels are appropriate for your personas.
 - Consider localization and the potential need for text expansion.
 
+</DetailsCard>
+
 #### Typography
 
-![Typography](./typography.png)
+<DetailsCard imageSrc=/f2023/moduleImages/week11/typography.png>
 
 - Select typefaces and font sizes for different text elements.
 - Create reusable typography components (e.g., H1, H1 Bold, Regular).
@@ -95,15 +95,19 @@ Please review this module before class for optimal engagement and understanding.
   - [Apple Fonts](https://developer.apple.com/fonts/)
   - [Material Design The Type System](https://m2.material.io/design/typography/the-type-system.html#type-scale).
 
+</DetailsCard>
+
 #### Visual Design
 
-![Visual Design](./VisualDesign.png)
+<DetailsCard imageSrc=/f2023/moduleImages/week11/VisualDesign.png>
 
 - Add color and style as the final layer of design.
 - Choose an appropriate color scheme and style elements considering product branding.
 - Resources:
   - [Web Design Colour Trends in 2023](https://www.linkedin.com/pulse/web-design-colour-trends-2023-enhancing-user-experience-visual/)
   - [Color Schemes for Apps](https://www.uxpin.com/studio/blog/color-schemes-for-apps/).
+
+</DetailsCard>
 
 ## Design Guidelines
 
@@ -192,20 +196,24 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 
 #### Market Risks
 
-![Value Proposition Canvas](./valueProposition.png)
+<DetailsCard imageSrc=/f2023/moduleImages/week11/valueProposition.png>
 
 - Use tools like the [Value Proposition Canvas](https://www.strategyzer.com/library/the-value-proposition-canvas) for market need evaluation and competitive analysis.
 - Collaborate with Product Marketing for insights into market risks.
 - Organize focus groups, build prototypes, and conduct usability testing.
 
+</DetailsCard>
+
 #### Product Risks
 
-![Product Risks](./productRisks.png)
+<DetailsCard imageSrc=/f2023/moduleImages/week11/productRisks.png>
 
 - Assess design, value, usability, feasibility, and viability risks.
 - Conduct customer interviews, market analysis, and review mining.
 - Engage in QA processes, test with real data, and consider accessibility.
 - Discuss technical aspects with the team, considering quality attributes and system integration.
+
+</DetailsCard>
 
 #### Lean UX
 
@@ -225,7 +233,7 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 
 **Reducing Risks with Lean UX:**
 
-![Reducing Risks](./reducingRisks2.png)
+<DetailsCard imageSrc=/f2023/moduleImages/week11/reducingRisks2.png>
 
 - Emphasize rapid customer testing to reduce product risk.
 - Engage customers/users at all stages of product design and delivery.
@@ -233,6 +241,8 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 - Resources:
   - [Lean UX is about reducing risks](https://medium.com/@drewmck/lean-ux-is-about-reducing-risk-1d7d505d2881)
   - [Lean UX and Agile](https://www.nngroup.com/articles/lean-ux-agile-study-guide/)
+
+</DetailsCard>
 
 **Difference between Lean UX and Traditional UX:**
 
