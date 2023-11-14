@@ -19,7 +19,9 @@ Please review this module before class for optimal engagement and understanding.
 
 ## Slides
 
-- [To be filled in later]
+[MAD9034 11-1 Digital Wireframing](https://docs.google.com/presentation/d/1eTfVljq1rlvYnpX0X-ggSRAX8HKkMs9xnRwZEQWEB-k/edit?usp=sharing)
+
+[MAD9034 11-2 Working with Risks and Unknowns](https://docs.google.com/presentation/d/1Z41EV6xg4gw4-oqn64Fdv59HXlsDMbTge75BcEjKxu0/edit?usp=sharing)
 
 ## Detailed Design
 
@@ -79,7 +81,11 @@ Please review this module before class for optimal engagement and understanding.
 
 - Select typefaces and font sizes for different text elements.
 - Create reusable typography components (e.g., H1, H1 Bold, Regular).
-- Resources: [The Right Way to Use Fonts in Mobile Apps](https://promatics.medium.com/the-right-way-to-use-fonts-in-mobile-apps-c9677483a8bd), [Ellen Lupton](https://ellenlupton.com/), [Apple Fonts](https://developer.apple.com/fonts/), [Material Design The Type System](https://m2.material.io/design/typography/the-type-system.html#type-scale).
+- Resources:
+  - [The Right Way to Use Fonts in Mobile Apps](https://promatics.medium.com/the-right-way-to-use-fonts-in-mobile-apps-c9677483a8bd)
+  - [Ellen Lupton](https://ellenlupton.com/)
+  - [Apple Fonts](https://developer.apple.com/fonts/)
+  - [Material Design The Type System](https://m2.material.io/design/typography/the-type-system.html#type-scale).
 
 #### Visual Design
 
@@ -87,7 +93,9 @@ Please review this module before class for optimal engagement and understanding.
 
 - Add color and style as the final layer of design.
 - Choose an appropriate color scheme and style elements considering product branding.
-- Resources: [Web Design Colour Trends in 2023](https://www.linkedin.com/pulse/web-design-colour-trends-2023-enhancing-user-experience-visual/), [Color Schemes for Apps](https://www.uxpin.com/studio/blog/color-schemes-for-apps/).
+- Resources:
+  - [Web Design Colour Trends in 2023](https://www.linkedin.com/pulse/web-design-colour-trends-2023-enhancing-user-experience-visual/)
+  - [Color Schemes for Apps](https://www.uxpin.com/studio/blog/color-schemes-for-apps/).
 
 ## Design Guidelines
 
@@ -160,6 +168,9 @@ Uncertainty in UX design can stem from unclear requirements, time constraints, r
 - Manage uncertainty as a source of learning and improvement.
 - Foster collaboration to define common goals and embrace uncertainty together.
 - Develop resilience by viewing potential failures as learning opportunities.
+- Resources:
+  - [How do you deal with ambiguity and uncertainty in design thinking processes?](https://www.linkedin.com/advice/1/how-do-you-deal-ambiguity-uncertainty-design)
+  - [How can you evaluate UX design when faced with uncertainty and ambiguity?](https://www.linkedin.com/advice/0/how-can-you-evaluate-ux-design-when-faced)
 
 ### How to Identify Risks
 
@@ -173,11 +184,15 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 
 #### Market Risks
 
+![Value Proposition Canvas](./valueProposition.png)
+
 - Use tools like the [Value Proposition Canvas](https://www.strategyzer.com/library/the-value-proposition-canvas) for market need evaluation and competitive analysis.
 - Collaborate with Product Marketing for insights into market risks.
 - Organize focus groups, build prototypes, and conduct usability testing.
 
 #### Product Risks
+
+![Product Risks](./productRisks.png)
 
 - Assess design, value, usability, feasibility, and viability risks.
 - Conduct customer interviews, market analysis, and review mining.
@@ -185,6 +200,11 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 - Discuss technical aspects with the team, considering quality attributes and system integration.
 
 #### Lean UX
+
+<YouTube
+  title="What is Lean UX?"
+  url="https://www.youtube.com/embed/Y_C9jKXUVnE?si=HNVbp9SlFcUPHty4"
+/>
 
 **Definition and Benefits:**
 
@@ -197,15 +217,22 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 
 **Reducing Risks with Lean UX:**
 
+![Reducing Risks](./reducingRisks2.png)
+
 - Emphasize rapid customer testing to reduce product risk.
 - Engage customers/users at all stages of product design and delivery.
 - Validate design concepts early and continuously.
+- Resources:
+  - [Lean UX is about reducing risks](https://medium.com/@drewmck/lean-ux-is-about-reducing-risk-1d7d505d2881)
+  - [Lean UX and Agile](https://www.nngroup.com/articles/lean-ux-agile-study-guide/)
 
 **Difference between Lean UX and Traditional UX:**
 
-- Lean UX involves rapid experimentation and incremental testing.
-- Traditional UX involves more deliverables and comprehensive research.
-- Lean UX requires extensive cross-functional collaboration.
+|                                     Lean UX                                     |                                                       Traditional UX                                                       |
+| :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+|                              Rapid experimentation                              |                               It involves more deliverables and documentation of each phase                                |
+| Small, incremental testing to assess the assumptions around a design hypothesis | Comprehensive research, analysis, ideation, prototyping and testing to ensure the product meets the users’ needs very well |
+|              It requires extensive cross-functional collaboration               |
 
 For further reading:
 
