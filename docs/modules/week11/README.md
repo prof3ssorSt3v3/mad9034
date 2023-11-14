@@ -215,7 +215,7 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 
 </DetailsCard>
 
-#### Lean UX
+## Lean UX
 
 <YouTube
   title="What is Lean UX?"
@@ -231,7 +231,7 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 - Maximize value and minimize waste in software design.
 - Based on the principle: think > make > check.
 
-**Reducing Risks with Lean UX:** <br>
+#### Reducing Risks with Lean UX:
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/reducingRisks2.png>
 
