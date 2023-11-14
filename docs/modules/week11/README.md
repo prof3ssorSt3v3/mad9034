@@ -42,7 +42,7 @@ Please review this module before class for optimal engagement and understanding.
 - Select typography.
 - Implement visual design.
 
-#### Navigation and Framework<br>
+#### Navigation and Framework <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/navigation.png>
 
@@ -52,7 +52,7 @@ Please review this module before class for optimal engagement and understanding.
 
 </DetailsCard>
 
-#### Screen Layouts<br>
+#### Screen Layouts <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/layouts.png>
 
@@ -62,7 +62,7 @@ Please review this module before class for optimal engagement and understanding.
 
 </DetailsCard>
 
-#### Controls and Components<br>
+#### Controls and Components <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/controls.png>
 
@@ -73,7 +73,7 @@ Please review this module before class for optimal engagement and understanding.
 
 </DetailsCard>
 
-#### Icons, Labels<br>
+#### Icons, Labels <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/icons.png>
 
@@ -83,7 +83,7 @@ Please review this module before class for optimal engagement and understanding.
 
 </DetailsCard>
 
-#### Typography<br>
+#### Typography <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/typography.png>
 
@@ -97,7 +97,7 @@ Please review this module before class for optimal engagement and understanding.
 
 </DetailsCard>
 
-#### Visual Design<br>
+#### Visual Design <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/VisualDesign.png>
 
@@ -194,7 +194,7 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 
 ### Working with Risks
 
-#### Market Risks<br>
+#### Market Risks <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/valueProposition.png>
 
@@ -204,7 +204,7 @@ Mitigation involves thorough market research, user research, ideation, prototypi
 
 </DetailsCard>
 
-#### Product Risks<br>
+#### Product Risks <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week11/productRisks.png>
 
