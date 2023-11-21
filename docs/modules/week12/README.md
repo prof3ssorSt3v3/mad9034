@@ -1,5 +1,26 @@
 # Week 12: From Low-Fidelity to High-Fidelity: Crafting Interactive Prototypes through Visual Design
 
+## Required Preparation
+
+::: warning
+Please review this module before class for optimal engagement and understanding.
+:::
+
+## Learning Objectives
+
+- Recognize how visual design goes beyond aesthetics to shape and enhance user experiences through the integration of various design elements.
+- Learn why visual design is crucial in focusing attention, shaping user experience, and enhancing content.
+- Understand the differences and unique roles of visual design and graphic design in digital and print media.
+- Gain knowledge about the basic elements such as line, shape, negative/white space, value, color, and texture, and their application in creating effective designs.
+- Utilize principles like unity, hierarchy, balance, contrast, scale, and dominance to create visually cohesive and user-friendly designs.
+- Understand and apply Gestalt principles to predict and influence how users perceive and interpret visual elements as a cohesive whole.
+- Use the knowledge of visual design principles and elements to enhance the development of interactive prototypes, ensuring they are not only functional but also visually appealing and intuitive.
+- Improve the ability to communicate ideas and concepts visually, using design elements and principles effectively.
+
+## Slides
+
+[MAD9034 12-1 Visual Design]()
+
 ## Understanding Visual Design
 
 Visual design transcends mere aesthetics, playing a pivotal role in shaping and enhancing user experiences. It's not just about making products look attractive; it's about thoughtful integration of elements like illustrations, photography, typography, space, layout, and color to make products both usable and appealing.
