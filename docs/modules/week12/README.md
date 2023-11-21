@@ -25,57 +25,82 @@ Visual design is crucial because it:
 
 ### Visual Design vs. Graphic Design
 
-**Visual Design:** Focuses on optimizing user experience in digital spaces, using elements like typography and color to enhance interaction and usability. It's intertwined with functionality and user journey, emphasizing intuitive design in digital contexts.
-
-**Graphic Design:** Involves creating visual content for various media, using imagery and typography to communicate messages and solve problems. It spans digital and print mediums, often focusing more on artistic expression and visual storytelling.
+| **Visual Design:**                                                                                                                                                                                                                              | **Graphic Design:**                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Focuses on optimizing user experience in digital spaces, using elements like typography and color to enhance interaction and usability. It's intertwined with functionality and user journey, emphasizing intuitive design in digital contexts. | Involves creating visual content for various media, using imagery and typography to communicate messages and solve problems. It spans digital and print mediums, often focusing more on artistic expression and visual storytelling. |
 
 ### Fundamental Elements of Visual Design
 
-- **Line**
+<DetailsCard imageSrc=/f2023/moduleImages/week12/Line.png>
 
-  - **Definition:** A line connects two points and can be used to define shapes, indicate movement, and create texture.
-  - **Application:** Lines can guide the viewer's eye around a composition, or they can be used to create a sense of movement and dynamism. The weight, style, and direction of a line can also convey different moods and emotions.
-  - **Importance:** Lines are fundamental in creating structure and form within a design. They can be used to separate or connect elements, leading the viewer's eye and influencing how information is perceived.
+**Line**
 
-- **Shape**
+- **Definition:** A line connects two points and can be used to define shapes, indicate movement, and create texture.
+- **Application:** Lines can guide the viewer's eye around a composition, or they can be used to create a sense of movement and dynamism. The weight, style, and direction of a line can also convey different moods and emotions.
+- **Importance:** Lines are fundamental in creating structure and form within a design. They can be used to separate or connect elements, leading the viewer's eye and influencing how information is perceived.
 
-  - **Definition:** Shapes are defined areas created by lines or contrasts in color and value. They can be geometric (like squares and circles) or organic (free-form or natural shapes).
-  - **Application:** Shapes are used to create a sense of space and substance in a design. They can be used to draw attention, group elements, convey meaning, and create impact.
-  - **Importance:** Shapes are essential for creating visual interest and hierarchy. They help to organize elements on a page by grouping similar items and separating others, aiding in the overall comprehension of the design.
+</DetailsCard>
 
-- **Negative/White Space**
+<DetailsCard imageSrc=/f2023/moduleImages/week12/Shape.png>
 
-  - **Definition:** Negative space, or white space, is the unmarked space between and around the elements of a design.
-  - **Application:** It can be used to create visual breathing room for the eye; it helps to balance out a design and can be used to lead the viewer's eye to various focal points.
-  - **Importance:** Negative space is crucial for a clean and clear design. It prevents a design from becoming too cluttered or overwhelming, ensuring that the viewer can easily process the information presented.
+**Shape**
 
-- **Value**
+- **Definition:** Shapes are defined areas created by lines or contrasts in color and value. They can be geometric (like squares and circles) or organic (free-form or natural shapes).
+- **Application:** Shapes are used to create a sense of space and substance in a design. They can be used to draw attention, group elements, convey meaning, and create impact.
+- **Importance:** Shapes are essential for creating visual interest and hierarchy. They help to organize elements on a page by grouping similar items and separating others, aiding in the overall comprehension of the design.
 
-  - **Definition:** Value refers to the lightness or darkness of a color.
-  - **Application:** It can create depth and contrast in a design, highlighting or obscuring elements.
-  - **Importance:** Value is important for creating mood and atmosphere in a design. It can bring attention to certain elements, aiding in visual storytelling and the overall aesthetic appeal.
+</DetailsCard>
 
-- **Color**
+<DetailsCard imageSrc=/f2023/moduleImages/week12/NegativeSpace.png>
 
-  - **Definition:** Color is an element of light. Different colors can evoke different emotions and reactions.
-  - **Application:** Color can be used to attract attention, group elements, convey meaning, and enhance aesthetics. The choice of colors can significantly affect the mood and usability of a design.
-  - **Importance:** Color is one of the most powerful tools in a designer's toolkit. It can transform a design, create an atmosphere, and communicate messages and emotions effectively.
+**Negative/White Space**
 
-- **Texture**
-  - **Definition:** Texture refers to the surface quality of an object, which can be seen or felt.
-  - **Application:** Texture can be used in a design to add depth and dimension, creating a more dynamic and tactile experience.
-  - **Importance:** Texture adds richness and visual interest to a design. It can enhance the user experience by providing a more relatable and realistic feel to the design elements.
+- **Definition:** Negative space, or white space, is the unmarked space between and around the elements of a design.
+- **Application:** It can be used to create visual breathing room for the eye; it helps to balance out a design and can be used to lead the viewer's eye to various focal points.
+- **Importance:** Negative space is crucial for a clean and clear design. It prevents a design from becoming too cluttered or overwhelming, ensuring that the viewer can easily process the information presented.
+
+</DetailsCard>
+
+<DetailsCard imageSrc=/f2023/moduleImages/week12/Value.png>
+
+**Value**
+
+- **Definition:** Value refers to the lightness or darkness of a color.
+- **Application:** It can create depth and contrast in a design, highlighting or obscuring elements.
+- **Importance:** Value is important for creating mood and atmosphere in a design. It can bring attention to certain elements, aiding in visual storytelling and the overall aesthetic appeal.
+
+</DetailsCard>
+
+<DetailsCard imageSrc=/f2023/moduleImages/week12/Colour.png>
+
+**Color**
+
+- **Definition:** Color is an element of light. Different colors can evoke different emotions and reactions.
+- **Application:** Color can be used to attract attention, group elements, convey meaning, and enhance aesthetics. The choice of colors can significantly affect the mood and usability of a design.
+- **Importance:** Color is one of the most powerful tools in a designer's toolkit. It can transform a design, create an atmosphere, and communicate messages and emotions effectively.
+
+</DetailsCard>
+
+<DetailsCard imageSrc=/f2023/moduleImages/week12/Texture.png>
+
+**Texture**
+
+- **Definition:** Texture refers to the surface quality of an object, which can be seen or felt.
+- **Application:** Texture can be used in a design to add depth and dimension, creating a more dynamic and tactile experience.
+- **Importance:** Texture adds richness and visual interest to a design. It can enhance the user experience by providing a more relatable and realistic feel to the design elements.
+
+ </DetailsCard>
 
 ### Principles of Visual Design
 
 Visual design principles are the cornerstone of creating aesthetically pleasing and functionally effective designs. Understanding and applying these principles is key to successful design work. Find more in-depth information from [Invision on Principles of Visual Design here](https://www.invisionapp.com/defined/principles-of-design)
 
-Watch the video below for more information on visual design principles, also check out this video that examines some websites and how they use these principles [Complete Layout Guide(4:54)](https://youtu.be/MlsV3hu84as?si=TV3gTkGPGXlGt6UY)
-
 <YouTube
   title="Understanding Visual Design Principles"
   url="https://www.youtube.com/embed/yNDgFK2Jj1E?si=EPZ84Nr9T67PwRde"
 />
+
+Watch the video above for more information on visual design principles, also check out this video that examines some websites and how they use these principles [Complete Layout Guide(4:54)](https://youtu.be/MlsV3hu84as?si=TV3gTkGPGXlGt6UY)
 
 <DetailsCard imageSrc=/f2023/moduleImages/week12/unity.jpg>
 
