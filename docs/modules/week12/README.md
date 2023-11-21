@@ -50,7 +50,7 @@ Visual design is crucial because it:
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Focuses on optimizing user experience in digital spaces, using elements like typography and color to enhance interaction and usability. It's intertwined with functionality and user journey, emphasizing intuitive design in digital contexts. | Involves creating visual content for various media, using imagery and typography to communicate messages and solve problems. It spans digital and print mediums, often focusing more on artistic expression and visual storytelling. |
 
-### Fundamental Elements of Visual Design
+### Fundamental Elements of Visual Design <br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week12/Line.png>
 
@@ -122,6 +122,8 @@ Visual design principles are the cornerstone of creating aesthetically pleasing 
 />
 
 Watch the video above for more information on visual design principles, also check out this video that examines some websites and how they use these principles [Complete Layout Guide(4:54)](https://youtu.be/MlsV3hu84as?si=TV3gTkGPGXlGt6UY)
+
+<br>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week12/unity.jpg>
 
