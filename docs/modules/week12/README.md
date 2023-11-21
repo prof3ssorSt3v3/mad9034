@@ -70,11 +70,17 @@ Visual design is crucial because it:
 
 Visual design principles are the cornerstone of creating aesthetically pleasing and functionally effective designs. Understanding and applying these principles is key to successful design work.
 
+<DetailsCard imageSrc=/f2023/moduleImages/week12/unity.jpg>
+
 #### Unity
 
 - **Definition:** Unity refers to the cohesiveness of a design, creating a sense of harmony among all elements.
 - **Application:** Achieve unity by using consistent elements and styles, such as similar color schemes, typographic details, and graphical elements. This consistency helps different parts of the design feel like part of a whole.
 - **Importance:** Unity is crucial for maintaining a coherent and cohesive visual language in a design, ensuring that all parts of the design work together seamlessly.
+
+</DetailsCard>
+
+<DetailsCard imageSrc=/f2023/moduleImages/week12/hierarchy.jpg>
 
 #### Hierarchy
 
@@ -82,11 +88,19 @@ Visual design principles are the cornerstone of creating aesthetically pleasing 
 - **Application:** Use size, color, contrast, and placement to draw attention to key elements. Larger, bolder, and more centrally placed elements typically attract more attention and are perceived as more important.
 - **Importance:** Effective hierarchy guides the viewer’s eye to the most important information first, making the design not only aesthetically pleasing but also functionally efficient.
 
+</DetailsCard>
+
+<DetailsCard imageSrc=/f2023/moduleImages/week12/balance.jpg>
+
 #### Balance
 
 - **Definition:** Balance involves distributing elements so that the design feels stable and aesthetically pleasing.
 - **Application:** This can be achieved through symmetry (mirroring elements) or asymmetry (distributing elements of differing sizes and shapes). Balance doesn’t necessarily mean equal distribution; it’s about creating a visual equilibrium.
 - **Importance:** Balance is key to preventing parts of the design from overwhelming others, ensuring that no single part of the design overpowers the rest, but rather complements it.
+
+</DetailsCard>
+
+<DetailsCard imageSrc=/f2023/moduleImages/week12/contrast.jpg>
 
 #### Contrast
 
@@ -94,17 +108,27 @@ Visual design principles are the cornerstone of creating aesthetically pleasing 
 - **Application:** Use contrasting colors, sizes, shapes, and textures to make elements stand out and to add interest and variety to the design.
 - **Importance:** Contrast is essential for legibility and emphasis. It helps to make the important elements 'pop' and can guide the viewer’s attention to specific areas of the design.
 
+</DetailsCard>
+
+<DetailsCard imageSrc=/f2023/moduleImages/week12/scale.jpg>
+
 #### Scale
 
 - **Definition:** Scale refers to the relative size of elements in a design.
 - **Application:** Adjusting the scale of different elements can create focal points and help organize information. Larger elements are more likely to draw attention than smaller ones.
 - **Importance:** Scale can be used to create a visual hierarchy, guide the viewer’s attention, and convey the significance of different elements.
 
+</DetailsCard>
+
+<DetailsCard imageSrc=/f2023/moduleImages/week12/emphasis.jpg>
+
 #### Dominance (Emphasis)
 
 - **Definition:** Dominance focuses on prioritizing one element over others to draw attention.
 - **Application:** This can be achieved through contrasting size, color, shape, or texture. The dominant element should be the focal point and most visually striking part of the design.
 - **Importance:** Dominance creates a focal point in your design, guiding viewers’ attention to the most important part of your message.
+
+</DetailsCard>
 
 #### Gestalt Principles
 
