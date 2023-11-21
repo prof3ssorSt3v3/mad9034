@@ -68,7 +68,14 @@ Visual design is crucial because it:
 
 ### Principles of Visual Design
 
-Visual design principles are the cornerstone of creating aesthetically pleasing and functionally effective designs. Understanding and applying these principles is key to successful design work.
+Visual design principles are the cornerstone of creating aesthetically pleasing and functionally effective designs. Understanding and applying these principles is key to successful design work. Find more in-depth information from [Invision on Principles of Visual Design here](https://www.invisionapp.com/defined/principles-of-design)
+
+Watch the video below for more information on visual design principles, also check out this video that examines some websites and how they use these principles [Complete Layout Guide(4:54)](https://youtu.be/MlsV3hu84as?si=TV3gTkGPGXlGt6UY)
+
+<YouTube
+  title="Understanding Visual Design Principles"
+  url="https://www.youtube.com/embed/yNDgFK2Jj1E?si=EPZ84Nr9T67PwRde"
+/>
 
 <DetailsCard imageSrc=/f2023/moduleImages/week12/unity.jpg>
 
