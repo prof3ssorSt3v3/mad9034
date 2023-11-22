@@ -19,7 +19,7 @@ Please review this module before class for optimal engagement and understanding.
 
 ## Slides
 
-[MAD9034 12-1 Visual Design]()
+[MAD9034 12-1 Visual Design](https://drive.google.com/file/d/194icHQvxaBNG6vmwmi2Y7Wjm3TTrstmi/view?usp=sharing)
 
 ## Understanding Visual Design
 
