@@ -21,6 +21,8 @@ Please review this module before class for optimal engagement and understanding.
 
 [MAD9034 12-1 Visual Design](https://drive.google.com/file/d/194icHQvxaBNG6vmwmi2Y7Wjm3TTrstmi/view?usp=sharing)
 
+[MAD9034 12-2 - Transitions and Animations](https://drive.google.com/file/d/1AHE5Ecxxkj5_g3ad45EPN3YSSSpdHSL7/view?usp=sharing)
+
 ## Understanding Visual Design
 
 Visual design transcends mere aesthetics, playing a pivotal role in shaping and enhancing user experiences. It's not just about making products look attractive; it's about thoughtful integration of elements like illustrations, photography, typography, space, layout, and color to make products both usable and appealing.
