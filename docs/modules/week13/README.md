@@ -18,7 +18,7 @@ Please review this module before class for optimal engagement and understanding.
 
 ## Slides
 
-<!-- To add later -->
+<Badge type="error" text="Coming Soon!" />
 
 ## Usability Testing
 

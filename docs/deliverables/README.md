@@ -118,11 +118,9 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Testing Documentation
 
-<Badge type="error" text="Coming Soon!" />
+[Testing Documentation Details ](./majorProject/part8.md)
 
-<!-- [Testing Documentation Details ](./majorProject/part8.md)
-
-<Badge text="Both Sections: Sunday Dec 3rd @11:59pm" /> -->
+<Badge text="Both Sections: Sunday Dec 3rd @11:59pm" />
 
 ### <span style="color:#3eaf7c">**Present**</span>
 

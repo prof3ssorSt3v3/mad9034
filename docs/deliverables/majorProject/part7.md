@@ -21,6 +21,6 @@ Provide a visual design for your mobile app using UX visual design principles. C
 
 <Badge text="Both Sections: Sunday November 26th @11:59pm" />
 
-- Open BS LMS and go to the Activities > Assignments page.
-- Go to Information Architecture
+- Access BS LMS and navigate to `Activities > Assignments`.
+- Select `Visual Design`.
 - Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.
