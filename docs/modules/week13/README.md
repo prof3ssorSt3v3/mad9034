@@ -18,7 +18,9 @@ Please review this module before class for optimal engagement and understanding.
 
 ## Slides
 
-<Badge type="error" text="Coming Soon!" />
+[MAD9034 13-1 - Usability Testing](https://drive.google.com/file/d/1GTkkDzas2LmgrJIEzE-fPp1bO0dKmf74/view?usp=sharing)
+
+[MAD9034 13-2 How to run a test](https://drive.google.com/file/d/1hqhx30eixHz9a52ONiuOY9aJpk9uTvio/view?usp=sharing)
 
 ## Usability Testing
 

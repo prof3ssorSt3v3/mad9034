@@ -1,73 +1,128 @@
-# Week 14: Incorporating test feedback & UXD portfolio package
+# Week 14: Incorporating test reporting & Final Presentation
 
-::: tip Learning Objective
+## Required Preparation
 
-By the end of this week, students will:
-
-- Have a firm understanding of translating test notes to an analysis report
-- Have a clear understanding of presenting user testing result 
-- Have a plan to iterate design, prototype, testing in the UX design process
-- Create UXD Portfolio Package for final delivery
-
-**Class 1** 
-- Interpret usability test results from 3 users and revise design accordingly for final project delivery
-
-**Class 2** 
-- Create UXD Portfolio Slide Package and add usability testing report to it
-
+::: warning
+Please review this module before class for optimal engagement and understanding.
 :::
 
-## Week 14 - Required preparation for class 1
+## Learning Objectives
 
-Complete and come to class with:
-- Usability test notes
-- Usabiilty test recordings
+- Learn to effectively summarize and communicate usability testing results.
+- Gain the ability to translate raw data into meaningful findings.
+- Learn to assess the severity and impact of usability issues.
+- Acquire skills to propose practical solutions based on test results.
+- Understand how to present findings clearly and compellingly.
 
-### Read
-- [Usability Testing Steps – Step 4: Report](../week13/UT-steps.md#step-4-report)
-- [How to write a user testing report that people will actually read](https://uxdesign.cc/how-to-write-a-user-testing-report-that-people-will-actually-read-652d15d2f92e)
+## Slides
 
+... Coming soon
 
-### References 
+## Usability Testing Reporting
 
-- [Usability Test Report Template by usability.gov](https://drive.google.com/file/d/1KRXKLTd3GZA1X786Fw1wj1pw8ZeYdr5Y/view?usp=sharing)
-- [Making usability test findings actionable](https://www.nngroup.com/articles/actionable-usability-findings/)
-- [How to prioritize usability issues](https://userbrain.net/blog/how-to-prioritize-usability-issues)(rainbow spreadsheet)
-- [Past UXD final project slide deck examples](https://drive.google.com/drive/folders/1y7608EmlnKrQsDVA3_qdYvotDaE4Qltz?usp=sharing) 
+### What is a usability test report?
 
+A document that summarizes the results of usability testing, focused on communicating findings (differentiated by levels of severity) and recommendations.
 
+It can consist of direct quotes, paraphrasing, summarized observations, screenshots, or whatever will effectively communicate your findings.
 
-### Lesson Slides
+### Why create a usability test report?
 
-- [Week 14-1 Lecture: Usability test reporting](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
-- [Week 14-1b In-class: Usability test analysis](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
- 
+- Communicate results to teams and stakeholders.
+- Identify and prioritize improvements.
+- Record findings for future projects.
 
-## Week 14 - Required preparation for class 2
+### Do you always need a big report?
 
-### Read Lesson Slides
+Quick findings are sufficient when:
 
-- [Week 14-2 Lecture: Presenting your work](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7)
+- Usability testing is familiar to the team and stakeholders.
+- Most team members and stakeholders participated in or observed the testing.
+- During quick, iterative testing where formal reports slow down the process.
 
+### How is it shared?
 
+- Presentation with a slide deck.
+- Read-out of the report, highlighting key points.
+- Circulating a document (email or other).
+- Posting on a research platform like [Dovetail](https://dovetailapp.com/).
 
-## TODO
+### How to make the data compelling?
 
-::: tip TODO before next week
+- Use screenshots with highlighted key areas.
+- Include impactful video clips from test sessions.
+- Add direct quotes from participants.
+- Display larger data sets as graphs.
 
-- Complete UXD portfolio package and practice presenting it for the final presentation.
+### How to translate data into findings?
 
-### Assignments
+- Identify initial themes you noticed in testing (and leave a ‘general’ category for anything that doesn’t fit)
+- Go through your results, one participant at a time, find quotes or observations, and sort them into the themes (tag with participant #)
+- When finished, see if additional themes emerged in ‘general’
+- For each theme, you will have one or more findings. For example:
+- Participants struggled to interpret several icons
+- Participants could successfully filter the results list
 
-**For class 1:** 
-- Week 14 Class 1 work: 
-  - [Incorporating usability test feedback](https://drive.google.com/drive/folders/1kCPUsO4_f6Hz47THcBzFBiMlCJIzpvG7) (Week 14-1b In-class slides)
-  - Improve usability of the product based on your usability testing findings.
-  - Start on your [Final project](../../assignments/proj.md) – UXD Portfolio Slide Package
+### How to prioritize severity?
 
-**For class 2:** 
-- Week 14 Class 2 work 
-  - Work on your [Final project](../../assignments/proj.md) – UXD Portfolio Slide Package
-  - Prepare for the [Final presentation](../../assignments/presentation.md)
+For each finding, prioritize severity on a 3 or 4 point scale. For example:
+0 Positive observation (not a usability problem)
+1 Minor problem (cosmetic or otherwise minimal)
+2 Serious problem (frustrating to users, inefficient, may cause task abandoning)
+3 Critical problem (it prevents users from completing tasks)
 
-  :::
+### How to prioritize impact?
+
+Use a 3 or 4 point scale:
+
+- 0: Positive observation (not a usability problem).
+- 1: Minor problem (cosmetic/minimal).
+- 2: Serious problem (frustrating, inefficient, may cause task abandonment).
+- 3: Critical problem (prevents task completion).
+
+### How to translate findings into recommendations
+
+For each finding, you should include a recommended action.
+
+- Leave as-is & monitor (if low-impact)
+- Implement a specific fix (if you know what would fix the problem)
+- Explore further (if the fix is not obvious and needs an iteration)
+
+### How do you come up with a specific fix?
+
+Based on frequency and task importance:
+
+- Many participants, key task affected.
+- Many participants, infrequently-used feature affected.
+- Few participants, key task affected.
+- Few participants, infrequently-used feature affected.
+
+If you are not certain that the fix will do all of this, recommend further exploration/investigation.
+
+### How to Translate Findings into Recommendations
+
+For each finding, recommend an action:
+
+- Leave as-is & monitor (low-impact).
+- Implement a specific fix (if known).
+- Explore further (if the fix is unclear).
+
+### How Do You Come Up With a Specific Fix?
+
+Ensure the fix:
+
+- Follows good design principles.
+- Corrects the usability problem without introducing new issues.
+- Isn't just what users asked for without design team vetting.
+
+### To Ensure Your Report Leads to Positive Changes
+
+- Be specific for clear understanding.
+- Organize and rank findings by importance.
+- Use quotes, videos, etc., to bring data to life.
+- Include positive findings to preserve good aspects.
+- Choose the right format for your audience.
+
+## Final Presentation
+
+<Badge type="error" text="Coming Soon!" />
