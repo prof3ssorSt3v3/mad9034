@@ -16,7 +16,7 @@ Please review this module before class for optimal engagement and understanding.
 
 ## Slides
 
-... Coming soon
+[MAD9034 14-1 Usability test report](https://drive.google.com/file/d/1hHN2PUJcSgKUzjxYMCif1ocxvVFKlHYI/view?usp=sharing)
 
 ## Usability Testing Reporting
 
