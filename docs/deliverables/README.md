@@ -128,8 +128,4 @@ You will follow the UX design process based on the project of your choice, to pr
 
 #### Final: Presentation
 
-<Badge type="error" text="Coming Soon!" />
-
-<!-- [Final Presentation Details (30%)](./majorDeliverables/finalPresentation.md)
-
-<Badge text="Both Sections: Tuesday December 12th @11:59pm" /> -->
+[Final Presentation Details (30%)](./majorDeliverables/finalPresentation.md)

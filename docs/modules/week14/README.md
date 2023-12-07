@@ -18,6 +18,8 @@ Please review this module before class for optimal engagement and understanding.
 
 [MAD9034 14-1 Usability test report](https://drive.google.com/file/d/1hHN2PUJcSgKUzjxYMCif1ocxvVFKlHYI/view?usp=sharing)
 
+[MAD9034 14-2 Presenting your work](https://drive.google.com/file/d/120CzxePVvj9ylPc9VY4iZw2c3cVf_03d/view?usp=sharing)
+
 ## Usability Testing Reporting
 
 ### What is a usability test report?
@@ -123,6 +125,91 @@ Ensure the fix:
 - Include positive findings to preserve good aspects.
 - Choose the right format for your audience.
 
-## Final Presentation
+## Presenting Your Work
 
-<Badge type="error" text="Coming Soon!" />
+### Types of Presentations
+
+Understanding the context and purpose of different types of presentations is crucial in UX design. These can include:
+
+1. **Scope and Strategy Presentations:** Discussing project boundaries and objectives.
+2. **Design Reviews:** Sharing design progress for feedback and direction.
+3. **Research Results:** Presenting findings from user or market research.
+4. **Stakeholder Presentations:** Gaining buy-in or approval at critical project junctures.
+5. **Final Deliverable Presentations:** Showcasing the completed project.
+
+For effective presentations, consider:
+
+- **Audience:** Who are they and what is their interest in your project?
+- **Purpose:** What do you intend to achieve with this presentation?
+- **Agenda:** Outline the key points and structure of your presentation.
+- **Stakeholders:** Identify the decision-makers and influencers.
+- **Desired Outcome:** What is the ideal result of this presentation?
+
+#### Scope and Strategy Presentation
+
+- **When:** Early in the project.
+- **What:** Define what’s included and the project goals.
+- **Level of Detail:** Focus on the problem to be solved, not design proposals.
+- **Content:** Include market, product, and user research.
+
+#### Design Reviews
+
+- **When:** Throughout the project.
+- **What to Cover:** Design direction, broader perspectives, concerns, constraints, and course corrections.
+- **Content:** Present enough to elicit the feedback you need.
+
+#### Research Results
+
+- **When:** Post-research activities.
+- **What to Cover:** Share learnings, discuss results, and collaborate on recommendations.
+- **Content:** Present data/results and recommendations, either formally or informally.
+
+#### Presenting to Stakeholders for Buy-In
+
+- **When:** At critical decision points.
+- **What to Cover:** Scope, goals, value, and impact of the project.
+- **Content:** Research, concepts, storyboards, technical evaluations, and effort scoping.
+
+#### Presenting Final Deliverables
+
+- **When:** Project completion.
+- **What to Cover:** Final output and supporting materials.
+- **Content:** Focus on key elements; be prepared with additional material for questions.
+
+### Giving and Receiving Feedback
+
+**Good Feedback:**
+
+- Specific, objective, and aligned with product/user goals.
+- Open to diverse opinions without needing consensus.
+
+**Poor Feedback:**
+
+- Vague, subjective, based on personal preference.
+- Expects immediate agreement from the receiver.
+
+#### Receiving Feedback
+
+- Understand that feedback targets the design, not you personally.
+- Aim to improve the design, even if it requires significant changes.
+- Stay open and non-defensive; seek clarity on feedback.
+- Consider all feedback, but you don’t have to implement every suggestion.
+
+### Planning Presentations
+
+#### Preparation Essentials
+
+- Know your time limit and essential content.
+- Understand your audience and their background knowledge.
+- Choose content that will drive the desired feedback or discussion.
+- Consider the presentation setting: low-tech, mid-tech, high-tech, or remote.
+
+#### DOs and DON’Ts
+
+| DOs                                                            | DON’Ts                                       |
+| -------------------------------------------------------------- | -------------------------------------------- |
+| Clearly state the presentation's purpose.                      | Overwhelm with irrelevant details.           |
+| Approach with an open mind.                                    | Focus on effort over substance.              |
+| Ensure your material communicates your intentions effectively. | Apologize for perceived shortcomings.        |
+|                                                                | Rely on a script or get defensive.           |
+|                                                                | Ask generic questions like “Do you like it?” |
