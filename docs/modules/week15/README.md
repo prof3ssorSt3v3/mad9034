@@ -30,10 +30,10 @@ You must attend attend both presentations days as you must comment on your class
 | Tuesday           |                    | Thursday          |                           |
 | ----------------- | ------------------ | ----------------- | ------------------------- |
 | **Presentations** | **Feedback**       | **Presentations** | **Feedback**              |
-| Karina            | Taylor, Evans      | Taylor            | Karina, Bruno             |
-| Bruno             | Taylor, Evans      | Evans             | Karina, Bruno             |
-| Wing Shan         | Emy, Diego         | Emy               | Wing Shan, Lahoucine      |
-| Lahoucine         | Emy, Diego         | Diego             | Wing Shan, Lahoucine      |
+| Diego             | Taylor, Evans      | Taylor            | Diego, Bruno              |
+| Bruno             | Taylor, Evans      | Evans             | Diego, Bruno              |
+| Wing Shan         | Emy, Karina        | Emy               | Wing Shan, Lahoucine      |
+| Lahoucine         | Emy, Karina        | Karina            | Wing Shan, Lahoucine      |
 | Serdar            | Armand, Evan       | Armand            | Serdar, Daniel Jean Denis |
 | Daniel Jean Denis | Armand, Evan       | Evan              | Serdar, Daniel Jean Denis |
 | Vincent           | Luis Gustavo, Abir | Luis Gustavo      | Vincent, Magdalena        |
