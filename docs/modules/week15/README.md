@@ -12,31 +12,31 @@ You must attend attend both presentations days as you must comment on your class
 
 ### Section 010
 
-| Tuesday           |                   | Thursday          |                |
-| ----------------- | ----------------- | ----------------- | -------------- |
-| **Presentations** | **Feedback**      | **Presentations** | **Feedback**   |
-| Hena              | Sunny, Asiya      | Sunny             | Hena, Bruno E. |
-| Bruno Eduardo     | Sunny, Asiya      | Asiya             | Hena, Bruno E. |
-| Brenda            | Luciano, Jaryn    | Luciano           | Brenda, Hadi   |
-| Hadi              | Luciano, Jaryn    | Jaryn             | Brenda, Hadi   |
-| Majed             | Thomas, Christine | Thomas            | Majed, Nicolas |
-| Nicolas           | Thomas, Christine | Christine         | Majed, Nicolas |
-| Bruno Roberto     | Jad, Samatar      | Jad               | Bruno R., Anqi |
-| Anqi              | Jad, Samatar      | Samatar           | Bruno R., Anqi |
-| Habib             | Luciano, Jad      |                   |                |
+| Tuesday       |                            | Thursday      |                            |
+| ------------- | -------------------------- | ------------- | -------------------------- |
+| **Presenter** | **Receives Feedback From** | **Presenter** | **Receives Feedback From** |
+| Hena          | Sunny, Majed               | Sunny         | Hena, Samatar              |
+| Bruno Eduardo | Asiya, Jad                 | Asiya         | Bruno E., Habib            |
+| Brenda        | Luciano, Christine         | Luciano       | Samatar, Anqi              |
+| Hadi          | Jaryn, Thomas              | Jaryn         | Hadi, Bruno R              |
+| Nicolas       | Jaryn, Thomas              | Thomas        | Bruno R, Nicolas           |
+| Bruno Roberto | Christine, Luciano         | Christine     | Nicolas, Hadi              |
+| Anqi          | Jad, Asiya                 | Jad           | Habib, Brenda              |
+| Habib         | Majed, Sunny               | Samatar       | Anqi, Bruno E              |
+|               |                            | Majed         | Brenda, Hena               |
 
 ### Section 020
 
-| Tuesday           |                    | Thursday          |                           |
-| ----------------- | ------------------ | ----------------- | ------------------------- |
-| **Presentations** | **Feedback**       | **Presentations** | **Feedback**              |
-| Diego             | Taylor, Evans      | Taylor            | Diego, Bruno              |
-| Bruno             | Taylor, Evans      | Evans             | Diego, Bruno              |
-| Wing Shan         | Emy, Karina        | Emy               | Wing Shan, Lahoucine      |
-| Lahoucine         | Emy, Karina        | Karina            | Wing Shan, Lahoucine      |
-| Serdar            | Armand, Evan       | Armand            | Serdar, Daniel Jean Denis |
-| Daniel Jean Denis | Armand, Evan       | Evan              | Serdar, Daniel Jean Denis |
-| Vincent           | Luis Gustavo, Abir | Luis Gustavo      | Vincent, Magdalena        |
-| Magdalena         | Luis Gustavo, Abir | Abir              | Vincent, Magdalena        |
-| Giselle           | Teagan, Taylor     | Teagan            | Karina, Bruno             |
-| Karla Mariana     | Teagan, Evans      |                   |                           |
+| Tuesday           |                            | Thursday      |                             |
+| ----------------- | -------------------------- | ------------- | --------------------------- |
+| **Presenter**     | **Receives Feedback From** | **Presenter** | **Receives Feedback From**  |
+| Diego             | Taylor, Evans              | Taylor        | Diego, Bruno, Karla Mariana |
+| Bruno             | Taylor, Evans              | Evans         | Diego, Bruno, Karina        |
+| Wing Shan         | Emy, Karina                | Emy           | Wing Shan, Lahoucine        |
+| Lahoucine         | Emy, Karina                | Karina        | Wing Shan, Lahoucine        |
+| Serdar            | Armand, Evan               | Armand        | Serdar, Daniel Jean Denis   |
+| Daniel Jean Denis | Armand, Evan               | Evan          | Serdar, Daniel Jean Denis   |
+| Vincent           | Luis Gustavo, Abir         | Luis Gustavo  | Vincent, Magdalena          |
+| Magdalena         | Luis Gustavo, Abir         | Abir          | Vincent, Magdalena          |
+| Giselle           | Teagan, Taylor             | Teagan        | Karina, Karla Mariana       |
+| Karla Mariana     | Teagan, Evans              |               |                             |
