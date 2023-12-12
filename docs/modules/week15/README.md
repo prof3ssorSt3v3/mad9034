@@ -31,12 +31,12 @@ You must attend attend both presentations days as you must comment on your class
 | ----------------- | -------------------------- | ------------- | --------------------------- |
 | **Presenter**     | **Receives Feedback From** | **Presenter** | **Receives Feedback From**  |
 | Diego             | Taylor, Evans              | Taylor        | Diego, Bruno, Karla Mariana |
-| Bruno             | Taylor, Evans              | Evans         | Diego, Bruno, ?             |
+| Bruno             | Taylor, Evans              | Evans         | Diego, Bruno, Giselle       |
 | Wing Shan         | Emy, Karina                | Emy           | Wing Shan, Lahoucine        |
 | Lahoucine         | Emy, Karina                | Karina        | Wing Shan, Lahoucine        |
 | Serdar            | Armand, Evan               | Armand        | Serdar, Daniel Jean Denis   |
 | Daniel Jean Denis | Armand, Evan               | Evan          | Serdar, Daniel Jean Denis   |
 | Vincent           | Luis Gustavo, Abir         | Luis Gustavo  | Vincent, Magdalena          |
 | Magdalena         | Luis Gustavo, Abir         | Abir          | Vincent, Magdalena          |
-| Giselle           | Teagan, Taylor             | Teagan        | Karla Mariana, ?            |
+| Giselle           | Teagan, Taylor             | Teagan        | Karla Mariana, Giselle      |
 | Karla Mariana     | Teagan, Evans              |               |                             |
