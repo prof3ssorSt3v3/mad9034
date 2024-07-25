@@ -2,11 +2,15 @@
 
 ## Welcome
 
-Welcome to the User Experience Design (UXD) course! Over the course of this program, you'll dive into the world of UXD and learn how to design mobile applications that users not only like but also love.
+## HI LAURA
+
+Welcome to the User Experience Design (UXD) course! Over the course of this program, you'll dive into the world of UXD and learn how to design mobile applications that users not only like but also
+love.
 
 Our class meets twice a week, with each session lasting two hours. For details on class schedules and location, please refer to the [Overview](../../overview/README.md) page.
 
-To make the most of this course, it's crucial to prepare for each week's lessons by thoroughly reviewing the module before each class. Active participation and success in the course depend on your commitment to this preparation. Additionally, in-class exercises will contribute to your final grade, so be sure to attend.
+To make the most of this course, it's crucial to prepare for each week's lessons by thoroughly reviewing the module before each class. Active participation and success in the course depend on your
+commitment to this preparation. Additionally, in-class exercises will contribute to your final grade, so be sure to attend.
 
 ## Learning Objectives
 
@@ -23,9 +27,11 @@ Access this week's slides here: [MAD9034 1-1 UXD Overview](https://drive.google.
 
 While often used interchangeably, User Interface (UI) and User Experience (UX) refer to distinct aspects of product or service design.
 
-**User Interface (UI):** UI focuses on the visual and interactive elements users engage with directly, such as layouts, buttons, and forms. A well-designed UI aims to be intuitive and user-friendly, enhancing navigation and interaction.
+**User Interface (UI):** UI focuses on the visual and interactive elements users engage with directly, such as layouts, buttons, and forms. A well-designed UI aims to be intuitive and user-friendly,
+enhancing navigation and interaction.
 
-**User Experience (UX):** UX takes a holistic approach, considering the entire user journey. It encompasses emotional, psychological, and practical aspects of the experience. UX design aims to create a meaningful interaction aligned with user needs and expectations.
+**User Experience (UX):** UX takes a holistic approach, considering the entire user journey. It encompasses emotional, psychological, and practical aspects of the experience. UX design aims to create
+a meaningful interaction aligned with user needs and expectations.
 
 In summary, UI deals with interface components, while UX addresses the broader user experience. Watch Don Norman's take on UX for further insights.
 
@@ -36,7 +42,8 @@ In summary, UI deals with interface components, while UX addresses the broader u
 
 ## What is UXD?
 
-User Experience Design (UXD) enhances user satisfaction by improving usability, accessibility, and overall pleasure in user-product interactions. It extends traditional human-computer interaction (HCI) design to address all aspects of user perception.
+User Experience Design (UXD) enhances user satisfaction by improving usability, accessibility, and overall pleasure in user-product interactions. It extends traditional human-computer interaction
+(HCI) design to address all aspects of user perception.
 
 For a quick overview, watch What the #\$%@ is UX Design?
 
@@ -118,4 +125,5 @@ Explore the [Five Competencies of User Experience Design](https://www.uxmatters.
 
 ![UX Design Competencies](./ux-design-competencies.png)
 
-**Remember:** Before building a mobile app, verify the viability of your idea and its alignment with user needs. A User-Centered Design approach will help create the best product experience and fulfill your business objectives effectively.
+**Remember:** Before building a mobile app, verify the viability of your idea and its alignment with user needs. A User-Centered Design approach will help create the best product experience and
+fulfill your business objectives effectively.
