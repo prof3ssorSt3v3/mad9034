@@ -2,8 +2,6 @@
 
 ## Welcome
 
-## HI LAURA
-
 Welcome to the User Experience Design (UXD) course! Over the course of this program, you'll dive into the world of UXD and learn how to design mobile applications that users not only like but also
 love.
 
