@@ -1,7 +1,7 @@
 {
   "name": "mad9034",
   "description": "UX Design Fall 2024",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "main": "index.js",
   "license": "MIT",
   "contributors": [
@@ -31,7 +31,8 @@
     "predocs:build": "npm version patch --no-git-tag-version",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "/bin/bash deploy.sh"
+    "deploy": "/bin/bash deploy.sh",
+    "sync": "git pull origin f2024"
   },
   "dependencies": {
     "workbox-cli": "^5.1.3"
