@@ -19,9 +19,9 @@ Please review this module before class for optimal engagement and understanding.
 
 <!--## Slides
 
-[MAD9034 11-1 Digital Wireframing](https://docs.google.com/presentation/d/1eTfVljq1rlvYnpX0X-ggSRAX8HKkMs9xnRwZEQWEB-k/edit?usp=sharing)-->
+[MAD9034 11-1 Digital Wireframing](https://docs.google.com/presentation/d/1eTfVljq1rlvYnpX0X-ggSRAX8HKkMs9xnRwZEQWEB-k/edit?usp=sharing)
 
-[MAD9034 11-2 Working with Risks and Unknowns](https://docs.google.com/presentation/d/1Z41EV6xg4gw4-oqn64Fdv59HXlsDMbTge75BcEjKxu0/edit?usp=sharing)
+[MAD9034 11-2 Working with Risks and Unknowns](https://docs.google.com/presentation/d/1Z41EV6xg4gw4-oqn64Fdv59HXlsDMbTge75BcEjKxu0/edit?usp=sharing)-->
 
 ## Detailed Design
 
