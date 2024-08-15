@@ -11,11 +11,11 @@ For optimal engagement and understanding, please review this module before class
 - Recognize various fidelity levels of prototypes and when to use each.
 - Identify the tools and methods suitable for different stages of prototyping.
 
-## Slides
+<!--## Slides
 
 [MAD9034 10-1 - Prototyping](https://drive.google.com/file/d/1tYoFltuyCgyE0MyRb3RNXsHBElnwRSn8/view?usp=sharing)
 
-[MAD9034 10-2 - Concept Testing](https://drive.google.com/file/d/1LsHPFionmh3O1qJJ3D4Ah2WT8Ga1tMQG/view?usp=sharing)
+[MAD9034 10-2 - Concept Testing](https://drive.google.com/file/d/1LsHPFionmh3O1qJJ3D4Ah2WT8Ga1tMQG/view?usp=sharing)-->
 
 ## Prototyping
 
