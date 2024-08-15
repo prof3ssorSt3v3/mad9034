@@ -10,11 +10,11 @@ For optimal engagement and understanding, please review this module before class
 - Differentiate between user flows and task flows.
 - Implement user flows to improve design processes.
 
-## Slides
+<!--## Slides
 
 [MAD9034 9-1 User Flows](https://drive.google.com/file/d/1jTJBPdnuD2AOJ7YdtlCiGyPlArZPTDp2/view?usp=sharing)
 
-[MAD9034 9-2 Ideation and Wireframing](https://drive.google.com/file/d/1CFt3BoEAorN_ktst-_j4zQlvUqT2m6DD/view?usp=sharing)
+[MAD9034 9-2 Ideation and Wireframing](https://drive.google.com/file/d/1CFt3BoEAorN_ktst-_j4zQlvUqT2m6DD/view?usp=sharing)-->
 
 ## User Flows
 
@@ -73,7 +73,7 @@ Begin with user-centered Information Architecture (IA). Validate with user flows
 
 ## Ideation
 
-Review [week 3's module](https://mad9034.github.io/f2023/modules/week3) on ideation.
+Review [week 3's module](https://mad9034.github.io/f2024/modules/week3) on ideation.
 
 ## Wireframes
 
