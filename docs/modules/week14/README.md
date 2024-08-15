@@ -14,11 +14,11 @@ Please review this module before class for optimal engagement and understanding.
 - Acquire skills to propose practical solutions based on test results.
 - Understand how to present findings clearly and compellingly.
 
-## Slides
+<!--## Slides
 
 [MAD9034 14-1 Usability test report](https://drive.google.com/file/d/1hHN2PUJcSgKUzjxYMCif1ocxvVFKlHYI/view?usp=sharing)
 
-[MAD9034 14-2 Presenting your work](https://drive.google.com/file/d/120CzxePVvj9ylPc9VY4iZw2c3cVf_03d/view?usp=sharing)
+[MAD9034 14-2 Presenting your work](https://drive.google.com/file/d/120CzxePVvj9ylPc9VY4iZw2c3cVf_03d/view?usp=sharing)-->
 
 ## Usability Testing Reporting
 
