@@ -17,11 +17,11 @@ Please review this module before class for optimal engagement and understanding.
 - Use the knowledge of visual design principles and elements to enhance the development of interactive prototypes, ensuring they are not only functional but also visually appealing and intuitive.
 - Improve the ability to communicate ideas and concepts visually, using design elements and principles effectively.
 
-## Slides
+<!--## Slides
 
 [MAD9034 12-1 Visual Design](https://drive.google.com/file/d/194icHQvxaBNG6vmwmi2Y7Wjm3TTrstmi/view?usp=sharing)
 
-[MAD9034 12-2 - Transitions and Animations](https://drive.google.com/file/d/1AHE5Ecxxkj5_g3ad45EPN3YSSSpdHSL7/view?usp=sharing)
+[MAD9034 12-2 - Transitions and Animations](https://drive.google.com/file/d/1AHE5Ecxxkj5_g3ad45EPN3YSSSpdHSL7/view?usp=sharing)-->
 
 ## Understanding Visual Design
 
