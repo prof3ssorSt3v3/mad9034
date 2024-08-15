@@ -1,8 +1,8 @@
 # Week 8: Reading Week
 
-## Chill
+## Congratulations! You made it through half of your course.
 
-Take some time off to relax and recharge!
+Take some time to relax and recharge!
 
 <YouTube
   title="Deep Underwater • Relaxing Sleep Music in an Underwater Paradise"
