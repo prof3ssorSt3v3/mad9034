@@ -16,11 +16,11 @@ Please review this module before class for optimal engagement and understanding.
 - Differentiate between various types of usability testing and their applications.
 - Master the creation and use of essential testing documentation, including test plans, scripts, and NDAs.
 
-## Slides
+<!--## Slides
 
 [MAD9034 13-1 - Usability Testing](https://drive.google.com/file/d/1GTkkDzas2LmgrJIEzE-fPp1bO0dKmf74/view?usp=sharing)
 
-[MAD9034 13-2 How to run a test](https://drive.google.com/file/d/1hqhx30eixHz9a52ONiuOY9aJpk9uTvio/view?usp=sharing)
+[MAD9034 13-2 How to run a test](https://drive.google.com/file/d/1hqhx30eixHz9a52ONiuOY9aJpk9uTvio/view?usp=sharing)-->
 
 ## Usability Testing
 
