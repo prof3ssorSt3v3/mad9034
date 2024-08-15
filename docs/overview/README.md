@@ -20,13 +20,13 @@ Going beyond the basics of graphics and user interface fundamentals, students le
 
 **Section 010:** two days
 
-- :clock7: Tuesday 7pm - 9pm
+- :clock7: Monday 5pm - 7pm
 - :clock7: Thursday 7pm - 9pm
 
 **Section 020:** two days
 
-- :clock5: Tuesday 5pm - 7pm
-- :clock5: Thursday 5pm - 7pm
+- :clock5: Wednesday 12pm - 2pm
+- :clock5: Friday 1pm - 3pm
 
 ## User Experience Design Process
 
