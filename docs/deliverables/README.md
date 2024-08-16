@@ -16,6 +16,10 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 <Badge text=
 "Section 020: Friday, September 13th @12:00pm (noon)" />
 
+| Section 010                                | Section 020                                |
+| ------------------------------------------ | ------------------------------------------ |
+| Thursday, September 12th @12:00 PM (noon)  | Friday, September 13th @12:00 PM (noon)    |
+
 ### Exercise 2 — Synthesized Research Results
 
 [Synthesized Research Result Details](./miniProject/exercise2.md)
