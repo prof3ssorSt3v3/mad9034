@@ -54,9 +54,9 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 Worth <Badge type="error" text="40%" /> of Final Grade
 
-You will follow the UX design process based on the project of your choice, to produce weekly deliverables starting Week 05. At the end you will showcase your completed work in a presentation slide.
+You will follow the UX design process based on the project of your choice, to produce weekly deliverables starting Week 05. At the end you will showcase your completed work in a presentation deck.
 
-### <span style="color:#3eaf7c">**Empathize**</span>
+### <span style="color:#3C3C3D">**Empathize**</span>
 
 ---
 
