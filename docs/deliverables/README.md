@@ -11,17 +11,17 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 [User Research Details](./miniProject/exercise1.md)
 
 
-| Section 010                                | Section 020                                |
-| ------------------------------------------ | ------------------------------------------ |
-| Thursday, September 12th @12:00 PM (noon)  | Friday, September 13th @12:00 PM (noon)    |
+| Section 010                                  | Section 020                                  |
+| -------------------------------------------- | -------------------------------------------- |
+| Thursday, September 12th @12:00 PM (noon)    | Friday, September 13th @12:00 PM (noon)      |
 
 ### Exercise 2 — Synthesized Research Results
 
 [Synthesized Research Result Details](./miniProject/exercise2.md)
 
-| Section 010                                | Section 020                                |
-| ------------------------------------------ | ------------------------------------------ |
-| Sunday, September 15th @11:59 PM (midnight)| Sunday, September 15th @11:59 PM (midnight)|
+| Section 010                                  | Section 020                                  |
+| -------------------------------------------- | -------------------------------------------- |
+| Sunday, September 15th @11:59 PM (midnight)  | Sunday, September 15th @11:59 PM (midnight)  |
 
 ### Exercise 3 — Brainstorming
 
