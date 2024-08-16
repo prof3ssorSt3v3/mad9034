@@ -12,7 +12,7 @@ You must attend attend both presentations days as you must comment on your class
 
 ### Section 010
 
-| Monday       |                            | Thursday      |                            |
+| Monday        |                            | Thursday      |                            |
 | ------------- | -------------------------- | ------------- | -------------------------- |
 | **Presenter** | **Receives Feedback From** | **Presenter** | **Receives Feedback From** |
 |               |                            |               |                            |
