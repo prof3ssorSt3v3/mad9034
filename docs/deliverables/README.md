@@ -1,6 +1,6 @@
 # MAD9034 Deliverables
 
-Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others. There will be a mini project (10%), major project (40%), midterm (10%), UXD portfolio slide package (30%) and final presentation (10%).
+Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others. There will be a warm-up project (10%), a major project (40%), a midterm (10%), a UXD portfolio slide package (30%) and a final presentation (10%).
 
 ## Warm-up Project
 
@@ -10,7 +10,8 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [User Research Details](./miniProject/exercise1.md)
 
-<Badge text="Both Sections: Thursday September 14th @12:00pm (noon)" />
+<Badge text="Section 010: Thursday, September 12th @12:00pm (noon)" />
+<Badge text="Section 020: Friday, September 13th @12:00pm (noon)" />
 
 ### Exercise 2 — Synthesized Research Results
 
