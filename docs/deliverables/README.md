@@ -60,11 +60,12 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-#### Product Research (Group)
+#### [Assignment 1: Product Research](./majorProject/part1.md) (Group work)
 
-[Product Research Details ](./majorProject/part1.md)
 
-<Badge text="Both Sections: Thursday October 5th @11:59pm" />
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Thursday, October 3rd @11:59PM (midnight)       | Friday, October 4th @11:59PM (midnight)         |
 
 #### Persona Research (Group)
 
