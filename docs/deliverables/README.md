@@ -6,9 +6,9 @@ Every week there will be work for you to complete inside or outside of class. So
 
 Worth <Badge type="error" text="10%" /> of Final Grade
 
-### Exercise 1 — User Research
+[### Exercise 1 — User Research](./miniProject/exercise1.md)
 
-[User Research Details](./miniProject/exercise1.md)
+<!--[User Research Details](./miniProject/exercise1.md)-->
 
 
 | Section 010                                     | Section 020                                     |
