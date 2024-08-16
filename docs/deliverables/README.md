@@ -10,11 +10,6 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [User Research Details](./miniProject/exercise1.md)
 
-<Badge text=
-"Section 010: Thursday, September 12th @12:00pm (noon)" />
-
-<Badge text=
-"Section 020: Friday, September 13th @12:00pm (noon)" />
 
 | Section 010                                | Section 020                                |
 | ------------------------------------------ | ------------------------------------------ |
@@ -24,7 +19,9 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [Synthesized Research Result Details](./miniProject/exercise2.md)
 
-<Badge text="Both Sections: Sunday September 17th @11:59pm" />
+| Section 010                                | Section 020                                |
+| ------------------------------------------ | ------------------------------------------ |
+| Sunday, September 15th @11:59 PM (midnight)| Sunday, September 15th @11:59 PM (midnight)|
 
 ### Exercise 3 — Brainstorming
 
