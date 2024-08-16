@@ -15,43 +15,40 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 | ----------------------------------------------- | ----------------------------------------------- |
 | Thursday, September 12th @12:00PM (noon)        | Friday, September 13th @12:00PM (noon)          |
 
-### Exercise 2 — Synthesized Research Results
+### [Exercise 2 — Synthesized Research Results](./miniProject/exercise2.md)
 
-[Synthesized Research Result Details](./miniProject/exercise2.md)
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | Sunday, September 15th @11:59PM (midnight)      | Sunday, September 15th @11:59PM (midnight)      |
 
-### Exercise 3 — Brainstorming
+### [Exercise 3 — Brainstorming](./miniProject/exercise3.md)
 
-[Brainstorming Details](./miniProject/exercise3.md)
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | Thursday, September 19th @12:00PM (noon)        | Friday, September 20th @12:00PM (noon)          |
 
-### Exercise 4 — Prototyping
+### [Exercise 4 — Prototyping](./miniProject/exercise4.md)
 
-[Prototyping Details](./miniProject/exercise4.md)
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | Sunday, September 22nd @11:59PM (midnight)      | Sunday, September 22nd @11:59PM (midnight)      |
 
-### Exercise 5 — Testing
+### [Exercise 5 — Testing](./miniProject/exercise5.md)
 
-[Testing Details](./miniProject/exercise5.md)
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | Thursday, September 26th @11:59PM (midnight)    | Friday, September 27th @11:59PM (midnight)      |
 
-### Exercise 6 — Share Your Observations
+### [Exercise 6 — Share Your Observations](./miniProject/exercise6.md)
 
-[Share Your Observations Details](./miniProject/exercise6.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Thursday, September 26th @11:59PM (midnight)    | Friday, September 27th @11:59PM (midnight)      |
 
-<Badge text="Both Sections: Thursday September 28th @11:59pm" />
 
 ## Major Project
 
