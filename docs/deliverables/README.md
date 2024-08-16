@@ -67,33 +67,37 @@ You will follow the UX design process based on the project of your choice, to pr
 | ----------------------------------------------- | ----------------------------------------------- |
 | Thursday, October 3rd @11:59PM (midnight)       | Friday, October 4th @11:59PM (midnight)         |
 
-#### Persona Research (Group)
+#### [Assignment 2: Persona Research](./majorProject/part2.md) (Group work)
 
-[Persona Research Details ](./majorProject/part2.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Monday, October 7th @12:00PM (noon)             | Wednesday, October 9th @12:00PM (noon)          |
 
-<Badge text="Both Sections: Tuesday October 10th @12:00pm" />
 
-### <span style="color:#3eaf7c">**Define**</span>
+### <span style="color:#3C3C3D">**Define**</span>
 
 ---
 
-#### Persona Creation
+#### [Assignment 3: Persona Creation](./majorProject/part3.md)
 
-[Persona Creation Details ](./majorProject/part3.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Sunday, October 13th @11:59PM (midnight)        | Sunday, October 13th @11:59PM (midnight)        |
 
-<Badge text="Both Sections: Sunday October 15th @11:59pm" />
 
-#### Scenarios
+#### [Assignment 4: Scenarios](./majorProject/part4.md)
 
-[Scenario Details ](./majorProject/part4.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Thursday, October 17th @12:00PM (noon)          | Friday, October 18th @12:00PM (noon)            |
 
-<Badge text="Both Sections: Thursday October 19th @12:00pm (noon)" />
 
-#### Information Architecture
+#### [Assignment 5: Information Architecture](./majorProject/part5.md)
 
-[Information Architecture Details ](./majorProject/part5.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Sunday, October 20th @11:59PM (midnight)        | Sunday, October 20th @11:59PM (midnight)        |
 
-<Badge text="Both Sections: Sunday October 22nd @11:59pm" />
 
 ### <span style="color:#3eaf7c">**Ideate**</span>
 
