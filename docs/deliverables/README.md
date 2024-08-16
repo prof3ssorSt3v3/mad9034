@@ -10,8 +10,9 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 
 [User Research Details](./miniProject/exercise1.md)
 
-<Badge text="Section 010: Thursday, September 12th @12:00pm (noon)" />
-<Badge text="Section 020: Friday, September 13th @12:00pm (noon)" />
+<Badge text=
+"Section 010: Thursday, September 12th @12:00pm (noon)
+Section 020: Friday, September 13th @12:00pm (noon)" />
 
 ### Exercise 2 — Synthesized Research Results
 
