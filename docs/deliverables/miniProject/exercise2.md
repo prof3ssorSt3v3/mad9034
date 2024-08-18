@@ -1,4 +1,4 @@
-# Exercise 2 — Synthesized Research Results
+# Exercise 2: Synthesized Research Results
 
 ## Introduction
 
@@ -8,8 +8,8 @@ Great work completing the user research phase! Now, it's time to distill all the
 
 ::: tip Figma File
 
-Continue to use the Figma file from exercise 1.
-Complete your work on the corresponding page for this exercise.
+Continue to use the Figma file from Exercise 1.
+Complete your work on the the page corresponding to Exercise 2.
 
 :::
 
@@ -28,19 +28,19 @@ Complete your work on the corresponding page for this exercise.
 <!-- prettier-ignore -->
 We spoke to _____________________ [describe persona]
 
-<span style="color:#3eaf7c; font-size: 14px;">(Share essential details about the targeted user persona based on your research.)</span>
+<span style="color:#333333; font-size: 14px;">(Share essential details about the targeted user persona based on your research.)</span>
 
 <!-- prettier-ignore -->
 We noticed that _____________________ [describe challenge or opportunity]
 
-<span style="color:#3eaf7c; font-size: 14px;">(Clearly state the challenge or opportunity observed during the research.)</span>
+<span style="color:#333333; font-size: 14px;">(Clearly state the challenge or opportunity observed during the research.)</span>
 
 <!-- prettier-ignore -->
 We want to help with _____________________ [describe specifically what your product will solve]
 
-<span style="color:#3eaf7c; font-size: 14px;">(Articulate the specific solution or purpose your digital product aims to achieve for the identified challenge or opportunity.)</span>
+<span style="color:#333333; font-size: 14px;">(Articulate the specific solution or purpose your digital product aims to achieve for the identified challenge or opportunity.)</span>
 
-7.  **Submission:** Once your group has completed the problem statement, one member of the group should export them your work and submit to Brightspace.
+7.  **Submission:** Once your group has completed the problem statement, one member of the group should export your work and submit to Brightspace.
 
 By following these instructions, your team will be well-equipped to present valuable insights and a well-defined problem statement, setting the stage for the next phase of your project. Happy synthesizing!
 
@@ -52,7 +52,9 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-<Badge text="Both Sections: Sunday September 17th @11:59pm" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Sunday, September 15th @11:59PM (midnight)           | Sunday, September 15th @11:59PM (midnight)           |
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 2 — Synthesized Research Results`.
