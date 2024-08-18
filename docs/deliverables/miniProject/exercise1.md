@@ -16,7 +16,7 @@ Remember, the UCD process emphasizes putting the users at the core of the design
 
 3. **Collaborator Invitations:** Invite all your team members and the professor to the Figma project with **edit permissions** so that everyone can collaborate seamlessly.
 
-4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File ](https://drive.google.com/file/d/1PTfAn4_ucUKQDlG7UtVZ-QFEVcxITuOv/view?usp=sharing)
+4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File](https://drive.google.com/file/d/1PTfAn4_ucUKQDlG7UtVZ-QFEVcxITuOv/view?usp=drive_link)
 
 5. **Navigating to User Research:** Inside the Figma project, find "Exercise 1: User Research" and navigate to that section.
 
