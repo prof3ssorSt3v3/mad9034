@@ -60,14 +60,14 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-#### [Assignment 1: Product Research](./majorProject/part1.md) (Group work)
+### [Assignment: Product Research](./majorProject/part1.md) (Group work)
 
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | Thursday, October 3rd @11:59PM (midnight)       | Friday, October 4th @11:59PM (midnight)         |
 
-#### [Assignment 2: Persona Research](./majorProject/part2.md) (Group work)
+### [Assignment: Persona Research](./majorProject/part2.md) (Group work)
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
@@ -78,67 +78,70 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-#### [Assignment 3: Persona Creation](./majorProject/part3.md)
+### [Assignment: Persona Creation](./majorProject/part3.md)
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | Sunday, October 13th @11:59PM (midnight)        | Sunday, October 13th @11:59PM (midnight)        |
 
 
-#### [Assignment 4: Scenarios](./majorProject/part4.md)
+### [Assignment: Scenarios](./majorProject/part4.md)
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | Thursday, October 17th @12:00PM (noon)          | Friday, October 18th @12:00PM (noon)            |
 
 
-#### [Assignment 5: Information Architecture](./majorProject/part5.md)
+### [Assignment: Information Architecture](./majorProject/part5.md)
 
 | Section 010                                     | Section 020                                     |
 | ----------------------------------------------- | ----------------------------------------------- |
 | Sunday, October 20th @11:59PM (midnight)        | Sunday, October 20th @11:59PM (midnight)        |
 
 
-### <span style="color:#3eaf7c">**Ideate**</span>
+### <span style="color:#3C3C3D">**Ideate**</span>
 
 ---
 
-#### Test Ready Low-Fidelity Prototype
+### [Assignment: Test Ready Low-Fidelity Prototype](./majorProject/part6.md)
 
-[Test Ready Low-fi Prototype Details ](./majorProject/part6.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Thursday, November 7th @12:00PM (noon)          | Friday, November 8th @12:00PM (noon)            |
 
-<Badge text="Both Sections: Thursday November 9th @11:59pm" />
 
-#### Midterm: Mid-Fidelity Wireframes
+### [Midterm: Mid-Fidelity Wireframes (20% of final mark)](./majorDeliverables/midterm.md)
 
-[Midterm Details (20% of Final Mark)](./majorDeliverables/midterm.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Sunday, November 17th @11:59PM (midnight)       | Sunday, November 17th @11:59PM (midnight)       |
 
-<Badge text="Both Sections: Sunday November 19th @11:59pm" />
 
-### <span style="color:#3eaf7c">**Prototype**</span>
-
----
-
-#### Visual Design
-
-[Visual Design Details ](./majorProject/part7.md)
-
-<Badge text="Both Sections: Sunday November 26th @11:59pm" />
-
-### <span style="color:#3eaf7c">**Test**</span>
+### <span style="color:#3C3C3D">**Prototype**</span>
 
 ---
 
-#### Testing Documentation
+### [Assignment: Visual Design](./majorProject/part7.md)
 
-[Testing Documentation Details ](./majorProject/part8.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Sunday, November 24th @11:59PM (midnight)       | Sunday, November 24th @11:59PM (midnight)       |
 
-<Badge text="Both Sections: Sunday Dec 3rd @11:59pm" />
 
-### <span style="color:#3eaf7c">**Present**</span>
+### <span style="color:#3C3C3D">**Test**</span>
 
 ---
 
-#### Final: Presentation
+### [Testing Documentation](./majorProject/part8.md)
 
-[Final Presentation Details (30%)](./majorDeliverables/finalPresentation.md)
+| Section 010                                     | Section 020                                     |
+| ----------------------------------------------- | ----------------------------------------------- |
+| Sunday, December 1st @11:59PM (midnight)        | Sunday, December 1st @11:59PM (midnight)        |
+
+
+### <span style="color:#3C3C3D">**Present**</span>
+
+---
+
+### [Final: Presentation (30% of final mark)](./majorDeliverables/finalPresentation.md)
+
