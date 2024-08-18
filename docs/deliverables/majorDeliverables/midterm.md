@@ -1,16 +1,16 @@
-# **Midterm - Mid-Fidelity Wireframes**
+# **Midterm: Mid-Fidelity Wireframes (20% of your final grade)**
 
 ## **Introduction**
 
-Transition your initial hand-drawn prototypes into medium-fidelity digital wireframes using Figma. This phase focuses on integrating user insights and applying design principles to refine the app's user interface for an optimal user experience.
+Transition your initial hand-drawn prototype into medium-fidelity digital wireframes using Figma. This phase focuses on integrating user insights from your testing session, and applying design principles to refine the app's user flow and interface for an optimal user experience.
 
 ## **Task Overview**
 
-Convert your initial prototype into a refined, interactive digital wireframes. This refined design will greatly enhance your app's visual clarity and usability.
+Convert your initial prototype into a refined, interactive, digital wireframe. This refined design will greatly enhance your app's visual clarity and usability.
 
 ## **Project Scope**
 
-For this midterm, concentrate on refining and submitting three pivotal screens that embody your app's central functionality.
+For this midterm, concentrate on refining and submitting **three pivotal screens that embody your app's central functionality**.
 
 ## **Wireframe Specifications**
 
@@ -22,12 +22,12 @@ For this midterm, concentrate on refining and submitting three pivotal screens t
 
 Select three primary screens representing the app's main interactions, such as:
 
-- 3 required screens: for example:
-
 1. Home
 2. Menu screen
 3. List screen
+
    OR
+
 4. Home/Browse
 5. Results
 6. Detail screen
@@ -57,7 +57,9 @@ Ensure your wireframes cater to the following fundamental user interactions:
 
 **Due Dates:**
 
-<Badge text="Both Sections: Sunday November 19th @11:59pm" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Sunday, November 17th @11:59PM (midnight)            | Sunday, November 17th @11:59PM (midnight)            |
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Locate `Midterm: Mid-fidelity Wireframes`.

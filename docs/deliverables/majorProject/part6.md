@@ -52,12 +52,18 @@ Your users should be able to:
 2. **Figma Integration**: Add the captured prototype to your Figma file.
 
 **Paper Prototype (Complete by):**<br>
+This is very important because you must have your prototype ready to test in class.
+
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Thursday, November 7th @12:00PM (noon)               | Friday, November 8th @12:00PM (noon)                 |
 
 **Final Due Date**<br>
-<Badge text="Both Sections: Thursday November 9th @11:59pm" />
+Add notes from the testing session and re-submit.
+
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Thursday, November 7th @11:59PM (midnight)           | Friday, November 8th @11:59PM (midnight)             |
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Select `Test-Ready Low-Fidelity Prototype`.
