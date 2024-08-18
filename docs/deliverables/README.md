@@ -2,6 +2,11 @@
 
 Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others. There will be a warm-up project (10%), a major project (40%), a midterm (10%), a UXD portfolio slide package (30%) and a final presentation (10%).
 
+::: warning Submission Requirements
+
+All your work for the warm-up project and for the major project will be done in Figma. However, for all the graded deliverables, you must submit a PDF of your Figma work to Brightspace. Professors will look at Figma, but they will only mark the deliverable that was submitted in Brightspace on the specified due date.
+:::
+
 ## Warm-up Project
 
 Worth <Badge type="error" text="10%" /> of Final Grade
