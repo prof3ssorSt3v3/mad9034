@@ -1,15 +1,15 @@
-# Exercise 3 — Brainstorming
+# Exercise 3: Brainstorming
 
 ## Introduction
 
-Welcome to the creative ideation phase! This week, we will channel our creativity to come up with innovative concepts that address the problem you identified in your problem statement.
+Welcome to the creative ideation phase! This week, you will channel your creativity to come up with innovative design concepts that address the problem you identified in your problem statement.
 
 ## Instructions
 
 ::: tip Figma File
 
-Continue to use the Figma file from exercise 1.
-Complete your work on the corresponding page for this exercise.
+Continue to use the Figma file from Exercise 1.
+Complete your work on the page corresponding to Exercise 3.
 
 :::
 
@@ -46,7 +46,9 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-<Badge text="Both Sections: Thursday September 21st @12:00pm (noon)" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Thursday, September 19th @12:00PM (noon)             | Friday, September 20th @12:00PM (noon)               |
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 3 — Brainstorming`
