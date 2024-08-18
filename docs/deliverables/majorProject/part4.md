@@ -1,20 +1,23 @@
-# Major Project - Scenarios
+# Major Project: Scenarios
 
 ## Introduction
 
-Based on the user research, you have created 2 personas of your target users. You now want to create a hypothetical usage scenario to understand how your primary persona may interact with your app. "What are some of the things my user will try to accomplish with my app?"
+Based on the user research, you have created 2 personas of your target users: a primary persona and a secondary persona. 
+**For this assignment, you will focus your attention on the primary persona.** You want to create a hypothetical usage scenario to understand how your primary persona may interact with your app. With this usage scenario, you aim to answer this question: "What are some of the things my user -- represented by the primary persona -- will try to accomplish with my app?"
 
 ## Instructions
 
 - Create 1 text-based scenario for your app.
-- Your Usage Scenario must include – Basic user info, scenario/goal, summary (tie in user goals), tasks, and context of use.
+- Your Usage Scenario must include: basic user info, scenario/goal, summary (tie in user goals), tasks, and context of use.
 - Complete your scenarios in your Figma File
 
 ## Submission
 
 **Due Dates:**
 
-<Badge text="Both Sections: Thursday October 19th @12:00pm (noon)" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Thursday, October 17th @12:00PM (noon)               | Friday, October 18th @12:00PM (noon)                 |
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Scenarios
