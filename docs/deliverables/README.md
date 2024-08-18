@@ -6,7 +6,7 @@ Every week there will be work for you to complete inside or outside of class. So
 
 Worth <Badge type="error" text="10%" /> of Final Grade
 
-### [Exercise 1 — User Research](./miniProject/exercise1.md)
+### [Exercise 1: User Research](./miniProject/exercise1.md)
 
 <!--[User Research Details](./miniProject/exercise1.md)-->
 
@@ -15,35 +15,35 @@ Worth <Badge type="error" text="10%" /> of Final Grade
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Thursday, September 12th @12:00PM (noon)             | Friday, September 13th @12:00PM (noon)               |
 
-### [Exercise 2 — Synthesized Research Results](./miniProject/exercise2.md)
+### [Exercise 2: Synthesized Research Results](./miniProject/exercise2.md)
 
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Sunday, September 15th @11:59PM (midnight)           | Sunday, September 15th @11:59PM (midnight)           |
 
-### [Exercise 3 — Brainstorming](./miniProject/exercise3.md)
+### [Exercise 3: Brainstorming](./miniProject/exercise3.md)
 
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Thursday, September 19th @12:00PM (noon)             | Friday, September 20th @12:00PM (noon)               |
 
-### [Exercise 4 — Prototyping](./miniProject/exercise4.md)
+### [Exercise 4: Prototyping](./miniProject/exercise4.md)
 
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Sunday, September 22nd @11:59PM (midnight)           | Sunday, September 22nd @11:59PM (midnight)           |
 
-### [Exercise 5 — Testing](./miniProject/exercise5.md)
+### [Exercise 5: Testing](./miniProject/exercise5.md)
 
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Thursday, September 26th @11:59PM (midnight)         | Friday, September 27th @11:59PM (midnight)           |
 
-### [Exercise 6 — Share Your Observations](./miniProject/exercise6.md)
+### [Exercise 6: Share Your Observations](./miniProject/exercise6.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
