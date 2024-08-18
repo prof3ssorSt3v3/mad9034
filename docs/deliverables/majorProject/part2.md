@@ -1,14 +1,14 @@
-# Major Project - Persona Research
+# Major Project: Persona Research (group work)
 
 ## Introduction
 
-We conduct persona (user) research to understand user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies to: Produce measurable and actionable results.
+We conduct user research to understand user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies to produce measurable and actionable results. The data from user research is analysed and patterns are discovered that help identify personas. This methodology helps narrow down a large number of users in a few, manageable personas that make it easier to design for.
 
-For this assignment, you will get together with 3-4 students working on the same project to conduct persona (user) research.
+For this assignment, you will continue to work with your group to interview people representing the target market of your product, analyze the data and identify one primary and one secondary persona.
 
 ## The Goal of Persona (user) Research
 
-As you conduct your personal research you should aim to answer:
+As you conduct your persona research you should aim to answer:
 
 - **WHO** are you designing for?
 - **WHAT** are their goals?
@@ -19,13 +19,12 @@ As you conduct your personal research you should aim to answer:
 ## Instructions
 
 1. Identify your users for the primary and secondary persona
-   - Discuss how you will access your users
+   - Discuss who you will interview and how to access these users
 2. Decide what questions to ask
 3. Review and customize the persona research spreadsheet
-   - Decide what you need to know about your users (demographic info.)
-   - Make adjustments to the spreadsheet
-   - Add/remove any columns you believe are necessary/unnecessary
-4. Get access to users
+   - Decide what you need to know about your users (for example, demographic info., etc)
+   - Make adjustments to the spreadsheet: remove columns that are irrelevant to your project, add others that you need, or rename existing ones
+4. Set up calls or meetings with the people whom you will interview
 5. Begin your interviews
 
 ---
@@ -92,11 +91,18 @@ Access traditional market research data (if available):
 - Have a note-taker with you, so you can focus on facilitating the interview. ( Or, use zoom and record their voice. Ensure you get their consent first!)
 - Get user permission in the Non Disclosure Agreement [(NDA example)](https://docs.google.com/forms/d/1jDQfyZg0oNOnJdgZYecHtr0E1483E683BaEdcUPfyzc/edit?usp=sharing)
 
+::: Primary and Secondary Personas
+
+Please remember that for this project, you must identify one primary and one secondary persona. You will work with these 2 personas until the end of the semester. If you need any clarification, please ask your professor.
+:::
+
 ## Submission
 
 **Due Dates:**
 
-<Badge text="Both Sections: Tuesday October 10th @12:00pm" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Monday, October 7th @12:00PM (noon)                  | Wednesday, October 9th @12:00PM (noon)               |
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Persona Research.

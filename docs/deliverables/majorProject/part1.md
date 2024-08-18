@@ -1,4 +1,4 @@
-# Major Project: Product Research
+# Major Project: Product Research (group work)
 
 ## Introduction
 
