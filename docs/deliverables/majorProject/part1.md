@@ -1,10 +1,10 @@
-# Major Project - Product Research
+# Major Project: Product Research
 
 ## Introduction
 
-We conduct product research to evaluate how a product might fit into the market, to learn what the desired characteristics might be. It helps companies to understand what the customers really want, and what is likely to succeed in the market using available technology. It can help to refine new product ideas.
+We conduct product research to evaluate how a product might fit into the market, to learn about the competition and determine what our product differentiator could be. Product research helps companies understand what customers really want, and what is likely to succeed in the market using available technology. Product research helps refine new product ideas.
 
-For this assignment, you will get together with 3-4 students working on the same project as you are to conduct product research.
+Before you start working on this assignment, you must have your major project topic selected. For this assignment, you will get together with 3-4 students who selected the same topic as you, and you will conduct product research together. Product Research is a group deliverable.
 
 ## Topics
 
@@ -57,13 +57,13 @@ There will be three main parts to the app:
 
 ## Instructions
 
-1. **Group Formation:** Gather 3-4 students working on the same project as you are to conduct product research.
+1. **Group Formation:** Gather 3-4 students working on the same project as you, amd to conduct product research together.
 
 2. **Figma Project Creation:** Choose one team member to create a Figma project and name it MajorProject-Group#.
 
 3. **Collaborator Invitations:** Invite all your team members and the professor to the Figma project with edit permissions so that everyone can collaborate seamlessly.
 
-4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File](https://drive.google.com/file/d/1ZitqEnMXrTA9gFIgMG2JQgjfbwyWpKO2/view?usp=sharing)
+4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File](https://drive.google.com/file/d/1PTfAn4_ucUKQDlG7UtVZ-QFEVcxITuOv/view?usp=drive_link)
 
 5. **Division of Work:** Assign a group member to research each of these topics:
    1. **What competitors exist? (digital or other?)**
@@ -93,7 +93,9 @@ There will be three main parts to the app:
 
 **Due Dates:**
 
-<Badge text="Both Sections: Thursday October 5th @11:59pm" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Thursday, October 3rd @11:59PM (midnight)            | Friday, October 4th @11:59PM (midnight)              |
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Product Research.
