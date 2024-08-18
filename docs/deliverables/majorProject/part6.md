@@ -1,8 +1,8 @@
-# **Major Project - Test-Ready Low-Fidelity Prototype**
+# **Major Project: Test-Ready Low-Fidelity Prototype**
 
 ## **Introduction**
 
-Prepare a test-ready low-fidelity prototype paper prototype, based on your predefined scenario and information architecture (IA). This exercise will help you validate your app concept's usability, ensuring users can seamlessly navigate through the intended workflow.
+Prepare a test-ready, low-fidelity paper prototype, based on your pre-defined scenario and information architecture (IA). This exercise will help you validate your design concept's usability, ensuring users can seamlessly navigate through the intended workflow.
 
 ## **Instructions**
 
@@ -52,7 +52,9 @@ Your users should be able to:
 2. **Figma Integration**: Add the captured prototype to your Figma file.
 
 **Paper Prototype (Complete by):**<br>
-<Badge text="Both Sections: Thursday November 9th @noon" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Thursday, November 7th @12:00PM (noon)               | Friday, November 8th @12:00PM (noon)                 |
 
 **Final Due Date**<br>
 <Badge text="Both Sections: Thursday November 9th @11:59pm" />
