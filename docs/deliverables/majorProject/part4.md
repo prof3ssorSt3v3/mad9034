@@ -3,7 +3,7 @@
 ## Introduction
 
 Based on the user research, you have created 2 personas of your target users: a primary persona and a secondary persona. 
-**For this assignment, you will focus your attention on the primary persona.** You want to create a hypothetical usage scenario to understand how your primary persona may interact with your app. With this usage scenario, you aim to answer this question: "What are some of the things my user -- represented by the primary persona -- will try to accomplish with my app?"
+**For this assignment, you will focus your attention on the primary persona.** You want to create a hypothetical usage scenario to understand how your **primary persona** may interact with your app. With this usage scenario, you aim to answer this question: "What are some of the things my user -- represented by the **primary persona** -- will try to accomplish with my app?"
 
 ## Instructions
 
