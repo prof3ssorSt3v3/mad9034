@@ -1,24 +1,24 @@
-# Exercise 1 — User Research
+# Exercise 1: User Research
 
 ## Introduction
 
-To begin the mini project, you'll collaborate in groups of 3-4 students to design an Apple Watch fitness application. The objective is to experience the User-Centered Design (UCD) process in a fast-tracked, 3-week design sprint.
+To begin the warm-up project, you'll collaborate in groups of 3-4 students to design an Apple Watch fitness application. The objective is to experience the User-Centered Design (UCD) process in a fast-tracked, 3-week design sprint.
 
 In this initial phase, your focus is on conducting user research through user interviews. This step is vital as it serves as a prerequisite for exercises 2-6.
 
-Remember, the UCD process emphasizes putting the users at the core of the design, ensuring that your application is user-friendly and aligned with their needs. By conducting user interviews effectively, you will be equipped to move forward with the rest of the mini-project. Good luck with Exercise 1!
+Remember, the UCD process emphasizes putting the users at the core of the design, ensuring that your application is user-friendly and aligned with their needs. By conducting user interviews effectively, you will be equipped to move forward with the rest of the warm-up project. Good luck with Exercise 1!
 
 ## Instructions
 
 1. **Group Formation:** Gather 3-4 people to form your team. Use Brightspace > Groups to sign up as a group.
 
-2. **Figma Project Creation:** Choose one team member to create a Figma project and name it MiniProject-Group#.
+2. **Figma Project Creation:** Choose one team member to create a Figma project and name it Warm-upProject-Group#.
 
-3. **Collaborator Invitations:** Invite all your team members and the professor to the Figma project with edit permissions so that everyone can collaborate seamlessly.
+3. **Collaborator Invitations:** Invite all your team members and the professor to the Figma project with **edit permissions** so that everyone can collaborate seamlessly.
 
-4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File ](https://drive.google.com/file/d/1ce7vq35rpi8RnQh9fYwt5tVW8kMY08E6/view?usp=drive_link)
+4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File ](https://drive.google.com/file/d/1PTfAn4_ucUKQDlG7UtVZ-QFEVcxITuOv/view?usp=sharing)
 
-5. **Navigating to User Research:** Inside the Figma project, find "Exercise 1 - User Research" and navigate to that section.
+5. **Navigating to User Research:** Inside the Figma project, find "Exercise 1: User Research" and navigate to that section.
 
 6. **Conducting Interviews:** Each student in your group is responsible for conducting 3 interviews, with 3 different individuals. Use the provided template to record your findings.
 
@@ -77,7 +77,9 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-<Badge text="Both Sections: Thursday September 14th @12:00pm (noon)" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Thursday, September 12th @12:00PM (noon)             | Friday, September 13th @12:00PM (noon)               |
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 1 — User Research`.
