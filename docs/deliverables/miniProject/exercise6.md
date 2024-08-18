@@ -1,15 +1,15 @@
-# Exercise 6 — Share Your Observations
+# Exercise 6: Share Your Observations
 
 ## Introduction
 
-Congratulations on completing your mini project! Now, it's time to share your team's valuable observations and experiences in class through a brief 2-3 minute oral presentation. This is your chance to showcase your journey and discoveries.
+Congratulations on completing your warm-up project! Now, it's time to share your team's valuable observations and experiences in class through a brief 2-3 minute oral presentation. This is your chance to reflect on what you learned and showcase your journey and discoveries.
 
 ## Instructions
 
 ::: tip Figma File
 
 Continue to use the Figma file from exercise 1.
-Complete your work on the corresponding page for this exercise.
+Complete your work on the page corresponding to Exercise 6.
 
 :::
 
@@ -36,6 +36,8 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-<Badge text="Both Sections: Thursday September 28th @11:59pm" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Thursday, September 26th @11:59PM (midnight)         | Friday, September 27th @11:59PM (midnight)           |
 
-- No BS LMS Submission required
+- No BS LMS Submission required. This exercise will be marked in class during the presentations.
