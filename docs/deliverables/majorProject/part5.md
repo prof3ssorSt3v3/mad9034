@@ -1,12 +1,12 @@
-# Major Project - Information Architecture
+# Major Project: Information Architecture
 
 ## Introduction
 
-At this stage of the UX (user-centered) design process, you have gathered user research data, created 2 personas, and 1 usage scenario. Using this information you begin to create the information architecture for your app. You can review your competitor research to see what features other products have and how they are organized. Make sure your app keeps your persona in mind.
+At this stage of the user-centered design process, you have gathered user research data, created 2 personas, and 1 usage scenario. Using this information you begin to create the information architecture for your app. 
 
 ## Instructions
 
-- Use your 2 personas and the usage scenario to create the information architecture (IA diagram) for your app.
+- Use your 2 persona (primary and secondary) and the usage scenario to create the information architecture (IA diagram) for your app.
 - Review your competitor research to see what features other products have and how they are organized.
 - Make sure you keep your persona in mind throughout the process.
 
@@ -24,7 +24,9 @@ At this stage of the UX (user-centered) design process, you have gathered user r
 
 **Due Dates:**
 
-<Badge text="Both Sections: Sunday October 22nd @11:59pm" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Sunday, October 20th @11:59PM (midnight)             | Sunday, October 20th @11:59PM (midnight)             |
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Information Architecture
