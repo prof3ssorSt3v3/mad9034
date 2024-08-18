@@ -1,4 +1,4 @@
-# Exercise 4 — Prototyping
+# Exercise 4: Prototyping
 
 ## Introduction
 
@@ -8,8 +8,8 @@ Now that we have generated some ideas during the Brainstorming phase, it's time 
 
 ::: tip Figma File
 
-Continue to use the Figma file from exercise 1.
-Complete your work on the corresponding page for this exercise.
+Continue to use the Figma file from Exercise 1.
+Complete your work on the page corresponding to Exercise 4.
 
 :::
 
@@ -69,9 +69,6 @@ Decide on a time to sync/work if the prototype is not completed in class today.
 
 - [Official Figma WatchOS 5 UI Kit](https://www.figma.com/community/file/875092858821168331)
 - [**Figma** WatchOS UI Kit (most popular)](https://www.figma.com/community/file/860215346713471808)
-- Bring into **Figma** the [Apple WatchOS UI kit](https://developer.apple.com/design/resources/#watchos-apps)
-  - [from Sketch](https://help.figma.com/hc/en-us/articles/360040514273-Import-Sketch-files)(tutorial)
-  - [from Adobe XD](https://mockitt.wondershare.com/adobe-xd/xd-to-figma.html)(tutorial)
 - [WatchOS Visual design guideline: Layout](https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-watchos/)
 - [Common WatchOS interaction](https://pbs.twimg.com/media/Dm_StBuU0AE13zI.jpg)
 - [Apple Watch - Human Interface Guidelines & User Experience](https://drive.google.com/file/d/19v8xM5zdZF5KHfAB2aFDljnlpB8ug392/view?usp=sharing)
@@ -85,7 +82,9 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-<Badge text="Both Sections: Sunday September 24th @11:59pm" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Sunday, September 22nd @11:59PM (midnight)           | Sunday, September 22nd @11:59PM (midnight)           |
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 4 — Prototyping`.
