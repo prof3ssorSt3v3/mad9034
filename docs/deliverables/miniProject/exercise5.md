@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This week's task involves the testing of your prototype with your classmates. The goal of the exercise is to observe users interact with your prototype, and gather feedback on the ease of use and other aspects of your work. You will then incorporate this feedback in the next steps of your warm-up projects.
+This week's task involves the testing of your prototype with your classmates. The goal of the exercise is to observe users interact with your prototype, and gather feedback on the ease of use and other aspects of your work. You will then incorporate this feedback in the next steps of your warm-up project.
 
 **Methodology**
 
