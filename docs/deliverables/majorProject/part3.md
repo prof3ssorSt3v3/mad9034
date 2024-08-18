@@ -8,7 +8,7 @@ Having wrapped up your collaborative efforts in Product Research and Persona Res
 
 ## Introduction
 
-In this assignment, you will embark on the crucial journey of user persona development, an indispensable step in crafting user-centered peoducts and services. You will be tasked with creating **two distinct personas: a primary user persona, representing the typical consumer, and a secondary user persona, embodying the characteristics of the service or program provider**. Leveraging your own background knowledge and conducting persona research, you will construct comprehensive profiles that encompass demographic information, motivations, pain points, goals and behavioral traits. These personas will serve as guiding lights, ensuring your designs resonate with your target audience and paving the way for user-centric design solutions.
+In this assignment, you will embark on the crucial journey of user persona development, an indispensable step in crafting user-centered peoducts and services. You will be tasked with creating **two distinct personas: a primary user persona, representing the typical consumer of the service, and a secondary user persona, embodying the characteristics of the service provider**. Leveraging your own background knowledge and conducting persona research, you will construct comprehensive profiles that encompass demographic information, motivations, pain points, goals and behavioral traits. These personas will serve as guiding lights, ensuring your designs resonate with your target audience and paving the way for user-centric design solutions.
 
 **Back Story:**
 
