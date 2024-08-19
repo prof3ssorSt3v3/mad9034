@@ -1,8 +1,8 @@
-# Major Project - Testing Documentation
+# Major Project: Testing Documentation
 
 ## Introduction
 
-With your Visual Design (High Fidelity Wireframes) complete, including interactions and animations, it's time to move into a crucial phase: Usability Testing.
+With your Visual Design (high fidelity wireframes) complete, including interactions and animations, it's time to move into a crucial phase: Usability Testing. You tested your concept design using a paper prototype. You are now testing the usability of your design using an interactive, high-fidelity prototype. The purpose of this round of testing is to validate the navigation, ensure there are no "dead ends", ensure that users can complete the most important tasks easily and smoothly and collect verall feedback on how the application looks and feels to the user.
 
 ## Instructions
 
@@ -15,7 +15,7 @@ Prepare the following documents for a comprehensive round of usability testing:
 
 2. **Test Script**
 
-   - Develop a detailed Test Script directly in your Figma File.
+   - Develop a detailed Test Script directly in your Figma file.
    - Utilize the resources provided for guidance.
    - Reflect on test scripts used in previous tests to inform your approach.
 
@@ -30,8 +30,8 @@ Prepare the following documents for a comprehensive round of usability testing:
    - Incorporate and refine interactions and animations to ensure a smooth testing experience.
 
 5. **Conducting Usability Testing (Class 13-2)**
-   - Initially, test your script and prototype with 2 fellow students for initial feedback.
-   - Proceed to conduct your usability testing with 3 participants outside of class, incorporating their feedback for a well-rounded understanding.
+   - Initially, test your script and prototype with **2 fellow students** for initial feedback.
+   - Proceed to conduct your usability testing with **3 participants outside of class**, incorporating their feedback for a well-rounded understanding.
 
 ## User Testing Steps
 
@@ -39,12 +39,10 @@ Mobile Application Usability Testing Process
 
 ## Step 1: Preparation
 
-Using your interactive prototype(visual mockups) with your test plan, conduct a usability test with **2 participants in-class** and **3 participants outside of class** for your scenario.
+Using your interactive Figma prototype and your test plan, conduct a usability test with **2 participants in-class** and **3 participants outside of class** for your scenario.
 
-**1) Scenario One: In your Usage Scenario document**
 
-- Summary: In your Usage Scenario document
-- Tasks:
+- **Tasks**:
   - browses **\_\_\_**
   - navigates to **\_\_\_\_**
   - do something specific
@@ -158,7 +156,9 @@ _Please take a look at this app and tell us what you think it is: What’s the f
 
 **Due Dates:**
 
-<Badge text="Both Sections: Sunday, Dec 3rd @ 11:59 PM" />
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Sunday, December 1st @11:59PM (midnight)             | Sunday, December 1st @11:59PM (midnight)             |
 
 - Visit BS LMS and go to `Activities > Assignments`.
 - Choose `Test Documentation`.
