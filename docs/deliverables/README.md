@@ -150,3 +150,6 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ### [Final: Presentation (30% of final mark)](./majorDeliverables/finalPresentation.md)
 
+| Section 010                                          | Section 020                                          |
+| -----------------------------------------------------| ---------------------------------------------------- |
+| Monday/Thursday December 9th/12th (in class)         | Wednesday/Friday December 11th/13th (in class)       |
