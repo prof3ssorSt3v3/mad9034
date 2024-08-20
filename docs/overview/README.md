@@ -69,7 +69,7 @@ In-class work progress review is part of the performance assessment. A student m
   name="Laura Olac"
   title="Professor"
   img-url="/f2024/Laura.png"
-  bio="Instructor in the Mobile Application Design & Development Program at Algonquin College."
+  bio="Professor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
       { label: 'email', value: 'olacl@algonquincollege.com' },  
       { label: 'office', value: 'Zoom - by appointment' },
@@ -80,7 +80,7 @@ In-class work progress review is part of the performance assessment. A student m
   name="Nehmat Gereige"
   title="Professor"
   img-url="/f2024/Nehmat.png"
-  bio="Professor of the Mobile Application Design & Development Program at Algonquin College"
+  bio="Professor in the Mobile Application Design & Development Program at Algonquin College"
   :details="[
       { label: 'email', value: 'gereign@algonquincollege.com' }, 
       { label: 'office', value: 'Zoom - by appointment' },
