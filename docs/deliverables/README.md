@@ -137,7 +137,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-### [Testing Documentation](./majorProject/part8.md)
+### [Assignment: Testing Documentation](./majorProject/part8.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
