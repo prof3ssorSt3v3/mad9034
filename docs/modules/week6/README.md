@@ -1,4 +1,4 @@
-# Class 6: Analyzing your users and make sense of research data
+# Persona Creation: Analyzing and making sense of research data
 
 ::: warning Preparation Required
 
@@ -18,9 +18,8 @@ By the end of this week, you will:
 
 [MAD9034 6-2 Persona Working Session](https://drive.google.com/file/d/1JjUezwe6SboRodR8C_pCDY2V10T6lN9S/view?usp=sharing)-->
 
-## Persona Creation
 
-### What they are and what they are not
+### What personas are and what they are not
 
 **Personas are**
 
@@ -37,7 +36,7 @@ By the end of this week, you will:
 - Shaped by customer requests (this is product marketing research, not user research).
 - A reflection of socially accepted preferences and attitudes.
 
-### Making Sense of Research Data
+### Making sense of research data
 
 > "Personas help everyone from programmers to executives understand users in a way no other tool can: at a gut level. Personas help guide design decisions, end those lengthy arguments about what users need, and get everyone to agree on what product you're building." – Alan Cooper
 
@@ -45,7 +44,7 @@ By the end of this week, you will:
 - Each persona mirrors a significant portion of real-world users, facilitating the designer's focus on a manageable and memorable cast of characters.
 - Personas enable designers to create tailored designs for different user types, emphasizing a specific individual rather than a generic user.
 
-### Analyzing the Data
+### Analyzing the data
 
 1. **Examine a Variety of Variables Across Participants:**
 
@@ -66,7 +65,7 @@ By the end of this week, you will:
    - When dealing with multiple personas, specify which personas are in scope and which are not.
    - If multiple personas are relevant, designate primary and secondary personas.
 
-### Synthesizing a Model of Users
+### Synthesizing a model of users
 
 Once you've identified user groups, consider how to best describe them.
 
@@ -77,7 +76,7 @@ Once you've identified user groups, consider how to best describe them.
 
   Example: Bio for a high school student persona interested in learning about cybersecurity.
 
-### Anatomy of a Persona Document
+### Anatomy of a Persona document
 
 ![Persona Anatomy](./persona-anatomy.png)
 
@@ -140,7 +139,7 @@ Remember that the persona document should be concise and visually engaging. The 
 
 By creating a persona document that effectively communicates the key attributes and motivations of your user personas, you empower your team to make user-centered design decisions with confidence.
 
-### Socializing Your Personas
+### Socializing your product Personas
 
 After creating persona documents, it's crucial to socialize them for effective use.
 
