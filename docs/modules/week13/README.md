@@ -1,4 +1,4 @@
-# Class 13: Usability Test Planning and Usability Testing
+# Usability Test Planning and Usability Testing Documentation
 
 ## Required Preparation
 
@@ -22,7 +22,7 @@ Please review this module before class for optimal engagement and understanding.
 
 [MAD9034 13-2 How to run a test](https://drive.google.com/file/d/1hqhx30eixHz9a52ONiuOY9aJpk9uTvio/view?usp=sharing)-->
 
-## Usability Testing
+## Class 1: Usability Testing
 
 Usability testing is the practice of testing how easy a design is to use on a group of representative users. It involves observing users as they attempt to complete tasks and can be conducted repeatedly, from early development until a product’s release.
 
@@ -102,7 +102,7 @@ Similar to hallway testing, but even rougher & quicker. Usually < 15 mins. You a
 
 Each type of usability testing serves a specific purpose. Hallway testing, for instance, is quick and informal, ideal for early-stage feedback. Lab testing, on the other hand, is more controlled and provides in-depth insights.
 
-## Testing Documentation
+## Class 2: Testing Documentation
 
 ### Test Plan
 
