@@ -19,7 +19,7 @@ By the end of this week, you will:
 
 ## Slides
 
-Access a PDF of the slides here: [MAD9034 1-1 UXD Overview](https://drive.google.com/file/d/1MDItB0m-LcPekvfr-v4Qm51kuNypOLbl/view?usp=drive_link).
+Access a PDF of the slides here: [MAD9034 1-1 UXD Overview](https://drive.google.com/file/d/15yUibij2fJn06OYucSxq9jVCQMFHz612/view?usp=drive_link).
 
 ## UX vs. UI
 
