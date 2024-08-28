@@ -18,6 +18,8 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 [MAD9034 7-1 Usage Scenarios](https://drive.google.com/file/d/1GZP6lEuhGf1Fts4z97v5sCxyqpL2NMz-/view?usp=sharing)<br>
 [MAD9034 7-2 Information Architecture](https://drive.google.com/file/d/1TQ8IcI8FGtHrjlP3b8GLu-QZoQ6f73pW/view?usp=sharing)-->
 
+## Class 1: Usage Scenarios
+
 ### Definition and Goals
 
 Scenarios are short stories that provide context for why a specific user group, represented by a persona, uses your product and how this persona plans to complete a key task.
@@ -35,7 +37,6 @@ Scenarios are short stories that provide context for why a specific user group, 
 - Define various ways tasks can be accomplished with the product.
 - Add life to abstract use case scenarios.
 
-### Class 1: Usage Scenarios
 
 [Scenario Mapping: Design Ideation Using Personas](https://www.nngroup.com/articles/scenario-mapping-personas/)
 
