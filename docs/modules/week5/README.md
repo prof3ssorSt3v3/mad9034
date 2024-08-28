@@ -1,4 +1,4 @@
-# Week 5: Product Research and User Research
+# Class 5: Product Research and User Research
 
 ::: warning Preparation Required
 

@@ -1,4 +1,4 @@
-# Week 11: Digital Wireframes & Working with Risks and Unknowns
+# Class 11: Digital Wireframes & Working with Risks and Unknowns
 
 ## Required Preparation
 

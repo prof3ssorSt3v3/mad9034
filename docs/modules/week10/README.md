@@ -1,4 +1,4 @@
-# Week 10: Prototyping and Concept Testing
+# Class 10: Prototyping and Concept Testing
 
 ::: warning Required Preparation
 For optimal engagement and understanding, please review this module before class.

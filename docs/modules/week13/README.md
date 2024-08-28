@@ -1,4 +1,4 @@
-# Week 13: Usability Test Planning and Usability Testing
+# Class 13: Usability Test Planning and Usability Testing
 
 ## Required Preparation
 

@@ -1,4 +1,4 @@
-# Week 14: Incorporating test reporting & Final Presentation
+# Class 14: Incorporating test reporting & Final Presentation
 
 ## Required Preparation
 

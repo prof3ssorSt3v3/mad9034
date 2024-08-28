@@ -1,4 +1,4 @@
-# Week 9: Mapping Key Flows and Ideating
+# Class 9: Mapping Key Flows and Ideating
 
 ::: warning Required Preparation
 For optimal engagement and understanding, please review this module before class.
@@ -73,7 +73,7 @@ Begin with user-centered Information Architecture (IA). Validate with user flows
 
 ## Ideation
 
-Review [week 3's module](https://mad9034.github.io/f2024/modules/week3) on ideation.
+Review [Class 3's module](https://mad9034.github.io/f2024/modules/week3) on ideation.
 
 ## Wireframes
 

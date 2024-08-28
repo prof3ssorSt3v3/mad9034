@@ -1,4 +1,4 @@
-# Week 7: User scenarios and information architecture
+# Class 7: User scenarios and information architecture
 
 ::: warning Required Preparation
 

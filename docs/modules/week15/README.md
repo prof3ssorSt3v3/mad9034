@@ -1,4 +1,4 @@
-# Week 15: Final presentation
+# Classes 15 and 16: Final presentations
 
 ## Learning Objectives
 

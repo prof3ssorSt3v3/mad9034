@@ -1,4 +1,4 @@
-# Week 6: Analyzing your users and make sense of research data
+# Class 6: Analyzing your users and make sense of research data
 
 ::: warning Preparation Required
 
@@ -9,7 +9,7 @@ To maximize your engagement and success in the course, it is crucial to thorough
 
 By the end of this week, you will:
 
-- Review and analyze user persona spreadsheet data submitted in Week 5.
+- Review and analyze user persona spreadsheet data that you have already submitted.
 - Gain hands-on experience in utilizing user research data to create personas and proceed to develop usage scenarios.
 
 <!--## Slides

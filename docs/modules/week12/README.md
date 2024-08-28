@@ -1,4 +1,4 @@
-# Week 12: From Low-Fidelity to High-Fidelity: Crafting Interactive Prototypes through Visual Design
+# Class 12: From Low-Fidelity to High-Fidelity: Crafting Interactive Prototypes through Visual Design
 
 ## Required Preparation
 

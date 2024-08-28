@@ -1,4 +1,4 @@
-# Week 4: Validation
+# Class 4: Validation
 
 ::: warning Preparation Required
 

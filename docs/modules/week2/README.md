@@ -1,4 +1,4 @@
-# Week 2: Research and analysis overview
+Class 2: Research and analysis overview
 
 ::: warning Preparation Required
 
