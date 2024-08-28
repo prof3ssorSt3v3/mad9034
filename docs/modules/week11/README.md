@@ -1,4 +1,4 @@
-# Class 11: Digital Wireframes & Working with Risks and Unknowns
+# Digital Wireframes & Working with Risks and Unknowns
 
 ## Required Preparation
 
@@ -23,7 +23,7 @@ Please review this module before class for optimal engagement and understanding.
 
 [MAD9034 11-2 Working with Risks and Unknowns](https://docs.google.com/presentation/d/1Z41EV6xg4gw4-oqn64Fdv59HXlsDMbTge75BcEjKxu0/edit?usp=sharing)-->
 
-## Detailed Design
+## Class 1: Detailed Design: Digital Wireframes
 
 **Summary**: Detailed design is the process of refining and specifying all the elements of a product's interface. It involves finalizing the layout, controls, icons, typography, and visual design to ensure a cohesive and functional user experience.
 
@@ -147,7 +147,7 @@ Please review this module before class for optimal engagement and understanding.
 - Allow easy reversal of actions.
 - Give users control and reduce demands on short-term memory.
 
-## Risks and Unknowns
+## Class 2: Risks and Unknowns
 
 ### All Stages of the Process
 
