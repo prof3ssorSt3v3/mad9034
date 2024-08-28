@@ -1,4 +1,4 @@
-# Class 7: User scenarios and information architecture
+# Usage Scenarios and Information Architecture
 
 ::: warning Required Preparation
 
@@ -35,7 +35,7 @@ Scenarios are short stories that provide context for why a specific user group, 
 - Define various ways tasks can be accomplished with the product.
 - Add life to abstract use case scenarios.
 
-### Personas and Usage Scenarios
+### Class 1: Usage Scenarios
 
 [Scenario Mapping: Design Ideation Using Personas](https://www.nngroup.com/articles/scenario-mapping-personas/)
 
@@ -137,7 +137,7 @@ For example, Cynthia is traveling for Christmas and wants to complete her shoppi
 - Scenarios describe **interactions, not interfaces**.
 - The set of scenarios combine to describe **the core usage of the app**.
 
-## Information Architecture
+## Class 2: Information Architecture
 
 ### Definition and Goals
 
@@ -181,7 +181,7 @@ The **information architecture (IA)** is not visible to users, it informs the UX
 
 [Example of a project on Behance:](https://www.behance.net/gallery/50216285/Expense-Note-App)
 
-### Benifits
+### Benefits
 
 The way the information is structured and presented in your product can turn into a competitive advantage. It can lead to:
 

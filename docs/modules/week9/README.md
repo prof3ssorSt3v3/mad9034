@@ -1,4 +1,4 @@
-# Class 9: Mapping Key Flows and Ideating
+# User Flows and Ideating with Wireframes
 
 ::: warning Required Preparation
 For optimal engagement and understanding, please review this module before class.
@@ -16,7 +16,7 @@ For optimal engagement and understanding, please review this module before class
 
 [MAD9034 9-2 Ideation and Wireframing](https://drive.google.com/file/d/1CFt3BoEAorN_ktst-_j4zQlvUqT2m6DD/view?usp=sharing)-->
 
-## User Flows
+## Class 1: User Flows
 
 ![Flow chart example](./user-flow.png)
 
@@ -71,9 +71,9 @@ User flows visualize the paths users may take within an application, from entry 
 
 Begin with user-centered Information Architecture (IA). Validate with user flows and refine based on insights.
 
-## Ideation
+## Class 2: Ideating with Wireframes
 
-Review [Class 3's module](https://mad9034.github.io/f2024/modules/week3) on ideation.
+Review [Ideation and Prototyping module](https://mad9034.github.io/f2024/modules/week3).
 
 ## Wireframes
 
