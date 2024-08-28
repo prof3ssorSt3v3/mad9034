@@ -1,4 +1,4 @@
-# Product Research and Project Planning
+# Product Research, Project Planning and Persona Research
 
 ::: warning Preparation Required
 
@@ -18,9 +18,9 @@ By the end of this week, you should:
 
 [MAD9034 5-2 Persona Research](https://drive.google.com/file/d/13PGLnignKV_jtTNXf0FoDDRZmEbPpcyW/view?usp=sharing)-->
 
-## Class 1: Product Research
+## Class 1: Product Research and Project Planning
 
-### Definition and Goals
+### Product Research: Definition and Goals
 
 [Product research - Meaning, Importance, Stages, Example.](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/8598-product-research.html#3)
 
@@ -163,51 +163,6 @@ For a detailed exploration of this example, you can refer to this [article](http
 
 </CollapsibleSection>
 
-## User Research
-
-The user persona offers a deeper level of detail, focusing on a subset of individuals within the target market who have shared objectives and requirements. Through a user persona, intricate aspects come to life, enabling all stakeholders of the product to connect with this individual on an instinctual level. These personas encompass the human elements of names, occupations, distinct traits, abilities, aspirations, and challenges. Constructing a user persona fosters empathy for this individual, a crucial factor in shaping product choices.
-
-> "Personas help everyone from programmers to executives understand users in a way no other tool can: at a gut level. Personas help guide design decisions, end those lengthy arguments about what users need, and get everyone to agree on what product you're building."​<br>(Alan Cooper, American software designer and programmer, coined the term “persona” for the first time)
-
-### Why we need them
-
-![Why we need personas](./whyPersona.png)
-
-Thousands of people located in multiple geographical locations, with various cultural expectations and product demands, with different roles and responsibilities, time investment and levels of expertise and sophistication distilled down to a few user personas.
-
-### A Product Team Tool
-
-1. **Condense Diverse User Profiles**: In any given target market, you'll encounter a diverse range of individuals with varying needs, preferences, and behaviors. User personas help condense this diversity into a few representative profiles, making it easier to design for your entire audience.
-
-2. **Remove Biases**: Designing for your "average" user can introduce biases and overlook the needs of specific user segments. User personas help in eliminating these biases by considering the unique characteristics of different users.
-
-3. **Maintain Focus**: With well-defined user personas, your team can maintain a clear focus on who the product is intended for. This prevents feature creep and ensures that product decisions align with the needs of your primary users.
-
-### Primary and Secondary Personas
-
-- **Primary Persona**: The primary persona represents the core users of your product. These are the individuals who will benefit the most from your solution.
-
-- **Secondary Persona**: Secondary personas represent users whose needs must be accommodated without compromising the primary user's experience. These users may have different requirements, but their interaction with the product should not detract from the primary persona's satisfaction.
-
-### Steps to Create User Personas:
-
-1. **Identify Your Users**: Begin by identifying the individuals who make up your target audience. This includes gathering demographic, geographic, psychological, and behavioral data. You can source this information from various channels.
-
-2. **What and How to Ask**: Conduct interviews, focus groups, and surveys to collect insights from potential users. Ensure that your questions are open-ended to encourage participants to share their thoughts and experiences freely. [Sample interview Script](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/#1-identify-your-users)
-
-3. **Get Access to Users**: Establish contact with potential users. If you have an existing user base, leverage it to gather data. If you're a new company or launching a new product, consider researching competitors' users to gain valuable insights.
-
-4. **Gain an Understanding of the Users**: Dive deep into the experiences of your potential users. Understand their pain points, motivations, goals, and challenges related to the problem your product aims to solve.
-
-5. **Analyze the Data**: Examine the data collected from interviews, focus groups, and surveys. Identify patterns, commonalities, and significant differences among users.
-
-6. **Synthesize a Model of Users**: Create user personas by aggregating the information into detailed profiles. Each persona should include demographic information, goals, frustrations, behaviors, and any other relevant details.
-
-7. **Produce a Persona Document**: Document the key details of each persona in a structured document. Include their name, age, job title, goals, pain points, and a brief narrative that humanizes the persona.
-
-8. **Socialize the Personas**: Share the personas with your project team and stakeholders. Ensure that everyone involved in the product development process understands and empathizes with the personas. Personas should become a reference point for decision-making throughout the project.
-
-User personas are powerful tools that keep the user at the center of the design process. By following these steps, you can create personas that inform and guide your product's development, ensuring that it meets the diverse needs of your target audience.
 
 ## Project Planning
 
@@ -314,3 +269,49 @@ Simple Project Plan
 ![Project Management Tools](./tool.png)
 
 Explore [Top Management Software of 2023.](https://www.top10.com/project-management/comparison?utm_source=google&kw=top%20project%20management%20tools&c=641267620270&t=search&p=&m=p&adpos=&dev=c&devmod=&mobval=0&network=g&campaignid=15692302968&groupid=134576865347&targetid=kwd-4221054342&interest=&physical=9000679&feedid=&a=200435&ts=&topic=&clicktype=&camtype=&gclid=CjwKCAjwrranBhAEEiwAzbhNtfgFXJBLlglYdWFWB1lXTB9Rqw-eKVqN0k6aVyeYTJ32kgMen0IqgxoCSF0QAvD_BwE)
+
+## Class 2: Persona Research
+
+The user persona offers a deeper level of detail, focusing on a subset of individuals within the target market who have shared objectives and requirements. Through a user persona, intricate aspects come to life, enabling all stakeholders of the product to connect with this individual on an instinctual level. These personas encompass the human elements of names, occupations, distinct traits, abilities, aspirations, and challenges. Constructing a user persona fosters empathy for this individual, a crucial factor in shaping product choices.
+
+> "Personas help everyone from programmers to executives understand users in a way no other tool can: at a gut level. Personas help guide design decisions, end those lengthy arguments about what users need, and get everyone to agree on what product you're building."​<br>(Alan Cooper, American software designer and programmer, coined the term “persona” for the first time)
+
+### Why we need them
+
+![Why we need personas](./whyPersona.png)
+
+Thousands of people located in multiple geographical locations, with various cultural expectations and product demands, with different roles and responsibilities, time investment and levels of expertise and sophistication distilled down to a few user personas.
+
+### A Product Team Tool
+
+1. **Condense Diverse User Profiles**: In any given target market, you'll encounter a diverse range of individuals with varying needs, preferences, and behaviors. User personas help condense this diversity into a few representative profiles, making it easier to design for your entire audience.
+
+2. **Remove Biases**: Designing for your "average" user can introduce biases and overlook the needs of specific user segments. User personas help in eliminating these biases by considering the unique characteristics of different users.
+
+3. **Maintain Focus**: With well-defined user personas, your team can maintain a clear focus on who the product is intended for. This prevents feature creep and ensures that product decisions align with the needs of your primary users.
+
+### Primary and Secondary Personas
+
+- **Primary Persona**: The primary persona represents the core users of your product. These are the individuals who will benefit the most from your solution.
+
+- **Secondary Persona**: Secondary personas represent users whose needs must be accommodated without compromising the primary user's experience. These users may have different requirements, but their interaction with the product should not detract from the primary persona's satisfaction.
+
+### Steps to Create User Personas:
+
+1. **Identify Your Users**: Begin by identifying the individuals who make up your target audience. This includes gathering demographic, geographic, psychological, and behavioral data. You can source this information from various channels.
+
+2. **What and How to Ask**: Conduct interviews, focus groups, and surveys to collect insights from potential users. Ensure that your questions are open-ended to encourage participants to share their thoughts and experiences freely. [Sample interview Script](https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/#1-identify-your-users)
+
+3. **Get Access to Users**: Establish contact with potential users. If you have an existing user base, leverage it to gather data. If you're a new company or launching a new product, consider researching competitors' users to gain valuable insights.
+
+4. **Gain an Understanding of the Users**: Dive deep into the experiences of your potential users. Understand their pain points, motivations, goals, and challenges related to the problem your product aims to solve.
+
+5. **Analyze the Data**: Examine the data collected from interviews, focus groups, and surveys. Identify patterns, commonalities, and significant differences among users.
+
+6. **Synthesize a Model of Users**: Create user personas by aggregating the information into detailed profiles. Each persona should include demographic information, goals, frustrations, behaviors, and any other relevant details.
+
+7. **Produce a Persona Document**: Document the key details of each persona in a structured document. Include their name, age, job title, goals, pain points, and a brief narrative that humanizes the persona.
+
+8. **Socialize the Personas**: Share the personas with your project team and stakeholders. Ensure that everyone involved in the product development process understands and empathizes with the personas. Personas should become a reference point for decision-making throughout the project.
+
+User personas are powerful tools that keep the user at the center of the design process. By following these steps, you can create personas that inform and guide your product's development, ensuring that it meets the diverse needs of your target audience.
