@@ -1,4 +1,4 @@
-# Class 12: From Low-Fidelity to High-Fidelity: Crafting Interactive Prototypes through Visual Design
+# From Low-Fidelity to High-Fidelity: Crafting Interactive Prototypes through Visual Design
 
 ## Required Preparation
 
@@ -23,9 +23,9 @@ Please review this module before class for optimal engagement and understanding.
 
 [MAD9034 12-2 - Transitions and Animations](https://drive.google.com/file/d/1AHE5Ecxxkj5_g3ad45EPN3YSSSpdHSL7/view?usp=sharing)-->
 
-## Understanding Visual Design
+## Class 1: Understanding Visual Design
 
-Visual design transcends mere aesthetics, playing a pivotal role in shaping and enhancing user experiences. It's not just about making products look attractive; it's about thoughtful integration of elements like illustrations, photography, typography, space, layout, and color to make products both usable and appealing.
+As you learned in the UI Design class, visual design transcends mere aesthetics, playing a pivotal role in shaping and enhancing user experiences. It's not just about making products look attractive; it's about thoughtful integration of elements like illustrations, photography, typography, space, layout, and color to make products both usable and appealing.
 
 Imagine visual design as the final layer in a multi-tiered cake of design. It's not merely a superficial coat of paint; it's the culmination of a design process that gives your product a distinct, recognizable identity.
 
@@ -204,7 +204,7 @@ Watch the video above for more information on visual design principles, also che
 
 By mastering these elements and principles, you can create effective and engaging visual experiences that enhance your interactive prototypes.
 
-## Animation, transitions and interactivity
+## Class 2: Animation, Transitions and Interactivity
 
 ### Animations: What are they?
 
