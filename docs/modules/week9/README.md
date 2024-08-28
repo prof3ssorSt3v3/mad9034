@@ -73,7 +73,7 @@ Begin with user-centered Information Architecture (IA). Validate with user flows
 
 ## Class 2: Ideating with Wireframes
 
-Review [Ideation and Prototyping module](https://mad9034.github.io/f2024/modules/week3).
+Review [Ideation and Prototyping module](https://mad9034.github.io/f2024/modules/week3/#learning-objectives).
 
 ## Wireframes
 
