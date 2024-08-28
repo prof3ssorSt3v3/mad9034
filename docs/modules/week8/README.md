@@ -1,4 +1,4 @@
-# Reading Week
+# --- Reading Week ---
 
 ## Congratulations! You made it through half of your course.
 
