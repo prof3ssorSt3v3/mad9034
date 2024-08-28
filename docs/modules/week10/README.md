@@ -1,4 +1,4 @@
-# Class 10: Prototyping and Concept Testing
+# Prototyping and Concept Testing
 
 ::: warning Required Preparation
 For optimal engagement and understanding, please review this module before class.
@@ -17,7 +17,7 @@ For optimal engagement and understanding, please review this module before class
 
 [MAD9034 10-2 - Concept Testing](https://drive.google.com/file/d/1LsHPFionmh3O1qJJ3D4Ah2WT8Ga1tMQG/view?usp=sharing)-->
 
-## Prototyping
+## Class 1: Prototyping
 
 A **prototype** is an early model or sample built to test a concept or process.
 
@@ -87,7 +87,7 @@ Prototypes can vary in their detail and realism. Choosing the right fidelity dep
 
 ![Wireframing tools](./tools.png)
 
-## Concept Testing
+## Class 2: Concept Testing
 
 Concept testing captures the key essence (the value proposition) of a new product or service concept to understand if it meets the needs of the target audience.
 
