@@ -1,4 +1,4 @@
-# Class 5: Product Research and User Research
+# Product Research and Project Planning
 
 ::: warning Preparation Required
 
@@ -18,7 +18,7 @@ By the end of this week, you should:
 
 [MAD9034 5-2 Persona Research](https://drive.google.com/file/d/13PGLnignKV_jtTNXf0FoDDRZmEbPpcyW/view?usp=sharing)-->
 
-## Product Research
+## Class 1: Product Research
 
 ### Definition and Goals
 

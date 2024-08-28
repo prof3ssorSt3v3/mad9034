@@ -1,4 +1,4 @@
-Class 2: Research and analysis overview
+# Research and Analysis Overview 
 
 ::: warning Preparation Required
 
@@ -19,7 +19,7 @@ By the end of this week, students will:
 [MAD9034 2-1 Research Overview](https://drive.google.com/file/d/10-yd6Z9_vQeaQOlNgLxnlqEsLP0c-ee_/view?usp=sharing)<br>
 [MAD9034 2-2 Analysis](https://drive.google.com/file/d/1Xam4P8KAvr3cb4lL3fhN57Pc30LP4QYi/view?usp=sharing)-->
 
-## User Research
+## Class 1: User Research
 
 ### Definition and Goals
 
@@ -177,7 +177,7 @@ The image below maps the types of user research methods to the dimensions of Att
 
 ![Context of use](./context-of-use.png)
 
-## Analysis
+## Class 2: Analysis
 
 ### Definition and Goals
 

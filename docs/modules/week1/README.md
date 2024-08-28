@@ -1,4 +1,4 @@
-# Class 1: Introduction to User Experience Design (UXD)
+# Introduction to User Experience Design (UXD)
 
 ## Welcome
 

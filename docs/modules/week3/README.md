@@ -1,4 +1,4 @@
-# CLass 3: Ideation and Prototyping
+# Ideation and Prototyping
 
 ::: warning Preparation Required
 
@@ -16,7 +16,7 @@ To maximize your engagement and success in the course, it is crucial to thorough
 [MAD9034 3-1 Ideation](https://drive.google.com/file/d/1qTl_j58dtlZw8Fl3GbITSczUfGFaVnw6/view?usp=sharing)<br>
 [MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing)-->
 
-## Ideation
+## Class 1: Ideation
 
 ### Definition and Goals
 
@@ -151,7 +151,7 @@ Watch these informative videos to delve deeper into the design sprint process:
   url="https://www.youtube.com/embed/7BKBFOOKbNo?si=x87Kkggt7VMvVkGt"
 />
 
-## Prototyping
+## Class 2: Prototyping
 
 ### Definition and Goals
 
