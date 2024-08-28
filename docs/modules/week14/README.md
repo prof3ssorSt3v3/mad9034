@@ -1,4 +1,4 @@
-# Class 14: Incorporating test reporting & Final Presentation
+# Usability Test Report & Final Presentation
 
 ## Required Preparation
 
@@ -20,7 +20,7 @@ Please review this module before class for optimal engagement and understanding.
 
 [MAD9034 14-2 Presenting your work](https://drive.google.com/file/d/120CzxePVvj9ylPc9VY4iZw2c3cVf_03d/view?usp=sharing)-->
 
-## Usability Testing Reporting
+## Class 1: Usability Test Report
 
 ### What is a usability test report?
 
@@ -125,7 +125,7 @@ Ensure the fix:
 - Include positive findings to preserve good aspects.
 - Choose the right format for your audience.
 
-## Presenting Your Work
+## CLass 2: Presenting Your Work
 
 ### Types of Presentations
 
