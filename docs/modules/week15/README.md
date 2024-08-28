@@ -1,4 +1,4 @@
-# Classes 15 and 16: Final presentations
+# Final Presentations
 
 ## Learning Objectives
 
@@ -8,7 +8,7 @@
 
 ## Final Presentation Order
 
-You must attend attend both presentations days as you must comment on your classmates work.
+You must attend attend both presentation classes as you must comment on your classmates work. Providing meaningful feedback is a component of your final grade.
 
 ### Section 010
 
