@@ -28,6 +28,16 @@ Remember, the UCD process emphasizes putting the users at the core of the design
 
 [User Interviews: How, When, and Why to Conduct Them](https://www.nngroup.com/articles/user-interviews/)
 
+<YouTube
+  title="The 3 Types of User Interviews: Structured, Semi-Structured, and Unstructured"
+  url="https://www.youtube.com/watch?v=jy-QGuWE7PQ&t=1s"
+/>
+
+<YouTube
+  title="Five Interview Mistakes to Avoid"
+  url="https://www.youtube.com/watch?v=yBYd5USasXg&t=135s"
+/>
+
 ### Preparation Phase
 
 Before conducting user interviews, follow these steps to ensure a successful research process:
