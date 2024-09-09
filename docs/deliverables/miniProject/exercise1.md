@@ -1,4 +1,4 @@
-# Exercise 1: User Research
+https://www.youtube.com/embed/yBYd5USasXg?si=870t_voMkwhDcjs1# Exercise 1: User Research
 
 ## Introduction
 
@@ -35,7 +35,7 @@ Remember, the UCD process emphasizes putting the users at the core of the design
 
 <YouTube
   title="Five Interview Mistakes to Avoid"
-  url="https://www.youtube.com/watch?v=yBYd5USasXg&t=135s"
+  url="https://www.youtube.com/embed/yBYd5USasXg?si=870t_voMkwhDcjs1"
 />
 
 ### Preparation Phase
