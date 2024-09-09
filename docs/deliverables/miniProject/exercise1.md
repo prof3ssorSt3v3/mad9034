@@ -30,7 +30,7 @@ Remember, the UCD process emphasizes putting the users at the core of the design
 
 <YouTube
   title="The 3 Types of User Interviews: Structured, Semi-Structured, and Unstructured"
-  url="https://www.youtube.com/watch?v=jy-QGuWE7PQ&t=1s"
+  url="https://www.youtube.com/embed/jy-QGuWE7PQ?si=2nh823VHku9O3EBN"
 />
 
 <YouTube
