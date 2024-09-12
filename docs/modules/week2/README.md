@@ -219,7 +219,7 @@ Affinity Diagramming is a method of clustering information collected from user r
 
 **STEP 2:** Search for patterns across all the interviews<br>
 - Remember your research and analysis goal!
-- Start organzing the individual notes in cluters or themes 
+- Start organizing the individual notes in cluters or themes 
 
 **STEP 3:** Review themes<br>
 - Review all the data in each theme until you have a set of themes that are distinct from one another, and contain data that is consistent within the theme
@@ -240,21 +240,12 @@ Affinity Diagramming is a method of clustering information collected from user r
 
 ## Design Sprint
 
-A design sprint is a structured and time-bound process used by teams to quickly conceptualize, prototype, and test new ideas or solutions. It's typically done in a span of about one to five days and aims to address challenges and develop innovative solutions through a collaborative and iterative approach. For additional resources and detailed methodologies related to design sprints, you can explore:
+For your warm-up project, you follow the structure of a design sprint. As discussed in the previous class, Day 1 of the Design Sprint is about focusing on a long term goal set ahead of time and understanding the problems around this goal from a business, user, competitor and technological point of view. To do this, each participant captures pain points, user needs, or ideas related to that goal on individual sticky notes, followed by a collaborative exercise of clustering the notes in themes. The second part of Day 1 is spent evaluating all that participants learned in the Understand phase, then select one theme and turn it into a problem statement to design for on Day 2. This problem statement becomes the focus for the rest of the design sprint.
 
 - **[Sprint](http://www.gv.com/sprint/)** This link provides more information about the design sprint methodology.
 
 - **[Phase 2 Design](https://designsprintkit.withgoogle.com/methodology/phase2-define)** Explore this resource for insights into the second phase of the design sprint process, focusing on defining and refining your ideas.
 
-1. **Understand:** Identify the problem.
-2. **Diverge:** Generate a bunch of ideas.
-3. **Converge:** Pick the best idea.
-4. **Prototype:** Make a simple model of your idea.
-5. **Test:** Get feedback from real users.
-6. **Iterate:** Improve your idea based on feedback.
-7. **Decide:** Choose whether to pursue the idea further.
-
-The process is quick, collaborative, and helps teams avoid wasting time on ideas that might not work. Here is a quick video to help you dive deeper into the practical aspects of implementing a design sprint:
 
 <YouTube
   title="Sprint: Monday"
