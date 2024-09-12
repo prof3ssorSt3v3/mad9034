@@ -212,17 +212,27 @@ Affinity Diagramming is a method of clustering information collected from user r
 ### Affinity Diagramming method
 
 **STEP 1:** Familiarize yourself with your data.<br>
+- Start with transcribing the interviews, or at least read them
+- Make notes of things you want to go back to and examine in more detail during the analysis 
+- Write down each note or observation on individual cards or sticky notes
+- If you have time, go through the data multiple times. The meaning of things may change or evolve.
+
 **STEP 2:** Search for patterns across all the interviews<br>
-**STEP 3:** Identify preliminary themes<br>
-**STEP 4:** Review themes<br>
-**STEP 5:** Name and define themes<br>
+- Remember your research and analysis goal!
+- Start organzing the individual notes in cluters or themes 
+
+**STEP 3:** Review themes<br>
+- Review all the data in each theme until you have a set of themes that are distinct from one another, and contain data that is consistent within the theme
+
+**STEP 4:** Name and define themes<br>
+- Use names that are descriptive and engaging for all product stakeholders who may have not been involved in the research
 
 <YouTube
   title="Affinity Diagramming: Collaborate, Sort and Prioritize UX Ideas"
   url="https://www.youtube.com/embed/C4nYxZxteJY?si=NbBtZryz6-4hRw60"
 />
 
-### Additional Tips for Thematic Analysis
+### Additional Tips for User Research Analysis
 
 - **Watch your bias!** Be aware of your own biases and how they might influence your analysis.
 - **Interpret the data as honestly as you can.** Avoid interpreting the data in a way that aligns with your preconceived notions.
