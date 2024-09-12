@@ -1,4 +1,3 @@
-https://www.youtube.com/embed/yBYd5USasXg?si=870t_voMkwhDcjs1# Exercise 1: User Research
 
 ## Introduction
 
