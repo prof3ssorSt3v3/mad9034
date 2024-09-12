@@ -194,7 +194,7 @@ User research analysis is about making sense of the collected data and reaching 
 
 Thematic analysis is a systematic method of breaking down and organizing rich data from qualitative research by tagging individual observations and quotations with appropriate codes to facilitate the discovery of significant themes. For in-depth guidance on conducting thematic analysis and related workshop activities, consider referring to the following resources:
 
-- **[How to Analyze Qualitative Data from UX Research - Thematic Analysis:](https://www.nngroup.com/articles/thematic-analysis/)** Thematic Analysis: This resource offers insights into the process of conducting thematic analysis in UX research.
+- **[How to Analyze Qualitative Data from UX Research - Thematic Analysis:](https://www.nngroup.com/articles/thematic-analysis/)** 
 
 ![Thematic Analysis](./Thematic-Analysis.png)
 
@@ -204,7 +204,7 @@ Affinity Diagramming is a method of clustering information collected from user r
 
 - **[Affinity Diagramming for Collaboratively Sorting UX Findings and Design Ideas:](https://www.nngroup.com/articles/affinity-diagram/)**
 
-- **[Workshop Activities:](https://www.nngroup.com/articles/workshop-activities/)** Explore this article for workshop activities related to affinity diagramming, providing practical exercises for honing your analytical skills.
+- **[Workshop Activities:](https://www.nngroup.com/articles/workshop-activities/)** 
 
 
 ![Affinity Diagramming](./Affinity-Diagramming.png)
