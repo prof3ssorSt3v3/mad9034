@@ -14,10 +14,10 @@ By the end of this week, students will:
 - Understand the goals and importance of user research analysis.
 - Learn about thematic analysis and its application in UX research.
 
-<!--## Slides
+## Slides
 
-[MAD9034 2-1 Research Overview](https://drive.google.com/file/d/1WV2NL2iECba3Gl75qFhZVZZBFq0lnldR/view?usp=drive_link)<br>
-[MAD9034 2-2 Analysis](https://drive.google.com/file/d/1Xam4P8KAvr3cb4lL3fhN57Pc30LP4QYi/view?usp=sharing)-->
+[MAD9034 2-1 Research Overview](/f2024/User-Research-Overview.pdf)<br>
+[MAD9034 2-2 Analysis](/f2024/Analysis.pdf)
 
 ## Class 1: User Research
 
