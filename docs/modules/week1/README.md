@@ -17,9 +17,9 @@ By the end of this week, you will:
 - Understand the MAD9034 course: User Experience Design (UXD).
 - Gain a high-level understanding of the UXD process.
 
-<!--## Slides
+## Slides
 
-Access a PDF of the slides here: [MAD9034 1-1 UXD Overview](https://drive.google.com/file/d/15yUibij2fJn06OYucSxq9jVCQMFHz612/view?usp=drive_link).-->
+Access a PDF of the slides here: [MAD9034 1-1 UXD Overview](/f2024/UXD-Overview.pdf).
 
 ## UX vs. UI
 
