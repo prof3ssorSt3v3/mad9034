@@ -11,10 +11,10 @@ To maximize your engagement and success in the course, it is crucial to thorough
 - Acquire and practice design and prototyping skills using appropriate tools.
 - Be introduced to key design software available for use throughout the term.
 
-<!--## Slides
+## Slides
 
-[MAD9034 3-1 Ideation](https://drive.google.com/file/d/1qTl_j58dtlZw8Fl3GbITSczUfGFaVnw6/view?usp=sharing)<br>
-[MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing)-->
+[MAD9034 3-1 Ideation](/f2024/Ideation.pdf)<br>
+<!--[MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing)-->
 
 ## Class 1: Ideation
 
