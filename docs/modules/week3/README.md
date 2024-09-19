@@ -14,7 +14,7 @@ To maximize your engagement and success in the course, it is crucial to thorough
 ## Slides
 
 [MAD9034 3-1 Ideation](/f2024/Ideation.pdf)<br>
-<!--[MAD9034 3-2 Prototyping](https://drive.google.com/file/d/1z21881c99OuAJHjRGDP0xtdgJptW9kt2/view?usp=sharing)-->
+[MAD9034 3-2 Prototyping](/f2024/Prototyping.pdf)
 
 ## Class 1: Ideation
 
