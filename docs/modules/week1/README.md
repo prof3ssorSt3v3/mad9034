@@ -1,4 +1,4 @@
-# Introduction to User Experience Design (UXD)
+# Week 1: Introduction to User Experience Design (UXD)
 
 ## Welcome
 
