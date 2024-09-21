@@ -1,4 +1,4 @@
-# Ideation and Prototyping
+# Week 3: Ideation and Prototyping
 
 ::: warning Preparation Required
 

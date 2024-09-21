@@ -1,4 +1,4 @@
-# Usage Scenarios and Information Architecture
+# Week 7: Usage Scenarios and Information Architecture
 
 ::: warning Required Preparation
 

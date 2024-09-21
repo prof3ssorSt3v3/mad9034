@@ -1,4 +1,4 @@
-# User Flows and Ideating with Wireframes
+# Week 9: User Flows and Ideating with Wireframes
 
 ::: warning Required Preparation
 For optimal engagement and understanding, please review this module before class.

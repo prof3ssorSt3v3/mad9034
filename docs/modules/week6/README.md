@@ -1,4 +1,4 @@
-# Persona Creation: Analyzing and making sense of research data
+# Week 6: Persona Creation: Analyzing and making sense of research data
 
 ::: warning Preparation Required
 
