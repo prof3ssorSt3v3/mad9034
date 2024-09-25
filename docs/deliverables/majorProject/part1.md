@@ -26,38 +26,50 @@ There will be three main parts to the app:
 
 ### 2. Network for in-home care for elderly people
 
-**Elderly people** often struggle to **find in-home care and assistance** with everyday domestic tasks, self-care, travel to appointments, and other simple activities. It's difficult to know what sort of caregiver to hire for specific tasks, and difficult to know where to look for such a caregiver. Long term care arrangements are more common, making simple one-off needs for support especially difficult to arrange.
+**Elderly people** often struggle to find **in-home care and assistance** with: 
+- domestic tasks
+- self-care
+- travel to appointments
+- other simple activities
 
-**You will work on designing an app where these types of domestic and self-care services can be posted and searched.**
+**Known problems**
+- Simple one-off needs for support are difficult to arrange for people who don’t want long term care arrangements
+- It is difficult to know what caregiver to hire for specific tasks
+- It is difficult to know where to look for caregivers 
+
+
+**You will design an app where caregivers can post specialized services and elderly people or their families can search for these services based on a variety of criteria.**
 
 There will be three main parts to the app:
+1. An interface for **posting services**, where service providers can add details about themselves and the services they provide (ex. Service offered, caregiver experience, locations served, etc.)
+2. An interface where elderly people or their families can **browse, search, view and compare services**
+3. An interface for elderly people to create a **profile** to capture their specific needs and requirements (ex. location, age, living arrangement, mobility, special needs, etc.)
 
-- An interface for posting services, adding necessary details for elderly people and their families to browse and understand them (ex. Service offered, caregiver experience, locations served, etc.)
-- An interface for browsing, searching, viewing and comparing services
-- An interface for creating a profile with an elderly person would capture their specific needs and requirements (ex. location, age, living arrangement, mobility, special needs, etc.)
 
-**You will focus on the browsing/searching interface AND the profile-creating interface. You will simply account for the posting interface in your overall framework and architecture**
+**Focus on the browsing/searching interface and the profile-creating interface.You will account for the service posting interface in your overall framework and architecture, however you will not design the screens required for it.**
 
 ### 3. Your choice!
 
-A similar network (that you will define) where one group with a need is connected with another group that can deliver the service
-**NOTE: Your idea must be approved by your teacher.**
+A similar network (that you will define) where one group with a need (service seeker) is connected with another group that can deliver the service (service provider).
 
-You will define the specific audience your app targets, and the type of service it will connect this audience with.
+**NOTE: Your idea must be approved by your professor.**
 
-**You will work on designing an app where these services can be posted and searched.**
+Define who are the service seekers that your app targets.
+Define the type of service that is provided through this app.
+
+**You will esign an app where your primary target audience (the service seekers) will look for services that are provided by your secondary target audience (service providers).**
 
 There will be three main parts to the app:
+1. An interface for posting services, where service providers can add details about themselves and the services they provide.
+2. An interface where the service seekers can browse, search, view and compare services
+3. An interface for the service seekers to create a profile to capture their specific needs and requirements.
 
-- An interface for posting services, adding necessary details for them to be browsed and understood
-- An interface for browsing, searching, viewing and comparing services
-- An interface for creating a profile with a user’s specific needs and requirements
 
-**You will focus on the browsing/searching interface AND the profile-creating interface. You will simply account for the posting interface in your overall framework and architecture**
+**Focus on the browsing/searching interface and the profile-creating interface. You will account for the service posting interface in your overall framework and architecture, however you will not design the screens required for it.**
 
 ## Instructions
 
-1. **Group Formation:** Gather 3-4 students working on the same project as you, amd to conduct product research together.
+1. **Group Formation:** Gather 3-4 students working on the same project as you to conduct product research together.
 
 2. **Figma Project Creation:** Choose one team member to create a Figma project and name it MajorProject-Group#.
 
