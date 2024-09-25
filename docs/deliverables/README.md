@@ -65,14 +65,14 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-### [Assignment: Product Research](./majorProject/part1.md) (Group work)
+### [Assignment 1: Product Research](./majorProject/part1.md) (Group work)
 
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Thursday, October 3rd @11:59PM (midnight)            | Friday, October 4th @11:59PM (midnight)              |
 
-### [Assignment: Persona Research](./majorProject/part2.md) (Group work)
+### [Assignment 2: Persona Research](./majorProject/part2.md) (Group work)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
@@ -83,21 +83,21 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-### [Assignment: Persona Creation](./majorProject/part3.md)
+### [Assignment 3: Persona Creation](./majorProject/part3.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Sunday, October 13th @11:59PM (midnight)             | Sunday, October 13th @11:59PM (midnight)             |
 
 
-### [Assignment: Scenarios](./majorProject/part4.md)
+### [Assignment 4: Scenarios](./majorProject/part4.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Thursday, October 17th @12:00PM (noon)               | Friday, October 18th @12:00PM (noon)                 |
 
 
-### [Assignment: Information Architecture](./majorProject/part5.md)
+### [Assignment 5: Information Architecture](./majorProject/part5.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
@@ -108,14 +108,14 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-### [Assignment: Test Ready Low-Fidelity Prototype](./majorProject/part6.md)
+### [Assignment 6: Test Ready Low-Fidelity Prototype](./majorProject/part6.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
 | Thursday, November 7th @12:00PM (noon)               | Friday, November 8th @12:00PM (noon)                 |
 
 
-### [Midterm: Mid-Fidelity Wireframes (20% of final mark)](./majorDeliverables/midterm.md)
+### [Assignment 7: MIDTERM: Mid-Fidelity Wireframes (20% of final mark)](./majorDeliverables/midterm.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
@@ -126,7 +126,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-### [Assignment: Visual Design](./majorProject/part7.md)
+### [Assignment 8: Visual Design](./majorProject/part7.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
@@ -137,7 +137,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 ---
 
-### [Assignment: Testing Documentation](./majorProject/part8.md)
+### [Assignment 9: Testing Documentation](./majorProject/part8.md)
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |

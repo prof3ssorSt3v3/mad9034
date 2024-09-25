@@ -1,4 +1,4 @@
-# Major Project: Visual Design
+# Major Project: Assignment 8: Visual Design
 
 ## Introduction
 

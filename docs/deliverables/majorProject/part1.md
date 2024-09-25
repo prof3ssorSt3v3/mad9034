@@ -1,4 +1,4 @@
-# Major Project: Product Research (group work)
+# Major Project: Assignment 1: Product Research (group work)
 
 ## Introduction
 

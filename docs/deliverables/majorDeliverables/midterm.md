@@ -1,4 +1,4 @@
-# **Midterm: Mid-Fidelity Wireframes (20% of your final grade)**
+# **Major Project: Assignment 7 - Midterm: Mid-Fidelity Wireframes (20% of your final grade)**
 
 ## **Introduction**
 

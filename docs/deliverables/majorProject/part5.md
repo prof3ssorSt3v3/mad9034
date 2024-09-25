@@ -1,4 +1,4 @@
-# Major Project: Information Architecture
+# Major Project: Assignment 5: Information Architecture
 
 ## Introduction
 

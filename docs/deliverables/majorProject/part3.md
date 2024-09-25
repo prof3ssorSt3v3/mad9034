@@ -1,4 +1,4 @@
-# Major Project: Persona Creation
+# Major Project: Assignment 3: Persona Creation
 
 ::: tip Transition to Individual Work
 

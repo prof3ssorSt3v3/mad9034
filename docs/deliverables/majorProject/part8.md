@@ -1,4 +1,4 @@
-# Major Project: Testing Documentation
+# Major Project: Assignment 9: Testing Documentation
 
 ## Introduction
 

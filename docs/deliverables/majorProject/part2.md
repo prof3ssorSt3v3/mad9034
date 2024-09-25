@@ -1,4 +1,4 @@
-# Major Project: Persona Research (group work)
+# Major Project: Assignment 2: Persona Research (group work)
 
 ## Introduction
 

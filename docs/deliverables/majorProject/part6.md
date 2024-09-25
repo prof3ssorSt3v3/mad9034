@@ -1,4 +1,4 @@
-# **Major Project: Test-Ready Low-Fidelity Prototype**
+# **Major Project: Assignment 6: Test-Ready Low-Fidelity Prototype**
 
 ## **Introduction**
 

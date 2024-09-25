@@ -1,4 +1,4 @@
-# Final Project Presentation
+# Major Project: Final Project Presentation
 
 ## Instructions
 
