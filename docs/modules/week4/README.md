@@ -16,7 +16,7 @@ By the end of this week, students will:
 ## Slides
 
 [MAD9034 4-1 Testing](/f2024/Concept-Testing.pdf)<br>
-<!--[MAD9034 4-2 Presentations_MajorProjectIntro](https://drive.google.com/file/d/1fycnyEF-Crw1PGqQKAYwoc0HiLXgG3GX/view?usp=sharing)-->
+[MAD9034 4-2 Presentations_MajorProjectIntro](/f2024/MajorProject.pdf)-->
 
 ## Usability Testing
 
