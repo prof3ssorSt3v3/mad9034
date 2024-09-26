@@ -85,7 +85,7 @@ There will be three main parts to the app:
 
 3. **Collaborator Invitations:** Invite all your team members and the professor to the Figma project with edit permissions so that everyone can collaborate seamlessly.
 
-4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File](https://drive.google.com/file/d/1PTfAn4_ucUKQDlG7UtVZ-QFEVcxITuOv/view?usp=drive_link)
+4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File](/f2024/Major-Project.fig)
 
 5. **Division of Work:** Assign a group member to research each of these topics:
    1. **What competitors exist? (digital or other?)**
