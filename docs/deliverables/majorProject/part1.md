@@ -10,9 +10,10 @@ Before you start working on this assignment, you must have your major project to
 
 You can select between the two predefined topics or define your own topic:
 
-### 1. Network for Children with Disabilities
+### 1. Tutoring Network
 
-Families with **children with disabilities** often struggle to **find extra-curricular activities** that are appropriate for their child's special needs. Programs are few and far between, poorly advertised and therefore difficult to find, and often end up getting cancelled due to inadequate registration.
+**Students** often need help with their assignments, or to improve their second language. There are many applications and websites available, but they want to use a safe and reliable source of tutoring options to choose from.
+
 
 **You will work on designing an app where these activities can be posted and searched.**
 
@@ -22,7 +23,16 @@ There will be three main parts to the app:
 - An interface for browsing, searching, viewing and comparing activities
 - An interface for creating a profile with a family's specific needs and requirements (ex. location, age range, interests, special needs, etc.)
 
-**You will focus on the browsing/searching interface AND the profile-creating interface. You will simply account for the posting interface in your overall framework and architecture**
+**You will design an app where tutors can post specialized services and students can search for these services based on a variety of criteria.**
+
+There will be three main parts to the app:
+- An interface for posting tutoring services, adding necessary details for students to browse and understand them (ex. Subject matter, location, level, etc)
+- An interface for browsing, searching, viewing and comparing services
+- An interface for creating a profile with the student’s specific needs and requirements (ex. location, age range, interests, special needs, etc.)
+
+**Focus on the browsing/searching interface and the profile-creation interface.You will account for the service posting interface in your overall framework and architecture, however you will not design the screens required for it.**
+
+
 
 ### 2. Network for in-home care for elderly people
 
