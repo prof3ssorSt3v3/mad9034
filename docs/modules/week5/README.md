@@ -12,11 +12,11 @@ By the end of this week, you should:
 - Understand the objectives of the major project and identify suitable user-research methods.
 - Be familiar with UX project planning and create a plan for your individual project.
 
-<!--## Slides
+## Slides
 
-[MAD9034 5-1 Product Research and Project Planning](https://drive.google.com/file/d/1j7gx3MDVPcnQr4J-oIqIlZpkMHGHjCQq/view?usp=sharing)<br>
+[MAD9034 5-1 Product Research and Project Planning](/f2024/Product-Research-Project-Planning.pdf)<br>
 
-[MAD9034 5-2 Persona Research](https://drive.google.com/file/d/13PGLnignKV_jtTNXf0FoDDRZmEbPpcyW/view?usp=sharing)-->
+<!--[MAD9034 5-2 Persona Research](https://drive.google.com/file/d/13PGLnignKV_jtTNXf0FoDDRZmEbPpcyW/view?usp=sharing)-->
 
 ## Class 1: Product Research and Project Planning
 
