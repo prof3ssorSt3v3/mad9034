@@ -16,7 +16,7 @@ By the end of this week, you should:
 
 [MAD9034 5-1 Product Research and Project Planning](/f2024/Product-Research-Project-Planning.pdf)<br>
 
-<!--[MAD9034 5-2 Persona Research](https://drive.google.com/file/d/13PGLnignKV_jtTNXf0FoDDRZmEbPpcyW/view?usp=sharing)-->
+[MAD9034 5-2 Persona Research](/f2024/Persona-Research.pdf)
 
 ## Class 1: Product Research and Project Planning
 
