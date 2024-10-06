@@ -16,7 +16,7 @@ By the end of this week, you will:
 
 [MAD9034 6-1 How to Create Personas](/f2024/Persona-Creation.pdf)
 
-[MAD9034 6-2 Persona Working Session](/f2024/Persona-Working-Session.pdf)-->
+[MAD9034 6-2 Persona Working Session](/f2024/Persona-Working-Session.pdf)
 
 
 ### What personas are and what they are not
