@@ -2,7 +2,7 @@
 
 ::: warning Preparation Required
 
-To maximize your engagement and success in the course, it is crucial to thoroughly review the weekly module before each class. Your active participation depends on diligently meeting this preparation requirement, ensuring you are fully informed and ready to contribute to discussions and activities.
+To maximize your engagement and success in the course, it is important to thoroughly review the weekly module before each class. Your active participation depends on diligently meeting this preparation requirement, ensuring you are fully informed and ready to contribute to discussions and activities.
 :::
 
 ## Learning Objectives
@@ -12,11 +12,11 @@ By the end of this week, you will:
 - Review and analyze user persona spreadsheet data that you have already submitted.
 - Gain hands-on experience in utilizing user research data to create personas and proceed to develop usage scenarios.
 
-<!--## Slides
+## Slides
 
-[MAD9034 6-1 How to Create Personas](https://drive.google.com/file/d/1hGO_149FtIu6YldHVhzMhQviyq42YTOx/view?usp=sharing)
+[MAD9034 6-1 How to Create Personas](/f2024/Persona-Creation.pdf)
 
-[MAD9034 6-2 Persona Working Session](https://drive.google.com/file/d/1JjUezwe6SboRodR8C_pCDY2V10T6lN9S/view?usp=sharing)-->
+[MAD9034 6-2 Persona Working Session](/f2024/Persona-Working-Session.pdf)-->
 
 
 ### What personas are and what they are not
