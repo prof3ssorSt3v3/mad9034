@@ -94,7 +94,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, October 17th @12:00PM (noon)               | Friday, October 18th @12:00PM (noon)                 |
+| Sunday, October 20th @11:59PM (midnight)               | Friday, October 18th @12:00PM (noon)                 |
 
 
 ### [Assignment 5: Information Architecture](./majorProject/part5.md)
