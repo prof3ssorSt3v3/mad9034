@@ -13,10 +13,10 @@ Please ensure that you prepare for each week's lessons by thoroughly reviewing t
 - Apply knowledge of information architecture (IA) to design high-level navigation for your product.
 - Learn about IA techniques for mapping user flows.
 
-<!--## Slides
+Slides
 
-[MAD9034 7-1 Usage Scenarios](https://drive.google.com/file/d/1GZP6lEuhGf1Fts4z97v5sCxyqpL2NMz-/view?usp=sharing)<br>
-[MAD9034 7-2 Information Architecture](https://drive.google.com/file/d/1TQ8IcI8FGtHrjlP3b8GLu-QZoQ6f73pW/view?usp=sharing)-->
+[MAD9034 7-1 Usage Scenarios](/f2024/Usage-Scenarios.pdf)<br>
+[MAD9034 7-2 Information Architecture](/f2024/Information-Architecture.pdf)
 
 ## Class 1: Usage Scenarios
 
