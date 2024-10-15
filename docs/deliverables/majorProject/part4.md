@@ -17,7 +17,7 @@ Based on the user research, you have created 2 personas of your target users: a 
 
 | Section 010                                          | Section 020                                          |
 | ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, October 17th @12:00PM (noon)               | Friday, October 18th @12:00PM (noon)                 |
+| Sunday, October 20th @11:59 PM (midnight)               | Friday, October 18th @12:00PM (noon)                 |
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Scenarios
