@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Prepare a test-ready, low-fidelity prototype, on paper of in Figma, based on your pre-defined scenario and information architecture (IA). This exercise will help you validate your design concept's usability, ensuring users can seamlessly navigate through the intended workflow.
+Prepare a test-ready, low-fidelity prototype, on paper or in Figma, based on your pre-defined scenario and information architecture (IA). This exercise will help you validate your design concept's usability, ensuring users can seamlessly navigate through the intended workflow.
 
 ## **Instructions**
 
