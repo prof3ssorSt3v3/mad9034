@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Prepare a test-ready, low-fidelity paper prototype, based on your pre-defined scenario and information architecture (IA). This exercise will help you validate your design concept's usability, ensuring users can seamlessly navigate through the intended workflow.
+Prepare a test-ready, low-fidelity prototype, on paper of in Figma, based on your pre-defined scenario and information architecture (IA). This exercise will help you validate your design concept's usability, ensuring users can seamlessly navigate through the intended workflow.
 
 ## **Instructions**
 
@@ -48,10 +48,10 @@ Your users should be able to:
 
 ## **Submission**
 
-1. **Prototype Capture**: Photograph or scan your paper prototype to capture your page layout.
+1. **Prototype Capture**: If you create a paper prototype, photograph or scan it to capture your page layout.
 2. **Figma Integration**: Add the captured prototype to your Figma file.
 
-**Paper Prototype (Complete by):**<br>
+**Low Fidelity Prototype (Complete by):**<br>
 This is very important because you must have your prototype ready to test in class.
 
 | Section 010                                          | Section 020                                          |
