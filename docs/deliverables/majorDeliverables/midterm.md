@@ -10,7 +10,7 @@ Convert your initial prototype into a refined, interactive, digital wireframe. T
 
 ## **Project Scope**
 
-For this midterm, concentrate on refining and submitting **three pivotal screens that embody your app's central functionality**.
+For this midterm, concentrate on refining and submitting **six pivotal screens that embody your app's central functionality**.
 
 ## **Wireframe Specifications**
 
@@ -51,7 +51,7 @@ Ensure your wireframes cater to the following fundamental user interactions:
 
 ## **Submission Guidelines**
 
-- Submit the main three screens
+- Submit the main three screens and at least 3 more that complete the selected flow
 - The essential screens often comprise the home screen, browse screen, and detail screen.
 - Clearly annotate each wireframe to highlight the user flow, especially in crucial junctures.
 
