@@ -21,7 +21,7 @@ Slides
 
 [MAD9034 11-1 Digital Wireframing](/f2024/Major-Project-Digital-Wireframing.pdf)
 
-[MAD9034 11-2 Working with Risks and Unknowns](/f2024/Major-Project-Risks-Unknowns.pdf)-->
+[MAD9034 11-2 Working with Risks and Unknowns](/f2024/Major-Project-Risks-Unknowns.pdf)
 
 ## Class 1: Detailed Design: Digital Wireframes
 
