@@ -28,7 +28,7 @@ Continue building on and evolving your low-fidelity design making sure you focus
 4. List screen
 5. Results screen
 6. Detail screen
-Any additional screens that is essential to highlight the main functionality of your app. (examples: service provider availability, booking sequence, successful message, etc)
+- Any additional screens that are essential to highlight the main functionality of your app. (examples: service provider availability, booking sequence, successful message, etc)
 
 These screens must be part of your main user flow and they must be connected to one another and in some sort of sequence that is logical and fluent. 
 
