@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Transition your initial hand-drawn prototype into medium-fidelity digital wireframes using Figma. This phase focuses on integrating user insights from your testing session, and applying design principles to refine the app's user flow and interface for an optimal user experience.
+Transition your initial hand-drawn or low-fidelity Figma prototype into medium-fidelity digital wireframes using Figma. This phase focuses on integrating user insights from your testing session, and applying design principles to refine the app's user flow and interface for an optimal user experience.
 
 ## **Task Overview**
 
@@ -15,29 +15,22 @@ For this midterm, concentrate on refining and submitting **six pivotal screens t
 ## **Wireframe Specifications**
 
 - Utilize a greyscale color scheme.
-- Focus on content layout and structure; disregard colors and typography at this stage.
+- Focus on content layout and structure; disregard colors at this stage, but use the correct font size and start thinking of what typeface you want to use.
 - Maintain consistent dimensions tailored to your chosen platform.
 
 ## **Required Screens**
 
-Select three primary screens representing the app's main interactions, such as:
+Continue building on and evolving your low-fidelity design making sure you focus your attention on the core functionality of your application, such as:
 
-1. Home
-2. Menu screen
-3. List screen
-
-   OR
-
-4. Home/Browse
-5. Results
+1. Home screen (empty and populated with content)
+2. Main navigation
+3. Search with filters/Browse categories or both if yuo have both in your design
+4. List screen
+5. Results screen
 6. Detail screen
+Any additional screens that is essential to highlight the main functionality of your app. (examples: service provider availability, booking sequence, successful message, etc)
 
-- Basic Scenario Tasks (user flow):
-  - browse
-  - navigate to
-  - do something
-  - navigate to a specific screen
-  - do something
+These screens must be part of your main user flow and they must be connected to one another and in some sort of sequence that is logical and fluent. 
 
 ## **Guiding User Flow**
 
@@ -45,14 +38,13 @@ Ensure your wireframes cater to the following fundamental user interactions:
 
 - Exploring the app's content.
 - Shifting between various sections or screens.
-- Executing specific in-app actions.
+- Executing specific actions.
 - Transitioning to specific screens based on user selections.
 - Undertaking tasks that replicate authentic app use.
 
 ## **Submission Guidelines**
 
-- Submit the main three screens and at least 3 more that complete the selected flow
-- The essential screens often comprise the home screen, browse screen, and detail screen.
+- Submit minimum 6 screens or enough screens that showcase the core functionality of your app 
 - Clearly annotate each wireframe to highlight the user flow, especially in crucial junctures.
 
 **Due Dates:**
