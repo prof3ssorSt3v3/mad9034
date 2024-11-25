@@ -20,7 +20,7 @@ Slides
 
 [MAD9034 13-1 - Usability Testing](/f2024/Major-Project-Usability-and-Testing-Documentation.pdf)
 
-[MAD9034 13-2 How to run a test](/f2024/Major-Project-How-to-Run-Usability-Testing.pdf)-->
+[MAD9034 13-2 How to run a test](/f2024/Major-Project-How-to-Run-Usability-Testing.pdf)
 
 ## Class 1: Usability Testing
 
