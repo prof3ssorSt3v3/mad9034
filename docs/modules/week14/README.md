@@ -16,7 +16,7 @@ Please review this module before class for optimal engagement and understanding.
 
 Slides
 
-[MAD9034 14-1 Usability test report](/f2024/Major-Project-Usability-Test-Report.pdf)
+[MAD9034 14-1 Usability test report](/f2024/Major Project-Usability-Test-Report.pdf)
 
 [MAD9034 14-2 Presenting your work](/f2024/Presenting-Your-Work.pdf)
 
