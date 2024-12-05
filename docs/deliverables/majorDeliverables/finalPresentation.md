@@ -23,7 +23,6 @@ One of the hardest things to do is to distill all the information you have to sh
 - -1 point for every minute under 6 or surpassing 8 minutes.
 - Review Rubric in the assignment page on Brightspace for more details
 
-::: warning
 
 | Section 010                                          | Section 020                                          |
 | -----------------------------------------------------| ---------------------------------------------------- |
@@ -42,4 +41,4 @@ One of the hardest things to do is to distill all the information you have to sh
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Locate `Final Presentation`.
 - Export your Figma page as a pdf and upload to the assignment page in BS LMS along with the link to the complete Figma file (see specs above) and click the submit button.
-:::
+
