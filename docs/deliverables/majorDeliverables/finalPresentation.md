@@ -29,4 +29,17 @@ One of the hardest things to do is to distill all the information you have to sh
 | -----------------------------------------------------| ---------------------------------------------------- |
 | Monday/Thursday December 9th/12th (in class)         | Wednesday/Friday December 11th/13th (in class)       |
 
+## **Submission Guidelines**
+
+- Submit a PDF of your final presentation in Brightspace along with the link to your Figma file where the professor can find all the assignments for the Major project. If you worked from multiple Figma files, bring all the assignments in one file and provide a link to it. The professor will do one final review of all the assignments to make sure your research, design and final presentation tell a consistent story.
+
+**Due Dates:**
+
+| Section 010                                          | Section 020                                          |
+| ---------------------------------------------------- | ---------------------------------------------------- |
+| Friday, December 13th @11:59PM (midnight)            | Friday, December 13th @11:59PM (midnight)            |
+
+- Access BS LMS and navigate to `Activities > Assignments`.
+- Locate `Final Presentation`.
+- Export your Figma page as a pdf and upload to the assignment page in BS LMS along with the link to the complete Figma file (see specs above) and click the submit button.
 :::
