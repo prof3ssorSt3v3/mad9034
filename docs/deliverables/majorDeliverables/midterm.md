@@ -55,4 +55,4 @@ Ensure your wireframes cater to the following fundamental user interactions:
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Locate `Midterm: Mid-fidelity Wireframes`.
-- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.
+- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.

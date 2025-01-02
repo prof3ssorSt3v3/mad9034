@@ -162,5 +162,4 @@ _Please take a look at this app and tell us what you think it is: What’s the f
 
 - Visit BS LMS and go to `Activities > Assignments`.
 - Choose `Test Documentation`.
-- Convert your Figma page to a PDF and upload it on the assignment page in BS LMS.
-- Click 'Submit' to finalize your submission.
+- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.

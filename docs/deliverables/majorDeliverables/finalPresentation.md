@@ -40,5 +40,5 @@ One of the hardest things to do is to distill all the information you have to sh
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Locate `Final Presentation`.
-- Export your Figma page as a pdf and upload to the assignment page in BS LMS along with the link to the complete Figma file (see specs above) and click the submit button.
+- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.
 

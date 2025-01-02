@@ -67,4 +67,4 @@ Add notes from the testing session and re-submit.
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Select `Test-Ready Low-Fidelity Prototype`.
-- Export your Figma page as a PDF or screenshot and upload it to the assignment page in BS LMS. Click the "submit" button to finalize your submission.
+- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.

@@ -4,7 +4,10 @@ Every week there will be work for you to complete inside or outside of class. So
 
 ::: warning Submission Requirements
 
-All your work for the warm-up project and for the major project will be done in Figma. However, for all the graded deliverables, you must submit a PDF of your Figma work to Brightspace. Professors will look at Figma, but they will only mark the deliverable that was submitted in Brightspace on the specified due date.
+All your work for the warm-up project and for the major project will be done in Figma. 
+For group work, ensure that all the members of the group have edit rights to the file.
+For all assignments, your professors need edit rights to your Figma file.
+Sometimes you will also use a FigJam file in addition to the main Figma file. Make sure professors also have access to the FigJam file and submit both in Brightspace.
 :::
 
 ## Warm-up Project

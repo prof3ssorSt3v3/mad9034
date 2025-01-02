@@ -25,4 +25,4 @@ Provide a visual design for your mobile app using UX visual design principles. C
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Select `Visual Design`.
-- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.
+- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.
