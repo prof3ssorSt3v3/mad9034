@@ -1,7 +1,5 @@
 # Week 11: Digital Wireframes & Working with Risks and Unknowns
 
-## Requirements
-
 ::: warning
 For optimal engaging and understanding of the course material, please review this module before class. In-class work is part of your grade. Make sure to utilize the time in class wisely for hands-on work and consultation with your professor.
 :::
