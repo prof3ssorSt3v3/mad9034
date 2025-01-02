@@ -1,9 +1,9 @@
 # Week 12: From Low-Fidelity to High-Fidelity: Crafting Interactive Prototypes through Visual Design
 
-## Required Preparation
+## Requirements
 
 ::: warning
-Please review this module before class for optimal engagement and understanding.
+For optimal engaging and understanding of the course material, please review this module before class. In-class work is part of your grade. Make sure to utilize the time in class wisely for hands-on work and consultation with your professor.
 :::
 
 ## Learning Objectives

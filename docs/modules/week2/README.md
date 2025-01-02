@@ -1,8 +1,7 @@
 # Week 2: Research and Analysis Overview 
 
-::: warning Preparation Required
-
-To maximize your engagement and success in the course, it is crucial to thoroughly review the weekly module before each class. Your active participation depends on diligently meeting this preparation requirement, ensuring you are fully informed and ready to contribute to discussions and activities.
+::: Requirements
+For optimal engaging and understanding of the course material, please review this module before class. In-class work is part of your grade. Make sure to utilize the time in class wisely for hands-on work and consultation with your professor.
 :::
 
 ## Learning Objectives

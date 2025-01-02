@@ -1,8 +1,7 @@
 # Week 7: Usage Scenarios and Information Architecture
 
-::: warning Required Preparation
-
-Please ensure that you prepare for each week's lessons by thoroughly reviewing the weeks module prior to the start of class. This preparation is essential to ensure you are fully informed and ready to actively engage in the upcoming topics and discussions. Your active participation and success in the course depend on meeting this requirement diligently.
+::: Requirements
+For optimal engaging and understanding of the course material, please review this module before class. In-class work is part of your grade. Make sure to utilize the time in class wisely for hands-on work and consultation with your professor.
 
 :::
 

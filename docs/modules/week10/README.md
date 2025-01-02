@@ -1,7 +1,7 @@
 # Week 10: Prototyping and Concept Testing
 
-::: warning Required Preparation
-For optimal engagement and understanding, please review this module before class.
+::: warning Requirements
+For optimal engaging and understanding of the course material, please review this module before class. In-class work is part of your grade. Make sure to utilize the time in class wisely for hands-on work and consultation with your professor.
 :::
 
 ## Learning Objectives

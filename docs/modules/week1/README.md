@@ -7,8 +7,8 @@ love.
 
 Our class meets twice a week, with each session lasting two hours. For details on class schedules and location, please refer to the [Overview](../../overview/README.md) page.
 
-To make the most of this course, it's crucial to prepare for each week's lessons by thoroughly reviewing the module before each class. Active participation and success in the course depend on your
-commitment to this preparation. Additionally, in-class exercises will contribute to your final grade, so be sure to attend.
+To make the most of this course, it's very important to prepare for each week's lessons by thoroughly reviewing the module before each class. Active participation and success in the course depend on your
+commitment to this preparation. Additionally, in-class group exercises and individual work will contribute to your final grade, so be sure to attend.
 
 ## Learning Objectives
 
