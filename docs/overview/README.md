@@ -66,23 +66,12 @@ In-class work progress review is part of the performance assessment. A student m
 ## Contacts
 
 <ContactCard 
-  name="Laura Olac"
+  name="Tyler Bristow"
   title="Professor"
-  img-url="/f2024/Laura.png"
+  img-url="/f2024/tyler-bristow.jpg"
   bio="Professor in the Mobile Application Design & Development Program at Algonquin College."
   :details="[
-      { label: 'email', value: 'olacl@algonquincollege.com' },  
-      { label: 'office', value: 'Zoom - by appointment' },
-    ]"
-/>
-
-<ContactCard 
-  name="Nehmat Gereige"
-  title="Professor"
-  img-url="/f2024/Nehmat.png"
-  bio="Professor in the Mobile Application Design & Development Program at Algonquin College"
-  :details="[
-      { label: 'email', value: 'gereign@algonquincollege.com' }, 
+      { label: 'email', value: 'bristot@algonquincollege.com' },  
       { label: 'office', value: 'Zoom - by appointment' },
     ]"
 />
