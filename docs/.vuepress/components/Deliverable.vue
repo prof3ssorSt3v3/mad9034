@@ -41,7 +41,7 @@ export default {
     },
     secondaryDueDate: {
       type: String,
-      default: "", // Optional, so no need to be required
+      default: "",
     },
     description: {
       type: String,
@@ -57,7 +57,7 @@ export default {
     },
     linkType: {
       type: String,
-      default: "disabled", // 'active', 'paused', or 'disabled'
+      default: "active", // 'active', 'paused', or 'disabled'
     },
   },
 };
