@@ -12,142 +12,202 @@ Sometimes you will also use a FigJam file in addition to the main Figma file. Ma
 
 ## Warm-up Project <Badge type="error" text="10%" />
 
+<br>
+
 <Card>
 
-### Exercise 1: User Research
+### [User Research](./miniProject/exercise1.md)
 
 Description goes here
 
-[View Details](./miniProject/exercise1.md)
-
-<Badge type="error" text="Due: " />
+<Badge type="warning" text="Due: " />
 
 </Card>
 
-### [Exercise 1: User Research](./miniProject/exercise1.md)
+<Card>
 
-<!--[User Research Details](./miniProject/exercise1.md)-->
+### [Synthesized Research Results](./miniProject/exercise2.md)
 
-| Section 010                              | Section 020                            |
-| ---------------------------------------- | -------------------------------------- |
-| Thursday, September 12th @12:00PM (noon) | Friday, September 13th @12:00PM (noon) |
+Description goes here
 
-### [Exercise 2: Synthesized Research Results](./miniProject/exercise2.md)
+<Badge type="warning" text="Due: " />
 
-| Section 010                                | Section 020                                |
-| ------------------------------------------ | ------------------------------------------ |
-| Sunday, September 15th @11:59PM (midnight) | Sunday, September 15th @11:59PM (midnight) |
+</Card>
 
-### [Exercise 3: Brainstorming](./miniProject/exercise3.md)
+<Card>
 
-| Section 010                              | Section 020                            |
-| ---------------------------------------- | -------------------------------------- |
-| Thursday, September 19th @12:00PM (noon) | Friday, September 20th @12:00PM (noon) |
+### [Brainstorming](./miniProject/exercise3.md)
 
-### [Exercise 4: Prototyping](./miniProject/exercise4.md)
+Description goes here
 
-| Section 010                                | Section 020                                |
-| ------------------------------------------ | ------------------------------------------ |
-| Sunday, September 22nd @11:59PM (midnight) | Sunday, September 22nd @11:59PM (midnight) |
+<Badge type="warning" text="Due: " />
 
-### [Exercise 5: Testing](./miniProject/exercise5.md)
+</Card>
 
-| Section 010                                  | Section 020                                |
-| -------------------------------------------- | ------------------------------------------ |
-| Thursday, September 26th @11:59PM (midnight) | Friday, September 27th @11:59PM (midnight) |
+<Card>
 
-### [Exercise 6: Share Your Observations](./miniProject/exercise6.md)
+### [Prototyping](./miniProject/exercise4.md)
 
-| Section 010                                  | Section 020                                |
-| -------------------------------------------- | ------------------------------------------ |
-| Thursday, September 26th @11:59PM (midnight) | Friday, September 27th @11:59PM (midnight) |
+Description goes here
 
-## Major Project
+<Badge type="warning" text="Due: " />
 
-Worth <Badge type="error" text="40%" /> of Final Grade
+</Card>
+
+<Card>
+
+### [Testing](./miniProject/exercise5.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
+
+<Card>
+
+### [Share Your Observations](./miniProject/exercise6.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
+
+## Major Project <Badge type="error" text="40%" />
 
 You will follow the UX design process based on the project of your choice, to produce weekly deliverables starting Week 05. At the end you will showcase your completed work in a presentation deck.
 
 ### <span style="color:#3C3C3D">**Empathize**</span>
 
----
+<br>
 
-### [Assignment 1: Product Research](./majorProject/part1.md) (Group work)
+<Card>
 
-| Section 010                               | Section 020                             |
-| ----------------------------------------- | --------------------------------------- |
-| Thursday, October 3rd @11:59PM (midnight) | Friday, October 4th @11:59PM (midnight) |
+### [Part 1: Product Research](./majorProject/part1.md)
 
-### [Assignment 2: Persona Research](./majorProject/part2.md) (Group work)
+Description goes here
 
-| Section 010                         | Section 020                            |
-| ----------------------------------- | -------------------------------------- |
-| Monday, October 7th @12:00PM (noon) | Wednesday, October 9th @12:00PM (noon) |
+<Badge type="warning" text="Due: " />
+
+</Card>
+
+<Card>
+
+### [Part 2: Persona Research](./majorProject/part2.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
 
 ### <span style="color:#3C3C3D">**Define**</span>
 
----
+<br>
 
-### [Assignment 3: Persona Creation](./majorProject/part3.md)
+<Card>
 
-| Section 010                              | Section 020                              |
-| ---------------------------------------- | ---------------------------------------- |
-| Sunday, October 13th @11:59PM (midnight) | Sunday, October 13th @11:59PM (midnight) |
+### [Part 3: Persona Creation](./majorProject/part3.md)
 
-### [Assignment 4: Scenarios](./majorProject/part4.md)
+Description goes here
 
-| Section 010                              | Section 020                          |
-| ---------------------------------------- | ------------------------------------ |
-| Sunday, October 20th @11:59PM (midnight) | Friday, October 18th @12:00PM (noon) |
+<Badge type="warning" text="Due: " />
 
-### [Assignment 5: Information Architecture](./majorProject/part5.md)
+</Card>
 
-| Section 010                              | Section 020                              |
-| ---------------------------------------- | ---------------------------------------- |
-| Sunday, October 20th @11:59PM (midnight) | Sunday, October 20th @11:59PM (midnight) |
+<Card>
+
+### [Part 4: Scenarios](./majorProject/part4.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
+
+<Card>
+
+### [Part 5: Information Architecture](./majorProject/part5.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
 
 ### <span style="color:#3C3C3D">**Ideate**</span>
 
----
+<br>
 
-### [Assignment 6: Test Ready Low-Fidelity Prototype](./majorProject/part6.md)
+<Card>
 
-| Section 010                            | Section 020                          |
-| -------------------------------------- | ------------------------------------ |
-| Thursday, November 7th @12:00PM (noon) | Friday, November 8th @12:00PM (noon) |
+### [Part 6: Test Ready Low-Fidelity Prototype](./majorProject/part6.md)
 
-### [Assignment 7: MIDTERM: Mid-Fidelity Wireframes (20% of final mark)](./majorDeliverables/midterm.md)
+Description goes here
 
-| Section 010                               | Section 020                               |
-| ----------------------------------------- | ----------------------------------------- |
-| Sunday, November 17th @11:59PM (midnight) | Sunday, November 17th @11:59PM (midnight) |
+<Badge type="warning" text="Due: " />
+
+</Card>
+
+<Card>
+
+### [Part 7: Mid-Fidelity Wireframes](./majorDeliverables/midterm.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
+
+<Card>
+
+### [Part 8: Design Critique](./majorDeliverables/midterm.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
 
 ### <span style="color:#3C3C3D">**Prototype**</span>
 
 ---
 
-### [Assignment 8: Visual Design](./majorProject/part7.md)
+<Card>
 
-| Section 010                               | Section 020                               |
-| ----------------------------------------- | ----------------------------------------- |
-| Sunday, November 24th @11:59PM (midnight) | Sunday, November 24th @11:59PM (midnight) |
+### [Part 9: Visual Design](./majorProject/part7.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
 
 ### <span style="color:#3C3C3D">**Test**</span>
 
 ---
 
-### [Assignment 9: Testing Documentation](./majorProject/part8.md)
+<Card>
 
-| Section 010                              | Section 020                              |
-| ---------------------------------------- | ---------------------------------------- |
-| Sunday, December 1st @11:59PM (midnight) | Sunday, December 1st @11:59PM (midnight) |
+### [Part 10: Testing Documentation](./majorProject/part8.md)
+
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
 
 ### <span style="color:#3C3C3D">**Present**</span>
 
 ---
 
+<Card>
+
 ### [Final: Presentation (30% of final mark)](./majorDeliverables/finalPresentation.md)
 
-| Section 010                                  | Section 020                                    |
-| -------------------------------------------- | ---------------------------------------------- |
-| Monday/Thursday December 9th/12th (in class) | Wednesday/Friday December 11th/13th (in class) |
+Description goes here
+
+<Badge type="warning" text="Due: " />
+
+</Card>
