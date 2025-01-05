@@ -4,10 +4,10 @@ Every week there will be work for you to complete inside or outside of class. So
 
 **Summary**
 
-- [Warm-up Project](#Warm-up-Project) (10%)
-- [Major Project](#majorProject) (40%)
-- [Midterm](#midterm) (20%)
-- [Final Presentation](#Final:-Presentation) (30%)
+- [Warm-up Project](#warm-up-project) (10%)
+- [Major Project](#major-project) (40%)
+- [Midterm](#part-7-midterm-mid-fidelity-wireframes) (20%)
+- [Final Presentation](#final-presentation) (30%)
 
 **Submission Requirements**
 
@@ -17,7 +17,7 @@ For group projects, ensure all group members have edit access to the shared Figm
 
 In some cases, you may also need to use a FigJam file alongside your main Figma file. Make sure your professors have access to the FigJam file as well, and submit both the Figma and FigJam files through Brightspace.
 
-## [Warm-up Project] <Badge type="error" text="10%" />
+## Warm-up Project <Badge type="error" text="10%" />
 
 <br>
 
@@ -85,9 +85,7 @@ Description goes here
 
 You will follow the UX design process based on the project of your choice, to produce weekly deliverables starting Week 05. At the end you will showcase your completed work in a presentation deck.
 
-### <span style="color:#3C3C3D">**Empathize**</span>
-
----
+<br>
 
 <Card>
 
@@ -108,10 +106,6 @@ Description goes here
 [View Details](./majorProject/part2.md)
 
 </Card>
-
-### <span style="color:#3C3C3D">**Define**</span>
-
----
 
 <Card>
 
@@ -143,10 +137,6 @@ Description goes here
 
 </Card>
 
-### <span style="color:#3C3C3D">**Ideate**</span>
-
----
-
 <Card>
 
 ### Part 6: Test Ready Low-Fidelity Prototype <span style="float: right;"><Badge type="tip" text="Due: " /></span>
@@ -177,10 +167,6 @@ Description goes here
 
 </Card>
 
-### <span style="color:#3C3C3D">**Prototype**</span>
-
----
-
 <Card>
 
 ### Part 9: Visual Design <span style="float: right;"><Badge type="tip" text="Due: " /></span>
@@ -191,10 +177,6 @@ Description goes here
 
 </Card>
 
-### <span style="color:#3C3C3D">**Test**</span>
-
----
-
 <Card>
 
 ### Part 10: Testing Documentation <span style="float: right;"><Badge type="tip" text="Due: " /></span>
@@ -204,10 +186,6 @@ Description goes here
 [View Details](./majorProject/part10.md)
 
 </Card>
-
-### <span style="color:#3C3C3D">**Present**</span>
-
----
 
 <Card>
 
