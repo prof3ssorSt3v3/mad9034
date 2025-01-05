@@ -10,15 +10,19 @@ For all assignments, your professors need edit rights to your Figma file.
 Sometimes you will also use a FigJam file in addition to the main Figma file. Make sure professors also have access to the FigJam file and submit both in Brightspace.
 :::
 
+## Warm-up Project <Badge type="error" text="10%" />
+
 <Card>
 
-## Title
+### Exercise 1: User Research
+
+Description goes here
+
+[View Details](./miniProject/exercise1.md)
+
+<Badge type="error" text="Due: " />
 
 </Card>
-
-## Warm-up Project
-
-Worth <Badge type="error" text="10%" /> of Final Grade
 
 ### [Exercise 1: User Research](./miniProject/exercise1.md)
 
