@@ -81,9 +81,7 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, September 26th @11:59PM (midnight)         | Friday, September 27th @11:59PM (midnight)           |
+<Badge type="tip" text="Due: Monday January 27th @6:00pm" />
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 5 — Testing`.

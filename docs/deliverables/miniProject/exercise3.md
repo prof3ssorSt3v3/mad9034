@@ -36,7 +36,8 @@ Follow these steps to generate and refine your design concepts for an Apple Watc
 
 By following these instructions, your team will go through a dynamic ideation process, generating innovative solutions for the Apple Watch application. Embrace the creative journey and collaborate effectively to select the most promising concept for prototyping. Good luck!
 
-5. **Submission:** 
+5. **Submission:**
+
 - A photo of the Crazy 8s exercise with the voted idea AND
 - A photo of the 3 screens where you developed the selected idea further
 
@@ -48,9 +49,7 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, September 19th @12:00PM (noon)             | Friday, September 20th @12:00PM (noon)               |
+<Badge type="tip" text="Due: Monday January 20th @6:00pm" />
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 3 — Brainstorming`

@@ -1,4 +1,4 @@
-# **Major Project: Assignment 7 - Midterm: Mid-Fidelity Wireframes (20% of your final grade)**
+# Part 7 (Midterm): Mid-Fidelity Wireframes
 
 ## **Introduction**
 
@@ -28,9 +28,10 @@ Continue building on and evolving your low-fidelity design making sure you focus
 4. List screen
 5. Results screen
 6. Detail screen
+
 - Any additional screens that are essential to highlight the main functionality of your app. (examples: service provider availability, booking sequence, successful message, etc)
 
-These screens must be part of your main user flow and they must be connected to one another and in some sort of sequence that is logical and fluent. 
+These screens must be part of your main user flow and they must be connected to one another and in some sort of sequence that is logical and fluent.
 
 ## **Guiding User Flow**
 
@@ -44,14 +45,12 @@ Ensure your wireframes cater to the following fundamental user interactions:
 
 ## **Submission Guidelines**
 
-- Submit minimum 6 screens or enough screens that showcase the core functionality of your app 
+- Submit minimum 6 screens or enough screens that showcase the core functionality of your app
 - Clearly annotate each wireframe to highlight the user flow, especially in crucial junctures.
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Sunday, November 17th @11:59PM (midnight)            | Sunday, November 17th @11:59PM (midnight)            |
+<Badge type="tip" text="Due: Monday March 17th @6:00pm" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Locate `Midterm: Mid-fidelity Wireframes`.

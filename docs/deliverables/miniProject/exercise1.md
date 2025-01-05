@@ -1,4 +1,4 @@
-# Exercise 1: User Research: User Interviews
+# Exercise 1: User Research
 
 ## Introduction
 
@@ -87,9 +87,7 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, September 12th @12:00PM (noon)             | Friday, September 13th @12:00PM (noon)               |
+<Badge type="tip" text="Due: Monday January 13th @6:00pm" />
 
 - Open BS LMS and go to the `Activities > Assignments` page.
 - Go to `Exercise 1 — User Research`.

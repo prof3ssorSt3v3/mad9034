@@ -1,4 +1,4 @@
-# Major Project: Assignment 8: Visual Design
+# Part 9: Visual Design
 
 ## Introduction
 
@@ -19,9 +19,7 @@ Provide a visual design for your mobile app using UX visual design principles. C
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Sunday, November 24th @11:59PM (midnight)            | Sunday, November 24th @11:59PM (midnight)            |
+<Badge type="tip" text="Due: Monday March 31st @6:00pm" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Select `Visual Design`.

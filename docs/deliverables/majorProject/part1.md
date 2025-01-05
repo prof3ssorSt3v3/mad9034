@@ -1,4 +1,4 @@
-# Major Project: Assignment 1: Product Research (group work)
+# Part 1: Product Research
 
 ## Introduction
 
@@ -14,7 +14,6 @@ You can select between the two predefined topics or define your own topic:
 
 **Students** often need help with their assignments, or to improve their second language. There are many applications and websites available, but they want to use a safe and reliable source of tutoring options to choose from.
 
-
 **You will work on designing an app where these activities can be posted and searched.**
 
 There will be three main parts to the app:
@@ -26,35 +25,35 @@ There will be three main parts to the app:
 **You will design an app where tutors can post specialized services and students can search for these services based on a variety of criteria.**
 
 There will be three main parts to the app:
+
 - An interface for posting tutoring services, adding necessary details for students to browse and understand them (ex. Subject matter, location, level, etc)
 - An interface for browsing, searching, viewing and comparing services
 - An interface for creating a profile with the student’s specific needs and requirements (ex. location, age range, interests, special needs, etc.)
 
 **Focus on the browsing/searching interface and the profile-creation interface.You will account for the service posting interface in your overall framework and architecture, however you will not design the screens required for it.**
 
-
-
 ### 2. Network for in-home care for elderly people
 
-**Elderly people** often struggle to find **in-home care and assistance** with: 
+**Elderly people** often struggle to find **in-home care and assistance** with:
+
 - domestic tasks
 - self-care
 - travel to appointments
 - other simple activities
 
 **Known problems**
+
 - Simple one-off needs for support are difficult to arrange for people who don’t want long term care arrangements
 - It is difficult to know what caregiver to hire for specific tasks
-- It is difficult to know where to look for caregivers 
-
+- It is difficult to know where to look for caregivers
 
 **You will design an app where caregivers can post specialized services and elderly people or their families can search for these services based on a variety of criteria.**
 
 There will be three main parts to the app:
+
 1. An interface for **posting services**, where service providers can add details about themselves and the services they provide (ex. Service offered, caregiver experience, locations served, etc.)
 2. An interface where elderly people or their families can **browse, search, view and compare services**
 3. An interface for elderly people to create a **profile** to capture their specific needs and requirements (ex. location, age, living arrangement, mobility, special needs, etc.)
-
 
 **Focus on the browsing/searching interface and the profile-creating interface.You will account for the service posting interface in your overall framework and architecture, however you will not design the screens required for it.**
 
@@ -70,10 +69,10 @@ Define the type of service that is provided through this app.
 **You will esign an app where your primary target audience (the service seekers) will look for services that are provided by your secondary target audience (service providers).**
 
 There will be three main parts to the app:
+
 1. An interface for posting services, where service providers can add details about themselves and the services they provide.
 2. An interface where the service seekers can browse, search, view and compare services
 3. An interface for the service seekers to create a profile to capture their specific needs and requirements.
-
 
 **Focus on the browsing/searching interface and the profile-creating interface. You will account for the service posting interface in your overall framework and architecture, however you will not design the screens required for it.**
 
@@ -115,9 +114,7 @@ There will be three main parts to the app:
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, October 3rd @11:59PM (midnight)            | Friday, October 4th @11:59PM (midnight)              |
+<Badge type="tip" text="Due: Wednesday February 5th @5:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Product Research.

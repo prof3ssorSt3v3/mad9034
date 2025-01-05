@@ -36,8 +36,6 @@ This exercise is graded as a PASS / FAIL
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, September 26th @11:59PM (midnight)         | Friday, September 27th @11:59PM (midnight)           |
+<Badge type="tip" text="Due: Wednesday January 29th @5:00pm" />
 
 - No BS LMS Submission required. This exercise will be marked in class during the presentations.

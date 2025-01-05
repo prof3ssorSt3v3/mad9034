@@ -1,4 +1,4 @@
-# **Major Project: Assignment 6: Test-Ready Low-Fidelity Prototype**
+# Part 6: Test-Ready Low-Fidelity Prototype
 
 ## **Introduction**
 
@@ -54,16 +54,12 @@ Your users should be able to:
 **Low Fidelity Prototype (Complete by):**<br>
 This is very important because you must have your prototype ready to test in class.
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, November 7th @12:00PM (noon)               | Friday, November 8th @12:00PM (noon)                 |
+<Badge type="tip" text="Due: Monday March 10th @6:00pm" />
 
 **Final Due Date**<br>
 Add notes from the testing session and re-submit.
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Thursday, November 7th @11:59PM (midnight)           | Friday, November 8th @11:59PM (midnight)             |
+<Badge type="tip" text="Due: Monday March 10th midnight" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Select `Test-Ready Low-Fidelity Prototype`.

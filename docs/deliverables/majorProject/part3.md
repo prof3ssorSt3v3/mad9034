@@ -1,4 +1,4 @@
-# Major Project: Assignment 3: Persona Creation
+# Part 3: Persona Creation
 
 ::: tip Transition to Individual Work
 
@@ -30,9 +30,7 @@ You work for an up-and-coming start-up that is focused on creating the best ____
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Sunday, October 13th @11:59PM (midnight)             | Sunday, October 13th @11:59PM (midnight)             |
+<Badge type="tip" text="Due: Wednesday February 12th @5:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Persona Research.

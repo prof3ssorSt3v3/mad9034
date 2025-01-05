@@ -1,8 +1,8 @@
-# Major Project: Assignment 5: Information Architecture
+# Part 5: Information Architecture
 
 ## Introduction
 
-At this stage of the user-centered design process, you have gathered user research data, created 2 personas, and 1 usage scenario. Using this information you begin to create the information architecture for your app. 
+At this stage of the user-centered design process, you have gathered user research data, created 2 personas, and 1 usage scenario. Using this information you begin to create the information architecture for your app.
 
 ## Instructions
 
@@ -24,9 +24,7 @@ At this stage of the user-centered design process, you have gathered user resear
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Sunday, October 20th @11:59PM (midnight)             | Sunday, October 20th @11:59PM (midnight)             |
+<Badge type="tip" text="Due: Monday March 3rd @6:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Information Architecture

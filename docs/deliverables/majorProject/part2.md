@@ -1,4 +1,4 @@
-# Major Project: Assignment 2: Persona Research (group work)
+# Part 2: Persona Research
 
 ## Introduction
 
@@ -100,9 +100,7 @@ Please remember that for this project, you must identify one primary and one sec
 
 **Due Dates:**
 
-| Section 010                                          | Section 020                                          |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Monday, October 7th @12:00PM (noon)                  | Wednesday, October 9th @12:00PM (noon)               |
+<Badge type="tip" text="Due: Monday February 10th @6:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Persona Research.
