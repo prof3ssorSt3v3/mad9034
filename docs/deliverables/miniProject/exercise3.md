@@ -1,4 +1,4 @@
-# Exercise 3: Brainstorming
+# Part 3: Brainstorming
 
 ## Introduction
 
@@ -8,8 +8,8 @@ Welcome to the creative ideation phase! This week, you will channel your creativ
 
 ::: tip Figma File
 
-Continue to use the Figma file from Exercise 1.
-Complete your work on the page corresponding to Exercise 3.
+Continue to use the Figma file from Part 1.
+Complete your work on the page corresponding to Part 3.
 
 :::
 
@@ -38,12 +38,12 @@ By following these instructions, your team will go through a dynamic ideation pr
 
 5. **Submission:**
 
-- A photo of the Crazy 8s exercise with the voted idea AND
+- A photo of the Crazy 8s Part with the voted idea AND
 - A photo of the 3 screens where you developed the selected idea further
 
 ## Grading
 
-This exercise is graded as a PASS / FAIL
+This Part is graded as a PASS / FAIL
 
 ## Submission
 
@@ -52,5 +52,5 @@ This exercise is graded as a PASS / FAIL
 <Badge type="tip" text="Due: Monday January 20th @6:00pm" />
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to `Exercise 3 — Brainstorming`
+- Go to `Part 3 — Brainstorming`
 - On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.

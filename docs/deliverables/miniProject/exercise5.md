@@ -1,8 +1,8 @@
-# Exercise 5: Testing
+# Part 5: Testing
 
 ## Introduction
 
-This week's task involves the testing of your prototype with your classmates. The goal of the exercise is to observe users interact with your prototype, and gather feedback on the ease of use and other aspects of your work. You will then incorporate this feedback in the next steps of your warm-up project.
+This week's task involves the testing of your prototype with your classmates. The goal of the Part is to observe users interact with your prototype, and gather feedback on the ease of use and other aspects of your work. You will then incorporate this feedback in the next steps of your warm-up project.
 
 **Methodology**
 
@@ -14,8 +14,8 @@ This week's task involves the testing of your prototype with your classmates. Th
 
 ::: tip Figma File
 
-Continue to use the Figma file from Exercise 1.
-Complete your work on the page corresponding to Exercise 5.
+Continue to use the Figma file from Part 1.
+Complete your work on the page corresponding to Part 5.
 
 :::
 
@@ -75,7 +75,7 @@ Within each group:
 
 ## Grading
 
-This exercise is graded as a PASS / FAIL
+This Part is graded as a PASS / FAIL
 
 ## Submission
 
@@ -84,5 +84,5 @@ This exercise is graded as a PASS / FAIL
 <Badge type="tip" text="Due: Monday January 27th @6:00pm" />
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to `Exercise 5 — Testing`.
+- Go to `Part 5 — Testing`.
 - On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.

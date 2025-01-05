@@ -1,4 +1,4 @@
-# Exercise 6: Share Your Observations
+# Part 6: Share Your Observations
 
 ## Introduction
 
@@ -8,8 +8,8 @@ Congratulations on completing your warm-up project! Now, it's time to share your
 
 ::: tip Figma File
 
-Continue to use the Figma file from exercise 1.
-Complete your work on the page corresponding to Exercise 6.
+Continue to use the Figma file from Part 1.
+Complete your work on the page corresponding to Part 6.
 
 :::
 
@@ -30,7 +30,7 @@ Your presentation will offer valuable insights into your team's journey and disc
 
 ## Grading
 
-This exercise is graded as a PASS / FAIL
+This Part is graded as a PASS / FAIL
 
 ## Submission
 
@@ -38,4 +38,4 @@ This exercise is graded as a PASS / FAIL
 
 <Badge type="tip" text="Due: Wednesday January 29th @5:00pm" />
 
-- No BS LMS Submission required. This exercise will be marked in class during the presentations.
+- No BS LMS Submission required. This Part will be marked in class during the presentations.

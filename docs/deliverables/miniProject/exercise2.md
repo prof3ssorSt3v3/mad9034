@@ -1,4 +1,4 @@
-# Exercise 2: Synthesized Research Results
+# Part 2: Synthesized Research Results
 
 ## Introduction
 
@@ -8,14 +8,14 @@ Great work completing the user research phase! Now, it's time to distill all the
 
 ::: tip Figma File
 
-Continue to use the Figma file from Exercise 1.
-Complete your work on the the page corresponding to Exercise 2.
+Continue to use the Figma file from Part 1.
+Complete your work on the the page corresponding to Part 2.
 
 :::
 
 **Follow these steps to synthesize the research findings effectively:**
 
-1. **Insight Gathering:** In the Figma file, Using the post-it notes from Exercise 1, write down each valuable insight or observation on a separate post-it note.
+1. **Insight Gathering:** In the Figma file, Using the post-it notes from Part 1, write down each valuable insight or observation on a separate post-it note.
 
 2. **Group Discussion:** Read aloud the collected insights to your group, fostering a collaborative understanding.
 
@@ -46,7 +46,7 @@ By following these instructions, your team will be well-equipped to present valu
 
 ## Grading
 
-This exercise is graded as a PASS / FAIL
+This Part is graded as a PASS / FAIL
 
 ## Submission
 
@@ -55,5 +55,5 @@ This exercise is graded as a PASS / FAIL
 <Badge type="tip" text="Due: Wednesday January 15th @5:00pm" />
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to `Exercise 2 — Synthesized Research Results`.
-- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights. If you use FigJam for this exercise, make sure to provide a separate link to the FigJam file.
+- Go to `Part 2 — Synthesized Research Results`.
+- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights. If you use FigJam for this Part, make sure to provide a separate link to the FigJam file.

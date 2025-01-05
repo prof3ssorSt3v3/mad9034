@@ -1,4 +1,4 @@
-# Exercise 4: Prototyping
+# Part 4: Prototyping
 
 ## Introduction
 
@@ -8,8 +8,8 @@ Now that we have generated some ideas during the Brainstorming phase, it's time 
 
 ::: tip Figma File
 
-Continue to use the Figma file from Exercise 1.
-Complete your work on the page corresponding to Exercise 4.
+Continue to use the Figma file from Part 1.
+Complete your work on the page corresponding to Part 4.
 
 :::
 
@@ -76,7 +76,7 @@ Decide on a time to sync/work if the prototype is not completed in class today.
 
 ## Grading
 
-This exercise is graded as a PASS / FAIL
+This Part is graded as a PASS / FAIL
 
 ## Submission
 
@@ -85,5 +85,5 @@ This exercise is graded as a PASS / FAIL
 <Badge type="tip" text="Due: Wednesday January 22nd @5:00pm" />
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to `Exercise 4 — Prototyping`.
+- Go to `Part 4 — Prototyping`.
 - On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.

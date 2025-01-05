@@ -1,12 +1,12 @@
-# Exercise 1: User Research
+# Part 1: User Research
 
 ## Introduction
 
 To begin the warm-up project, you'll collaborate in groups of 3-4 students to design an Apple Watch fitness application. The objective is to experience the User-Centered Design (UCD) process in a fast-tracked, 3-week design sprint.
 
-In this initial phase, your focus is on conducting user research through user interviews. This step is vital as it serves as a prerequisite for exercises 2-6.
+In this initial phase, your focus is on conducting user research through user interviews. This step is vital as it serves as a prerequisite for Part 2-6.
 
-Remember, the UCD process emphasizes putting the users at the core of the design, ensuring that your application is user-friendly and aligned with their needs. By conducting user interviews effectively, you will be equipped to move forward with the rest of the warm-up project. Good luck with Exercise 1!
+Remember, the UCD process emphasizes putting the users at the core of the design, ensuring that your application is user-friendly and aligned with their needs. By conducting user interviews effectively, you will be equipped to move forward with the rest of the warm-up project. Good luck with Part 1!
 
 ## Instructions
 
@@ -18,7 +18,7 @@ Remember, the UCD process emphasizes putting the users at the core of the design
 
 4. **Figma Files Import:** Download the provided Figma file, and import them into your newly created project. [Download Figma File](https://drive.google.com/file/d/1PTfAn4_ucUKQDlG7UtVZ-QFEVcxITuOv/view?usp=drive_link)
 
-5. **Navigating to User Research:** Inside the Figma project, find "Exercise 1: User Research" and navigate to that section.
+5. **Navigating to User Research:** Inside the Figma project, find "Part 1: User Research" and navigate to that section.
 
 6. **Conducting Interviews:** Each student in your group is responsible for conducting 3 interviews, with 3 different individuals. Use the provided template to record your findings.
 
@@ -81,7 +81,7 @@ By following these guidelines, each student should conduct three interviews, wit
 
 ## Grading
 
-This exercise is graded as a PASS / FAIL
+This Part is graded as a PASS / FAIL
 
 ## Submission
 
@@ -90,5 +90,5 @@ This exercise is graded as a PASS / FAIL
 <Badge type="tip" text="Due: Monday January 13th @6:00pm" />
 
 - Open BS LMS and go to the `Activities > Assignments` page.
-- Go to `Exercise 1 — User Research`.
+- Go to `Part 1 — User Research`.
 - On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.
