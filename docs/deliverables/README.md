@@ -4,20 +4,20 @@ Every week there will be work for you to complete inside or outside of class. So
 
 **Summary**
 
-- [Warm-up Project](#warmUp) (10%)
+- [Warm-up Project](#Warm-up-Project) (10%)
 - [Major Project](#majorProject) (40%)
 - [Midterm](#midterm) (20%)
-- [Final Presentation](#presentation) (30%)
+- [Final Presentation](#Final:-Presentation) (30%)
 
-::: warning Submission Requirements
+**Submission Requirements**
 
-All your work for the warm-up project and for the major project will be done in Figma.
-For group work, ensure that all the members of the group have edit rights to the file.
-For all assignments, your professors need edit rights to your Figma file.
-Sometimes you will also use a FigJam file in addition to the main Figma file. Make sure professors also have access to the FigJam file and submit both in Brightspace.
-:::
+All work for the warm-up project and the major project must be completed in Figma.
 
-## Warm-up Project <Badge type="error" text="10%" /> {#warmUp}
+For group projects, ensure all group members have edit access to the shared Figma file. Additionally, your professors must have edit access to your Figma file for all assignments.
+
+In some cases, you may also need to use a FigJam file alongside your main Figma file. Make sure your professors have access to the FigJam file as well, and submit both the Figma and FigJam files through Brightspace.
+
+## [Warm-up Project] <Badge type="error" text="10%" />
 
 <br>
 
@@ -81,7 +81,7 @@ Description goes here
 
 </Card>
 
-## Major Project <Badge type="error" text="40%" /> {#majorProject}
+## Major Project <Badge type="error" text="40%" />
 
 You will follow the UX design process based on the project of your choice, to produce weekly deliverables starting Week 05. At the end you will showcase your completed work in a presentation deck.
 
@@ -159,7 +159,7 @@ Description goes here
 
 <Card>
 
-### Part 7 (Midterm): Mid-Fidelity Wireframes {#midterm} <span style="float: right;"><Badge type="tip" text="Due: " /></span>
+### Part 7 (Midterm): Mid-Fidelity Wireframes <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
@@ -211,7 +211,7 @@ Description goes here
 
 <Card>
 
-### Final: Presentation {#presentation} <span style="float: right;"><Badge type="tip" text="Due: " /></span>
+### Final: Presentation <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
