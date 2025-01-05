@@ -1,6 +1,13 @@
 # MAD9034 Deliverables
 
-Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others. There will be a warm-up project (10%), a major project (40%), a midterm (10%), a UXD portfolio slide package (30%) and a final presentation (10%).
+Every week there will be work for you to complete inside or outside of class. Some exercises will be larger than others.
+
+**Summary**
+
+- [Warm-up Project](#warmUp) (10%)
+- [Major Project](#majorProject) (40%)
+- [Midterm](#midterm) (20%)
+- [Final Presentation](#presentation) (30%)
 
 ::: warning Submission Requirements
 
@@ -10,13 +17,13 @@ For all assignments, your professors need edit rights to your Figma file.
 Sometimes you will also use a FigJam file in addition to the main Figma file. Make sure professors also have access to the FigJam file and submit both in Brightspace.
 :::
 
-## Warm-up Project <Badge type="error" text="10%" />
+## Warm-up Project <Badge type="error" text="10%" /> {#warmUp}
 
 <br>
 
 <Card>
 
-### Part 1: User Research <span style="float: right;"><Badge type="tip" text="Due: " /></span>
+### User Research <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
@@ -26,147 +33,147 @@ Description goes here
 
 <Card>
 
-### [Synthesized Research Results](./miniProject/exercise2.md)
+### Synthesized Research Results <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./miniProject/exercise2.md)
 
 </Card>
 
 <Card>
 
-### [Brainstorming](./miniProject/exercise3.md)
+### Brainstorming <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./miniProject/exercise3.md)
 
 </Card>
 
 <Card>
 
-### [Prototyping](./miniProject/exercise4.md)
+### Prototyping <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./miniProject/exercise4.md)
 
 </Card>
 
 <Card>
 
-### [Testing](./miniProject/exercise5.md)
+### Testing <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./miniProject/exercise5.md)
 
 </Card>
 
 <Card>
 
-### [Share Your Observations](./miniProject/exercise6.md)
+### Share Your Observations <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./miniProject/exercise6.md)
 
 </Card>
 
-## Major Project <Badge type="error" text="40%" />
+## Major Project <Badge type="error" text="40%" /> {#majorProject}
 
 You will follow the UX design process based on the project of your choice, to produce weekly deliverables starting Week 05. At the end you will showcase your completed work in a presentation deck.
 
 ### <span style="color:#3C3C3D">**Empathize**</span>
 
-<br>
+---
 
 <Card>
 
-### [Part 1: Product Research](./majorProject/part1.md)
+### Part 1: Product Research <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part1.md)
 
 </Card>
 
 <Card>
 
-### [Part 2: Persona Research](./majorProject/part2.md)
+### Part 2: Persona Research <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part2.md)
 
 </Card>
 
 ### <span style="color:#3C3C3D">**Define**</span>
 
-<br>
+---
 
 <Card>
 
-### [Part 3: Persona Creation](./majorProject/part3.md)
+### Part 3: Persona Creation <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part3.md)
 
 </Card>
 
 <Card>
 
-### [Part 4: Scenarios](./majorProject/part4.md)
+### Part 4: Scenarios <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part4.md)
 
 </Card>
 
 <Card>
 
-### [Part 5: Information Architecture](./majorProject/part5.md)
+### Part 5: Information Architecture <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part5.md)
 
 </Card>
 
 ### <span style="color:#3C3C3D">**Ideate**</span>
 
-<br>
+---
 
 <Card>
 
-### [Part 6: Test Ready Low-Fidelity Prototype](./majorProject/part6.md)
+### Part 6: Test Ready Low-Fidelity Prototype <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part6.md)
 
 </Card>
 
 <Card>
 
-### [Part 7: Mid-Fidelity Wireframes](./majorDeliverables/midterm.md)
+### Part 7 (Midterm): Mid-Fidelity Wireframes {#midterm} <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorDeliverables/midterm.md)
 
 </Card>
 
 <Card>
 
-### [Part 8: Design Critique](./majorDeliverables/midterm.md)
+### Part 8: Design Critique <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part8.md)
 
 </Card>
 
@@ -176,11 +183,11 @@ Description goes here
 
 <Card>
 
-### [Part 9: Visual Design](./majorProject/part7.md)
+### Part 9: Visual Design <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part9.md)
 
 </Card>
 
@@ -190,11 +197,11 @@ Description goes here
 
 <Card>
 
-### [Part 10: Testing Documentation](./majorProject/part8.md)
+### Part 10: Testing Documentation <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorProject/part10.md)
 
 </Card>
 
@@ -204,10 +211,10 @@ Description goes here
 
 <Card>
 
-### [Final: Presentation (30% of final mark)](./majorDeliverables/finalPresentation.md)
+### Final: Presentation {#presentation} <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./majorDeliverables/finalPresentation.md)
 
 </Card>

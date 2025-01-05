@@ -7,9 +7,9 @@
 <style scoped>
 .card {
   background: #fff;
-  border-radius: 10px;
+  border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  padding: 15px;
-  margin-bottom: 20px;
+  padding: 12px 24px;
+  margin-bottom: 12px;
 }
 </style>
