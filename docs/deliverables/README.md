@@ -14,21 +14,13 @@ Sometimes you will also use a FigJam file in addition to the main Figma file. Ma
 
 <br>
 
-<Deliverable
-  title="Part 1: User Research"
-  dueDate="Section 010: Tuesday November 19th @7:00pm"
-  description="In part 2 of your final project, you'll develop a mini design system, creating guidelines and standards for elements such as typography, color palettes, and UI components to ensure consistency and coherence in your design approach."
-  linkType="active"
-  detailsLink="./miniProject/exercise1.md"
-/>
-
 <Card>
 
-### [User Research](./miniProject/exercise1.md)
+### Part 1: User Research <span style="float: right;"><Badge type="tip" text="Due: " /></span>
 
 Description goes here
 
-<Badge type="tip" text="Due: " />
+[View Details](./miniProject/exercise1.md)
 
 </Card>
 
