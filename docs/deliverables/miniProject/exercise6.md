@@ -36,6 +36,6 @@ This Part is graded as a PASS / FAIL
 
 **Due Dates:**
 
-<Badge type="tip" text="Due: Wednesday January 29th @5:00pm" />
+<Badge type="tip" text="Due: Wednesday January 27th @5:00pm" />
 
 - No BS LMS Submission required. This Part will be marked in class during the presentations.
