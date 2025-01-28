@@ -114,7 +114,7 @@ There will be three main parts to the app:
 
 **Due Dates:**
 
-<Badge type="tip" text="Due: Wednesday February 5th @5:00pm" />
+<Badge type="tip" text="Due: Monday February 3rd @6:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Product Research.

@@ -155,7 +155,7 @@ _Please take a look at this app and tell us what you think it is: What’s the f
 
 **Due Dates:**
 
-<Badge type="tip" text="Due: Monday April 7th @6:00pm" />
+<Badge type="tip" text="Due: Wednesday April 9th @5:00pm" />
 
 - Visit BS LMS and go to `Activities > Assignments`.
 - Choose `Test Documentation`.

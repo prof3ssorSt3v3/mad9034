@@ -91,7 +91,7 @@ You will follow the UX design process based on the project of your choice, to pr
 
 <Card>
 
-### Part 1: Product Research <span style="float: right;"><Badge type="tip" text="Due: Wednesday February 5th @5:00pm" /></span>
+### Part 1: Product Research <span style="float: right;"><Badge type="tip" text="Due: Monday February 3rd @6:00pm" /></span>
 
 Part 1 focuses on conducting product research in groups of 3-4 students. You'll analyze competitors, similar products, and business models while collaboratively documenting insights in a shared Figma project to guide your app design.
 
@@ -101,7 +101,7 @@ Part 1 focuses on conducting product research in groups of 3-4 students. You'll 
 
 <Card>
 
-### Part 2: Persona Research <span style="float: right;"><Badge type="tip" text="Due: Monday February 10th @6:00pm" /></span>
+### Part 2: Persona Research <span style="float: right;"><Badge type="tip" text="Due: Wednesday February 5th @5:00pm" /></span>
 
 Part 2 focuses on conducting persona research to identify one primary and one secondary persona for your product. Working in groups, you'll interview target users, analyze data, and create personas to better understand user behaviors, needs, goals, and challenges, guiding your design process effectively.
 
@@ -151,7 +151,7 @@ Part 6 focuses on developing a test-ready, low-fidelity prototype based on your 
 
 <Card>
 
-### Part 7 (Midterm): Mid-Fidelity Wireframes <span style="float: right;"><Badge type="tip" text="Due: Monday March 17th @6:00pm" /></span>
+### Part 7 (Midterm): Mid-Fidelity Wireframes <span style="float: right;"><Badge type="tip" text="Due: Monday March 19th @5:00pm" /></span>
 
 Part 7 (Midterm) requires transitioning your low-fidelity prototype into mid-fidelity wireframes using Figma. You'll design six key screens in grayscale, focusing on layout, user flow, and core app functionality, while incorporating feedback from testing to refine usability and interactions.
 
@@ -161,7 +161,7 @@ Part 7 (Midterm) requires transitioning your low-fidelity prototype into mid-fid
 
 <Card>
 
-### Part 8: Design Critique <span style="float: right;"><Badge type="tip" text="Due: Monday March 17th @6:00pm" /></span>
+### Part 8: Design Critique <span style="float: right;"><Badge type="tip" text="Due: Wednesday March 19th @5:00pm" /></span>
 
 Part 8 involves a 2-3 minute presentation where students showcase their midterm mid-fidelity wireframes. This exercise provides an opportunity to receive constructive feedback from peers and refine designs based on their insights before moving onto Visual Design.
 
@@ -183,7 +183,7 @@ Part 9 focuses on applying UX visual design principles to your mobile app using 
 
 <Card>
 
-### Part 10: Testing Documentation <span style="float: right;"><Badge type="tip" text="Due: Monday April 7th @6:00pm" /></span>
+### Part 10: Testing Documentation <span style="float: right;"><Badge type="tip" text="Due: Wednesday April 9th @5:00pm" /></span>
 
 Part 10 focuses on conducting usability testing for your high-fidelity prototype to validate navigation, task completion, and overall user experience. You'll create a test plan, script, and NDA, conduct tests with 5 participants (2 in-class, 3 outside), document findings, and refine your design based on user feedback, culminating in a usability report for your final project submission.
 

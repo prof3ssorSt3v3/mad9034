@@ -50,7 +50,7 @@ Ensure your wireframes cater to the following fundamental user interactions:
 
 **Due Dates:**
 
-<Badge type="tip" text="Due: Monday March 17th @6:00pm" />
+<Badge type="tip" text="Due: Wednesday March 19th @5:00pm" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Locate `Midterm: Mid-fidelity Wireframes`.

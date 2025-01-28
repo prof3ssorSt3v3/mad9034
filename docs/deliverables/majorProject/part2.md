@@ -100,7 +100,7 @@ Please remember that for this project, you must identify one primary and one sec
 
 **Due Dates:**
 
-<Badge type="tip" text="Due: Monday February 10th @6:00pm" />
+<Badge type="tip" text="Due: Wednesday February 5th @5:00pm" />
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Persona Research.

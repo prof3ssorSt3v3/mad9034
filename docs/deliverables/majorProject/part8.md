@@ -8,7 +8,7 @@
 
 ## Dues Date
 
-<Badge type="tip" text="Due: Monday March 17th @6:00pm" />
+<Badge type="tip" text="Due: Wednesday March 19th @5:00pm" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Select `Design Critique`.
