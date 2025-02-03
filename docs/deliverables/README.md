@@ -101,7 +101,7 @@ Part 1 focuses on conducting product research in groups of 3-4 students. You'll 
 
 <Card>
 
-### Part 2: Persona Research <span style="float: right;"><Badge type="tip" text="Due: Wednesday February 5th @5:00pm" /></span>
+### Part 2: Persona Research <span style="float: right;"><Badge type="tip" text="Due: Sunday February 9th @11:59pm" /></span>
 
 Part 2 focuses on conducting persona research to identify one primary and one secondary persona for your product. Working in groups, you'll interview target users, analyze data, and create personas to better understand user behaviors, needs, goals, and challenges, guiding your design process effectively.
 
