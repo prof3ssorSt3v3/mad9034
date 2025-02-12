@@ -118,4 +118,4 @@ There will be three main parts to the app:
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Product Research.
-- Export your Figma page as a pdf and upload to the assignment page in BS LMS and click the submit button.
+- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.

@@ -28,4 +28,4 @@ At this stage of the user-centered design process, you have gathered user resear
 
 - Open BS LMS and go to the Activities > Assignments page.
 - Go to Information Architecture
-- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights. If you use a FigJam file for this exercise, make sure you also share the link to the FigJam file and give edit rights to your professors.
+- On the assignment page in BS LMS, provide a link to your Figma file and click the submit button. Make sure that your professor can access the Figma file with edit rights.
