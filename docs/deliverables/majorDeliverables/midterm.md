@@ -8,10 +8,6 @@ Transition your initial hand-drawn or low-fidelity Figma prototype into medium-f
 
 Convert your initial prototype into a refined, interactive, digital wireframe. This refined design will greatly enhance your app's visual clarity and usability.
 
-## **Project Scope**
-
-For this midterm, concentrate on refining and submitting **six pivotal screens that embody your app's central functionality**.
-
 ## **Wireframe Specifications**
 
 - Utilize a greyscale color scheme.
@@ -45,7 +41,6 @@ Ensure your wireframes cater to the following fundamental user interactions:
 
 ## **Submission Guidelines**
 
-- Submit minimum 6 screens or enough screens that showcase the core functionality of your app
 - Clearly annotate each wireframe to highlight the user flow, especially in crucial junctures.
 
 **Due Dates:**
