@@ -165,10 +165,6 @@ Part 7 (Midterm) requires transitioning your low-fidelity prototype into mid-fid
 
 Part 8 involves a 2-3 minute presentation where students showcase their midterm mid-fidelity wireframes. This exercise provides an opportunity to receive constructive feedback from peers and refine designs based on their insights before moving onto Visual Design.
 
-<!-- [View Details](./majorProject/part8.md) -->
-
-Coming Soon!
-
 </Card>
 
 <Card>
