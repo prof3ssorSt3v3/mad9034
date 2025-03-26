@@ -8,7 +8,7 @@ Provide a visual design for your mobile app using UX visual design principles. C
 
 ### Screens Selection:
 
-- Choose minimum 6 pivotal screens for your design.
+- You must desgin all screens required for your flow.
 - It's recommended to utilize the same screens from your mid-term, unless there's a compelling rationale to select others, for which you must consult with your professor.
 
 ### Design Focus:
