@@ -173,7 +173,7 @@ Coming Soon!
 
 <Card>
 
-### Part 9: Visual Design <span style="float: right;"><Badge type="tip" text="Due: Monday March 31st @6:00pm" /></span>
+### Part 9: Visual Design <span style="float: right;"><Badge type="tip" text="Due: Wednesday April 1st @7:00pm" /></span>
 
 Part 9 focuses on applying UX visual design principles to your mobile app using Figma. You'll refine at least six key screens, enhancing usability through thoughtful visual design, while ensuring your Figma file is well-organized with clear frame names and labels.
 

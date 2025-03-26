@@ -19,7 +19,7 @@ Provide a visual design for your mobile app using UX visual design principles. C
 
 **Due Dates:**
 
-<Badge type="tip" text="Due: Monday March 31st @6:00pm" />
+<Badge type="tip" text="Due: Wednesday April 1st @7:00pm" />
 
 - Access BS LMS and navigate to `Activities > Assignments`.
 - Select `Visual Design`.
